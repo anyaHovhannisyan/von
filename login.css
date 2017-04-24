@@ -1,0 +1,154 @@
+#head
+{
+	background-color: black;
+	background-image: url("img/back1.gif");
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+
+.logo img 
+{
+	box-shadow:10px 10px 5px rgba(255,255,255,0.1);
+	background-color:rgba(38,182,191,0.4);
+}
+
+.buttons img 
+{
+	box-shadow:10px 10px 5px rgba(255,255,255,0.1);
+	background-color:rgba(38,182,191,0.4);
+}
+
+.buttons img:hover,.logo img:hover 
+{
+	background-color:rgba(58,54,55,0.4);
+	border:solid rgba(255,255,255,0.1) 1px;
+	box-shadow:10px 10px 5px rgba(58,54,55,0.2);
+}
+
+.sl img 
+{
+	height:30vh;
+	float:left;
+	margin-bottom:20px;
+}
+
+.sl 
+{
+	margin-left:5vw;
+	margin-top:5vh;
+	width:40%;
+	display: inline-block;
+	float:left;
+	border-top:2px solid #8e8383;
+	/*border-bottom:2px solid #8e8383;*/
+}
+.sl1
+{
+	margin-left:5vw;
+	margin-top:5vh;
+	width:40%;
+	clear:both;
+	display: inline-block;
+	border-top:2px solid #8e8383;
+	/*border-bottom:2px solid #8e8383;*/
+}
+
+.sl a,.sl a:visited,.sl a:active 
+{
+	color:#deb160;
+	text-decoration:none;
+}
+
+h1, h3, h4 
+{
+	position:relative;
+	left:5vh;
+	text-align:left;
+}
+
+h4 
+{
+	color:rgba(147,201,210,1);
+}
+
+@font-face 
+{
+	font-family:Pompadur;
+	src:url(http://themes.googleusercontent.com/static/fonts/opensans/v8/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff)
+}
+
+h2 
+{
+	font-family:Pompadur,verdana,sans-serif;
+	font-weight:100;
+	color:rgba(147,201,210,1);
+/*	margin-left:50px;
+	margin-top:30px;*/
+	position:absolute;
+}
+
+a:link, a:visited, a:hover, a:active 
+{
+	text-decoration:none;
+}
+
+input[type=password],input[type=text],select 
+{
+	background:none;
+	border:1px solid #666;
+	color:#666;
+	font-size:20px;
+	height:35px;
+	outline:none;
+	padding:0 10px;
+	width:436px;
+	margin:10px;
+	font-family:Pompadur,verdana,sans-serif;
+	font-weight:100;
+}
+
+select 
+{
+	background:none;
+	border:1px solid #666;
+	color:#666;
+	font-size:20px;
+	height:35px;
+	outline:none;
+	padding:0 10px;
+	width:136.5px;
+	cursor:pointer;
+}
+
+.gcc 
+{
+	height:35px;
+	width:458px;
+}
+
+input[type=submit] 
+{
+	background-color:rgba(0,0,0,0.5);
+	border:0.5px solid #666;
+	color:#666;
+	font-size:20px;
+	height:35px;
+	outline:none;
+	padding:0 20px;
+	width:200px;
+	margin:10px;
+	font-family:Pompadur,verdana,sans-serif;
+	font-weight:100;
+	cursor:pointer;
+}
+
+input[type=submit]:hover 
+{
+	background:rgba(0, 202, 183, 0.42);
+	border:1px solid #666;
+	color:#fff;
+}
