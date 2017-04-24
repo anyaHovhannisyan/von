@@ -1,0 +1,136 @@
+#head
+{
+	background-color: black;
+	background-image: url("img/back1.gif");
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.logo img
+{
+
+	box-shadow: 10px 10px 5px rgba(255, 255, 255, 0.1);
+	background-color: rgba(38, 182, 191, 0.4);
+}
+
+.buttons img
+{
+	box-shadow: 10px 10px 5px rgba(255, 255, 255, 0.1);
+	background-color: rgba(38, 182, 191, 0.4);
+}
+
+.buttons img:hover, .logo img:hover
+{
+	background-color: rgba(58, 54, 55, 0.4);
+	border: solid rgba(255, 255, 255, 0.1) 1px;
+	box-shadow: 10px 10px 5px rgba(58, 54, 55, 0.2);
+}
+
+h1
+{
+	text-align: center;
+	color: rgba(38, 182, 191, 1);
+}
+
+
+#ti
+{
+    background:rgba(14, 53, 102, 0.7);
+}
+#head_nav th,td
+{
+    margin: 0;
+    text-align: center;
+    border-collapse: collapse;
+    outline: 1px solid rgba(14, 53, 102, 0.7);
+    font-size: 12.5px;
+}
+
+td
+{
+    padding: 5px 10px;
+}
+
+th
+{
+    background-color:rgba(38, 182, 191, 0.5);
+    color: white;
+    padding: 5px 10px;
+}
+tr
+{
+	background-color:rgba(38, 182, 191, 0.5);
+}
+td:hover, tr:hover
+{
+    cursor: pointer;
+    background: rgba(38, 182, 191, 1);
+    color: white;
+}
+#home tr, th
+{
+	color:white;
+}
+
+#h
+{
+	position: fixed;
+	top:0px;
+	font-size: 25px;
+}
+#h th:hover
+{
+	cursor: pointer;
+    background:rgba(0, 0, 0, 0.51);
+}
+
+a
+{
+	text-decoration: none;
+}
+
+a:visited , a:hover , a:active,  a:link 
+{
+	color:white;
+}
+
+#one
+{
+	width: 639px;
+	height: 379px;
+}
+
+th
+{
+	font-size: 26px;
+}
+
+#search
+{
+	padding: 5px 120px;
+}
+
+input[type=text] {
+    width: 70px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 2px solid rgba(147,201,210,1);
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: rgba(255,255,255,0.8);
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    padding: 5px 10px;
+    color: rgba(38, 182, 191, 0.8);
+}
+
+input[type=text]:focus {
+    width: 70%;
+}
+

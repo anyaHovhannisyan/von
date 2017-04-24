@@ -1,31 +1,8 @@
 <?php
-  session_start();
-  require_once("db/db_func.php");
-  $conn = db_conn();
-  $reg = db_submit($conn);
-  db_close($conn);
-  if (isset($_SESSION['user'])) {
-    echo "Hello ";
-    echo $_SESSION['user'];
-  }
-?>
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Log In</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="login.css">
-    <script type='text/javascript' src='scripts/gen_validatorv4.js'></script>
-  </head>
-
-  <body>
-    <div id="head">
-      <div class="logo"><a href="index.php"><img src="img/b1.png"></a></div>
-      <div class="buttons" id="last"><a href="login.php"><img src="img/b2.png"></a></div>
-      <div class="buttons"><a href="maps.php"><img src="img/b3.png"></a></div>
-      <div class="buttons"><a href="about.php"><img src="img/b4.png"></a></div>
-    </div>
+  $page_title = "Log In";
+  $css_file = "login";
+  require_once("header.php");
+?> 
 
     <div id="foot">
       <div class="sl">
@@ -168,5 +145,7 @@
       </div>
     </div> 
     <script type='text/javascript' src='scripts/reg_validate.js'></script>
-  </body>
-</html>
+
+<?php
+  require_once("footer.php");
+?>
