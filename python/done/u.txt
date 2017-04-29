@@ -1,0 +1,307 @@
+<DT><B>Udop (abbr)</B> = <A 
+  href="u.html#uhf dovap">UHF Dovap</A>. <A 
+  name=u-figure></A>
+  <DT><B>U-figure</B> = <A 
+  href="u.html#U-index">U-index</A>. 
+  <DT><A name="uhf dovap"></A><B>UHF Dovap (abbr Udop)</B> 
+  <DD>A <A href="d.html#dovap">Dovap</A> 
+  type <A 
+  href="t.html#trajectory measuring system">trajectory 
+  measuring system</A> operating in the UHF band. See <A 
+  href="d.html#doppler">Doppler</A>, <A 
+  href="v.html#velocity">velocity</A>, and 
+  <A href="p.html#position">position</A>. 
+  <A name=u-index></A>
+  <DT><A name=U-index></A><B>U-index</B> 
+  <DD>The difference between consecutive daily mean values of the horizontal 
+  component of the <A 
+  href="g.html#geomagnetic">geomagnetic</A> field. 
+  Also called <A 
+  href="u.html#u-figure">U-figure</A>. See 
+  <A href="u.html#u-index">u-index</A>. 
+  <DD><I>Each value is derived from a 48-hour interval covering 2 
+  Greenwich-mean-time days, and is assigned to the second day of the pair. The 
+  monthly U-index, the mean of the daily values, is the most frequently used. 
+  </I>
+  <DT><B>u-index</B> 
+  <DD>The value <I>u = U / sin A cos B </I>where U is the <A 
+  href="u.html#u-index">U-index</A>; <I>A 
+  </I>is the magnetic colatitude; and <I>B </I>is the angle between the <A 
+  href="m.html#magnetic meridian">magnetic 
+  meridian</A> and the horizontal component of the <A 
+  href="m.html#magnetic field intensity">magnetic 
+  field intensity</A>. 
+  <DD><I>The annual and longer period mean values of the u-index exhibit one of 
+  the strongest solar and terrestrial activity relationships known. </I>
+  <DT><B>ullage</B> 
+  <DD>The amount that a container, such as a fuel tank, lacks of being full. 
+  <DT><B>ullage rocket</B> 
+  <DD>A small <A 
+  href="r.html#rocket">rocket</A> used in 
+  space to impart an <A 
+  href="a.html#acceleration">acceleration</A> 
+  to a tank system to insure that the liquid propellants collect in the tank in 
+  such a manner as to flow properly into the pumps or thrust chamber. 
+  <DD><A name="ultimate pressure"></A>
+  <DT><B>ultimate pressure</B> 
+  <DD>The limiting <A 
+  href="p.html#pressure">pressure</A> 
+  approached in a <A 
+  href="v.html#vacuum system">vacuum 
+  system</A> after sufficient pumping time to establish that further reductions 
+  in pressure will be negligible. Also called the <I>ultimate vacuum. </I>
+  <DD><I>The terms blank-off pressure or base pressure are also sometimes used 
+  in referring to a pump under test. </I>
+  <DT><B>ultimate strength</B> 
+  <DD>The maximum conventional stress (tensile, compressive, or shear) that a 
+  material can withstand. 
+  <DT><B>ultimate vacuum</B> = <A 
+  href="ultimate%20pressure">ultimate 
+  pressure</A>. 
+  <DT><B>ultrahigh frequency (abbr UHF)</B> 
+  <DD>See <A 
+  href="f.html#frequency bands">frequency 
+  bands</A>. 
+  <DT><B>ultrahigh-speed motion-picture</B> <B>photography</B> 
+  <DD>Picture taking at a frequency range above 10,000 pictures per second. 
+  <DT><B>ultrahigh vacuum</B> 
+  <DD>See vacuum. <A name=ultrasonic></A>
+  <DT><B>ultrasonic</B> 
+  <DD>In acoustics, of or pertaining to <A 
+  href="f.html#frequencies">frequencies</A> 
+  above those that affect the human ear, i.e., more than 20,000 vibrations per 
+  second. 
+  <DD><I>The term ultrasonic may be used as a modifier to indicate a device or 
+  system intended to operate at an ultrasonic frequency, as an ultrasonic 
+  vibrator. Supersonic was formerly used in acoustics synonymously with 
+  ultrasonic; this usage is now rare. </I>
+  <DT><B>ultrasonic frequency</B> 
+  <DD>A frequency lying above the <A 
+  href="a.html#audiofrequency">audiofrequency</A> 
+  range. The term is commonly applied to elastic waves propagated in gases, 
+  liquids, or solids. See <A 
+  href="s.html#sound">sound</A>. 
+  <DT><B>ultrasonics</B> 
+  <DD>The technology of <A 
+  href="s.html#sound">sound</A> at 
+  frequencies above the audio frequency range. 
+  <DD><I>Supersonics was once used in acoustics synonymously with ultrasonics. 
+  This usage is now rare. </I>
+  <DT><B>ultrasonic wave</B> 
+  <DD>See <A href="s.html#sound wave">sound 
+  wave</A>. <A name=ultraviolet></A>
+  <DT><B>ultraviolet (abbr UV)</B> 
+  <DD>Pertaining to or same as <A 
+  href="u.html#ultraviolet radiation">ultraviolet 
+  radiation</A>. <A name="ultraviolet radiation"></A>
+  <DT><A name="ultraviolet radiation"></A><B>ultraviolet radiation</B> 
+  <DD><A 
+  href="e.html#electromagnetic radiation">Electromagnetic 
+  radiation</A> of shorter wavelength than <A 
+  href="v.html#visible radiation">visible 
+  radiation</A>; roughly, radiation in the wavelength interval from 100 to 4000 
+  angstroms. Also called <I>ultraviolet. </I>See <A 
+  href="x.html#x-ray">X-ray</A>, note. 
+  <DD><I>Ultraviolet radiation from the sun is responsible for many complex 
+  photochemical reactions characteristic of the upper atmosphere; e.g., the 
+  formation of the ozone layer through ultraviolet dissociation of oxygen 
+  molecules followed by recombination to form ozone. </I>
+  <DT><B>Uma, U Maj</B> 
+  <DD>International Astronomical Union abbreviations for <I>Ursa Major. </I>See 
+  <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><B>umbilical</B> 
+  <DD>Short for <A 
+  href="u.html#umbilical cord">umbilical 
+  cord</A>. Often used in the plural, <I>umbilicals. </I><A 
+  name="umbilical cord"></A><A name="umbilical cords"></A>
+  <DT><B>umbilical cord</B> 
+  <DD>Any of the servicing electrical or fluid lines between the ground or a 
+  tower and an uprighted <A 
+  href="r.html#rocket vehicle">rocket 
+  vehicle</A> before the launch. Often shortened to <I>umbilical. </I>
+  <DT><B>umbilical tower</B> 
+  <DD>A vertical structure supporting the <A 
+  href="u.html#umbilical cords">umbilical 
+  cords</A> running into a <A 
+  href="r.html#rocket">rocket</A> in 
+  launching position. <A name=umbra></A>
+  <DT><B>umbra</B> 
+  <DD>1. The darkest part of a shadow in which light is completely cut off by an 
+  intervening object. A lighter part surrounding the umbra, in which the light 
+  is only partly cut off, is called the <I>penumbra. </I>
+  <DD>2. The darker central portion of a <A 
+  href="s.html#sunspot">sun spot</A>, 
+  surrounded by the lighter penumbra. 
+  <DT><B>Umbriel</B> 
+  <DD>A <A 
+  href="s.html#satellite">satellite</A> of 
+  Uranus at a mean distance of 267,000 kilometers. 
+  <DT><B>Umi, U Min</B> 
+  <DD>International Astronomical Union abbreviations for <I>Ursa Minor. </I>See 
+  <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><B>Umkehr effect</B> 
+  <DD>Due to the presence of the <A 
+  href="o.html#ozone layer">ozone 
+  layer</A>, an anomaly of the relative zenith intensities of scattered sunlight 
+  at certain wavelengths in the <A 
+  href="u.html#ultraviolet">ultraviolet</A> 
+  as the sun approaches the horizon. 
+  <DT><B>uncoupled mode</B> 
+  <DD>A <A href="m.html#mode">mode</A> of 
+  <A href="v.html#vibration">vibration</A> 
+  that can exist in a system concurrently with and independently of other modes. 
+
+  <DT><B>undamped natural frequency</B> 
+  <DD>Of a mechanical system, the frequency of free vibration resulting from 
+  only elastic and <A 
+  href="i.html#inertial forces">inertial 
+  forces</A> of the system. 
+  <DT><B>underbreathing </B>= <A 
+  href="h.html#hypoventilation">hypoventilation</A>. 
+  <A name="underdeck spray"></A>
+  <DT><B>underdeck spray</B> 
+  <DD>That part of a <A 
+  href="p.html#pad deluge">pad deluge</A> 
+  in which the water is directed upward from under the <A 
+  href="r.html#rocket">rocket</A>. <A 
+  name="unidirectional antenna"></A><A name=unidirectional></A>
+  <DT><B>unidirectional antenna</B> 
+  <DD>An <A 
+  href="a.html#antenna">antenna</A> which 
+  has a single well-defined direction of maximum <A 
+  href="g.html#gain">gain</A>. 
+  <DT><B>union</B> 
+  <DD>In <A 
+  href="b.html#boolean algebra">Boolean 
+  algebra</A>, the operation in which concepts are described by stating that 
+  they have the characteristics of one or more of the classes involved. <I>Union 
+  </I>is expressed as <A 
+  href="o.html#or">OR</A>. <A 
+  name="unilateral transducer"></A>
+  <DT><B>unilateral transducer</B> 
+  <DD>A <A 
+  href="t.html#transducer">transducer</A> 
+  that cannot be actuated as its <A 
+  href="o.html#output">output</A> by waves 
+  in such a manner as to supply related waves at its <A 
+  href="i.html#inputs">inputs</A>. 
+  <DT><B>unipole</B> 
+  <DD>A hypothetical <A 
+  href="a.html#antenna">antenna</A> 
+  radiating or receiving equally in all directions. Also called <I>isotropic 
+  antenna. </I>
+  <DD><I>A pulsating sphere is a unipole for sound waves. In the case of 
+  electromagnetic waves unipoles do not exist physically but represent 
+  convenient reference antennas for expressing directive properties of actual 
+  antennas. </I>
+  <DT><B>universe</B> 
+  <DD>In statistical terminology, = <A 
+  href="p.html#population">population</A>. 
+  <DT><B>UV (abbr) </B>= <A 
+  href="u.html#ultraviolet radiation">ultraviolet 
+  radiation</A>. <A name="universal gas constant"></A>
+  <DT><B>universal gas constant</B> 
+  <DD>See <A href="g.html#gas constant">gas 
+  constant</A>. 
+  <DT><B>universal gravitational constant</B> 
+  <DD>See <A 
+  href="g.html#gravitation">gravitation</A>. 
+  <A name="universal time"></A>
+  <DT><B>universal time (abbr UT)</B> 
+  <DD><A href="t.html#time">Time</A> 
+  defined by the rotational motion of the earth and determined from the apparent 
+  diurnal motions which reflect this <A 
+  href="r.html#rotation">rotation</A>; 
+  because of variations in the rate of rotation, universal time is not 
+  rigorously uniform. Also called <I>Greenwich mean time. </I>Compare <A 
+  href="e.html#ephemeris time">ephemeris 
+  time</A>. 
+  <DD><I>In the years preceding 1960 the arguments of the ephemerides in the 
+  American Ephemeris and Nautical Almanac were designated as universal time. 
+  </I><A name="universal transmission function"></A>
+  <DT><B>universal transmission function</B> 
+  <DD>A mathematical relationship that attempts to describe quantitatively the 
+  complex infrared propagation (including absorption and reradiation) in the 
+  atmosphere. <A name="upper air"></A>
+  <DT><B>upper air</B> 
+  <DD>In <A 
+  href="s.html#synoptic meteorology">synoptic 
+  meteorology</A> and in weather observing, that portion of the <A 
+  href="a.html#atmosphere">atmosphere</A> 
+  which is above the lower troposphere. Compare <A 
+  href="u.html#upper atmosphere">upper 
+  atmosphere</A>. 
+  <DD><I>No distinct lower limit is set but the term is generally applied to the 
+  levels above 850 millibars. </I><A name="upper air observation"></A>
+  <DT><B>upper air observation</B> 
+  <DD>A measurement of atmospheric conditions aloft, above the effective range 
+  of a surface weather observation. Also called <I>sounding, upper air sounding. 
+  </I>See <A 
+  href="r.html#radiosonde">radiosonde</A>. 
+  <DD><I>This is a general term, but is usually applied to those observations 
+  which are used in the analysis of upper air charts (as opposed to measurements 
+  of upper atmospheric quantities primarily for research). </I>
+  <DT><B>upper air sounding</B> = <A 
+  href="u.html#upper air observation">upper 
+  air observation</A>. <A name="upper atmosphere"></A>
+  <DT><B>upper atmosphere</B> 
+  <DD>The general term applied to the <A 
+  href="a.html#atmosphere">atmosphere</A> 
+  above the <A 
+  href="t.html#troposphere">troposphere</A>. 
+  Compare <A href="u.html#upper air">upper 
+  air</A>. 
+  <DD><I>For subdivision of the upper atmosphere, see <A 
+  href="a.html#atmospheric shell">atmospheric 
+  shell</A>. </I><A name="upper branch"></A>
+  <DT><B>upper branch</B> 
+  <DD>That half of a <A 
+  href="m.html#meridian">meridian</A> or <A 
+  href="c.html#celestial meridian">celestial 
+  meridian</A> from pole to pole which passes through a place or its <A 
+  href="z.html#zenith">zenith</A>. 
+  <DT><B>upper culmination</B> = <A 
+  href="u.html#upper transit">upper 
+  transit</A>. <A name="upper limb"></A>
+  <DT><B>upper limb</B> 
+  <DD>That half of the outer edge of a <A 
+  href="c.html#celestial body">celestial 
+  body</A>, especially the moon, having the greatest <A 
+  href="a.html#altitude">altitude</A> in 
+  contrast with the lower limb, that half having the least altitude. 
+  <DT><B>upper stage</B> 
+  <DD>A second or later <A 
+  href="s.html#stage">stage</A> in a <A 
+  href="m.html#multistage rocket">multistage 
+  rocket</A>. <A name="upper transit"></A>
+  <DT><B>upper transit</B> 
+  <DD><A href="t.html#transit">Transit</A> 
+  of the <A 
+  href="u.html#upper branch">upper 
+  branch</A> of the <A 
+  href="c.html#celestial meridian">celestial 
+  meridian</A>. Also called <I>superior transit, upper culmination. </I>Transit 
+  of the lower branch is called <I>lower transit. </I>
+  <DT><B>Uranus</B> 
+  <DD>See <A 
+  href="p.html#planet">planet</A>, table. 
+  <DT><B>Ursa Major (abbr Uma, U Maj)</B> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><B>Ursa Minor (abbr Umi, U Min)</B> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><B>URSI (abbr)</B> 
+  <DD>International Scientific Radio Union. Usually pronounced as a word. 
+  <DT><B>USNC-IGY (abbr)</B> 
+  <DD>U.S. National Committee for the International Geophysical Year, National 
+  Academy of Sciences. 
+  <DT><B>UT (abbr) </B>= <A 
+  href="u.html#universal time">universal 
+  time</A>. </DT>

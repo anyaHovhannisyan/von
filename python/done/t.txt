@@ -1,0 +1,2113 @@
+<DT><STRONG>Tacan (abbr) </STRONG>= tactical air navigation. 
+  <DT><STRONG>tachycardia</STRONG> 
+  <DD>Very rapid beating of the heart. 
+  <DT><STRONG>tactical air navigation (abbr Tacan)</STRONG> 
+  <DD>A two-dimensional navigation system which provides <A 
+  href="a.html#azimuth">azimuth</A> and 
+  distance to a fixed ground station for navigation in piloted aircraft. 
+  Distance is determined by pulse interrogation of the ground station with time 
+  comparison to the returned pulse. Azimuth is provided by comparison of a 
+  continuous-wave audiosignal from pulse amplitudes to reference pulses. 
+  <DT><STRONG>tail</STRONG> 
+  <DD>1. The rear part of a body, as of an aircraft, a rocket, etc. 
+  <DD>2. The tail surfaces of an aircraft or rocket. 
+  <DT><STRONG>tail fin</STRONG> 
+  <DD>A <A href="f.html#fin">fin</A> at the 
+  rear of a <A 
+  href="r.html#rocket">rocket</A> or other 
+  body. 
+  <DT><STRONG>tailward acceleration</STRONG> 
+  <DD>See <A 
+  href="p.html#physiological acceleration">physiological 
+  acceleration</A>. <A name=take-off></A>
+  <DT><STRONG>take-off</STRONG> 
+  <DD>1. The action of a <A 
+  href="r.html#rocket vehicle">rocket 
+  vehicle</A> departing from its <A 
+  href="l.html#launch pad">launch pad</A>. 
+  See <A 
+  href="l.html#lift-off">lift-off</A>. 
+  <DD>2. The action of an aircraft as it becomes airborne. 
+  <DD>3. To perform the action of a take-off. Said of a rocket vehicle or 
+  aircraft. 
+  <DT><STRONG>tandem launch</STRONG> 
+  <DD>The launching of two or more <A 
+  href="s.html#satellites">satellites</A> 
+  using a single <A 
+  href="l.html#launch vehicle">launch 
+  vehicle</A>. 
+  <DT><STRONG>tangential acceleration</STRONG> 
+  <DD>The <A 
+  href="a.html#acceleration">acceleration</A> 
+  acting at the periphery of a system rotating about an axis. 
+  <DT><STRONG>tangential wavepath</STRONG> 
+  <DD>For a direct <A 
+  href="r.html#radio wave">radio wave</A>, 
+  that path of <A 
+  href="p.html#propagation">propagation</A> 
+  tangential to the surface of the earth. This path is curved slightly by <A 
+  href="a.html#atmospheric refraction">atmospheric 
+  refraction</A>. <A name="tangent ogive"></A>
+  <DT><STRONG>tangent ogive</STRONG> 
+  <DD>An <A href="o.html#ogive">ogive</A> 
+  whose circular-arc contours have their centers on a line normal to the axis at 
+  the base of the ogive, the arcs thus being tangent to the surface of the 
+  cylindrical body behind the ogive. See <A 
+  href="o.html#ogive">ogive</A>. <A 
+  name=tank></A><A name=tanks></A>
+  <DT><STRONG>tank</STRONG> 
+  <DD>1. A container incorporated into the structure of a <A 
+  href="l.html#liquid-propellant rocket">liquid 
+  propellant rocket</A> from which a liquid <A 
+  href="p.html#propellant">propellant</A> 
+  or propellants are fed into the firing chamber or chambers. 
+  <DD>2. A container for storage of liquid oxygen, liquid fuel, or other liquid 
+  propellant until transferred to the rocket's tanks or some other receptacle. 
+  <DD>3. In <A 
+  href="c.html#computers">computers</A>, a 
+  container of mercury, or other liquid, and associated components used as <A 
+  href="d.html#delay-line storage">delay-line 
+  storage</A>. 
+  <DT><STRONG>tankage</STRONG> 
+  <DD>Of a <A 
+  href="l.html#liquid-propellant rocket">liquid 
+  propellant rocket</A>, the aggregate of the <A 
+  href="t.html#tanks">tanks</A> carried by 
+  the rocket. 
+  <DT><STRONG>Tare (abbr)</STRONG> = telemetry automatic reduction system. <A 
+  name=targets></A><A name=target></A>
+  <DT><STRONG>target</STRONG> 
+  <DD>1. Any object, point, etc., toward which something is directed. 
+  <DD>2. An object which reflects a sufficient amount of a radiated signal to 
+  produce an <A href="e.html#echo">echo</A> 
+  signal on detection equipment. See <A 
+  href="r.html#radar target">radar 
+  target</A>. 
+  <DT><STRONG>target acquisition</STRONG> 
+  <DD>The process of optically, manually, mechanically, or electronically 
+  orienting <A 
+  href="t.html#tracking">tracking</A> 
+  system in direction and range to <A 
+  href="l.html#lock">lock</A> on a target. 
+  <DT><STRONG>target board</STRONG> 
+  <DD>A board usually painted in a distinctive pattern, having a known 
+  geometrical relationship to a camera, and used for determining the orientation 
+  of that camera. 
+  <DT><STRONG>target discrimination</STRONG> 
+  <DD><A 
+  href="r.html#resolution">Resolution</A> 
+  of a <A href="r.html#radar">radar</A>. 
+  <DT><STRONG>target glint</STRONG> = scintillation. <A 
+name="target signal"></A>
+  <DT><STRONG>target signal</STRONG> 
+  <DD>The radar <A 
+  href="e.html#energy">energy</A> returned 
+  to a <A href="r.html#radar">radar</A> by 
+  a <A href="t.html#target">target</A>. 
+  Also called <I>echo signal, video signal. </I>The amount of this energy is 
+  termed <I>received power. </I>
+  <DT><STRONG>Tau, Taur</STRONG> 
+  <DD>International Astronomical Union abbreviations for Taurus. See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Taurus (abbr Tau, Taur)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name="taylor number"></A>
+  <DT><STRONG>Taylor number (symbol N<sub>Ta</sub>)</STRONG> 
+  <DD>A nondimensional number arising in problems of a rotating <A 
+  href="v.html#viscous">viscous</A> fluid. 
+  It may be written <center>N<sub>Ta</sub> = f<sup>2</sup>h<sup>4</sup>/v<sup>2</sup></center> where <I>f </I>is the coriolis parameter (or, 
+  for a cylindrical system, twice the rate of rotation of the system); <I>h 
+  </I>represents the depth of the fluid; and <I>v </I>is the kinematic 
+  viscosity. the square root of the Taylor number is a rotating <A 
+  href="r.html#reynolds number">Reynolds 
+  number</A>, and the fourth root is proportional to the ratio of the depth <I>h 
+  </I>to the depth of the <A 
+  href="e.html#ekman layer">Ekman 
+  layer</A>. 
+  <DT><STRONG>Taylor series</STRONG> 
+  <DD>See <A 
+  href="t.html#taylor theorem">Taylor 
+  theorem</A>. <A name="taylor theorem"></A>
+  <DT><STRONG>Taylor theorem</STRONG> 
+  <DD>1. If all the derivatives of a function <I>f(x) </I>are continuous in the 
+  vicinity of <I>x = a </I>, then <I>f(x) </I>can be expressed in an infinite 
+  series (the Taylor series): 
+  <center><img src="taylor1.gif"></center>
+  The case <I>a </I>= 0 is called a <I>Maclaurin 
+  series. </I>
+  <DD>2. The theorem of G.I. Taylor in the statistical theory of atmospheric 
+  turbulence: 
+  <center><img src="taylor2.gif"></center>
+  where <I>x </I>is the distance traveled by a 
+  particle in the time interval <I>T </I>; <I>u </I>is the fluctuation or eddy 
+  velocity of the particle; and <I>R</I>(&xi;) is the Lagrangian correlation coefficient 
+  between the particle's velocity at time <I>t </I>and <I>t </I>+ &xi;.
+  <DT><STRONG>teardrop balloon</STRONG> 
+  <DD>A <A 
+  href="s.html#sounding">sounding</A> 
+  balloon which, when operationally inflated, resembles an inverted teardrop. 
+  This shape was determined primarily by aerodynamic considerations of the 
+  problem obtaining maximum stable rates of balloon ascension. <A 
+  name="technical photography"></A>
+  <DT><STRONG>technical photography</STRONG> 
+  <DD>The recording of photographic images for information relevant to some 
+  engineering phenomena of a qualitative nature. 
+  <DT><STRONG>technical sequential photography</STRONG> 
+  <DD>Slow or rapid sequence photography serving the study of event occurrence, 
+  or duration, by the adjunct of time coordinates recorded on the film 
+  simultaneously with the event. <A name=tektite></A>
+  <DT><STRONG>tektite</STRONG> 
+  <DD>Small glassy bodies containing no crystals, composed of at least 65 
+  percent silicon dioxide, bearing no relation to the geological formations in 
+  which they occur, and believed to be of extraterrestrial origin. Tektites are 
+  found in certain large areas called <I>strewn fields. </I>They are named, as 
+  are minerals, with the suffix <I>ite </I>, as <I>australite </I>, found in 
+  Australia, <I>billitonite, indochinite </I>, and <I>rizalite </I>, found in 
+  Southeast Asia, <I>bediasite </I>from Texas, and <I>moldavite </I>from Bohemia 
+  and Moravia. 
+  <DT><STRONG>Tel, Tele</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Telescopium. </I>See 
+  <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>telefork</STRONG> 
+  <DD>A ground support vehicle that serves as a tractor, a forklift, and a 
+  crane. 
+  <DT><STRONG>telemeter</STRONG> 
+  <DD>1. To measure at a distance. See <A 
+  href="t.html#telemetering">telemetering</A>, 
+  <A href="t.html#telemetry">telemetry</A>. 
+
+  <DD>2. The electronic unit which transmits the <A 
+  href="s.html#signal">signal</A> in a 
+  telemetering system. <A name=telemetering></A>
+  <DT><STRONG>telemetering</STRONG> 
+  <DD>1. A measurement accomplished with the aid of intermediate means which 
+  allows perception, recording, or interpretation of data at a distance from a 
+  primary <A 
+  href="s.html#sensor">sensor</A>. The most 
+  widely employed interpretation of telemetering restricts its significance to 
+  data transmitted by means of electromagnetic propagation. 
+  <DD>2. Automatic radio communication intended to indicate or record a 
+  measurable variable quantity at a distance. <A name=telemetry></A>
+  <DT><STRONG>telemetry</STRONG> 
+  <DD>The science of measuring a quantity or quantities, transmitting the 
+  results to a distant station, and there interpreting, indicating, and/or 
+  recording the quantities measured. <A name="telemetry elsse"></A>
+  <DT><STRONG>telemetry elsse</STRONG> 
+  <DD>An <A href="e.html#elsse">elsse</A> 
+  which utilizes the <A 
+  href="t.html#telemetry">telemetry</A> 
+  transmitter as a <A 
+  href="s.html#signal">signal</A> source. 
+  <A name=telephotometer></A>
+  <DT><STRONG>telephotometer</STRONG> 
+  <DD>A <A 
+  href="p.html#photometer">photometer</A> 
+  that measures the received <A 
+  href="i.html#intensity">intensity</A> of 
+  a distant light source. When specifically used to measure the <A 
+  href="t.html#transmissivity">transmissivity</A> 
+  of the intervening atmosphere (or other medium), it is usually termed a 
+  <I>transmissometer. </I>See <A 
+  href="v.html#visibility meter">visibility 
+  meter</A>. 
+  <DT><STRONG>telephotometry</STRONG> 
+  <DD>The body of principles and techniques concerned with measuring atmospheric 
+  <A 
+  href="e.html#extinction">extinction</A> 
+  using various types of <A 
+  href="t.html#telephotometer">telephotometer</A>. 
+
+  <DT><STRONG>Telescopium (abbr Tel, Tele)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name="telluric lines"></A>
+  <DT><STRONG>telluric lines</STRONG> 
+  <DD><A 
+  href="a.html#absorption lines">Absorption 
+  lines</A> in a solar spectrum produced by constituents of the atmosphere of 
+  the earth itself rather than by gases in the outer solar atmosphere such as 
+  those responsible for the Fraunhofer lines. The terrestrial nature of the 
+  absorption processes responsible for telluric lines is revealed by their 
+  intensity variation with solar zenith angle and by their freedom from any 
+  Doppler broadening due to their solar rotation. Water vapor produces the 
+  strongest of the telluric lines in the visible spectrum. <A 
+  name=temperature></A><A name=temperatures></A>
+  <DT><STRONG>temperature</STRONG> 
+  <DD>1. In general, the <A 
+  href="i.html#intensity">intensity</A> of 
+  <A href="h.html#heat">heat</A> as 
+  measured on some definite temperature scale by means of any of various types 
+  of thermometers. 
+  <DD>2. In statistical mechanics, a measure of translational molecular <A 
+  href="k.html#kinetic energy">kinetic 
+  energy</A> (with three degrees of freedom). 
+  <DD>3. In thermodynamics, the integrating factor of the differential equation 
+  referred to as the <A 
+  href="f.html#first law of thermodynamics">first 
+  law of thermodynamics</A>. <A name=tensor></A>
+  <DT><STRONG>tensor</STRONG> 
+  <DD>An <A href="a.html#array">array</A> 
+  of functions which obeys certain laws of transformation. A one-row or 
+  one-column tensor array is a vector. The motivation for the use of tensors in 
+  some branches of physics is that they are invariants, not depending on the 
+  particular coordinate system employed. 
+  <DT><STRONG>tera (abbr T)</STRONG> 
+  <DD>A prefix meaning multiplied by 10E12. 
+  <DT><STRONG>teracycle </STRONG>= 1000 gigacycles. 
+  <DT><STRONG>tercentesimal thermometric scale = approximate absolute 
+  temperature</STRONG> scale. 
+  <DT><STRONG>terminal</STRONG> 
+  <DD>1. A point at which any <A 
+  href="e.html#element">element</A> in a <A 
+  href="c.html#circuit">circuit</A> may be 
+  directly connected to one or more other elements. 
+  <DD>2. Pertaining to a final condition or the last division of something, as 
+  <I>terminal ballistics. </I>
+  <DT><STRONG>terminal ballistics</STRONG> 
+  <DD>That branch of <A 
+  href="b.html#ballistics">ballistics</A> 
+  dealing with the motion and behavior of <A 
+  href="p.html#projectiles">projectiles</A> 
+  at the termination of their flight, or in striking and penetrating a target. 
+  <A name="terminal guidance"></A>
+  <DT><STRONG>terminal guidance</STRONG> 
+  <DD><A 
+  href="g.html#guidance">Guidance</A> from 
+  an arbitrary point, at which <A 
+  href="m.html#midcourse guidance">midcourse 
+  guidance</A> ends, to the destination. 
+  <DT><STRONG>terminal velocity</STRONG> 
+  <DD>The maximum velocity attainable, especially by a freely falling body, 
+  under the given conditions. 
+  <DT><STRONG>terminator</STRONG> 
+  <DD>The line separating illuminated and dark portions of a celestial body, as 
+  the moon, which is not self luminous. <A name="ternary notation"></A>
+  <DT><STRONG>ternary notation</STRONG> 
+  <DD>A system of <A 
+  href="p.html#positional notation">positional 
+  notation</A> using 3 as a base. <A name=terrestrial></A>
+  <DT><STRONG>terrestrial</STRONG> 
+  <DD>Of or pertaining to the earth. 
+  <DT><STRONG>terrestrial coordinates </STRONG>= geographical coordinates. 
+  <DT><STRONG>terrestrial equator</STRONG> = astronomical equator. 
+  <DT><STRONG>terrestrial latitude</STRONG> 
+  <DD><A 
+  href="l.html#latitude">Latitude</A> on 
+  the earth; angular distance from the equator. See <A 
+  href="c.html#coordinate">coordinate</A>, 
+  <a href="tables/table6.html">Table VI</a>. <I>Terrestrial latitude </I>is named for the 
+  datum used to measure angular distance from the equator. <I>Astronomical 
+  latitude </I>is the angular distance between the direction of gravity and the 
+  plane of the equator. <I>Geodetic </I>or <I>topographical latitude </I>is the 
+  angular distance between the plane of the equator and a normal to the 
+  spheroid. <I>Geodetic </I>and sometimes astronomical latitude are also called 
+  <I>geographic latitude. </I><I>Geocentric latitude </I>is the angle between a 
+  line to the center of the earth and the plane of the equator. <I>Geodetic 
+  latitude </I>is used for charts. 
+  <DT><STRONG>terrestrial longitude</STRONG> 
+  <DD><A 
+  href="l.html#longitude">Longitude</A> on 
+  the earth; the arc of a <A 
+  href="p.html#parallel">parallel</A>, or 
+  the angle at the pole, between the <A 
+  href="p.html#prime meridian">prime 
+  meridian</A> and the meridian of a point on the earth. See <A 
+  href="c.html#coordinate">coordinate</A>, 
+  table VI. <I>Terrestrial longitude </I>is named for the datum used to measure 
+  it. <I>Astronomical longitude </I>is the angle between the plane of the 
+  reference meridian and the plane of the celestial meridian. <I>Geodetic 
+  longitude </I>is the angle between the plane of the reference meridian and the 
+  plane through the polar axis and the normal to the spheroid. <I>Geodetic 
+  </I>and sometimes <I>astronomical longitude </I>are also called <I>geographic 
+  longitude. </I><I>Geodetic longitude </I>is used for charts. <A 
+  name="terrestrial magnetism"></A>
+  <DT><STRONG>terrestrial magnetism</STRONG> 
+  <DD>The magnetism of the earth. Also called <I>geomagnetism. </I>
+  <DT><STRONG>terrestrial meridian </STRONG>= astronomical meridian. 
+  <DT><STRONG>terrestrial pole</STRONG> 
+  <DD>One of the poles of the earth. See <A 
+  href="g.html#geographical pole">geographical 
+  pole</A>, <A 
+  href="g.html#geomagnetic pole">geomagnetic 
+  pole</A>, <A 
+  href="m.html#magnetic pole">magnetic 
+  pole</A>. <A name="terrestrial radiation"></A>
+  <DT><STRONG>terrestrial radiation</STRONG> 
+  <DD>The total <A 
+  href="i.html#infrared radiation">infrared 
+  radiation</A> emitted from the earth's surface; to be carefully distinguished 
+  from <A 
+  href="e.html#effective terrestrial radiation">effective 
+  terrestrial radiation</A>, <A 
+  href="a.html#atmospheric radiation">atmospheric 
+  radiation</A> (which is sometimes erroneously used as a synonym for 
+  terrestrial radiation), and <A 
+  href="i.html#insolation">insolation</A>. 
+  Also called <I>earth radiation, eradiation. </I>
+  <DT><STRONG>terrestrial-reference guidance</STRONG> 
+  <DD>See <A 
+  href="g.html#guidance">guidance</A>, 
+  note. <A name="terrestrial refraction"></A>
+  <DT><STRONG>terrestrial refraction</STRONG> 
+  <DD>1. Any <A 
+  href="r.html#refraction">refraction</A> 
+  phenomenon observed in the light originating from a source lying within the 
+  earth's atmosphere; as contrasted to <A 
+  href="a.html#astronomical refraction">astronomical 
+  refraction</A>, sense 2. This is applied only to refraction caused by 
+  inhomogeneities of the atmosphere itself, not, for example, to that caused by 
+  ice crystals suspended in the atmosphere. Terrestrial refraction is 
+  responsible for such phenomena of meteorological optics as looming, sinking, 
+  stooping, towering, mirages, and terrestrial scintillation. 
+  <DD>2. = <A 
+  href="t.html#terrestrial refraction error">terrestrial 
+  refraction error</A>. <A name="terrestrial refraction error"></A>
+  <DT><STRONG>terrestrial refraction error</STRONG> 
+  <DD>The angular refraction error, for a ground observer, of an object in the 
+  vicinity of the earth. Also called <A 
+  href="t.html#terrestrial refraction">terrestrial 
+  refraction</A>. <A name="terrestrial scintillation"></A>
+  <DT><STRONG>terrestrial scintillation</STRONG> 
+  <DD>Generic term for <A 
+  href="s.html#scintillation">scintillation</A> 
+  phenomena observed in light that reaches the eye from sources lying within the 
+  earth's atmosphere; to be differentiated from <A 
+  href="a.html#astronomical scintillation">astronomical 
+  scintillation</A> which is observed in light from extraterrestrial sources 
+  such as stars. Also called <I>atmospheric boil, atmospheric shimmer, shimmer, 
+  optical haze. </I>Terrestrial scintillation is produced by irregular 
+  refraction effects due to passage, across the line of sight, of air parcels 
+  (schlieren) whose densities differ slightly from that of their surroundings. 
+  Density irregularities with dimensions of the order of centimeters, or at most 
+  decimeters, are responsible for most such scintillatory effects. <A 
+  name=tesla></A>
+  <DT><STRONG>tesla (abbr T)</STRONG> 
+  <DD>The unit of magnetic flux density, one <A 
+  href="w.html#weber">weber</A> per square 
+  <A href="m.html#meter">meter</A>. 
+  <DT><STRONG>terrestrial triangle</STRONG> 
+  <DD>See <A 
+  href="n.html#navigational triangle">navigational 
+  triangle</A>. 
+  <DT><STRONG>test</STRONG> 
+  <DD>1. A procedure or action taken to determine under real or simulated 
+  conditions the capabilities, limitations, characteristics, effectiveness, 
+  reliability, or suitability of a material, device, system, or method. 
+  <DD>2. A similar procedure or action taken to determine the reactions, 
+  limitations, abilities, or skills of a person, other animal, or organism. 
+  <DT><STRONG>test bed</STRONG> 
+  <DD>1. A base, mount, or frame within or upon which a piece of equipment, 
+  especially an <A 
+  href="e.html#engine">engine</A>, is 
+  secured for testing. 
+  <DD>2. A flying test bed. <A name="test chamber"></A>
+  <DT><STRONG>test chamber</STRONG> 
+  <DD>A place, section, or room having special characteristics where a person or 
+  object is subjected to experiment, as an <I>altitude chamber </I>; 
+  specifically, the <A 
+  href="t.html#test section">test 
+  section</A> of a <A 
+  href="w.html#wind tunnel">wind 
+  tunnel</A>. 
+  <DT><STRONG>test firing</STRONG> 
+  <DD>The <A 
+  href="f.html#firing">firing</A> of a <A 
+  href="r.html#rocket engine">rocket 
+  engine</A>, either live or static, with the purpose of making controlled 
+  observations of the engine or of an engine component. <A 
+  name="test flight"></A>
+  <DT><STRONG>test flight</STRONG> 
+  <DD>A <A href="f.html#flight">flight</A> 
+  to make controlled observations of the operation or performance of an aircraft 
+  or rocket, of an aircraft or rocket component, of a system, etc. <A 
+  name="test section"></A>
+  <DT><STRONG>test section</STRONG> 
+  <DD>The section of a <A 
+  href="w.html#wind tunnel">wind tunnel</A> 
+  where objects are tested to determine their aerodynamic characteristics. Also 
+  called a <I>test chamber. </I><A name="test stand"></A>
+  <DT><STRONG>test stand</STRONG> 
+  <DD>A stationary platform or table, together with any testing apparatus 
+  attached thereto, for testing or proving engines, instruments, etc. See <A 
+  href="p.html#proving stand">proving 
+  stand</A>. Compare <A 
+  href="l.html#launch stand">launch 
+  stand</A>. 
+  <DT><STRONG>Tethys</STRONG> 
+  <DD>A <A 
+  href="s.html#satellite">satellite</A> of 
+  Saturn orbiting at a mean distance of 295,000 kilometers. 
+  <DT><STRONG>theodolite</STRONG> 
+  <DD>An optical instrument which consists of a sighting telescope, mounted so 
+  that it is free to rotate around horizontal and vertical axes, and graduated 
+  scales so that the angle of <A 
+  href="r.html#rotation">rotation</A> may 
+  be measured. The telescope is usually fitted with a right-angle prism so that 
+  the observer continues to look horizontally into the eyepiece, whatever the 
+  variation of the <A 
+  href="e.html#elevation">elevation</A> 
+  angle. 
+  <DT><STRONG>theoretical rocket</STRONG> = ideal rocket. <A name=thermal></A>
+  <DT><STRONG>thermal</STRONG> 
+  <DD>1. Of or pertaining to <A 
+  href="h.html#heat">heat</A> or <A 
+  href="t.html#temperature">temperature</A>. 
+
+  <DD>2. A vertical air current caused by differential heating of the terrain. 
+  <DT><STRONG>thermal accommodation coefficient </STRONG>= accommodation 
+  coefficient. 
+  <DT><STRONG>thermal barrier</STRONG> 
+  <DD>A popular term for speed limitations within an atmosphere imposed by <A 
+  href="a.html#aerodynamic heating">aerodynamic 
+  heating</A>. Also called the <I>heat barrier. </I><A 
+  name="thermal conductivity"></A>
+  <DT><STRONG>thermal conductivity</STRONG> 
+  <DD>An intrinsic physical property of a substance, describing its ability to 
+  conduct heat as a consequence of molecular motion. The thermal conductivity 
+  bears the same relation to the conduction of heat as the dynamic viscosity 
+  does to the transfer of momentum. It can be defined by reference to the Newton 
+  law of cooling: <center><i>H = -k ( <img src="partderiv.gif">T / <img src="partderiv.gif">N )</i></center>
+  where k is the thermal conductivity; H the rate 
+  of heat conduction across a surface per unit area and per unit time; and <img src="partderiv.gif">T / <img src="partderiv.gif">N the temperature gradient normal to the surface. 
+  Also called <I>heat conductivity, coefficient of thermal conduction, 
+  coefficient of heat conduction. </I><A 
+  name=" thermal conductivity vacuum gage"></A><A 
+  name="thermal conductivity vacuum gage"></A>
+  <DT><STRONG>thermal conductivity vacuum gage</STRONG> 
+  <DD>A <A href="v.html#vacuum gage">vacuum 
+  gage</A> containing two surfaces at different temperatures between which heat 
+  can be transported by the gas molecules so that changes in the temperature (or 
+  in the heating power required to maintain constant temperature) of one of the 
+  surfaces can be correlated with the gas pressure by calibration against a <A 
+  href="m.html#mcleod gage">McLeod 
+  gage</A>. Various types of thermal conductivity gages are distinguished 
+  according to the method of indicating the temperature change. The common type 
+  are: Pirani gage; thermocouple gage; thermistor gage; bimetallic strip gage. 
+  <A name="thermal efficiency"></A>
+  <DT><STRONG>thermal efficiency</STRONG> 
+  <DD>1. The <A 
+  href="e.html#efficiency">efficiency</A> 
+  with which a heat engine transforms the potential heat of its fuel into work 
+  or output, expressed as the ratio of the useful work done by the engine in a 
+  given time interval to the total heat energy contained in the fuel burned 
+  during the same time interval, both work and heat being expressed in the same 
+  units. 
+  <DD>2. = <A 
+  href="t.html#thermodynamic efficiency">thermodynamic 
+  efficiency</A>. <A name="thermal emission"></A>
+  <DT><STRONG>thermal emission</STRONG> 
+  <DD>The process by which a body emits <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> as a consequence of its temperature only. <A 
+  name="thermal emissive power"></A>
+  <DT><STRONG>thermal emissive power</STRONG> 
+  <DD>The rate of <A 
+  href="t.html#thermal emission">thermal 
+  emission</A> of radiant energy per unit area of emitting surface. Also called 
+  <I>emissive power. </I>
+  <DT><STRONG>thermal excitation</STRONG> 
+  <DD>In a gas, the <A 
+  href="t.html#translation energy">translation 
+  energy</A>. 
+  <DT><STRONG>thermal fatigue</STRONG> 
+  <DD>In metals, fracture resulting from the presence of temperature gradients 
+  which vary with time in such a manner as to produce cyclic <A 
+  href="s.html#stresses">stresses</A> in a 
+  structure. 
+  <DT><STRONG>thermal instability</STRONG> 
+  <DD>The conditions of temperature <A 
+  href="g.html#gradient">gradient</A>, <A 
+  href="t.html#thermal conductivity">thermal 
+  conductivity</A>, and <A 
+  href="v.html#viscosity">viscosity</A> 
+  which lead to the onset of <A 
+  href="c.html#convection">convection</A> 
+  in a fluid. Such gross phenomena as atmospheric winds are an example of this 
+  type of instability. In general, if the fluid is conducting, as a plasma, the 
+  applications of a magnetic field tends to reduce these thermal instabilities. 
+  <DT><STRONG>thermal jet engine</STRONG> 
+  <DD>A <A href="j.html#jet engine">jet 
+  engine</A> that utilizes heat to expand gases for rearward ejection. This is 
+  the usual form of aircraft jet engine. 
+  <DT><STRONG>thermal motions</STRONG> 
+  <DD>See <A 
+  href="d.html#doppler broadening">Doppler 
+  broadening</A>. <A name="thermal noise"></A>
+  <DT><STRONG>thermal noise</STRONG> 
+  <DD>The <A href="n.html#noise">noise</A> 
+  at <A 
+  href="r.html#radio frequencies">radio 
+  frequencies</A> caused by thermal agitation in a dissipative body. Also called 
+  <I>Johnson noise. </I>
+  <DT><STRONG>thermal radiation</STRONG> 
+  <DD>The <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> emitted by any substance as the result of the <A 
+  href="t.html#thermal">thermal</A> 
+  excitation of its molecules. Thermal radiation ranges in wavelength from the 
+  longest infrared radiation to the shortest ultraviolet radiation. 
+  <DT><STRONG>thermal shock</STRONG> 
+  <DD>The development of a steep temperature <A 
+  href="g.html#gradient">gradient</A> and 
+  accompanying high stresses within a structure. 
+  <DT><STRONG>thermal stresses</STRONG> 
+  <DD><A 
+  href="s.html#stresses">Stresses</A> in 
+  metal, resulting from nonuniform temperature distribution. <A 
+  name="thermal tide"></A>
+  <DT><STRONG>thermal tide</STRONG> 
+  <DD>A variation in <A 
+  href="a.html#atmospheric pressure">atmospheric 
+  pressure</A> due to the daily differential heating of the atmosphere by the 
+  sun; so-called in analogy to the conventional <A 
+  href="g.html#gravitational">gravitational</A> 
+  tide. See <A 
+  href="s.html#solar atmospheric tide">solar 
+  atmospheric tide</A>. 
+  <DT><STRONG>thermal transpiration</STRONG> 
+  <DD>The passage of <A 
+  href="g.html#gas">gas</A> through a 
+  connection between two vessels at different temperatures resulting in a 
+  pressure <A 
+  href="g.html#gradient">gradient</A> when 
+  equilibrium is reached. Under conditions of molecular flow the equilibrium 
+  condition is expressed by <center><img src="thermtrans.gif"></center>
+  where p<sub>a</sub> and T<sub>a</sub> are the pressure and absolute temperature, 
+  respectively, in one vessel and p<sub>b</sub> and T<sub>b</sub> are the pressure and absolute temperature, 
+  respectively, in the other. 
+  <DT><STRONG>thermionic</STRONG> 
+  <DD>Of or pertaining to the emission of <A 
+  href="e.html#electrons">electrons</A> by 
+  <A href="h.html#heat">heat</A>. 
+  <DT><STRONG>thermionic cathode </STRONG>= hot cathode. 
+  <DT><STRONG>thermionic conversion</STRONG> 
+  <DD>The process whereby <A 
+  href="e.html#electrons">electrons</A> 
+  released by <A 
+  href="t.html#thermionic emission">thermionic 
+  emission</A> are collected and utilized as electric current. The simplest 
+  example of this is provided by a vacuum tube, in which the electrons released 
+  from a heated anode are collected at the cathode or plate. Used as a method of 
+  producing electrical power for spacecraft. <A name="thermionic emission"></A>
+  <DT><STRONG>thermionic emission</STRONG> 
+  <DD>Direct ejection of <A 
+  href="e.html#electrons">electrons</A> as 
+  the result of heating and material, which raises electron energy beyond the <A 
+  href="b.html#binding energy">binding 
+  energy</A> that holds the electron in the material. 
+  <DT><STRONG>thermionic tube</STRONG> 
+  <DD>An <A 
+  href="e.html#electron tube">electron 
+  tube</A> in which one or more of the <A 
+  href="e.html#electrodes">electrodes</A> 
+  is heated to cause electron or ion <A 
+  href="e.html#emission">emission</A>. 
+  <DT><STRONG>thermistor</STRONG> 
+  <DD>An <A 
+  href="e.html#electron device">electron 
+  device</A> employing the temperature- dependent change of resistivity of a <A 
+  href="s.html#semiconductor">semiconductor</A>. 
+
+  <DT><STRONG>thermochemical</STRONG> 
+  <DD>Pertaining to a chemical change induced by <A 
+  href="h.html#heat">heat</A>. 
+  <DT><STRONG>thermochemistry</STRONG> 
+  <DD>A branch of chemistry that treats of the relations of <A 
+  href="h.html#heat">heat</A> and chemical 
+  changes. <A name=thermocouples></A><A name=thermocouple></A>
+  <DT><STRONG>thermocouple</STRONG> 
+  <DD>A device which converts <A 
+  href="t.html#thermal">thermal</A> energy 
+  directly into <A 
+  href="e.html#electrical">electrical</A> 
+  energy. In its basic form it consists of two dissimilar metallic electrical 
+  conductors connected in closed loop. Each junction forms a thermocouple. See 
+  <A 
+  href="t.html#thermopile">thermopile</A>. 
+  If the junctions are at different temperatures, an electrical potentials 
+  proportional to the temperature difference will exist in the circuit; the 
+  value of the potential generated is different for various combinations of 
+  materials. For meteorological purposes couples of copper and constantan are 
+  frequently used; these generate approximately 40 microvolts per degree C of 
+  couple temperature difference. <A name="thermocouple gage"></A>
+  <DT><STRONG>thermocouple gage</STRONG> 
+  <DD>A <A 
+  href="t.html#thermal conductivity vacuum gage">thermal 
+  conductivity vacuum gage</A> in which pressure change is sensed by a <A 
+  href="t.html#thermocouple">thermocouple</A> 
+  in thermal contact with a heated filament which cools as pressure rises. 
+  Compare with <A 
+  href="p.html#pirani gage">Pirani 
+  gage</A>. <A name=thermodynamic></A>
+  <DT><STRONG>thermodynamic</STRONG> 
+  <DD>Pertaining to the flow of <A 
+  href="h.html#heat">heat</A> or to <A 
+  href="t.html#thermodynamics">thermodynamics</A>. 
+  <A name="thermodynamic efficiency"></A>
+  <DT><STRONG>thermodynamic efficiency</STRONG> 
+  <DD>In thermodynamics, the ratio of the work done by a <A 
+  href="h.html#heat engine">heat engine</A> 
+  to the total <A 
+  href="h.html#heat">heat</A> supplied by 
+  the heat <A 
+  href="s.html#source">source</A>. Also 
+  called <I>thermal efficiency, Carnot efficiency. </I><A 
+  name="thermodynamic energy equation"></A>
+  <DT><STRONG>thermodynamic energy equation</STRONG> 
+  <DD>The mathematical statement of the concept of <A 
+  href="c.html#conservation of energy">conservation 
+  of energy</A> embodied in the <A 
+  href="f.html#first law of thermodynamics">first 
+  law of thermodynamics</A>. For reversible processes of a perfect gas, it may 
+  be written in the form <center><i>pQ = &rho;c<sub>v</sub> (dT/dt) - (p/&rho;) (d&rho;) (dt)</i></center>
+  where <I>pQ </I>is the rate of energy addition 
+  per unit volume by heating (including the effects of radiation, molecular 
+  conduction, condensation water vapor, and the generation of heat by friction); 
+  <I>T </I>is the Kelvin temperature; c<sub>v</sub> is the specific heat at constant volume; <I>p 
+  </I>is pressure; and &rho; is density. See <A 
+  href="e.html#energy equation">energy 
+  equation</A>. <A name="thermodynamic equilibrium"></A>
+  <DT><STRONG>thermodynamic equilibrium</STRONG> 
+  <DD>A very general result from statistical mechanics which states that if a 
+  system is in equilibrium, all processes which can exchange energy must be 
+  exactly balanced by the reverse process so that there is no net exchange of 
+  energy. For instance, ionization must be balanced by recombination, 
+  bremsstrahlung by absorption, etc. If a plasma complies with this statement, 
+  the distribution function of particle energies and excited energy levels of 
+  the atoms can be obtained from the Maxwell-Boltzmann distribution which is a 
+  function only of the temperature. <A 
+  name="thermodynamic function of state"></A>
+  <DT><STRONG>thermodynamic function of state</STRONG> 
+  <DD>Any of the quantities defining the thermodynamic state of substance in <A 
+  href="t.html#thermodynamic equilibrium">thermodynamic 
+  equilibrium</A>. Also called <I>thermodynamic variable, state variable, state 
+  parameter. </I>For a perfect gas, pressure, temperature, and density are the 
+  fundamental thermodynamic variables, any two of which are, by the <A 
+  href="e.html#equation of state">equation 
+  of state</A>, sufficient to specify the state. Quantities defined in terms of 
+  these, such as specific volume, potential temperature, etc., may also be used 
+  as thermodynamic functions of state. If the composition of the gas varies, 
+  this must be specified. Thus, some measure of water vapor is a thermodynamic 
+  function of state of the atmosphere. 
+  <DT><STRONG>thermodynamic potential</STRONG> = Gibbs function. <A 
+  name="thermodynamic probability"></A>
+  <DT><STRONG>thermodynamic probability</STRONG> 
+  <DD>Under specified conditions, the number of equally likely states in which a 
+  substance may exist. The thermodynamic probability <I>P </I>is related to the 
+  entropy <I>S </I>by <I>S = k ln P </I>where <I>k </I>is Boltzmann constant. 
+  See <A 
+  href="t.html#third law of thermodynamics">third 
+  law of thermodynamics</A>. <A name=thermodynamics></A>
+  <DT><STRONG>thermodynamics</STRONG> 
+  <DD>The study of the <A 
+  href="f.html#flow">flow</A> of <A 
+  href="h.html#heat">heat</A>. 
+  <DT><STRONG>thermodynamic temperature scale</STRONG> 
+  <DD>The <A 
+  href="k.html#kelvin temperature scale">Kelvin 
+  temperature scale</A> or the <A 
+  href="r.html#rankine temperature scale">Rankine 
+  temperature scale</A>. 
+  <DT><STRONG>thermodynamic variable </STRONG>= thermodynamic function of state. 
+
+  <DT><STRONG>thermogravimetric analysis</STRONG> 
+  <DD>The technique of studying materials by observing weight changes caused by 
+  chemical reactions that occur when heat is applied. <A name=thermometer></A><A 
+  name=thermometry></A>
+  <DT><STRONG>thermometer</STRONG> 
+  <DD>A device for measuring <A 
+  href="t.html#temperature">temperature</A>. 
+  <A name=thermonuclear></A>
+  <DT><STRONG>thermonuclear</STRONG> 
+  <DD>Pertaining to a <A 
+  href="n.html#nuclear">nuclear</A> 
+  reaction which is triggered by particles of high <A 
+  href="t.html#thermal">thermal</A> energy. 
+  <A name=thermopile></A>
+  <DT><STRONG>thermopile</STRONG> 
+  <DD>1. A <A 
+  href="t.html#transducer">transducer</A> 
+  for converting <A 
+  href="t.html#thermal">thermal</A> energy 
+  directly into <A 
+  href="e.html#electrical">electrical</A> 
+  energy, composed of pairs of <A 
+  href="t.html#thermocouples">thermocouples</A> 
+  which are connected either in series or in parallel. See <A 
+  href="m.html#moll thermopile">Moll 
+  thermopile</A>, <A 
+  href="e.html#eppley pyrheliometer">Eppley 
+  pyrheliometer</A>. 
+  <DD>2. A battery of thermocouples connected in series to form a single compact 
+  unit. The output voltage of N pairs of series-connected thermocouples is N 
+  time the voltage developed by a single pair, whereas the current developed by 
+  N pairs of parallel-connected thermocouples is N times the current developed 
+  by a single pair. Thermopiles are used in thermoelectric radiation instruments 
+  when the output of a single pair of thermocouples is not large enough. 
+  <DT><STRONG>thermosphere</STRONG> 
+  <DD>See <A 
+  href="a.html#atmospheric shell">atmospheric 
+  shell</A>. 
+  <DT><STRONG>thermoswitch</STRONG> 
+  <DD>A temperature-activated switch. <A name="thermotropic model"></A>
+  <DT><STRONG>thermotropic model</STRONG> 
+  <DD>A <A 
+  href="m.html#model atmosphere">model 
+  atmosphere</A> used in numerical forecasting in which the parameters to be 
+  forecast are the height of one constant-pressure surface (usually 500 
+  millibars) and one temperature (usually the mean temperature between 1000 and 
+  500 millibars). Thus, a surface prognostic chart can also be constructed. The 
+  quasi-geostrophic approximation is employed and the thermal wind is assumed 
+  constant with height. See <A 
+  href="e.html#equivalent barotropic model">equivalent 
+  barotropic model</A>. 
+  <DT><STRONG>thindown</STRONG> 
+  <DD>The expenditure of heavy <A 
+  href="p.html#primary cosmic ray">primary 
+  cosmic ray</A> energy in <A 
+  href="i.html#ionizing">ionizing</A> the 
+  substance, normally air, through which it passes. See <A 
+  href="b.html#bremsstrahlung">bremsstrahlung</A>. 
+  <A name="third law of thermodynamics"></A>
+  <DT><STRONG>third law of thermodynamics</STRONG> 
+  <DD>The statement that every substance has a finite positive <A 
+  href="e.html#entropy">entropy</A>, and 
+  that the entropy of a crystalline substance is zero at the temperature of 
+  absolute zero. See <A 
+  href="t.html#thermodynamic probability">thermodynamic 
+  probability</A>. Modern quantum theory has shown that the entropy of crystals 
+  at 0 degrees absolute is not necessarily zero. If the crystal has any 
+  asymmetry, it may exist in more than one state; and there is, in addition, an 
+  entropy residue deriving from nuclear spin. 
+  <DT><STRONG>three-body problem</STRONG> 
+  <DD>That problem in classical <A 
+  href="c.html#celestial mechanics">celestial 
+  mechanics</A> which treats the motion of a small body, usually of negligible 
+  mass, relative to and under the gravitational influence of two other finite 
+  point masses. <A name=threshold></A>
+  <DT><STRONG>threshold</STRONG> 
+  <DD>Generally, the minimum value of a <A 
+  href="s.html#signal">signal</A> that can 
+  be detected by the <A 
+  href="s.html#system">system</A> or <A 
+  href="s.html#sensor">sensor</A> under 
+  consideration. <A name="threshold contrast"></A>
+  <DT><STRONG>threshold contrast</STRONG> 
+  <DD>The smallest contrast of <A 
+  href="l.html#luminance">luminance</A> (or 
+  brightness) that is perceptible to the human eye under specified conditions of 
+  <A 
+  href="a.html#adaptation luminance">adaptation 
+  luminance</A> and target visual angle. Also called <I>contrast threshold, 
+  liminal contrast. </I>Compare <A 
+  href="t.html#threshold illuminance">threshold 
+  illuminance</A>. Psychophysically, the existence of a threshold contrast is 
+  merely a special case of the general rule that for every sensory process there 
+  is a corresponding lowest detectable intensity of stimulus, i.e., a <A 
+  href="l.html#limen">limen</A>. <A 
+  name="threshold illuminance"></A>
+  <DT><STRONG>threshold illuminance</STRONG> 
+  <DD>The lowest value of illuminance which the eye is capable of detecting 
+  under specified conditions of <A 
+  href="b.html#background luminance">background 
+  luminance</A> and degree of <A 
+  href="d.html#dark adaptation">dark 
+  adaptation</A> of the eye. Also called <I>flux-density threshold. </I>Compare 
+  <A 
+  href="t.html#threshold contrast">threshold 
+  contrast</A>. See Allard law. This threshold, which controls the visibility of 
+  point light sources, especially at night, cannot be assigned any universal 
+  value, but nonflashing lights can generally be seen by a fully dark-adapted 
+  eye when the lights yield an illuminance of the order of 0.1 lumen per square 
+  kilometer at the eye. <A name="threshold of audibility"></A>
+  <DT><STRONG>threshold of audibility</STRONG> 
+  <DD>For a specified <A 
+  href="s.html#signal">signal</A>, the 
+  minimum effective <A 
+  href="s.html#sound pressure level">sound 
+  pressure level</A> of the signal that is capable of evoking an auditory 
+  sensation in a specified fraction of the trials. The characteristics of the 
+  signal, the manner in which it is presented to the listener, and the point at 
+  which the sound pressure level is measured must be specified. Also called 
+  <I>threshold of detectability. </I>Unless otherwise indicated, the ambient 
+  noise reaching the ears is assumed to be negligible. The threshold is usually 
+  given as a sound pressure level in decibels, relative to 0.0002 microbar. 
+  Instead of the method of constant stimuli, which is implied by the phrase <I>a 
+  specified fraction of the trials </I>, another psychophysical method (which 
+  should be specified) may be employed. 
+  <DT><STRONG>threshold of detectability</STRONG> = threshold of audibility. 
+  <DT><STRONG>threshold of discomfort</STRONG> 
+  <DD>In acoustics, for a specified <A 
+  href="s.html#signal">signal</A>, the 
+  minimum effective <A 
+  href="s.html#sound pressure level">sound 
+  pressure level</A> of that signal which, in a specified fraction of the 
+  trials, will stimulate the ear to a point at which the sensation of feeling 
+  becomes uncomfortable. The term applies similarly for other senses. 
+  <DT><STRONG>threshold of feeling</STRONG> 
+  <DD>In acoustics, for a specified <A 
+  href="s.html#signal">signal</A>, the 
+  minimum <A 
+  href="s.html#sound pressure level">sound 
+  pressure level</A> at the entrance to the external auditory canal which, in a 
+  specified fraction of the trials, will stimulate the ear to a point at which 
+  there is a sensation of feeling that is different from the sensation of 
+  hearing. Also called <I>tickle. </I><A name="threshold of pain"></A>
+  <DT><STRONG>threshold of pain</STRONG> 
+  <DD>In acoustics, for a specified <A 
+  href="s.html#signal">signal</A>, the 
+  minimum effective <A 
+  href="s.html#sound pressure level">sound 
+  pressure level</A> of that signal which, in a specified fraction of the 
+  trials, will stimulate the ear to a point at which the discomfort gives way to 
+  definite pain that is distinct from mere non-noxious feeling of discomfort. 
+  The term applies similarly for other senses. 
+  <DT><STRONG>threshold sensitivity</STRONG> 
+  <DD>Of a <A 
+  href="t.html#transducer">transducer</A>, 
+  the lowest level of the <A 
+  href="i.html#input">input</A> signal 
+  which produces desired response at the <A 
+  href="o.html#output">output</A>. The term 
+  applies equally to psychophysics. <A name=throat></A>
+  <DT><STRONG>throat</STRONG> 
+  <DD>The narrowest portion of a constricted duct, as in a diffuser, a venturi 
+  tube, etc., specifically, a <A 
+  href="n.html#nozzle throat">nozzle 
+  throat</A>. 
+  <DT><STRONG>throatable</STRONG> 
+  <DD>Of a nozzle: designed so as to allow a change in the velocity of the 
+  exhaust stream through changing the size and shape of the <A 
+  href="t.html#throat">throat</A> of the <A 
+  href="n.html#nozzle">nozzle</A>. 
+  <DT><STRONG>throat velocity</STRONG> = critical velocity. 
+  <DT><STRONG>throttling</STRONG> 
+  <DD>The varying of the <A 
+  href="t.html#thrust">thrust</A> of a <A 
+  href="r.html#rocket engine">rocket 
+  engine</A> during powered flight by some technique. Tightening of fuel lines, 
+  changing of thrust chamber pressure, pulsed thrust, and variation of nozzle 
+  expansion are methods to achieve throttling. <A name=throughput></A>
+  <DT><STRONG>throughput</STRONG> 
+  <DD>In vacuum technology, the quantity of <A 
+  href="g.html#gas">gas</A> in 
+  pressure-volume units at a specified temperature flowing per unit time across 
+  a specified open section of a pump or pipeline. The specified temperature may 
+  be the actual temperature of the gas or a standard reference temperature. It 
+  is recommended that throughput be referred to standard room temperature. The 
+  recommended unit of throughput is the <I>torr liter per second at 20 degrees 
+  C. </I>Other units of throughput in common use are <I>micron liters per second 
+  at 25 degrees C </I>and <I>micron cubic feet per minute at 68 degrees F. 
+  </I>Under conditions of steady-state conservative flow the throughput across 
+  the entrance to a pipe is equal to the throughput at the exit. In this case 
+  throughput can be defined as the quantity of gas flowing through a pipe in 
+  pressure-volume units per unit time at room temperature. 
+  <DT><STRONG>thrust</STRONG> <A name=thrust></A>
+  <DD>1. The pushing or pulling force developed by an aircraft engine or a <A 
+  href="r.html#rocket engine">rocket 
+  engine</A>. 
+  <DD>2. The force exerted in any direction by a fluid jet or by a powered 
+  screw, as, the <I>thrust of an antitorque rotor. </I>
+  <DD>3. (symbol F). Specifically, in rocketry, <I>F = mv </I>where <I>m </I>is 
+  propellant mass flow and <I>v </I>is exhaust velocity relative to the vehicle. 
+  Also called <I>momentum thrust. </I>
+  <DT><STRONG>thrust augmentation</STRONG> 
+  <DD>The increasing of the <A 
+  href="t.html#thrust">thrust</A> of an 
+  engine or power plant, especially of a <A 
+  href="j.html#jet engine">jet engine</A> 
+  and usually for a short period of time, over the thrust normally developed. 
+  The principal methods of thrust augmentation are the introduction of 
+  additional air into the induction system, liquid injection, and afterburning. 
+  With a piston engine, <I>thrust augmentation </I>usually refers to the 
+  direction of exhaust gases so as to give additional thrust. 
+  <DT><STRONG>thrust augmenter</STRONG> 
+  <DD>Any device used to increase the thrust of a piston, jet, or rocket engine, 
+  such as an <A 
+  href="a.html#afterburner">afterburner</A>. 
+  See <A 
+  href="a.html#augmenter tube">augmenter 
+  tube</A>. <A name="thrust axis"></A>
+  <DT><STRONG>thrust axis</STRONG> 
+  <DD>A line or axis through an aircraft, rocket, etc., along which the <A 
+  href="t.html#thrust">thrust</A> acts; an 
+  axis through the longitudinal center of a jet or rocket engine along which the 
+  thrust of the engine acts; a center of thrust. Also called <I>axis of thrust. 
+  </I><A name="thrust chamber"></A><A name="thrust chambers"></A>
+  <DT><STRONG>thrust chamber </STRONG>= firing chamber. 
+  <DT><STRONG>thrust coefficient </STRONG>= nozzle thrust coefficient. 
+  <DT><STRONG>thrust horsepower</STRONG> 
+  <DD>1. The force-velocity equivalent of the <A 
+  href="t.html#thrust">thrust</A> developed 
+  by a jet or rocket engine. 
+  <DD>2. The <A 
+  href="t.html#thrust">thrust</A> of an 
+  engine-propeller combination expressed in horsepower. It differs from the 
+  shaft horsepower of the engine by the amount the propeller efficiency varies 
+  from 100 percent. <A name="thrust loading"></A>
+  <DT><STRONG>thrust loading</STRONG> 
+  <DD>The weight-thrust ratio of a jet or rocket-propelled aircraft or other 
+  vehicle expressed as gross weight in pounds divided by <A 
+  href="t.html#thrust">thrust</A> in 
+  pounds. See <A 
+  href="p.html#power loading">power 
+  loading</A>. <A name="thrust meter"></A>
+  <DT><STRONG>thrust meter</STRONG> 
+  <DD>An instrument for measuring static <A 
+  href="t.html#thrust">thrust</A>, 
+  especially of a jet engine or rocket. See <A 
+  href="r.html#reaction balance">reaction 
+  balance</A>. 
+  <DT><STRONG>thrust power</STRONG> 
+  <DD>The power usefully expended on <A 
+  href="t.html#thrust">thrust</A>, equal to 
+  the thrust (or <A 
+  href="n.html#net thrust">net thrust</A>) 
+  times airspeed. 
+  <DT><STRONG>thrust reverser</STRONG> 
+  <DD>A device or apparatus for reversing <A 
+  href="t.html#thrust">thrust</A>, 
+  especially of a <A 
+  href="j.html#jet engine">jet engine</A>. 
+  See <A 
+  href="r.html#reverse thrust">reverse 
+  thrust</A>. 
+  <DT><STRONG>thrust section</STRONG> 
+  <DD>1. A section in a <A 
+  href="r.html#rocket vehicle">rocket 
+  vehicle</A> that houses or incorporates the <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A> or chambers and <A 
+  href="n.html#nozzles">nozzles</A>. 
+  <DD>2. In loose usage, a propulsion system. 
+  <DT><STRONG>thrust terminator</STRONG> 
+  <DD>A device for ending the <A 
+  href="t.html#thrust">thrust</A> in a <A 
+  href="r.html#rocket engine">rocket 
+  engine</A>, either through propellant <A 
+  href="c.html#cutoff">cutoff</A> (in the 
+  case of a liquid) or through diverting the flow of gases from the <A 
+  href="n.html#nozzle">nozzle</A>. 
+  <DT><STRONG>thrust-weight ratio</STRONG> 
+  <DD>A quantity used to evaluate engine performance, obtained by dividing the 
+  <A href="t.html#thrust">thrust</A> output 
+  by the engine weight less fuel. If the pound is used as the unit of measure 
+  for thrust and weight, the result is pounds of thrust per pound of engine. 
+  <DT><STRONG>tick</STRONG> 
+  <DD>A short audible <A 
+  href="s.html#sound">sound</A> or beat, as 
+  that of a clock. A time signal in the form of one or more ticks is called a 
+  <I>time tick. </I>
+  <DT><STRONG>tickle</STRONG> = threshold of feeling. 
+  <DT><STRONG>tidal day </STRONG>= lunar day. <A name=tide></A>
+  <DT><STRONG>tide</STRONG> 
+  <DD>The periodic rising and falling of the earth's oceans and <A 
+  href="a.html#atmosphere">atmosphere</A>. 
+  It results from the <A 
+  href="g.html#gravitational">gravitational</A> 
+  forces of the moon and sun acting upon the rotating earth. The disturbance 
+  actually propagates as a wave through the atmosphere and along the surface of 
+  the waters of the earth. Atmospheric tides are always so designated, whereas 
+  the term <I>tide </I>alone commonly implies the oceanic variety. 
+  <DT><STRONG>tilt table</STRONG> 
+  <DD>A device used to calibrate linear <A 
+  href="a.html#accelerometers">accelerometers</A> 
+  with rated ranges of, or below, +/- 1.0 g. It allows the accelerometer to be 
+  positioned at different angles in reference to a surface perpendicular to the 
+  direction of the earth's gravity, so that the applied values of acceleration 
+  are equal to the cosine of the angle between the reference surface and the 
+  direction of the earth's gravity. 
+  <DT><STRONG>timbre</STRONG> 
+  <DD>That attribute of auditory sensation by which a listener discriminates 
+  between two sounds of similar <A 
+  href="l.html#loudness">loudness</A> and 
+  <A href="p.html#pitch">pitch</A>, but of 
+  different tonal quality. Timbre depends primarily upon the spectrum of the 
+  stimulus, but it also depends upon the waveform, the sound pressure, the 
+  frequency location of the spectrum, and the temporal characteristics of the 
+  stimulus. <A name=time></A>
+  <DT><STRONG>time (symbol t or &tau;)</STRONG> 
+  <DD>The hour of the day reckoned by the position of a celestial reference 
+  point relative to a reference <A 
+  href="c.html#celestial meridian">celestial 
+  meridian</A>. Time may be designated <I>solar, lunar </I>, or <I>sidereal 
+  </I>as the reference is the sun, moon, or vernal equinox, respectively. Solar 
+  time may be further classified as <I>mean </I>or <I>astronomical </I>if the 
+  mean sun is the reference, or as apparent if the apparent sun is the 
+  reference. Time may also be designated according to the reference meridian, 
+  either the <I>local </I>or <I>Greenwich </I>meridian or, additionally, in the 
+  case of mean solar time, a designated zone meridian. Standard and daylight 
+  saving time are variations of zone time. Time may also be designated according 
+  to the timepiece, as <I>chronometer time or watch time </I>, the time 
+  indicated by these instruments. 
+  <DT><STRONG>time constant</STRONG> 
+  <DD>Generally, the time required for an instrument to indicate a given 
+  percentage of the final reading resulting from an input signal; the <A 
+  href="r.html#relaxation time">relaxation 
+  time</A> of an instrument. In the case of instruments such as thermometers, 
+  whose response to step changes in an applied signal is exponential in 
+  character, the time constant is equal to the time required for the instrument 
+  to indicate 63.2 percent of the total change, that is, when the transient 
+  error is reduced to 1/e of the original signal change. Also called <I>lag 
+  coefficient. </I>See <A 
+  href="l.html#lag">lag</A>. Compare <A 
+  href="r.html#rise time">rise time</A>, <A 
+  href="t.html#time lag">time lag</A>. <A 
+  name="time division multiplexing"></A>
+  <DT><STRONG>time division multiplex</STRONG> 
+  <DD>A system for the transmission of information about two or more quantities 
+  ( <A 
+  href="m.html#measurands">measurands</A>) 
+  over a common <A 
+  href="c.html#channel">channel</A> by 
+  dividing available time intervals among the measurands to form a composite <A 
+  href="p.html#pulse train">pulse 
+  train</A>. Information may be transmitted by variation of pulse duration, 
+  pulse amplitude, pulse position, or by a pulse code. (Abbreviations used are 
+  PDM, PAM, PPM, and PCM, respectively.) <A name="time lag"></A>
+  <DT><STRONG>time lag</STRONG> 
+  <DD>The total time between the application of a <A 
+  href="s.html#signal">signal</A> to a 
+  measuring instrument and the full indication of that signal within the 
+  uncertainty of the instrument. 
+  <DT><STRONG>time of useful consciousness</STRONG> 
+  <DD>The period between loss of oxygen supply (at altitude) and the inability 
+  of the individual to function efficiently. <A name="time series"></A>
+  <DT><STRONG>time series</STRONG> 
+  <DD>The values of a variable generated successively in time. A continuous 
+  barograph trace is an example of a <I>continuous time series </I>, whereas a 
+  sequence of hourly pressures is an example of a <I>discrete time series. 
+  </I>Graphically, a time series is usually plotted with time as the abscissa 
+  and the values of the function as the ordinate. <A name="time signal"></A>
+  <DT><STRONG>time signal</STRONG> 
+  <DD>1. An accurate <A 
+  href="s.html#signal">signal</A> marking a 
+  specified time or time interval. It is used primarily for determining errors 
+  of timepieces. Such signals are usually sent from an observatory by radio or 
+  telegraph. 
+  <DD>2. In photography, a time indication registered on the film to serve as a 
+  time reference for interpretation of the date recorded on the film. 
+  <DT><STRONG>time tic</STRONG> 
+  <DD>Markings on <A 
+  href="t.html#telemetry">telemetry</A> 
+  records to indicate time intervals. 
+  <DT><STRONG>time tick</STRONG> 
+  <DD>A <A href="t.html#time signal">time 
+  signal</A> consisting of one or more short audible sounds or beats. 
+  <DT><STRONG>time to unconsciousness</STRONG> 
+  <DD>The period between loss of oxygen supply (at altitude) and the onset of 
+  unconsciousness. 
+  <DT><STRONG>time zone</STRONG> 
+  <DD>See <A href="z.html#zone time">zone 
+  time</A>. 
+  <DT><STRONG>timing parallax</STRONG> 
+  <DD>The distance on a film between a frame and a <A 
+  href="t.html#time signal">time signal</A> 
+  which were simultaneously exposed. 
+  <DT><STRONG>timing pulse</STRONG> 
+  <DD>In telemetry, a <A 
+  href="p.html#pulse">pulse</A> used as a 
+  time reference. 
+  <DT><STRONG>Titan</STRONG> 
+  <DD>A <A 
+  href="s.html#satellite">satellite</A> of 
+  Saturn orbiting at a mean distance of 1,222,000 kilometers. 
+  <DT><STRONG>Titania</STRONG> 
+  <DD>A <A 
+  href="s.html#satellite">satellite</A> of 
+  Uranus orbiting at a mean distance of 438,000 kilometers. 
+  <DT><STRONG>tolerance</STRONG> 
+  <DD>The allowable variation in measurements within which the dimensions of an 
+  item are judged acceptable. 
+  <DT><STRONG>topocentric</STRONG> 
+  <DD>Of measurements or <A 
+  href="c.html#coordinates">coordinates</A>, 
+  referred to the position of the observer on the earth as the origin. <A 
+  name=topple></A>
+  <DT><STRONG>topple</STRONG> 
+  <DD>Of a gyro, the vertical component of <A 
+  href="p.html#precession">precession</A> 
+  or <A href="w.html#wander">wander</A>, or 
+  the algebraic sum of the two. 
+  <DT><STRONG>topple axis</STRONG> 
+  <DD>That horizontal axis, perpendicular to the (horizontal) <A 
+  href="s.html#spin axis">spin axis</A> of 
+  a gyroscope, around which <A 
+  href="t.html#topple">topple</A> occurs. 
+  <DT><STRONG>tor </STRONG>= torr. 
+  <DT><STRONG>torching</STRONG> 
+  <DD>The <A 
+  href="d.html#degassing">degassing</A> of 
+  a vacuum system by application of a gas burner flame to the walls during the 
+  pumping process. <A name=torque></A>
+  <DT><STRONG>torque (symbol T)</STRONG> 
+  <DD>About an axis, the product of a <A 
+  href="f.html#force">force</A> and the 
+  distance of its line of action from the <A 
+  href="a.html#axis">axis</A>. <A 
+  name=torquer></A>
+  <DT><STRONG>torquer</STRONG> 
+  <DD>In a gyro, a device which produces <A 
+  href="t.html#torque">torque</A> about an 
+  <A href="a.html#axis of freedom">axis of 
+  freedom</A> in response to a signal input. 
+  <DT><STRONG>torquing</STRONG> 
+  <DD>In a gyro, the application of <A 
+  href="t.html#torque">torque</A> to a 
+  gimbal about an <A 
+  href="a.html#axis of freedom">axis of 
+  freedom</A> for the following purposes: <A 
+  href="p.html#precessing">precessing</A>, 
+  <A href="c.html#capturing">capturing</A>, 
+  <A href="s.html#slaving">slaving</A>, <A 
+  href="c.html#caging">caging</A>, or <A 
+  href="s.html#slewing">slewing</A>. <A 
+  name=torr></A>
+  <DT><STRONG>torr</STRONG> 
+  <DD>Provisional international standard term to replace the English term 
+  <I>millimeter of mercury </I>and its abbreviation <I>mm </I>of <I>Hg </I>(or 
+  the French <I>mm de Hg </I>). The torr is defined as 1/760 of a standard 
+  atmosphere or 1,013,250/760 dynes per square centimeter. This is equivalent to 
+  defining the torr as 1333.22 microbars and differs by only one part in 7 
+  million form the International Standard millimeter of mercury. The prefixes 
+  <I>milli </I>and <I>micro </I>are attached without hyphenation. 
+  <DT><STRONG>total conductivity</STRONG> 
+  <DD>In atmospheric electricity, the sum of the electrical conductivities of 
+  the positive and negative <A 
+  href="i.html#ions">ions</A> found in a 
+  given portion of the <A 
+  href="a.html#atmosphere">atmosphere</A>. 
+  <DT><STRONG>total curvature</STRONG> 
+  <DD>The change in direction of a <A 
+  href="r.html#ray">ray</A> between object 
+  and observer. 
+  <DT><STRONG>total eclipse</STRONG> 
+  <DD>An <A 
+  href="e.html#eclipse">eclipse</A> in 
+  which the entire source of light is obscured. 
+  <DT><STRONG>total emissive power</STRONG> 
+  <DD>See <A 
+  href="e.html#emittance">emittance</A>. 
+  <DT><STRONG>total emissivity (symbol &epsilon;)</STRONG> 
+  <DD>See <A 
+  href="e.html#emissivity">emissivity</A>. 
+  <DT><STRONG>total emittance = total emissive power. See emittance.</STRONG> <A 
+  name="total energy equation"></A>
+  <DT><STRONG>total energy equation</STRONG> 
+  <DD>In meteorology, an expression relating all forms of energy obtained by 
+  combining the <A 
+  href="t.html#thermodynamic energy equation">thermodynamic 
+  energy equation</A> with the mechanical energy equation. This equation 
+  expresses the fact that the combined internal, kinetic, and potential energy 
+  in a given volume of the atmosphere can vary only as a result of: (a) the 
+  transport of these forms of energy across the boundaries of the volume; (b) 
+  the work done by pressure forces on the boundary; (c) the addition or removal 
+  of heat; and (d) the dissipational effect of friction. 
+  <DT><STRONG>total head </STRONG>= total pressure, sense 3. <A 
+  name="total impulse"></A>
+  <DT><STRONG>total impulse (symbol I<SUB>t</SUB>)</STRONG> 
+  <DD>The integral of the thrust F over an interval of time <I>t </I>: 
+  <center><i>I<sub>t</sub> = <img src="integral.gif"> F dt</i></center>Total impulse is related to <A 
+  href="s.html#specific impulse">specific 
+  impulse</A> I<sub>sp</sub> by I<SUB>t</SUB> = I<SUB>sp</SUB> <img src="wdot.gif" align=center> 
+  dt, where <img src="wdot.gif" align=center>= propellant flow weight rate. 
+  <DT><STRONG>total potential energy</STRONG> 
+  <DD>See <A 
+  href="i.html#internal energy">internal 
+  energy</A>, note. <A name="total pressure"></A>
+  <DT><STRONG>total pressure</STRONG> 
+  <DD>1. = <A 
+  href="s.html#stagnation pressure">stagnation 
+  pressure</A>. 
+  <DD>2. = <A 
+  href="i.html#impact pressure">impact 
+  pressure</A>. 
+  <DD>3. The pressure a moving fluid would have if it were brought to rest 
+  without losses. 
+  <DD>4. The pressure determined by all the molecular species crossing the 
+  imaginary surface. 
+  <DT><STRONG>total-pressure tube</STRONG> 
+  <DD>A tube for measuring the <A 
+  href="s.html#stagnation pressure">stagnation 
+  pressure</A> of a <A 
+  href="f.html#fluid">fluid</A>; i.e., a <A 
+  href="p.html#pitot tube">pitot tube</A>. 
+  <DT><STRONG>total radiation</STRONG> 
+  <DD>Radiation over the entire <A 
+  href="s.html#spectrum">spectrum</A> of 
+  emitted wavelengths. <A name="total refraction"></A>
+  <DT><STRONG>total refraction</STRONG> 
+  <DD>The return of <A 
+  href="w.html#waves">waves</A> out of a 
+  medium or layer, due to <A 
+  href="r.html#refraction">refraction</A>. 
+  Total refraction occurs most readily at low elevation angles. For any suitable 
+  layer in the atmosphere, there is a critical beam elevation angle below which 
+  total refraction can occur. In the ionosphere this angle is frequency 
+  dependent. 
+  <DT><STRONG>total scattering coefficient </STRONG>= scattering coefficient. 
+  <DT><STRONG>total scattering cross section </STRONG>= scattering power; see 
+  scattering cross section. 
+  <DT><STRONG>total solar eclipse</STRONG> 
+  <DD>See <A 
+  href="s.html#solar eclipse">solar 
+  eclipse</A>. 
+  <DT><STRONG>toughness</STRONG> 
+  <DD>The ability of a metal to absorb energy and deform plastically before 
+  fracturing. Toughness is usually measured by the energy absorbed in a notch 
+  impact test, but the area under the stress-strain curve in tensile testing is 
+  also a measure of toughness. <A name=towering></A>
+  <DT><STRONG>towering</STRONG> 
+  <DD>A <A 
+  href="r.html#refraction">refraction</A> 
+  phenomenon; a special case of <A 
+  href="l.html#looming">looming</A> in 
+  which the downward curvature of the light rays due to <A 
+  href="a.html#atmospheric refraction">atmospheric 
+  refraction</A> increased with elevation so that the visual image of a distant 
+  object appears to be stretched in the vertical direction. The opposite of 
+  <I>towering </I>is <I>stooping. </I><A name="townsend discharge"></A><A 
+  name=townsend></A>
+  <DT><STRONG>Townsend discharge</STRONG> 
+  <DD>A type of <A 
+  href="d.html#direct-current discharge">direct-current 
+  discharge</A> between two <A 
+  href="e.html#electrodes">electrodes</A> 
+  immersed in a gas and requiring electron emission from the cathode. <A 
+  name="townsend ionization coefficient"></A>
+  <DT><STRONG>Townsend ionization coefficient</STRONG> 
+  <DD>The average number of ionizing <A 
+  href="c.html#collisions">collisions</A> 
+  an electron will make in drifting a unit distance in the direction of the 
+  applied electric force. These coefficients were first measured by Townsend and 
+  at present they are well tabulated for most gases. A typical value for the 
+  coefficient is one pair per centimeter at a pressure of 1 millimeter of 
+  mercury and a field strength of 100 volts per centimeter. 
+  <DT><STRONG>TrA, Tr Au</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Triangulum Australe. 
+  </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name=trace></A><A name=traces></A>
+  <DT><STRONG>trace</STRONG> 
+  <DD>The line appearing on the face of a <A 
+  href="c.html#cathode-ray tube">cathode-ray 
+  tube</A> when the visible dot repeatedly sweeps across the face of the tube as 
+  a result of deflections of the <A 
+  href="e.html#electron beam">electron 
+  beam</A>. See <A 
+  href="s.html#sweep">sweep</A>. The path 
+  of the dot from the end of one sweep to the start of the next sweep is called 
+  a <I>retrace. </I>If more than one trace is shown on the same scope, the 
+  traces may be called <I>A-trace, B-trace </I>, etc. <A name=track></A>
+  <DT><STRONG>track</STRONG> 
+  <DD>1. The path or actual line of movement on an aircraft, rocket, etc., over 
+  the surface of the earth. It is the projection of the <A 
+  href="f.html#flightpath">flightpath</A> 
+  on the surface. 
+  <DD>2. To observe or plot the path of something moving, such as an aircraft or 
+  rocket, by one means or another, as by telescope or by radar - said of persons 
+  or of the electronic equipment, as, <I>the observer, or the </I><I>radar, 
+  tracked the satellite. </I>
+  <DD>3. To follow a desired track. <A name=tracking></A>
+  <DT><STRONG>tracking</STRONG> 
+  <DD>1. The process of following the movements of an object. This may be done 
+  by keeping the <A 
+  href="r.html#reticle">reticle</A> of an 
+  optical system or a <A 
+  href="r.html#radar beam">radar beam</A> 
+  on the object, by plotting its <A 
+  href="b.html#bearing">bearing</A> and 
+  distance at frequent intervals, or by a combination of the two. 
+  <DD>2. A motion given to the major <A 
+  href="l.html#lobe">lobe</A> of an <A 
+  href="a.html#antenna">antenna</A> so that 
+  a preassigned moving target in space remains in the lobe's field as long as it 
+  is within viewing range. 
+  <DT><STRONG>tracking antenna</STRONG> 
+  <DD>A <A 
+  href="d.html#directional antenna">directional 
+  antenna</A> system which changes in position, or characteristics, 
+  automatically or manually to follow the motions of a moving <A 
+  href="s.html#signal">signal</A> source. 
+  <DT><STRONG>tracking filter</STRONG> 
+  <DD>An electric device for attenuating unwanted signals while passing desired 
+  <A href="s.html#signals">signals</A>, by 
+  means of <A 
+  href="p.html#phase-lock">phase-lock</A> 
+  techniques which reduce the effective <A 
+  href="b.html#bandwidth">bandwidth</A> of 
+  the circuit and eliminate amplitude variations. 
+  <DT><STRONG>tracking offset error</STRONG> 
+  <DD>The angular <A 
+  href="e.html#error">error</A>, in 
+  magnitude and direction, between an object being tracked and the center of 
+  reference established for the <A 
+  href="t.html#tracking">tracking</A> 
+  instrument. <A name="tracking radar"></A>
+  <DT><STRONG>tracking radar</STRONG> 
+  <DD>A <A href="r.html#radar">radar</A> 
+  used for following a <A 
+  href="t.html#target">target</A>. 
+  <DT><STRONG>tracking rate</STRONG> 
+  <DD>The rate at which an operator or a system follows a <A 
+  href="t.html#target">target</A>. Usually 
+  expressed in terms of the rate of change of the parameter being measured. 
+  <DT><STRONG>tracking station</STRONG> 
+  <DD>A station set up to <A 
+  href="t.html#track">track</A> an object 
+  moving through the atmosphere or space, usually by means of <A 
+  href="r.html#radar">radar</A> or radio. 
+  See <A 
+  href="m.html#minitrack">minitrack</A>. 
+  <DT><STRONG>train</STRONG> 
+  <DD>Anything, such as luminous gas of ionized particles, left along the <A 
+  href="t.html#trajectory">trajectory</A> 
+  of a <A href="m.html#meteor">meteor</A> 
+  after the head of the meteor has passed. <A name=trajectory></A><A 
+  name=trajectories></A>
+  <DT><STRONG>trajectory</STRONG> 
+  <DD>In general, the path traced by any body moving as a result of an 
+  externally applied force, considered in three dimensions. <I>Trajectory </I>is 
+  sometimes used to mean <I>flight path </I>or <I>orbit </I>, but <I>orbit 
+  </I>usually means a closed path and <I>trajectory </I>, a path which is not 
+  closed. <A name="trajectory measuring system"></A>
+  <DT><STRONG>trajectory measuring system</STRONG> 
+  <DD>A <A href="s.html#system">system</A> 
+  used to provide information on the spatial position of an object at discrete 
+  time intervals throughout a portion of the <A 
+  href="t.html#trajectory">trajectory</A> 
+  or flightpath. <A name=transceiver></A>
+  <DT><STRONG>transceiver</STRONG> 
+  <DD>A combination <A 
+  href="t.html#transmitter">transmitter</A> 
+  and <A 
+  href="r.html#receiver">receiver</A> in a 
+  single housing, with some components being used by both units. See <A 
+  href="t.html#transponder">transponder</A>. 
+  <A name=transducer></A><A name=transducers></A>
+  <DT><STRONG>transducer</STRONG> 
+  <DD>A device capable of being actuated by <A 
+  href="e.html#energy">energy</A> from one 
+  or more <A 
+  href="t.html#transmission">transmission</A> 
+  systems or media and of supplying related energy to one or more other 
+  transmission systems or media, as a microphone, a thermocouple, etc. The 
+  energy in input and output may be of the same or different types (e.g., 
+  electric, mechanical, or acoustic). 
+  <DT><STRONG>transducer gain</STRONG> 
+  <DD>The ratio of the <A 
+  href="p.html#power">power</A> that a <A 
+  href="t.html#transducer">transducer</A> 
+  delivers to a specified <A 
+  href="l.html#load">load</A> under 
+  specified operating conditions to the available power of a specified source. 
+  If the input and/or output power consist of more than one component, such as 
+  multifrequency signal or noise, then the particular components used and their 
+  weighting must be specified. This gain is usually expressed in decibels. 
+  <DT><STRONG>transfer ellipse</STRONG> = transfer orbit. <A 
+  name="transfer orbit"></A>
+  <DT><STRONG>transfer orbit</STRONG> 
+  <DD>In interplanetary travel, an elliptical <A 
+  href="t.html#trajectory">trajectory</A> 
+  tangent to the <A 
+  href="o.html#orbits">orbits</A> of both 
+  the departure planet and the target planet. Also called <I>transfer ellipse. 
+  </I>
+  <DT><STRONG>transient problem </STRONG>= initial-value problem. <A 
+  name=transistor></A>
+  <DT><STRONG>transistor</STRONG> 
+  <DD>An active <A 
+  href="s.html#semiconductor">semiconductor</A> 
+  device with three or more <A 
+  href="e.html#electrodes">electrodes</A>. 
+  <A name=transit></A>
+  <DT><STRONG>transit</STRONG> 
+  <DD>1. The passage of a <A 
+  href="c.html#celestial body">celestial 
+  body</A> across a <A 
+  href="c.html#celestial meridian">celestial 
+  meridian</A>, usually called <I>meridian transit. </I>
+  <DD>2. The apparent passage of a celestial body across the face of another 
+  celestial body or across any point, area, or line. 
+  <DD>3. An instrument used by an astronomer to determine the exact instant of 
+  meridian transit of a celestial body. 
+  <DD>4. A reversing instrument used by surveyors for accurately measuring 
+  horizontal and vertical angles; a theodolite which can be reversed in its 
+  supports without being lifted from them. <A name=transitions></A>
+  <DT><STRONG>transition flow </STRONG>= Knudsen flow.<STRONG></STRONG> 
+  <DD><STRONG>See rarefied gas dynamics,</STRONG> note. 
+  <DT><STRONG>transition maneuver</STRONG> 
+  <DD>In lifting flight, a maneuver required to fly smoothly from one <A 
+  href="e.html#equilibrium glide">equilibrium 
+  glidepath</A> to another, performed by changing <A 
+  href="a.html#attitude">attitude</A> in 
+  some manner. 
+  <DT><STRONG>transition point</STRONG> 
+  <DD>In aerodynamics, the point of change from <A 
+  href="l.html#laminar">laminar</A> to <A 
+  href="t.html#turbulent flow">turbulent 
+  flow</A>. 
+  <DT><STRONG>transition temperature</STRONG> 
+  <DD>1. An arbitrarily defined temperature within the temperature range in 
+  which metal fracture characteristics determined usually by notched tests are 
+  changing rapidly such as from primarily fibrous (shear) to primarily 
+  crystalline (cleavage) fracture. 
+  <DD>2. The arbitrarily defined temperature in a range in which the ductility 
+  of a material changes rapidly with temperature. 
+  <DT><STRONG>translation</STRONG> 
+  <DD>Movement in a straight line without <A 
+  href="r.html#rotation">rotation</A>. <A 
+  name="translation energy"></A>
+  <DT><STRONG>translation energy</STRONG> 
+  <DD>In a gas, the <A 
+  href="e.html#energy">energy</A> 
+  associated with random straight line motion of the <A 
+  href="m.html#molecules">molecules</A>. <A 
+  name=translator></A>
+  <DT><STRONG>translator</STRONG> 
+  <DD>A <A 
+  href="n.html#network">network</A> or 
+  system having a number of inputs and outputs and so connected that <A 
+  href="s.html#signals">signals</A> 
+  representing information expressed in a certain <A 
+  href="c.html#code">code</A>, when applied 
+  to the inputs, cause output signals to appear which are a representation of 
+  the input information in a different code. Sometimes called <I>matrix. </I><A 
+  name=translunar></A>
+  <DT><STRONG>translunar</STRONG> 
+  <DD>Outside the moon's orbit about the earth. 
+  <DT><STRONG>translunar space</STRONG> 
+  <DD>As seen from the earth at any movement, <A 
+  href="s.html#space">space</A> lying 
+  beyond the <A 
+  href="o.html#orbit">orbit</A> of the 
+  moon. <A name=transmission></A>
+  <DT><STRONG>transmission</STRONG> 
+  <DD>1. The process by which <A 
+  href="r.html#radiant flux">radiant 
+  flux</A> is propagated through a medium or body. 
+  <DD>2. = <A 
+  href="t.html#transmittance">transmittance</A>. 
+  <A name="transmission coefficient"></A>
+  <DT><STRONG>transmission coefficient (symbol &tau;)</STRONG> 
+  <DD>1. A measure of the amount of incident <A 
+  href="r.html#radiation">radiation</A> 
+  which remains in a <A 
+  href="b.html#beam">beam</A> after it 
+  passes through a unit thickness of a medium. It is comparable in concept to 
+  the <A 
+  href="e.html#extinction coefficient">extinction 
+  coefficient</A> (or <A 
+  href="a.html#attenuation coefficient">attenuation 
+  coefficient</A>) and is related to the extinction coefficient &sigma; as follows: 
+  <center>&tau; = e<sup> -&sigma;</sup></center> where &tau; is the transmission coefficient. Its 
+  relationship to transmissivity <I>r </I>is expressed:
+  <center><i>r</i> = &tau;<sup>x</sup></center>where <I>x </I>is the total thickness of the 
+  medium. Compare <A 
+  href="a.html#absorption coefficient">absorption 
+  coefficient</A>. 
+  <DD>2. The fraction of the solar radiation normally incident upon the top of 
+  the atmosphere which survives passage through the atmosphere to the earth's 
+  surface. As so defined, a better term might be <I>atmospheric transmissivity. 
+  </I>
+  <DD>3. The ratio of the <A 
+  href="s.html#sound">sound</A> transmitted 
+  through an interface or spectrum between two media, exposed to the sound 
+  field, to the sound energy incident on the interface or septum. <A 
+  name="transmission loss"></A>
+  <DT><STRONG>transmission loss</STRONG> 
+  <DD>The reduction in the <A 
+  href="m.html#magnitude">magnitude</A> of 
+  some characteristics of a <A 
+  href="s.html#signal">signal</A> between 
+  two stated points in a <A 
+  href="t.html#transmission system">transmission 
+  system</A>. Also called <I>loss. </I>The characteristic is often some kind of 
+  level, such as power level or voltage level; in acoustics, the characteristic 
+  that is commonly measured is sound pressure level. Thus, if the levels are 
+  expressed in decibels, the transmission level loss is likewise in decibels. It 
+  is imperative that the characteristic concerned (such as the sound pressure 
+  level) by clearly identified because in all transmission systems more than one 
+  characteristic is propagated. <A name="transmission system"></A>
+  <DT><STRONG>transmission system</STRONG> 
+  <DD>A <A href="s.html#system">system</A> 
+  which propagates or transmits <A 
+  href="s.html#signals">signals</A>. 
+  <DT><STRONG>transmission time</STRONG> 
+  <DD>The time interval between dispatch and reception of a <A 
+  href="s.html#signal">signal</A> in a 
+  particular transmission system. <A name=transmissivity></A>
+  <DT><STRONG>transmissivity </STRONG>= transmittance. 
+  <DT><STRONG>transmissometer</STRONG> 
+  <DD>An instrument for measuring the <A 
+  href="e.html#extinction coefficient">extinction 
+  coefficient</A> of the atmosphere and for the determination of <A 
+  href="v.html#visual range">visual 
+  range</A>. Also called <I>telephotometer, transmittance meter, hazemeter. 
+  </I>See <A 
+  href="p.html#photoelectric">photoelectric</A>, 
+  transmittance meter <A 
+  href="v.html#visibility meter">visibility 
+  meter</A>. 
+  <DT><STRONG>transmissiometry</STRONG> 
+  <DD>The technique of determining the <A 
+  href="e.html#extinction">extinction</A> 
+  characteristics of a medium by measuring the <A 
+  href="t.html#transmittance">transmittance</A> 
+  of a light beam of known initial intensity directed into that medium. <A 
+  name=transmittance></A>
+  <DT><STRONG>transmittance (symbol T)</STRONG> 
+  <DD>The ratio of the <A 
+  href="r.html#radiant flux">radiant 
+  flux</A> transmitted by a medium or a body to the incident flux. See <A 
+  href="t.html#transmission coefficient">transmission 
+  coefficient</A>. The transmittance <I>T </I>of radiant flux through a medium 
+  of thickness <I>x </I>is related to the transmission coefficient &tau;
+  of the medium by <I>T </I>= &tau;. 
+  <DT><STRONG>transmittance meter </STRONG>= transmissometer. 
+  <DT><STRONG>transmitted power</STRONG> 
+  <DD>The <A href="p.html#power">power</A> 
+  which is radiated from an antenna. Compare <A 
+  href="r.html#received power">received 
+  power</A>. <A name=transmitter></A>
+  <DT><STRONG>transmitter</STRONG> 
+  <DD>A device used for the generation of <A 
+  href="s.html#signals">signals</A> of any 
+  type and form which are to be transmitted. See <A 
+  href="r.html#receiver">receiver</A>. In 
+  radio and radar, it is that portion of the equipment which includes electronic 
+  circuits designed to generate, amplify, and shape the radiofrequency energy 
+  which is delivered to the antenna where it is radiated out into space. 
+  <DT><STRONG>transonic</STRONG> 
+  <DD>Pertaining to that which occurs or is occurring within the range of speed 
+  in which flow patterns change from subsonic to supersonic or vice versa, about 
+  Mach 0.8 to 1.2, as in <I>transonic flight, transonic flutter </I>; that 
+  operates within this regime, as in <I>transonic aircraft, transonic wing </I>; 
+  characterized by transonic flow or transonic speed, as in <I>transonic region, 
+  transonic zone. </I>
+  <DT><STRONG>transonic flow</STRONG> 
+  <DD>In aerodynamics, flow of a fluid over a body in the range just above and 
+  just below the <A 
+  href="a.html#acoustic velocity">acoustic 
+  velocity</A>. Transonic flow presents a special problem in aerodynamics in 
+  that neither the equations describing subsonic flow nor the equations 
+  describing supersonic flow can be applied in the transonic range. 
+  <DT><STRONG>transonic speed</STRONG> 
+  <DD>The speed of a body relative to the surrounding <A 
+  href="f.html#fluid">fluid</A> at which 
+  the <A href="f.html#flow">flow</A> is in 
+  some places on the body <A 
+  href="s.html#subsonic">subsonic</A> and 
+  in other places <A 
+  href="s.html#supersonic">supersonic</A>. 
+  <DT><STRONG>transparent plasma</STRONG> 
+  <DD>A <A href="p.html#plasma">plasma</A> 
+  through which an <A 
+  href="e.html#electromagnetic wave">electromagnetic 
+  wave</A> can <A 
+  href="p.html#propagate">propagate</A>. In 
+  general, a plasma is transparent for frequencies higher than the <A 
+  href="p.html#plasma frequency">plasma 
+  frequency</A>. 
+  <DT><STRONG>transpiration</STRONG> 
+  <DD>The passage of gas or liquid through a porous solid (usually under 
+  conditions of <A 
+  href="m.html#molecular flow">molecular 
+  flow</A>). <A name="transpiration cooling"></A>
+  <DT><STRONG>transpiration cooling</STRONG> 
+  <DD>A process by which a body having a porous surface is cooled by forced flow 
+  of <A href="c.html#coolant">coolant</A> 
+  fluid through the surface from the interior. Compare <A 
+  href="f.html#film cooling">film 
+  cooling</A>. <A name=transponder></A><A name=transponders></A>
+  <DT><STRONG>transponder</STRONG> 
+  <DD>A combined <A 
+  href="r.html#receiver">receiver</A> and 
+  <A 
+  href="t.html#transmitter">transmitter</A> 
+  whose function is to transmit signals automatically when triggered by an <A 
+  href="i.html#interrogator">interrogator</A>. 
+  See <A 
+  href="t.html#transceiver">transceiver</A>. 
+
+  <DT><STRONG>transponder beacon</STRONG> 
+  <DD>A <A href="b.html#beacon">beacon</A> 
+  having a <A 
+  href="t.html#transponder">transponder</A>. 
+  Also called <I>responder beacon. </I>
+  <DT><STRONG>transport </STRONG>= flux. <A name=transverse></A>
+  <DT><STRONG>transverse</STRONG> 
+  <DD>In cartography, pertaining to or measured on a map projection in which a 
+  <A href="m.html#meridian">meridian</A> is 
+  used as a fictitious <A 
+  href="e.html#equator">equator</A>. 
+  <DT><STRONG>transverse sensitivity </STRONG>= cross sensitivity. 
+  <DT><STRONG>transverse vibration</STRONG> 
+  <DD><A 
+  href="v.html#vibration">Vibration</A> in 
+  which the direction of motion of the particles is perpendicular to the 
+  direction of advance of the vibratory motion, in contrast with longitudinal 
+  vibration, in which the direction of motion is the same as that of advance. <A 
+  name="transverse wave"></A>
+  <DT><STRONG>transverse wave</STRONG> 
+  <DD>A wave in which the direction of <A 
+  href="d.html#displacement">displacement</A> 
+  at each point of the medium is parallel to the <A 
+  href="w.html#wave front">wave front</A>. 
+  Contrast <A 
+  href="l.html#longitudinal wave">longitudinal 
+  wave</A>. 
+  <DT><STRONG>trap</STRONG> 
+  <DD>A part of a <A 
+  href="s.html#solid-propellant rocket engine">solid-propellant 
+  rocket engine</A> used to prevent the loss of unburned <A 
+  href="p.html#propellant">propellant</A> 
+  through the <A 
+  href="n.html#nozzle">nozzle</A>. 
+  <DT><STRONG>trapping</STRONG> 
+  <DD>The process by which radiation <A 
+  href="p.html#particles">particles</A> are 
+  caught and held in a <A 
+  href="r.html#radiation belt">radiation 
+  belt</A>. 
+  <DT><STRONG>Tr Au</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Triangulum Australe. 
+  </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name="traveling plane wave"></A>
+  <DT><STRONG>traveling plane wave</STRONG> 
+  <DD>A <A href="p.html#plane wave">plane 
+  wave</A> each of whose frequency components has an exponential variation of <A 
+  href="a.html#amplitude">amplitude</A> and 
+  a linear variation of <A 
+  href="p.html#phase">phase</A> in the 
+  direction of <A 
+  href="p.html#propagation">propagation</A>. 
+  <A name="traveling-wave tube"></A>
+  <DT><STRONG>traveling-wave tube (abbr TWT)</STRONG> 
+  <DD>An <A 
+  href="e.html#electron tube">electron 
+  tube</A> in which a stream of electrons interacts continuously or repeatedly 
+  with a guided <A 
+  href="e.html#electromagnetic wave">electromagnetic 
+  wave</A> moving substantially in synchronism with it, and in such a way that 
+  there is a net transfer of energy from the stream to the wave. 
+  <DT><STRONG>Tri, Tria</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Triangulum. </I>See 
+  <A 
+  href="c.html#constellation">constellation.</A> 
+
+  <DT><STRONG>Triangulum (abbr Tri, Tria)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Triangulum Australe</STRONG> 
+  <DD>(abbr TrA, Tr Au) See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Tridop</STRONG> 
+  <DD>A continuous-wave <A 
+  href="t.html#trajectory measuring system">trajectory 
+  measuring system</A> using the <A 
+  href="d.html#doppler shift">Doppler 
+  shift</A> caused by a target moving relative to a ground transmitter and three 
+  or more receiving stations. 
+  <DT><STRONG>triple point</STRONG> 
+  <DD>The thermodynamic state at which three phases of a substance exist in 
+  equilibrium. The triple point of water occurs at a saturation vapor pressure 
+  of 6.11 millibar and at a temperature of 273.16 degrees K. 
+  <DT><STRONG>triplexer</STRONG> 
+  <DD>A dual- <A 
+  href="d.html#duplexer">duplexer</A> which 
+  permits the use of two receivers simultaneously and independently in a <A 
+  href="r.html#radar">radar</A> system by 
+  disconnecting the receivers during the transmitted <A 
+  href="p.html#pulse">pulse</A>. 
+  <DT><STRONG>Triton</STRONG> 
+  <DD>A <A 
+  href="s.html#satellite">satellite</A> of 
+  Neptune orbiting at a mean distance of 354,000 kilometers. 
+  <DT><STRONG>trochoid</STRONG> 
+  <DD>The path followed by a point in a diameter of a circle as the circle rolls 
+  along a straight line. <A name=trochotron></A>
+  <DT><STRONG>trochotron</STRONG> 
+  <DD>An <A 
+  href="e.html#electron tube">electron 
+  tube</A> in which a <A 
+  href="m.html#magnetic field">magnetic 
+  field</A> causes the electrons to travel in trochoidal paths. See <A 
+  href="b.html#beam-switching tube">beam-switching 
+  tube</A>. 
+  <DT><STRONG>Trojan asteroids</STRONG> 
+  <DD>Two groups of minor planets that liberate in long-period <A 
+  href="o.html#orbits">orbits</A> around 
+  the stable <A 
+  href="l.html#lagrangian points">Lagrangian 
+  points</A> of the Sun and Jupiter. Called <I>Trojan </I>because they are named 
+  after heroes of the Trojan War. 
+  <DT><STRONG>tropical</STRONG> 
+  <DD>Of or pertaining to the <A 
+  href="v.html#vernal equinox">vernal 
+  equinox</A>. See <A 
+  href="s.html#sidereal">sidereal</A>. 
+  <DT><STRONG>tropical month</STRONG> 
+  <DD>The average period of the revolution of the moon about the earth with 
+  respect to the <A 
+  href="v.html#vernal equinox">vernal 
+  equinox</A>, a period of 27 days 7 hours 43 minutes 4.7 seconds, or 
+  approximately 27 1/3 days. <A name="tropical year"></A>
+  <DT><STRONG>tropical year</STRONG> 
+  <DD>The period of one <A 
+  href="r.html#revolution">revolution</A> 
+  of the earth around the sun, with respect to the <A 
+  href="v.html#vernal equinox">vernal 
+  equinox</A>. Because of precession of the equinoxes, the tropical year is not 
+  360 degrees with respect to the stars, but 50 minutes 0.3 seconds less. A 
+  tropical year is about 20 minutes shorter than a sidereal year, averaging 365 
+  days 5 hours 48 minutes 45.68 seconds in 1955 and is increasing at the rate of 
+  0.005305 second annually. Also called <I>astronomical, equinoctial, natural, 
+  or solar year. </I>
+  <DT><STRONG>tropic of Cancer</STRONG> 
+  <DD>The northern <A 
+  href="p.html#parallel of declination">parallel 
+  of declination</A>, approximately 23 degrees 27' from the celestial equator, 
+  reached by the sun at its maximum declination, or the corresponding parallel 
+  on the earth. It is named for the sign of the zodiac in which the sun reached 
+  its maximum northerly declination at the time the parallel was so named. 
+  <DT><STRONG>tropic of Capricorn</STRONG> 
+  <DD>The southern <A 
+  href="p.html#parallel of declination">parallel 
+  of declination</A>, approximately 23 degrees 27' from the celestial equator, 
+  reached by the sun at its maximum declination, or the corresponding parallel 
+  on the earth. It is named for the sign of the zodiac in which the sun reached 
+  its maximum southernly declination at the time the parallel was so named. <A 
+  name=tropopause></A>
+  <DT><STRONG>tropopause</STRONG> 
+  <DD>The boundary between the <A 
+  href="t.html#troposphere">troposphere</A> 
+  and <A 
+  href="s.html#stratosphere">stratosphere</A>, 
+  usually characterized by an abrupt change of <A 
+  href="l.html#lapse rate">lapse rate</A>. 
+  The change is in the direction of increased atmospheric stability from regions 
+  below to regions above the tropopause. Its height varies from 15 to 20 
+  kilometers in the tropics to about 10 kilometers in polar regions. In polar 
+  regions in winter it is often difficult or impossible to determine just where 
+  the tropopause lies, since under some conditions there is no abrupt change in 
+  lapse rate at any height. <A name=troposphere></A>
+  <DT><STRONG>troposphere</STRONG> 
+  <DD>That portion of the <A 
+  href="a.html#atmosphere">atmosphere</A> 
+  from the earth's surface to the <A 
+  href="s.html#stratosphere">stratosphere</A>; 
+  that is, the lowest 10 to 20 kilometers of the atmosphere. The troposphere is 
+  characterized by decreasing temperature with height, appreciable vertical wind 
+  motion, appreciable water vapor content, and weather. Dynamically, the 
+  troposphere can be divided into the following layers: <A 
+  href="s.html#surface boundary layer">surface 
+  boundary layer</A>, Ekamn layer, and <A 
+  href="f.html#free atmosphere">free 
+  atmosphere</A>. See <A 
+  href="a.html#atmospheric shell">atmospheric 
+  shell</A>. <A name=tropospheric></A>
+  <DT><STRONG>tropospheric wave</STRONG> 
+  <DD>A <A href="r.html#radio wave">radio 
+  wave</A> that is <A 
+  href="p.html#propagated">propagated</A> 
+  by reflection from a place of abrupt change in the <A 
+  href="d.html#dielectric constant">dielectric 
+  constant</A> or its gradient in the <A 
+  href="t.html#troposphere">troposphere</A>. 
+  In some cases the ground wave may be so altered that new components appear to 
+  arise from reflections in regions of rapidly changing dielectric constants; 
+  when these components are distinguishable from the other components, they are 
+  called <I>tropospheric waves. </I>
+  <DT><STRONG>trud count</STRONG> 
+  <DD>(From time remaining until dive.) A count (in minutes and seconds) that 
+  measures the time between a rocket <A 
+  href="l.html#launch">launch</A> and the 
+  moment it apogees and begins its dive. 
+  <DT><STRONG>true</STRONG> 
+  <DD>1. Related to or measured from true north. 
+  <DD>2. Actual, as contrasted with fictitious, as <I>true sun. </I>
+  <DD>3. Related to a fixed point, either on the earth or in space, as <I>true 
+  wind; </I>in contrast with <I>relative. </I>
+  <DD>4. Corrected, as <I>true altitude. </I><A name="true altitude"></A>
+  <DT><STRONG>true altitude</STRONG> 
+  <DD>1. Actual height above sea level; calibrated altitude corrected for air 
+  temperature. 
+  <DD>2. The actual <A 
+  href="a.html#altitude">altitude</A> of a 
+  celestial body above the celestial horizon. Usually called <I>observed 
+  altitude. </I>
+  <DT><STRONG>true anomaly</STRONG> 
+  <DD>See <A 
+  href="a.html#anomaly">anomaly</A>. 
+  <DT><STRONG>true meridian</STRONG> 
+  <DD>A <A href="g.html#great circle">great 
+  circle</A> through the geographical poles, distinguished from <A 
+  href="m.html#magnetic meridian">magnetic 
+  meridian</A>, <A 
+  href="g.html#grid">grid</A>meridian, etc. 
+
+  <DT><STRONG>true position</STRONG> 
+  <DD>The position of a <A 
+  href="c.html#celestial body">celestial 
+  body</A> (or space vehicle) on the <A 
+  href="c.html#celestial sphere">celestial 
+  sphere</A> as computed directly from the elements of the <A 
+  href="o.html#orbit">orbit</A> of the 
+  earth and the body concerned without allowance for <A 
+  href="l.html#light time">light time</A>. 
+  Also called <I>geometric position. </I>
+  <DT><STRONG>true prime vertical</STRONG> 
+  <DD>The <A 
+  href="v.html#vertical circle">vertical 
+  circle</A> through the true east and west points of the <A 
+  href="h.html#horizon">horizon</A>, as 
+  distinguished from magnetic, compass, or grid prime vertical through the 
+  magnetic, compass, or grid east and west points, respectively. <A 
+  name="true sun"></A>
+  <DT><STRONG>true sun</STRONG> 
+  <DD>The actual sun as it appears in the sky. Usually called <I>apparent sun. 
+  </I>See <A href="m.html#mean sun">mean 
+  sun</A>, <A 
+  href="d.html#dynamical mean sun">dynamical 
+  mean sun</A>. 
+  <DT><STRONG>truncation error</STRONG> 
+  <DD>In computations, the <A 
+  href="e.html#error">error</A> resulting 
+  from the use of only a finite number of terms of an infinite series or from 
+  the approximation of operations in the infinitesimal calculus by operations in 
+  the calculus of finite differences. 
+  <DT><STRONG>trunk </STRONG>= bus. <A name=t-time></A>
+  <DT><STRONG>T-time</STRONG> 
+  <DD>Any specific time, minus or plus as referenced to zero or launch time, 
+  during a <A 
+  href="c.html#countdown">countdown</A> 
+  sequence that is intended to result in the firing of a rocket propulsion unit 
+  that launches a rocket vehicle. 
+  <DT><STRONG>Tucana (abbr Tuc, Tucn)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Tucn</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Tucana. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Tuc, Tucn</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Tucana. </I>See <A 
+  href="c.html#constellation">constellation.</A> 
+
+  <DT><STRONG>tumble</STRONG> 
+  <DD>1. To rotate end over end - said of a rocket, of an ejection capsule, etc. 
+
+  <DD>2. Of a gyro, to <A 
+  href="p.html#precess">precess</A> 
+  suddenly and to an extreme extent as a result of exceeding its operating 
+  limits of bank or pitch. 
+  <DT><STRONG>tumbling</STRONG> 
+  <DD>An attitude situation in which the vehicle continues on its flight, but 
+  turns end over end about its center of mass. 
+  <DT><STRONG>tuned damper</STRONG> 
+  <DD>A device for reducing <A 
+  href="v.html#vibration">vibration</A> of 
+  a primary system by the transfer of energy to an auxiliary <A 
+  href="r.html#resonant">resonant</A> 
+  system which is tuned to the frequency of the vibration. The force extered by 
+  the auxiliary system is opposite in <A 
+  href="p.html#phase">phase</A> to the 
+  force acting on the primary system. 
+  <DT><STRONG>tunnel</STRONG> 
+  <DD>1. A structure, installation, or facility incorporating apparatus to 
+  simulate flight conditions in one way or another, specially designed for 
+  testing or experimenting with power plants, or with aircraft, rockets, or 
+  other aerodynamically designed bodies, engine installations, or models; 
+  specifically, a <A 
+  href="w.html#wind tunnel">wind 
+  tunnel</A>. 
+  <DD>2. A longitudinal protuberance on a rocket body used to house wiring, 
+  piping, etc., so as to not route the wiring through the propellant tanks. 
+  <DT><STRONG>tunnel axis</STRONG> 
+  <DD>Any one of the geometrical <A 
+  href="a.html#axes">axes</A> of a <A 
+  href="w.html#wind tunnel">wind 
+  tunnel</A>. 
+  <DT><STRONG>turbidity</STRONG> 
+  <DD>In meteorology, any condition of the <A 
+  href="a.html#atmosphere">atmosphere</A> 
+  which reduces its transparency to <A 
+  href="r.html#radiation">radiation</A>, 
+  especially to visible radiation. Ordinarily, this is applied to a cloud-free 
+  portion of the atmosphere that owes its turbidity to air molecules and 
+  suspensoids such as smoke, dust, and haze, and the scintillation effects. <A 
+  name="turbidity factor"></A>
+  <DT><STRONG>turbidity factor</STRONG> 
+  <DD>A measure of the atmospheric transmission of incident <A 
+  href="s.html#solar radiation">solar 
+  radiation</A>. If <i>I<sub>0</sub></i> is the flux density of the solar beam just 
+  outside the earth's atmosphere, <i>I</i> the flux density measured at the earth's 
+  surface with the sun at a zenith distance which implies an optical air mass 
+  <I>m </I>, and <i>I<sub>m,w</sub></i> the intensity which would be observed at the 
+  earth's surface for a pure atmosphere containing one centimeter of perceptible 
+  water viewed through the given optical air mass, then Linke's turbidity factor 
+  &theta; is given by
+  <center>&theta; = (ln <i>I<sub>0</sub></i> - ln <i>I</i>)/(ln <i>I<sub>0</sub></i> - ln <i>I<sub>m,w</sub></i>)</center> <A name=turbine></A>
+  <DT><STRONG>turbine</STRONG> 
+  <DD>1. A machine consisting principally of one or more <A 
+  href="t.html#turbine wheels">turbine 
+  wheels</A> and a <A 
+  href="s.html#stator">stator</A>. 
+  <DD>2. A turbine wheel. 
+  <DD>3. A <A 
+  href="t.html#turbine engine">turbine 
+  engine</A>. See <A 
+  href="b.html#blowdown turbine">blowdown 
+  turbine</A>, <A 
+  href="e.html#explosion turbine">explosion 
+  turbine</A>, <A 
+  href="f.html#free turbine">free 
+  turbine</A>, <A 
+  href="g.html#gas turbine">gas 
+  turbine</A>, <A 
+  href="i.html#impulse turbine">impulse 
+  turbine</A>, <A 
+  href="p.html#partial-admission turbine">partial-admission 
+  turbine</A>, <A 
+  href="r.html#reaction turbine">reaction 
+  turbine</A>, single-stage turbine. 
+  <DT><STRONG>turbine blade</STRONG> 
+  <DD>Any one of the <A 
+  href="b.html#blades">blades</A> of a <A 
+  href="t.html#turbine wheel">turbine 
+  wheel</A>. <A name="turbine engine"></A>
+  <DT><STRONG>turbine engine</STRONG> 
+  <DD>An engine incorporating a <A 
+  href="t.html#turbine">turbine</A> as a 
+  principal component; especially, a <A 
+  href="g.html#gas-turbine engine">gas-turbine 
+  engine</A>. <A name="turbine wheel"></A><A name="turbine wheels"></A>
+  <DT><STRONG>turbine wheel</STRONG> 
+  <DD>A multivaned wheel or <A 
+  href="r.html#rotor">rotor</A>, especially 
+  in a <A 
+  href="g.html#gas-turbine engine">gas-turbine 
+  engine</A>, rotated by the impulse from or reaction to a <A 
+  href="f.html#fluid">fluid</A> passing 
+  across the vanes. Often called a <I>turbine. </I>
+  <DT><STRONG>turbofan</STRONG> 
+  <DD>A <A 
+  href="t.html#turbojet engine">turbojet 
+  engine</A> in which additional propulsive thrust is gained by extending a 
+  portion of the <A 
+  href="c.html#compressor">compressor</A> 
+  or <A href="t.html#turbine">turbine</A> 
+  blades outside the inner engine case. The extended blades propel bypass air 
+  flows along the engine axis but between the inner and outer engine casing. 
+  This air is not combusted but does provide additional thrust caused by the 
+  propulsive effect imparted to it by the extended compressor blading. 
+  <DT><STRONG>turbojet</STRONG> 
+  <DD>1. = <A 
+  href="t.html#turbojet engine">turbojet 
+  engine</A>. 
+  <DD>2. A craft propelled by a turbojet engine. See <A 
+  href="j.html#jet engine">jet engine</A>. 
+  <A name="turbojet engine"></A>
+  <DT><STRONG>turbojet engine</STRONG> 
+  <DD>A <A href="j.html#jet engine">jet 
+  engine</A> incorporating a turbine-driven air <A 
+  href="c.html#compressor">compressor</A> 
+  to take in and compress the air for the combustion of fuel (or for heating by 
+  a nuclear reactor), the gases of combustion (or the heated air) being used 
+  both to rotate the <A 
+  href="t.html#turbine">turbine</A> and to 
+  create a thrust producing jet. Often called a <I>turbojet. </I>See <A 
+  href="j.html#jet engine">jet engine</A>, 
+  sense 2. <A name=turbulence></A>
+  <DT><STRONG>turbulence</STRONG> 
+  <DD>A state of fluid <A 
+  href="f.html#flow">flow</A> in which the 
+  instantaneous velocities exhibit irregular and apparently random fluctuations 
+  so that in practice only statistical properties can be recognized and 
+  subjected to analysis. Compare <A 
+  href="l.html#laminar flow">laminar 
+  flow</A>. 
+  <DD><I>These fluctuations often constitute major deformations of the flow and 
+  are capable of transporting momentum, energy, and suspended matter at rates 
+  far in excess of the rate of transport by the molecular processes of diffusion 
+  and conduction in a nonturbulent or laminar flow. </I><A 
+  name="turbulent boundary layer"></A>
+  <DT><STRONG>turbulent boundary layer</STRONG> 
+  <DD>The layer in which the <A 
+  href="r.html#reynolds stresses">Reynolds 
+  stresses</A> are much larger than the <A 
+  href="v.html#viscous stresses">viscous 
+  stresses.</A> When the <A 
+  href="r.html#reynolds number">Reynolds 
+  number</A> is sufficiently high, there is a turbulent layer adjacent to the <A 
+  href="l.html#laminar boundary layer">laminar 
+  boundary layer</A>. <A name="turbulent flow"></A>
+  <DT><STRONG>turbulent flow</STRONG> 
+  <DD>Fluid motion in which random motions of parts of the <A 
+  href="f.html#fluid">fluid</A> are 
+  superimposed upon a simple pattern of <A 
+  href="f.html#flow">flow</A>. All or 
+  nearly all fluid flow displays some degree of turbulence. The opposite is <A 
+  href="l.html#laminar flow">laminar 
+  flow</A>. 
+  <DT><STRONG>turbulent scatter</STRONG> 
+  <DD>See <A 
+  href="s.html#scatter">scatter</A>. 
+  <DT><STRONG>turbulent shear stresses</STRONG> 
+  <DD>See <A 
+  href="r.html#reynolds stresses">Reynolds 
+  stresses</A>. 
+  <DT><STRONG>turn error</STRONG> 
+  <DD>Any error in <A 
+  href="g.html#gyro">gyro</A> output due to 
+  cross-coupling and <A 
+  href="a.html#acceleration">acceleration</A> 
+  encountered during vehicle turns. 
+  <DT><STRONG>turnover frequency = Nyquist frequency.</STRONG> 
+  <DT><STRONG>turnstile antenna</STRONG> 
+  <DD>An <A 
+  href="a.html#antenna">antenna</A> 
+  composed of two <A 
+  href="d.html#dipole antennas">dipole 
+  antennas</A>, normal to each other, with their axes intersecting at their 
+  midpoints. Usually, the currents are equal and in phase quadrature. 
+  <DT><STRONG>T-wave</STRONG> 
+  <DD>In an electrocardiogram, the deflection which represents repolarization on 
+  the ventricles. It is normally upright, varying rather widely in amplitude and 
+  duration. <A name="twenty-four hour satellite"></A>
+  <DT><STRONG>twenty-four hour satellite</STRONG> 
+  <DD>A <A 
+  href="s.html#synchronous satellite">synchronous 
+  satellite</A> of the earth. <A name=twilight></A>
+  <DT><STRONG>twilight</STRONG> 
+  <DD>The periods of incomplete darkness following sunset (evening twilight) or 
+  preceding sunrise (morning twilight). 
+  <DD><I>Twilight is designated as civil, nautical, or astronomical, as the 
+  darker limit occurs when the center of the sun is at zenith distances of 96 
+  degrees, 102 degrees, and 108 degrees, respectively. </I>
+  <DT><STRONG>two-body problem</STRONG> 
+  <DD>That problem in classical <A 
+  href="c.html#celestial mechanics">celestial 
+  mechanics</A> which treats of the relative motion of two point masses under 
+  their mutual <A 
+  href="g.html#gravitational">gravitational</A> 
+  attraction. 
+  <DT><STRONG>two-color pyrometer</STRONG> 
+  <DD>A high-temperature <A 
+  href="t.html#thermometer">thermometer</A> 
+  wherein spectral radiation from the object is measured at two different <A 
+  href="w.html#wavelengths">wavelengths</A>. 
+
+  <DD><I>Temperature may be deduced without knowledge of the <A 
+  href="e.html#emittance">emittance</A> if 
+  (and only if) the object is a gray body. The method is applicable to gases and 
+  to opaque objects. </I></DD>

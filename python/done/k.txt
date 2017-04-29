@@ -1,0 +1,219 @@
+<DT><STRONG>Karman street</STRONG> = Karman vortex street. 
+  <DT><STRONG>Karman vortex street</STRONG> 
+  <DD>(After Theodore von Karman, 1881-1963, Hungarian-born American scientist). 
+  A double trail of <A 
+  href="v.html#vortices">vortices</A> 
+  formed alternately on both sides of a cylinder or similar body moving at right 
+  angles to its axis through a <A 
+  href="f.html#fluid">fluid</A>, the 
+  cortices in one row rotating in a direction opposite to that of the other row. 
+
+  <DT><STRONG>K-band</STRONG> 
+  <DD>A <A 
+  href="f.html#frequency band">frequency 
+  band</A> used in <A 
+  href="r.html#radar">radar</A> extending 
+  approximately from 10.9 gigacycles per second to 36 gigacycles per second. <A 
+  name=k-corona></A>
+  <DT><STRONG>K-corona</STRONG> 
+  <DD>That portion of the radiation from the solar <A 
+  href="c.html#corona">corona</A> 
+  consisting of the <A 
+  href="c.html#continuous spectrum">continuous 
+  spectrum</A> scattered by <A 
+  href="e.html#electrons">electrons</A>. <A 
+  name=k-display></A>
+  <DT><STRONG>K-display</STRONG> 
+  <DD>In radar, a modified <A 
+  href="a.html#a-display">A-display</A> in 
+  which a <A 
+  href="t.html#target">target</A> appears 
+  as a pair of vertical deflections or <A 
+  href="b.html#blips">blips</A> instead of 
+  a single deflection. When the radar <A 
+  href="a.html#antenna">antenna</A> is 
+  correctly pointed at the target in azimuth, the blips are of equal height. 
+  When not correctly pointed, the difference in blip height is an indication of 
+  direction and magnitude of azimuth pointing error. Also called <I>K-scan, 
+  K-scope, K-indicator. </I><A name=kelvin></A>
+  <DT><STRONG>Kelvin scale </STRONG>= Kelvin temperature scale. <A 
+  name="kelvin temperature scale"></A>
+  <DT><STRONG>Kelvin temperature scale (abbr K)</STRONG> 
+  <DD>An <A 
+  href="a.html#absolute temperature scale">absolute 
+  temperature scale</A> independent of the thermometric properties of the 
+  working substance. On this scale, the difference between two temperatures T1 
+  and T2 is proportional to the heat converted into mechanical work by a <A 
+  href="c.html#carnot engine">Carnot 
+  engine</A> operating between the <A 
+  href="i.html#isotherms">isotherms</A> and 
+  <A href="a.html#adiabats">adiabats</A> 
+  through T1 and T2. Also called <I>absolute temperature scale, thermodynamic 
+  temperature scale. </I>
+  <DD><I>For convenience the Kelvin is identified with the Celsius degree. The 
+  ice point in the Kelvin scale is 273.15 degrees K. The triple point of water, 
+  the fundamental reference points, is 273.16 degrees K. See <A 
+  href="a.html#absolute zero">absolute 
+  zero</A>, <A 
+  href="a.html#approximate absolute temperature scale">approximate 
+  absolute temperature scale</A>, <A 
+  href="r.html#rankine temperature scale">Rankine 
+  temperature scale</A>. </I>
+  <DT><STRONG>Kennelly-Heaviside layer</STRONG> = E-layer. 
+  <DT><STRONG>Kepler equation</STRONG> 
+  <DD>In celestial mechanics <center><I>M </I>= <I>E </I>- <I>e </I>sin <I>E </I></center> where 
+  <I>M </I>is mean anomaly; <I>E </I>is eccentric anomaly; and <I>e </I>is 
+  eccentricity of the orbital ellipse. See <A 
+  href="a.html#anomaly">anomaly</A>, note. 
+  <DT><STRONG>Keplerian</STRONG> 
+  <DD>Pertaining to motion in conformance with <A 
+  href="k.html#kepler laws">Kepler 
+  laws</A>, as <I>Keplerian trajectory, Keplerian ellipse. </I><A 
+  name="kepler laws"></A>
+  <DT><STRONG>Kepler laws</STRONG> 
+  <DD>The three empirical laws governing the motions of planets in their <A 
+  href="o.html#orbits">orbits</A>, 
+  discovered by Johannes Kepler (1571-1630). These are: (a) the orbits of the 
+  planets are <A 
+  href="e.html#ellipses">ellipses</A>, with 
+  the sun at a common focus; (b) as a planet moves in its orbit, the line 
+  joining the planet and sun sweeps over equal areas in equal intervals of time 
+  (also called <I>law of equal areas </I>); (c) the squares of the periods of 
+  revolution of any two planets are proportional to the cubes of their mean 
+  distances from the sun. 
+  <DT><STRONG>Kepler planetary laws</STRONG> = Kepler laws. 
+  <DT><STRONG>kilo (abbr k)</STRONG> 
+  <DD>Prefix meaning multiplied by 1000. 
+  <DT><STRONG>kilocalorie (abbr kcal)</STRONG> 
+  <DD>See <A 
+  href="c.html#calorie">calorie</A>. 
+  <DT><STRONG>kilocycle (abbr kc)</STRONG> 
+  <DD>One thousand cycles or 1000 cycles per second. <A name=kilogram></A>
+  <DT><STRONG>kilogram (abbr kg)</STRONG> 
+  <DD>The unit of mass in the metric system; the mass of the International 
+  Prototype Kilogram, a cylinder of platinum-iridium alloy, stored at Seures, 
+  France, by the International Bureau of Weights and Measures. 
+  <DT><STRONG>kilogram calorie (abbr kg-cal, Kcal, Cal)</STRONG> 
+  <DD>See <A 
+  href="c.html#calorie">calorie</A>. 
+  <DT><STRONG>kilomegacycle </STRONG>= gigacycle. <A name=kilometers></A>
+  <DT><STRONG>kilometer (abbr km)</STRONG> 
+  <DD>A unit of distance in the metric system. 
+  <DD><I>1 kilometer = 3280.8 feet = 1093.6 yards = 1000 meters = 0.62137 
+  statute miles = 0.53996 nautical miles. </I>
+  <DT><STRONG>kilometric waves</STRONG> 
+  <DD>See <A 
+  href="f.html#frequency bands">frequency 
+  bands</A>. 
+  <DT><STRONG>K-indicator</STRONG> = K-display. 
+  <DT><STRONG>K-indices </STRONG>= magnetic K-indices. 
+  <DT><STRONG>kinematic eddy viscosity</STRONG> 
+  <DD>See <A 
+  href="k.html#kinematic viscosity">kinematic 
+  viscosity</A>. 
+  <DT><STRONG>kinematics</STRONG> 
+  <DD>The branch of mechanics dealing with the description of the motion of 
+  bodies or fluids without reference to the forces producing the motion. <A 
+  name="kinematic viscosity"></A>
+  <DT><STRONG>kinematic viscosity (symbol <i>v</i>)</STRONG> 
+  <DD>A <A 
+  href="c.html#coefficient">coefficient</A> 
+  defined as the ratio of the <A 
+  href="d.html#dynamic viscosity">dynamic 
+  viscosity</A> of a <A 
+  href="f.html#fluid">fluid</A> to its 
+  density. 
+  <DD><I>The kinematic viscosity of most gases increases with increasing 
+  temperature and decreasing pressure. For dry air at 0 degrees C, the kinematic 
+  viscosity is about 0.13 square centimeter per second. In the theory of 
+  atmospheric turbulence the kinematic viscosity is usually replaced by the 
+  kinematic eddy viscosity to account for the increased internal friction due to 
+  turbulence. </I><A name="kinetic energy"></A><A name="kinetic energies"></A>
+  <DT><STRONG>kinetic energy (symbol E<sub>k</sub>)</STRONG> 
+  <DD>The <A 
+  href="e.html#energy">energy</A> which a 
+  body possesses as a consequence of its motion, defined as one-half the product 
+  of its mass <I>m </I>and the square of its speed <I>v, 1/2 mv<SUP>2</SUP>. </I>The kinetic energy per unit volume of a 
+  fluid parcel is the <I>1/2 p v2 </I>, where <I>p </I>is the density and <I>v 
+  </I>the speed of the parcel. See <A 
+  href="p.html#potential energy">potential 
+  energy</A>. 
+  <DD><I>For relativistic speeds the kinetic energy is given by <center>E<sub>k</sub> = 
+  mc<sup>2</sup> - m<sub>0</sub>c<sup>2</sup> </center>where c is the velocity of light in a vacuum, m<sub>0</sub> is the rest mass, and m is the moving mass. </I>
+  <DT><STRONG>kinetic-energy equation </STRONG>= mechanical-energy equation. 
+  <DT><STRONG>kinetic pressure </STRONG>= dynamic pressure. <A 
+  name="kinetic theory"></A>
+  <DT><STRONG>kinetic theory</STRONG> 
+  <DD>The derivation of the bulk properties of <A 
+  href="f.html#fluids">fluids</A> from the 
+  properties of their constituent <A 
+  href="m.html#molecules">molecules</A>, 
+  their motions, and interactions. 
+  <DT><STRONG>kink instability</STRONG> 
+  <DD>In <A 
+  href="p.html#plasma physics">plasma 
+  physics</A>, a kinking or bending of a current-carrying filament in the <A 
+  href="p.html#pinch effect">pinch 
+  effect</A> geometry. 
+  <DD><I>If a slight bend forms in the plasma column of a pinch, the magnetic 
+  forces are such as to increase the bend and the column is unstable. </I><A 
+  name="kirchhoff law"></A>
+  <DT><STRONG>Kirchhoff law</STRONG> 
+  <DD>The <A 
+  href="r.html#radiation law">radiation 
+  law</A> which states that at a given temperature the ratio of the <A 
+  href="e.html#emissivity">emissivity</A> 
+  to the <A 
+  href="a.html#absorptivity">absorptivity</A> 
+  for a given wavelength is the same for all bodies and is equal to the 
+  emissivity of an ideal <A 
+  href="b.html#black body">black body</A> 
+  at that temperature and wavelength. 
+  <DD><I>Loosely put, this important law asserts that good absorbers of a given 
+  wavelength are also good emitters of that wavelength. It is essential to note 
+  that the Kirchhoff law relates absorption and emission at the same wavelength 
+  and at the same temperature. Also called Kirchhoff radiation law. </I>
+  <DT><STRONG>klystron</STRONG> 
+  <DD>An <A 
+  href="e.html#electron tube">electron 
+  tube</A> for converting direct-current energy into radio frequency energy by 
+  alternately speeding up and slowing down the electrons. See <A 
+  href="m.html#magnetron">magnetron</A>. 
+  <DT><STRONG>knot</STRONG> 
+  <DD>A nautical mile per hour, 1.1508 statute miles per hour. 
+  <DT><STRONG>Knudsen flow</STRONG> 
+  <DD>The flow of <A 
+  href="g.html#gases">gases</A> through 
+  ducts and tubes under conditions intermediate between laminar <A 
+  href="v.html#viscous flow">viscous 
+  flow</A> and <A 
+  href="m.html#molecular flow">molecular 
+  flow</A>. Also called <I>transition flow. </I><A name="knudsen gage"></A>
+  <DT><STRONG>Knudsen gage</STRONG> 
+  <DD>A gage which measures pressure in terms of the net rate of transfer of <A 
+  href="m.html#momentum">momentum</A> by <A 
+  href="m.html#molecules">molecules</A> 
+  between two surface maintained at different temperatures and separated by a 
+  distance smaller than the <A 
+  href="m.html#mean free path">mean free 
+  path</A> of the gas molecules. Also called <I>radiometer vacuum gage. </I>
+  <DD><I>Various types of Knudsen gage are distinguished by the names of the 
+  inventors and differ mainly in the shape and method of suspension of the 
+  movable element. </I>
+  <DT><STRONG>Knudsen number</STRONG> 
+  <DD>A number used to describe the flow of a low density gas, equal to the 
+  ratio &lambda;/l where &lambda; is the mean free path of the gas molecule and l 
+  is a characteristic length, such as boundary layer thickness, or apparatus 
+  dimension. 
+  <DD><I>The Knudsen number is used most commonly to define the extend to which 
+  the gas behaves like a collection of independent particles (free-molecule 
+  regime, Knudsen number much larger than unity), or like a viscous fluid 
+  (continuous regime, Knudsen number much smaller than unity). Intermediate 
+  regimes are termed transition region, and <A 
+  href="s.html#slip flow">slip flow</A> 
+  region. See <A 
+  href="r.html#rarefied gas dynamics">rarefied 
+  gas dynamics</A>, note. </I><A name="knudsen rate of evaporation"></A>
+  <DT><STRONG>Knudsen rate of evaporation</STRONG> = maximum evaporation rate. 
+  <DT><STRONG>K-scan </STRONG>= K-display. 
+  <DT><STRONG>K-scope</STRONG> = K-display. </DT>

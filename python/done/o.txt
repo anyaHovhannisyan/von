@@ -1,0 +1,606 @@
+<DT><STRONG>Oberon</STRONG> 
+  <DD>A <A 
+  href="s.html#satellite">satellite</A> of 
+  Uranus orbiting at a mean distance of 587,000 kilometers. <STRONG>object 
+  glass</STRONG> = objective. <A name=objective></A>
+  <DT><STRONG>objective</STRONG> 
+  <DD>The lens or combination of lenses which receives light rays from an object 
+  and refracts them to form an image in the focal plane of the eyepiece of an 
+  optical instrument, such as a telescope. Also called <I>object glass. </I>
+  <DT><STRONG>oblate spheroid</STRONG> 
+  <DD>An <A 
+  href="e.html#ellipsoid">ellipsoid</A> of 
+  <A 
+  href="r.html#revolution">revolution</A>, 
+  the shorter axis of which is the axis of revolution. 
+  <DD><I>An ellipsoid of revolution, the longer axis of which is the axis of 
+  revolution, is called a prolate spheroid. The earth is approximately an oblate 
+  spheroid. </I>
+  <DT><STRONG>oblique</STRONG> 
+  <DD>Pertaining to, or measured on, an oblique projection, as <I>oblique 
+  equator, oblique pole, oblique latitude. </I>
+  <DT><STRONG>oblique coordinates</STRONG> 
+  <DD><A 
+  href="m.html#magnitudes">Magnitudes</A> 
+  defining a point relative to two intersecting nonperpendicular lines, called 
+  <I>axes. </I>See <A 
+  href="c.html#cartesian coordinates">Cartesian 
+  coordinates</A>. 
+  <DD><I>The magnitude indicate the distance from each axis, measured along a 
+  parallel to the other side. The horizontal distance is called the abscissa and 
+  the other distance, the ordinate. </I>
+  <DT><STRONG>oblique projection</STRONG> 
+  <DD>A map <A 
+  href="p.html#projection">projection</A> 
+  with an <A href="a.html#axis">axis</A> 
+  inclined at an oblique angle to the plane of the <A 
+  href="e.html#equator">equator</A>. 
+  <DT><STRONG>oblique shock</STRONG> = oblique shock wave. <A 
+  name="oblique shock wave"></A>
+  <DT><STRONG>oblique shock wave</STRONG> 
+  <DD>A <A href="s.html#shock wave">shock 
+  wave</A> inclined at an oblique angle to the direction of flow in a <A 
+  href="s.html#supersonic flow">supersonic 
+  flow</A> field. Sometimes shortened to <I>oblique shock. </I>Compare <A 
+  href="n.html#normal shock">normal 
+  shock</A>. 
+  <DT><STRONG>obliquity of the ecliptic (symbol &epsilon;)</STRONG> 
+  <DD>The angle between the plane of the <A 
+  href="e.html#ecliptic">ecliptic</A> (the 
+  plane of the earth's orbit) and the plane of the <A 
+  href="c.html#celestial equator">celestial 
+  equator</A>. 
+  <DD><I>The obliquity of the ecliptic is computed from the following formula: 
+  23 degrees 27 minutes 08.26 seconds - 0.4684 (t - 1900) seconds, where t is 
+  the year for which the obliquity is desired. </I>
+  <DT><STRONG>observed</STRONG> 
+  <DD>In astronomy and navigation, pertaining to a value which has been measured 
+  in contrast to one which is computed. 
+  <DT><STRONG>observed altitude</STRONG> = true altitude. 
+  <DT><STRONG>occlusion</STRONG> 
+  <DD>Specifically, the trapping of undisolved <A 
+  href="g.html#gas">gas</A> in a solid 
+  during solidification. <A name=occultation></A>
+  <DT><STRONG>occultation</STRONG> 
+  <DD>The disappearance of a body behind another body of larger apparent size. 
+  <DD><I>When the moon passes between the observer and a star, the star is said 
+  to be occulted. The three associated terms, occultation, eclipse, and transit, 
+  are exemplified by the motions of the satellites of Jupiter. An eclipse occurs 
+  when a satellite passes into the shadow cast by the planet; an occultation 
+  occurs when a satellite passes directly behind the planet; so that it could 
+  not be seen even if it were illuminated; and a transit occurs when a satellite 
+  passes between the observer and the planet, showing against the disk of the 
+  planet. </I>
+  <DT><STRONG>Oct, Octn</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Octans. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name="octal notation"></A>
+  <DT><STRONG>octal notation</STRONG> 
+  <DD><A 
+  href="n.html#notation">Notation</A> of 
+  numbers in the scale of eight. The octal digits can be represented by the 
+  eight possible combinations of three <A 
+  href="b.html#binary">binary</A> <A 
+  href="d.html#digits">digits</A>. 
+  <DT><STRONG>octant</STRONG> 
+  <DD>See <A 
+  href="s.html#sextant">sextant</A>. <A 
+  name=octave></A>
+  <DT><STRONG>octave</STRONG> 
+  <DD>The interval between any two <A 
+  href="f.html#frequencies">frequencies</A> 
+  having the ratio of 1:2. 
+  <DD><I>The interval in octaves between any two frequencies is the logarithm to 
+  the base 2 (or 3.322 times the logarithm to the base 10) of the frequency 
+  ratio. </I>
+  <DT><STRONG>Octn</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Octans. </I>See <A 
+  href="c.html#constellation">constellation.</A> 
+
+  <DT><STRONG>ocular</STRONG> 
+  <DD>Pertaining to or in relation with the eye. 
+  <DT><STRONG>oculogravic illusion</STRONG> = agravic illusion. 
+  <DT><STRONG>oculogyral illusion</STRONG> 
+  <DD>The apparent movement of an image in space in the same direction as that 
+  in which one seems to be turning when the <A 
+  href="s.html#semicircular canals">semicircular 
+  canals</A> are stimulated. 
+  <DT><STRONG>oculogyric</STRONG> 
+  <DD>Referring to movements of the eyes. <A name=oersteds></A>
+  <DT><STRONG>oersted</STRONG> 
+  <DD>The <A 
+  href="c.html#centimeter-gram-second">centimeter-gram-second</A> 
+  electromagnetic unit of <A 
+  href="m.html#magnetic">magnetic</A> 
+  intensity. See <A 
+  href="g.html#gauss">gauss</A>. 
+  <DT><STRONG>off-center plan position indicator</STRONG> 
+  <DD>See <A 
+  href="p.html#plan position indicator">plan 
+  position indicator</A>. <A name=ogive></A>
+  <DT><STRONG>ogive</STRONG> 
+  <DD>A body of revolution formed by rotating a circular arc about an axis that 
+  intersects the arc; the shape of this body; also, a nose of a projectile or 
+  the like so shaped. 
+  <DD><I>Typically, an ogive has the outline of a Gothic arch, although by 
+  definition it may be rounded rather than pointed. See <A 
+  href="t.html#tangent ogive">tangent 
+  ogive</A>. </I><A name=ohm></A>
+  <DT><STRONG>ohm (abbr &Omega;)</STRONG> 
+  <DD>The unit of electrical resistance; the resistance between two points of a 
+  conductor when a constant difference of potential of 1 <A 
+  href="v.html#volt">volt</A>, applied 
+  between these two points, produces in the conductor a current of 1 <A 
+  href="a.html#ampere">ampere</A> (the 
+  conductor not being the source of any electromotive force). 
+  <DT><STRONG>ohmic heating</STRONG> 
+  <DD>In <A 
+  href="p.html#plasma physics">plasma 
+  physics</A>, the <A 
+  href="e.html#energy">energy</A> imparted 
+  to charged particles as they respond to an electric field and make collisions 
+  with other particles. 
+  <DD><I>The name was chosen for its similarity to the heat generated in an 
+  ohmic resistance due to the collisions of the charge carriers in their medium. 
+  </I>
+  <DT><STRONG>oilcan</STRONG> 
+  <DD>Of a sheet-metal skin or of other covering, to snap in and out between 
+  rows of rivets or between other places of support in a fashion like that of 
+  the bottom of an oilcan. 
+  <DT><STRONG>omni</STRONG> 
+  <DD>1. A prefix meaning <I>all </I>, as in <I>omnidirectional. </I>
+  <DD>2. Short for <I>omnirange. </I>
+  <DT><STRONG>omnidirectional range</STRONG> = omnirange. 
+  <DT><STRONG>omnirange</STRONG> 
+  <DD>A radio navigation system providing a direct indication of the <A 
+  href="b.html#bearing">bearing</A> of the 
+  omnirange facility from the vehicle. Usually used in combination with <A 
+  href="d.html#distance measuring equipment">distance 
+  measuring equipment</A>. Also called <I>omnidirectional range. </I><A 
+  name=opacity></A>
+  <DT><STRONG>opacity</STRONG> 
+  <DD>Of an optical path, the reciprocal of <A 
+  href="t.html#transmission">transmission</A>. 
+  See <A 
+  href="t.html#transmittance">transmittance</A>. 
+
+  <DT><STRONG>opaque plasma</STRONG> 
+  <DD>A <A href="p.html#plasma">plasma</A> 
+  through which an <A 
+  href="e.html#electromagnetic wave">electromagnetic 
+  wave</A> cannot propagate and is either absorbed or reflected. 
+  <DD><I>In general, a plasma is opaque for frequencies below the plasma 
+  frequency. The fact that a plasma is opaque over a certain frequency range 
+  will change the radiation properties within that frequency range. Any 
+  radiation emitted within the volume of the plasma is quickly absorbed. In this 
+  opaque region, therefore, the plasma can only radiate from its surface. </I>
+  <DT><STRONG>open-center plan position indicator</STRONG> 
+  <DD>See <A 
+  href="p.html#plan position indicator">plan 
+  position indicator</A>. 
+  <DT><STRONG>open loop</STRONG> 
+  <DD>A <A href="s.html#system">system</A> 
+  operating without <A 
+  href="f.html#feedback">feedback</A>, or 
+  with only partial feedback. See <A 
+  href="c.html#closed loop system">closed 
+  loop system</A>. <A name="open system"></A>
+  <DT><STRONG>open system</STRONG> 
+  <DD>A system that provides for the body's metabolism in an aircraft or 
+  spacecraft cabin by removal of respiratory products and of waste from the 
+  cabin and by use of stored food and oxygen. Compare <A 
+  href="c.html#closed system">closed 
+  system</A>. <A name=operands></A>
+  <DT><STRONG>operand</STRONG> 
+  <DD>In <A 
+  href="c.html#computer">computer</A> 
+  operations, a word on which an operation is to be performed. 
+  <DT><STRONG>operating ratio = computing efficiency.</STRONG> <A 
+  name="operative temperature"></A>
+  <DT><STRONG>operative temperature</STRONG> 
+  <DD>In the study of human bioclimatology, one of several parameters devised to 
+  measure the air's cooling effect upon a human body. It is equal to the 
+  temperature at which a specified hypothetical environment would support the 
+  same heat loss from an unclothed, reclining human body as the actual 
+  environment. In the hypothetical environment, the wall and air temperatures 
+  are equal and the air movement is 7.6 centimeters per second. From experiment 
+  it has been found that the operative temperature <center><img src="optemp.gif"></center>
+  where t<sub>r</sub> is the mean radiant temperature; t<sub>a</sub>
+  is the mean air temperature; t<sub>s</sub> is the mean skin temperature (all in degrees C); 
+  and <I>v </I>is the airspeed in centimeters per second. 
+  <DT><STRONG>Oph, Ophi</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Ophiuchus. </I>See 
+  <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Ophiuchus (abbr Oph, Ophi)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name=opposition></A>
+  <DT><STRONG>opposition</STRONG> 
+  <DD>1. The situation of two <A 
+  href="c.html#celestial bodies">celestial 
+  bodies</A> having either <A 
+  href="c.html#celestial longitudes">celestial 
+  longitudes</A> or <A 
+  href="s.html#sidereal hour angles">sidereal 
+  hour angles</A> differing by 180 degrees. The term is usually used only in 
+  relation to the position of a planet or the moon from the sun. Compare <A 
+  href="c.html#conjunction">conjunction</A>. 
+
+  <DD>2. The situation of two <A 
+  href="p.html#periodic">periodic</A> 
+  quantities differing by half a <A 
+  href="c.html#cycle">cycle</A>. 
+  <DT><STRONG>optical air mass (symbol m)</STRONG> 
+  <DD>A measure of the length of the path through the atmosphere to seal level 
+  traversed by light rays from a celestial body, expressed as a multiple of the 
+  path length for a light source at the zenith. Originally called, simply, 
+  <I>air mass. </I>Also called <I>airpath. </I>
+  <DT><STRONG>optical axis</STRONG> 
+  <DD>Of an antenna, a line parallel to, but offset from, the electrical axis of 
+  an <A href="a.html#antenna">antenna</A>. 
+  <DD><I>This axis is offset by the distance necessary to have the optical 
+  sighting device removed from the electrical center of the antenna. </I><A 
+  name="optical density"></A>
+  <DT><STRONG>optical density</STRONG> = photographic transmission density. 
+  <DT><STRONG>optical depth </STRONG>= optical thickness. 
+  <DT><STRONG>optical double star</STRONG> 
+  <DD>Two stars in nearly the same line of sight but differing greatly in 
+  distance from the observer, as distinguished from a <A 
+  href="p.html#physical double star">physical 
+  double star</A>. 
+  <DT><STRONG>optical haze </STRONG>= terrestrial scintillation. 
+  <DT><STRONG>optical line of sight</STRONG> 
+  <DD>The generally curved path of visible light through the atmosphere. 
+  <DD><I>Often used erroneously for geometrical line of sight. </I><A 
+  name="optically effective atmosphere"></A>
+  <DT><STRONG>optically effective atmosphere</STRONG> 
+  <DD>That portion of the <A 
+  href="a.html#atmosphere">atmosphere</A> 
+  lying below the altitude from which scattered light at twilight still reaches 
+  the observer with sufficient intensity to be discerned. Also called 
+  <I>effective atmosphere. </I>
+  <DD><I>The top of this region lies between 50 and 60 kilometers. </I>
+  <DT><STRONG>optical mass</STRONG> = laser. 
+  <DT><STRONG>optical path</STRONG> 
+  <DD>1. = line of sight. 
+  <DD>2. The path followed by a ray of light through an optical system. 
+  <DT><STRONG>optical pyrometer</STRONG> 
+  <DD>A device for measuring the <A 
+  href="t.html#temperature">temperature</A> 
+  of an incandescent radiating body by comparing its <A 
+  href="b.html#brightness">brightness</A> 
+  for a selected wavelength interval within the <A 
+  href="v.html#visible spectrum">visible 
+  spectrum</A> with that of a standard source; a monochromatic radiation <A 
+  href="p.html#pyrometer">pyrometer</A>. 
+  <DD><I>Temperatures measured by optical pyrometers are known as brightness 
+  temperatures and except for black bodies are less than the true temperatures. 
+  </I>
+  <DT><STRONG>optical slant range</STRONG> 
+  <DD>The horizontal distance in a <A 
+  href="h.html#homogeneous atmosphere">homogeneous 
+  atmosphere</A> for which the <A 
+  href="a.html#attenuation">attenuation</A> 
+  is the same as that actually encountered along the true oblique path. 
+  <DT><STRONG>optical thickness</STRONG> 
+  <DD>Specifically, in calculations of the transfer of <A 
+  href="r.html#radiant energy">radiant 
+  energy</A>, the mass of a given absorbing or emitting material lying in a 
+  vertical column of unit cross-sectional area and extending between two 
+  specific levels. Also called <I>optical depth. </I>
+  <DD><I>If z1 and z2 are the lower and upper limits, respectively, of a layer 
+  in which the variation of a density p of some absorbing or emitting substance 
+  is given as a function of height z, then the quantity
+  <center><img src="optthick.gif"></center> is called the optical thickness of that 
+  substance within that particular layer. </I><A name="optical turbulence"></A>
+  <DT><STRONG>optical turbulence</STRONG> 
+  <DD>Irregular and fluctuating gradients of optical <A 
+  href="r.html#refractive index">refractive 
+  index</A> in the atmosphere. 
+  <DD><I>Optical turbulence is caused mainly by mixing of air of different 
+  temperatures, and particularly by thermal gradients which are sufficient to 
+  reverse the normal decrease in density with altitude, so that convection 
+  occurs. </I>
+  <DT><STRONG>optics</STRONG> 
+  <DD>See <A 
+  href="a.html#atmospheric optics">atmospheric 
+  optics</A>. 
+  <DT><STRONG>optimal</STRONG> 
+  <DD>Pertaining to a <A 
+  href="t.html#trajectory">trajectory</A>, 
+  path, or control motion, one that minimizes or maximizes some quantity or 
+  combination of quantities such as fuel, time, energy, distance, heat transfer, 
+  etc. This optimum condition, or path, is commonly calculated by a type of 
+  mathematics known as <I>calculus of variations. </I><A name=or></A>
+  <DT><STRONG>OR</STRONG> 
+  <DD>1. The <A 
+  href="l.html#logical operator">logical 
+  operator</A> which has the property that A or B is true if either A is true or 
+  B is true. 
+  <DD>2. In <A 
+  href="b.html#boolean algebra">Boolean 
+  algebra</A>, the operation of union. <A name=orbit></A><A name=orbits></A>
+  <DT><STRONG>orbit</STRONG> 
+  <DD>1. The path of a body or particle under the influence of a <A 
+  href="g.html#gravitational">gravitational</A> 
+  or other force. For instance, the orbit of a <A 
+  href="c.html#celestial body">celestial 
+  body</A> is its path relative to another body around which it revolves. 
+  <DD><I>Orbit is commonly used to designate a closed path and trajectory to 
+  denote a path which is not closed. Thus, the trajectory of a sounding rocket, 
+  the orbit of a satellite. </I>
+  <DD>2. To go around the earth or other body in an orbit, sense 1. 
+  <DT><STRONG>orbital</STRONG> 
+  <DD>Taking place in orbit, as <I>orbital refueling </I>, <I>orbital launch 
+  </I>, or pertaining to an orbit as <I>orbital plane. </I><A 
+  name="orbital elements"></A><A name="orbital element"></A>
+  <DT><STRONG>orbital elements</STRONG> 
+  <DD>A set of seven parameters defining the <A 
+  href="o.html#orbit">orbit</A> of a body 
+  attracted by a central, inverse-square force. 
+  <DD><I>Several different set of parameters have been used. For artificial 
+  satellites the elements usually given are: longitude of the ascending node, &Omega;; inclination of the orbit plane, i; argument of 
+  perigee,w; eccentricity, e; semimajor axis, a; mean 
+  anomaly, M; and epoch, t<sub>o</sub>. </I>
+  <DT><STRONG>orbital glider</STRONG> 
+  <DD>See <A 
+  href="h.html#hypersonic glider">hypersonic 
+  glider</A>. 
+  <DT><STRONG>orbital motion</STRONG> 
+  <DD>Continuous motion in a closed path such as a circle or an ellipse. <A 
+  name="orbital period"></A>
+  <DT><STRONG>orbital period</STRONG> 
+  <DD>The interval between successive passages of a <A 
+  href="s.html#satellite">satellite</A> 
+  through the same point in its <A 
+  href="o.html#orbit">orbit</A>. Often 
+  called <I>period. </I>See <A 
+  href="a.html#anomalistic period">anomalistic 
+  period</A>, <A 
+  href="n.html#nodical period">nodical 
+  period</A>, <A 
+  href="s.html#sidereal period">sidereal 
+  period</A>. <A name="orbital velocity"></A>
+  <DT><STRONG>orbital velocity</STRONG> 
+  <DD>1. The average velocity at which an earth <A 
+  href="s.html#satellite">satellite</A> or 
+  other orbiting body travels around its <A 
+  href="p.html#primary">primary</A>. 
+  Compare <A 
+  href="s.html#separation velocity">separation 
+  velocity</A>. 
+  <DD>2. The velocity of such a body at any given point in its orbit, as in 
+  <I>its orbital velocity at the apogee is less than at the perigee. </I>
+  <DD>3. = <A 
+  href="c.html#circular velocity">circular 
+  velocity</A>. 
+  <DT><STRONG>orbiting</STRONG> 
+  <DD>Of a <A 
+  href="s.html#spacecraft">spacecraft</A>, 
+  in orbit about the earth or other spatial body, as in <I>an orbiting 
+  astronomical laboratory. </I>
+  <DT><STRONG>OR-circuit </STRONG>= OR-gate. <A name="order of magnitude"></A>
+  <DT><STRONG>order of magnitude</STRONG> 
+  <DD>A factor of 10. Compare <A 
+  href="o.html#octave">octave</A>, <A 
+  href="m.html#magnitude">magnitude</A>. 
+  <DD><I>Two quantities of the same kind which differ by less than a factor of 
+  10 are said to be of the same order of magnitude. Order of magnitude is used 
+  loosely by many writers to mean a pronounced difference in quantity but the 
+  difference may be much less or much more than a factor of 10. </I>
+  <DT><STRONG>order of reflection</STRONG> 
+  <DD>The number of hops, or trips, to the ionsphere and back to earth, that a 
+  <A href="r.html#radio wave">radio 
+  wave</A> makes in traveling from one point to another. 
+  <DT><STRONG>ordinary ray</STRONG> 
+  <DD>That magnetoionic wave component deviating the least, in most of its 
+  propagation characteristics, relative to those expected for a <A 
+  href="w.html#wave">wave</A> in the 
+  absence of the earth's magnetic field. More exactly, if at fixed electron 
+  density, the direction of the earth's magnetic field were rotated until its 
+  direction is transverse to the direction of phase propagation, the wave 
+  component whose propagation is then independent of the magnitude of the 
+  earth's magnetic field. Also called <I>ordinary-wave component. </I>See <A 
+  href="m.html#magnetic double refraction">magnetic 
+  double refraction</A>, <A 
+  href="m.html#magnetoionic theory">magnetoionic 
+  theory</A>. 
+  <DT><STRONG>ordinary wave component</STRONG> = ordinary ray. 
+  <DT><STRONG>organ</STRONG> 
+  <DD>A portion or subassembly of a <A 
+  href="c.html#computer">computer</A> which 
+  constitutes the means of accomplishing some inclusive operation or function 
+  (e.g., arithmetic organ). 
+  <DT><STRONG>OR-gate</STRONG> 
+  <DD>A <A href="g.html#gate">gate</A> 
+  whose output is energized when any one or more of the inputs is in its 
+  prescribed state. An OR-gate performs the function of the logical 
+  <I>inclusive-OR </I>, of <A 
+  href="b.html#boolean algebra">Boolean 
+  algebra</A>. 
+  <DT><STRONG>Ori, Orio</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Orion. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>origin</STRONG> 
+  <DD>The reference from which measurement begins. 
+  <DT><STRONG>Orio</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Orion. </I>See <A 
+  href="c.html#constellation">constellation</A> 
+
+  <DT><STRONG>Orion (abbr Ori, Orio)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>orthochromatic</STRONG> 
+  <DD>See <A 
+  href="c.html#color sensitive">color 
+  sensitive</A>, note. 
+  <DT><STRONG>orthodrome</STRONG> = great circle. <A name=orthogonal></A>
+  <DT><STRONG>orthogonal</STRONG> 
+  <DD>Originally, at right angles; later generalized to mean the vanishing of a 
+  sum (or integral) of products. 
+  <DD><I>The cosine of the angle between two vectors V1 and V2 with the 
+  respective components x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>, and x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub> is proportional to the sum of 
+  products x<sub>1</sub>x<sub>2</sub> + y<sub>1</sub>y<sub>1</sub> + z<sub>1</sub>z<sub>2</sub>. Hence, if the vectors are perpendicular, the 
+  latter sum equals zero. For this reason any two series of numbers (x<sub>1</sub>, x<sub>2</sub>, ... 
+  x<sub>n</sub>) and (y<sub>1</sub>, y<sub>2</sub>, ...y<sub>n</sub>) is said to be orthogonal if 
+  <center>&Sigma; x<sub>i</sub>y<sub>i</sub> = 0 </center> </I><A name="orthogonal axes"></A>
+  <DT><STRONG>orthogonal antennas</STRONG> 
+  <DD>In radar, a pair of transmitting and receiving <A 
+  href="a.html#antennas">antennas</A>, or a 
+  single transmitting-receiving antenna, designed for the detection of a 
+  difference in <A 
+  href="p.html#polarization">polarization</A> 
+  between the transmitted energy and the energy returned from the target. 
+  <DT><STRONG>orthogonal curvilinear coordinates</STRONG> 
+  <DD>See <A 
+  href="c.html#curvilinear coordinates">curvilinear 
+  coordinates.</A> <A name="orthogonal functions"></A>
+  <DT><STRONG>orthogonal functions</STRONG> 
+  <DD>A set of functions, any two of which, by analogy to orthogonal <A 
+  href="v.html#vectors">vectors</A>, vanish 
+  if their product is summed by integration over a specified interval. 
+  <DD><I>For example, f(x) and g(x) are orthogonal in the interval x = a to x = 
+  b if 
+  <center><img src="ortho1.gif"></center>
+  The functions are also said to be normal if 
+  <center><img src="ortho2.gif"></center> The most familiar examples of such functions, 
+  many of which have great importance in mathematical physics, are the sine and 
+  cosine functions between zero and 2pi. </I>
+  <DT><STRONG>orthogonic</STRONG> 
+  <DD>Pertaining to a state in which the spatial variations of a quantity have 
+  two planes of symmetry at right angles to each other. 
+  <DT><STRONG>osciducer</STRONG> 
+  <DD>A <A 
+  href="t.html#transducer">transducer</A> 
+  in which information pertaining to the stimulus is provided in the form of 
+  deviation from the center frequency of an <A 
+  href="o.html#oscillator">oscillator</A>. 
+  <A name=oscillation></A><A name=oscillations></A><A name=oscillate></A>
+  <DT><STRONG>oscillation</STRONG> 
+  <DD>1. Fluctuation or vibration on each side of a mean value or position. 
+  <DD>2. Half an oscillatory cycle, consisting of a fluctuation or vibration in 
+  one direction; half a vibration. 
+  <DD>3. The variation, usually with time, of the magnitude of a quantity with 
+  respect to a specified reference when the magnitude is alternately greater and 
+  smaller than the reference. <A name=oscillator></A>
+  <DT><STRONG>oscillator</STRONG> 
+  <DD>A nonrotating device for producing alternating current. <A 
+  name="oscillatory wave"></A>
+  <DT><STRONG>oscillatory wave</STRONG> 
+  <DD>A <A href="w.html#wave">wave</A> in 
+  which only the form advances, the individual particles moving in closed 
+  orbits, as ocean waves in deep water. <A name=oscilloscope></A>
+  <DT><STRONG>oscilloscope</STRONG> 
+  <DD>1. An instrument for producing a visual representation of <A 
+  href="o.html#oscillations">oscillations</A> 
+  or changes in an electric current. 
+  <DD>2. Specifically, a <I>cathode-ray oscilloscope. </I>
+  <DD><I>The face of the cathode-ray tube used for this representation is called 
+  a scope or screen. </I>
+  <DT><STRONG>osculating elements</STRONG> 
+  <DD>The orbital <A 
+  href="e.html#elements">elements</A> of an 
+  <A 
+  href="o.html#osculating orbit">osculating 
+  orbit</A>. <A name="osculating orbit"></A>
+  <DT><STRONG>osculating orbit</STRONG> 
+  <DD>The <A 
+  href="e.html#ellipse">ellipse</A> that a 
+  satellite would follow after a specific time <I>t </I>(the <A 
+  href="e.html#epoch">epoch</A> of 
+  osculation) if all forces other than central inverse-square forces ceased to 
+  act from time <I>t </I>on. 
+  <DD><I>An osculating orbit is tangent to the real, perturbed, orbit and has 
+  the same velocity at the point of tangency. </I>
+  <DT><STRONG>otitic barotrauma</STRONG> = aero-otitis media. <A 
+  name=otolith></A>
+  <DT><STRONG>otolith</STRONG> 
+  <DD>A small calcareous concretion located in the inner ear which plays a part 
+  in the mechanism or orientation. 
+  <DT><STRONG>otolith organs</STRONG> 
+  <DD>Structures of the inner ear (utricle and saccule) which responds to linear 
+  acceleration and tilting. 
+  <DT><STRONG>outer atmosphere</STRONG> 
+  <DD>Very generally, the atmosphere at a great distance from the earth's 
+  surface; an approximate synonym for <A 
+  href="e.html#exosphere">exosphere</A>. 
+  <DT><STRONG>outer planets</STRONG> 
+  <DD>The planets with orbits larger than that of Mars: Jupiter, Saturn, Uranus, 
+  Neptune, and Pluto. 
+  <DT><STRONG>outer product</STRONG> = vector product. 
+  <DT><STRONG>outgassing</STRONG> 
+  <DD>The evolution of gas from a material in a <A 
+  href="v.html#vacuum">vacuum</A>. 
+  <DT><STRONG>out of phase</STRONG> 
+  <DD>The condition of two or more <A 
+  href="c.html#cyclic">cyclic</A> motions 
+  which are not at the same part of their cycles at the same instant. Also 
+  called <I>out of step. </I>Compare <A 
+  href="i.html#in phase">in phase</A>. 
+  <DD><I>Two or more cycles motions which are at the same part of their cycles 
+  at the same instant are said to be in phase or in step. </I>
+  <DT><STRONG>out of step</STRONG> = out of phase. <A name=output></A>
+  <DT><STRONG>output</STRONG> 
+  <DD>1. The yield or product of an activity furnished by man, machine, or a 
+  system. 
+  <DD>2. Power or energy delivered by an engine, generator, etc. 
+  <DD>3. The electrical <A 
+  href="s.html#signal">signal</A> which 
+  emanates from a <A 
+  href="t.html#transducer">transducer</A> 
+  and which is a function of the applied stimulus. Compare <A 
+  href="i.html#input">input</A>. 
+  <DD><I>The quantity represented by the signal may be given in terms of 
+  electrical units, frequency, or time. </I>
+  <DT><STRONG>output unit</STRONG> 
+  <DD>In computer terminology, a unit which delivers information from the <A 
+  href="c.html#computer">computer</A> to an 
+  external device or from internal <A 
+  href="s.html#storage">storage</A> to 
+  external storage. 
+  <DT><STRONG>overall heat-transfer coefficient</STRONG> 
+  <DD>(symbol <I><STRONG>U</STRONG> </I>). The value <I>U </I>, in British 
+  thermal units per hour per square foot per degrees F in the equation <I>Q = 
+  UA(t<MATH><SUB>1</SUB> - t<SUB>2</SUB></MATH>) </I>where <I>Q </I>is heat flow 
+  per unit time; <I>A </I>is area; and <I>t </I>is temperature. 
+  <DT><STRONG>overexpanding nozzle</STRONG> 
+  <DD>A <A href="n.html#nozzle">nozzle</A> 
+  in which the <A 
+  href="f.html#fluid">fluid</A> is expanded 
+  to a lower pressure than the external pressure. 
+  <DD><I>An overexpanding nozzle has an exit area larger than the optimum. </I>
+  <DT><STRONG>oxidant</STRONG> = oxidizer. <A name=oxidizer></A>
+  <DT><STRONG>oxidizer</STRONG> 
+  <DD>(symbol o, used as subscript). Specifically, a substance (not necessarily 
+  containing oxygen) that supports the combustion of a <A 
+  href="f.html#fuel">fuel</A> or <A 
+  href="p.html#propellant">propellant</A>. 
+  <DT><STRONG>oximeter</STRONG> 
+  <DD>An instrument for measuring the oxygen saturation of the blood. 
+  <DT><STRONG>oxygen bottle</STRONG> 
+  <DD>A small container for pressurized oxygen used in life-support systems. See 
+  <A href="b.html#bailout bottle">bailout 
+  bottle</A>. 
+  <DT><STRONG>oxygen mask</STRONG> 
+  <DD>A covering for the nose and lower face fitted with special attachments for 
+  breathing oxygen or a mixture of oxygen and other gases. 
+  <DD><I>The oxygen mask has provision for separating the expired breath from 
+  the incoming oxygen. </I><A name="oxygen paradox"></A>
+  <DT><STRONG>oxygen paradox </STRONG>= <A 
+  href="p.html#posthypoxia paradox">posthypoxia 
+  paradox</A>. <A name=ozone></A><A name="ozone layer"></A>
+  <DT><STRONG>ozone layer</STRONG> = ozonosphere. 
+  <DT><STRONG>ozonosphere</STRONG> 
+  <DD>The general stratum of the <A 
+  href="u.html#upper atmosphere">upper 
+  atmosphere</A> in which there is an appreciable ozone concentration and in 
+  which ozone plays an important part in the radiation balance of the 
+  atmosphere. This region lies roughly between 10 and 50 kilometers, with 
+  maximum ozone concentration at about 20 to 25 kilometers. Also called <I>ozone 
+  layer. </I>See <A 
+  href="a.html#atmospheric shell">atmospheric 
+  shell</A>. </DD>

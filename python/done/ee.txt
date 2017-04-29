@@ -1,0 +1,1645 @@
+<DT><STRONG>earphone</STRONG> 
+  <DD>An <A   href="e.html#electroacoustic transducer">electroacoustic 
+  transducer</A> operating from an electrical system to an acoustical system and 
+  intended to be closely coupled acoustically to the ear. 
+  <DT><STRONG>Earth</STRONG> 
+  <DD>See <A   href="p.html#planet">planet</A>, table. 
+  <DT><STRONG>earth axis</STRONG> 
+  <DD>Any one of a set of mutually perpendicular reference <A   href="a.html#axes">axes</A> established 
+  with the upright axis (the Z-axis) pointing to the center of the earth, used 
+  in describing the position or performance of an aircraft or other body in 
+  flight. 
+  <DD><I>The earth axes may remain fixed or may move with the aircraft or other 
+  object. </I>
+  <DT><STRONG>earth current</STRONG> 
+  <DD>A large-scale surge of electric charge within the earth's crust, 
+  associated with a disturbance of the <A   href="i.html#ionosphere">ionosphere</A>. 
+  <DD><I>Current patterns of quasi-circular form and extending over areas the 
+  size of whole continents have been identified and are known to be closely 
+  related to solar-induced variations in the extreme upper atmosphere. </I><A   name=earthlight></A>
+  <DT><STRONG>earthlight</STRONG> 
+  <DD>The illumination of the dark part of the moon's disk produced by sunlight 
+  reflected onto the moon from the earth's surface and atmosphere. Also called 
+  <I>earthshine. </I>
+  <DD><I>Spectroscopic observations reveal that earthlight is relatively richer 
+  in blue light than is direct sunlight; this condition results from the fact 
+  that an appreciable part of the total earth reflection is backward-scattered 
+  light which, in accordance with <A   href="r.html#rayleigh law">Rayleigh 
+  law</A>, is relatively rich in the blue and poor in the red. </I>
+  <DT><STRONG>earth point</STRONG> 
+  <DD>The point where the forward straight-line projection of a <A   href="m.html#meteor">meteor</A> 
+  trajectory intersects the surface of the earth. 
+  <DT><STRONG>earth radiation</STRONG> = <A   href="t.html#terrestrial radiation">terrestrial 
+  radiation</A>. 
+  <DT><STRONG>earth-rate unit (abbr eru)</STRONG> 
+  <DD>A unit of angular <A   href="d.html#drift">drift</A>, as of a <A   href="g.html#gyro">gyro</A>, equal to the 
+  rate of angular movement of the earth with respect to the stars, 15° per hour. 
+
+  <DT><STRONG>earth satellite</STRONG> 
+  <DD>A body that orbits about the earth; specifically, an artificial <A   href="s.html#satellite">satellite</A> 
+  placed in <A   href="o.html#orbit">orbit</A> by man. 
+  <DT><STRONG>earth shine</STRONG> = <A   href="e.html#earthlight">earthlight</A>. 
+  <DT><STRONG>earth's rate correction</STRONG> 
+  <DD>A command rate applied to a <A   href="g.html#gyro">gyro</A> to compensate 
+  for the apparent <A   href="p.html#precession">precession</A> 
+  of the gyro spin axis with respect to its base caused by the rotation of the 
+  earth. 
+  <DT><STRONG>earth tide</STRONG> 
+  <DD>A periodic movement of the earth's crust caused by the tide-producing 
+  forces of the moon and sun. <A name="ebert ion counter"></A>
+  <DT><STRONG>Ebert ion counter</STRONG> 
+  <DD>An <A href="i.html#ion counter">ion 
+  counter</A> of the <A   href="a.html#aspiration condenser">aspiration 
+  condenser</A> type, used for the measurement of the concentration and mobility 
+  of <A href="s.html#small ions">small 
+  ions</A> in the atmosphere. 
+  <DT><STRONG>ebullism</STRONG> 
+  <DD>The formation of bubbles, with particular reference to water vapor bubbles 
+  in biological fluids caused by reduced ambient pressure; the boiling of body 
+  fluids. 
+  <DT><STRONG>eccentric</STRONG> 
+  <DD>Not having the same center; varying from a circle. 
+  <DT><STRONG>eccentric anomaly</STRONG> (<I>symbol E</I>) 
+  <DD>See <A   href="a.html#anomaly">anomaly</A>. <A   name=eccentricity></A>
+  <DT><STRONG>eccentricity</STRONG> (<I>symbol e</I>) 
+  <DD>1. Of any <A   href="c.html#conic">conic</A>, the ratio 
+  of the length of the radius vector through a point on the conic to the 
+  distance of the point from the directrix. 
+  <DD>2. Of an <A   href="e.html#ellipse">ellipse</A>, the 
+  ratio of the distance between the center and focus of an ellipse to its 
+  semimajor axis. Also called <I>numerical eccentricity. </I><BR><I>The 
+  eccentricity </I>e<I> of an ellipse can be computed by the formula 
+  <CENTER><IMG height=20 src="91ecc.gif" width=101></CENTER>where 
+  </I>a<I> is the semimajor axis and </I>b <I>is the semiminor axis.</I> 
+  <DD>3. Of an ellipse, the distance between the center and the focus. Also 
+  called <I>linear eccentricity. </I><A name=echo></A><A name=echoes></A>
+  <DT><STRONG>echo</STRONG> 
+  <DD>1. A <A href="w.html#wave">wave</A> 
+  that has been reflected or otherwise returned with sufficient magnitude and 
+  delay to be detected as a wave distinct from that directly transmitted. 
+  <DD>2. In radar, a pulse of reflected radio frequency energy; the appearance 
+  on a radar <A   href="i.html#indicator">indicator</A> of 
+  the energy returned from a target. Also called <I>blip. </I>
+  <DT><STRONG>echo intensity</STRONG> 
+  <DD>The brightness or brilliance of a radar <A   href="e.html#echo">echo</A> as displayed 
+  on an <A   href="i.html#intensity-modulated indicator">intensity-modulated 
+  indicator</A>. Echo intensity is, within certain limits, proportional to the 
+  voltage of the target signal or to the square root of its power. Compare <A   href="e.html#echo power">echo power</A>. 
+  <A name="echo power"></A>
+  <DT><STRONG>echo power</STRONG> 
+  <DD>The electrical strength, or <A   href="p.html#power">power</A>, of a radar 
+  <A href="t.html#target signal">target 
+  signal</A>. Echo power is normally measured in watts or dbm (decibels referred 
+  to a milliwatt). 
+  <DT><STRONG>echo pulse</STRONG> 
+  <DD>A <A href="p.html#pulse">pulse</A> of 
+  radio energy received at the radar after reflection from a target; that is, 
+  the <A href="t.html#target signal">target 
+  signal</A> of a <A   href="p.html#pulse radar">pulse 
+  radar</A>. 
+  <DT><STRONG>echo signal</STRONG> = <A   href="t.html#target signal">target 
+  signal</A>. <A name=eclipse></A>
+  <DT><STRONG>eclipse</STRONG> 
+  <DD>1. The reduction in visibility or disappearance of a nonluminous body by 
+  passing into the shadow cast by another nonluminous body. 
+  <DD>2. The apparent cutting off, wholly or partially, of the light from a 
+  luminous body by a dark body coming between it and the observer. 
+  <DD><I>1. The first type of eclipse is exemplified by a lunar eclipse, the 
+  moon passing through the shadow cast by the earth; or by the passage of a <A   href="s.html#satellite">satellite</A> 
+  into the shadow cast by its planet; but when the satellite actually passes 
+  directly behind its planet, it may properly be termed an</I> occultation. 
+  <DD><I>2. The second type of eclipse is exemplified by a solar eclipse, caused 
+  by the moon passing between the sun and the earth. If the relative positions 
+  and distances are such that at a point on the earth the sun is completely 
+  obscured, the eclipse is </I>total<I>; if the distances are such that, when in 
+  line with the sun, the moon is surrounded by a ring of light, the eclipse is 
+  </I>annular<I>; and when the moon passes to one side of a straight line from 
+  sun to observer and shows a crescent of light, it is a </I>partial eclipse. 
+  <DT><STRONG>eclipse year</STRONG> 
+  <DD>The interval between two successive <A   href="c.html#conjunctions">conjunctions</A> 
+  of the sun with the same <A   href="n.html#node">node</A> of the moon's 
+  orbit, averaging 346 days 14 hours 52 minutes 52.42 seconds in 1962, and 
+  increasing at the rate of 0.0276 second annually. See <A   href="y.html#year">year</A>. <A   name=ecliptic></A>
+  <DT><STRONG>ecliptic</STRONG> 
+  <DD>The apparent annual path of the sun among the stars; the intersection of 
+  the plane of the earth's <A   href="o.html#orbit">orbit</A> with the <A   href="c.html#celestial sphere">celestial 
+  sphere</A>. 
+  <DD><I>The ecliptic is a <A   href="g.html#great circle">great 
+  circle</A> of the celestial sphere inclined at an angle of about 23° 27' to 
+  the celestial equator. </I>
+  <DT><STRONG>ecliptic longitude</STRONG> = <A   href="c.html#celestial longitude">celestial 
+  longitude</A>. <A name="ecliptic poles"></A><A name="ecliptic pole"></A>
+  <DT><STRONG>ecliptic pole</STRONG> 
+  <DD>On the <A   href="c.html#celestial sphere">celestial 
+  sphere</A>, either of the two points 90° from the <A   href="e.html#ecliptic">ecliptic</A>. <A   name="ecliptic system of coordinates"></A>
+  <DT><STRONG>ecliptic system of coordinates</STRONG> 
+  <DD>A set of <A   href="c.html#celestial coordinates">celestial 
+  coordinates</A> based on the <A   href="e.html#ecliptic">ecliptic</A> as 
+  the <A   href="p.html#primary great circle">primary 
+  great circle</A>. See <A   href="c.html#coordinate">coordinate</A>, 
+  table. 
+  <DD><I>The points 90° from the ecliptic are the north and south ecliptic 
+  poles. Angular distance north or south of the ecliptic, analogous to latitude, 
+  is celestial latitude. Celestial longitude is measured eastward along the 
+  ecliptic from the vernal equinox through 360°. </I><A   name="ecological system"></A>
+  <DT><STRONG>ecological system</STRONG> 
+  <DD>A habitable <A   href="e.html#environment">environment</A>, 
+  either created artificially, as in a manned space vehicle, or occurring 
+  naturally, such as the environment on the surface of the earth, in which man, 
+  animals, or other organisms can live in mutual relationship with one another 
+  and the environment. 
+  <DD><I>Ideally the environment furnishes the sustenance for life, and the 
+  resulting waste products revert or cycle back into the environment to be used 
+  again for the continuous support of life. </I>
+  <DT><STRONG>ecology</STRONG> 
+  <DD>The study of the environmental relations of organisms. See <A   href="e.html#environment">environment</A>. 
+
+  <DT><STRONG>economizer</STRONG> 
+  <DD>A reservoir in a <A   href="c.html#continuous flow-system">continuous-flow 
+  oxygen system</A> in which oxygen exhaled by the user is collected for 
+  recirculation in the system. 
+  <DT><STRONG>ecosphere</STRONG> 
+  <DD>1. = <A   href="b.html#biosphere">biosphere</A>. 
+  <DD>2. A volume of space surrounding the Sun, extending from the orbit of 
+  Venus past the orbit of Mars, in which some biologists believe conditions are 
+  favorable for the development and maintenance of life. <A name=eddies></A><A   name=eddy></A>
+  <DT><STRONG>eddy</STRONG> 
+  <DD>In a <A   href="f.html#fluid">fluid</A>, any 
+  circulation drawing its energy from a <A   href="f.html#flow">flow</A> of much 
+  larger scale and brought about by pressure irregularities. 
+  <DT><STRONG>eddy coefficient</STRONG> = <A   href="e.html#exchange coefficient">exchange 
+  coefficient</A>. 
+  <DT><STRONG>eddy stresses</STRONG> = <A   href="r.html#reynolds stresses">Reynolds 
+  stresses</A>. <A name="eddy velocity"></A>
+  <DT><STRONG>eddy velocity</STRONG> 
+  <DD>The difference between the mean velocity of fluid <A   href="f.html#flow">flow</A> and the 
+  instantaneous velocity at a point. For example 
+  <CENTER><I>u' = u - <IMG src="ubar.gif"></I>, </CENTER>where <I>u' 
+  </I>is the eddy velocity; <I>u</I> is the instantaneous velocity; and <IMG 
+  src="ubar.gif"> is mean velocity. Also called <I>fluctuation 
+  velocity</I>. 
+  <DD><I>Over the same interval which defines the mean velocity, the average 
+  value of the eddy velocity is necessarily zero. </I><A   name="eddy viscosity"></A>
+  <DT><STRONG>eddy viscosity</STRONG> 
+  <DD>The turbulent transfer of <A   href="m.html#momentum">momentum</A> by <A   href="e.html#eddies">eddies</A> giving 
+  rise to an internal fluid friction, in a manner analogous to the action of 
+  molecular viscosity in laminar flow, but taking place on a much larger scale. 
+  <DD><I>The value of the coefficient of eddy viscosity (an <A   href="e.html#exchange coefficient">exchange 
+  coefficient</A>) is of the order of 10<SUP>4</SUP> square centimeters per 
+  second, or 100,000 times the molecular kinematic viscosity. </I>
+  <DT><STRONG>edge effect</STRONG> 
+  <DD>See <A   href="d.html#diffraction">diffraction</A>, 
+  note. <A name=e-display></A>
+  <DT><STRONG>E-display</STRONG> 
+  <DD>In radar, a rectangular display in which <A   href="t.html#targets">targets</A> appear 
+  as <A href="b.html#blips">blips</A> with 
+  distance indicated by the horizontal coordinate and <A   href="e.html#elevation">elevation</A> by 
+  the vertical coordinate. Also called <I>E-scan and E-scope. </I>
+  <DT><STRONG>edit</STRONG> 
+  <DD>In computer terminology, to arrange, delete, select, or add to 
+  information. 
+  <DT><STRONG>EDP (abbr) </STRONG>= <A   href="e.html#electronic" processing? 
+  data><I>e</I>lectronic <I>d</I>ata <I>p</I>rocessing</A>. 
+  <DT><STRONG>education</STRONG> 
+  <DD>Of a computer, stored <A   href="s.html#subroutines">subroutines</A> 
+  and subprograms which are available for use in automatic programming. 
+  <DT><STRONG>effective aperture</STRONG> = <A   href="e.html#effective area">effective 
+  area</A>. <A name="effective area"></A>
+  <DT><STRONG>effective area</STRONG> 
+  <DD>1. In antenna design, the ratio of the <A   href="r.html#received power">received 
+  power</A> available at the terminals of an <A   href="a.html#antenna">antenna</A> to the 
+  power per unit area in the incident wave. For all antennas, effective area 
+  <I>A </I>is related to gain <I>G </I>at a given wavelength <IMG 
+  src="lambdasm.gif"> by the equation: 
+  <CENTER><I>A / G = <IMG src="lambdasm.gif"><SUP>2</SUP> / 4<IMG 
+  src="pism.gif"></I></CENTER>Also called <I>effective aperture. </I>See 
+  <A href="a.html#aperture">aperture</A>. 
+  <DD><I>The effective area of an ideal antenna is equal to its physical area 
+  </I>S<I>. In practice, </I>A/S<I> for microwave antennas is always less than 
+  one, a representative value for paraboloids being 0.6. </I>
+  <DD>2. Same as <I>scattering cross section. </I>
+  <DT><STRONG>effective atmosphere</STRONG> 
+  <DD>1. That part of the <A   href="a.html#atmosphere">atmosphere</A> 
+  which effectively influences a particular process or motion, its outer limits 
+  varying according to the terms of the process or motion considered. 
+  <DD><I>For example, an earth satellite orbiting at 250 miles altitude remains 
+  within the ionosphere, but because the air particles are so sparse at this 
+  altitude as to cause no appreciable friction of deflection, the satellite may 
+  be considered to be outside the effective atmosphere. For movement of air 
+  vehicles the effective atmosphere ends at the <A   href="a.html#aeropause">aeropause</A> 
+  (which see). </I>
+  <DD>2. = <A   href="o.html#optically effective atmosphere">optically 
+  effective atmosphere</A>. <A name="effective earth radius"></A>
+  <DT><STRONG>effective earth radius</STRONG> 
+  <DD>See <A   href="e.html#effective radius of the earth">effective 
+  radius of the earth</A>. 
+  <DT><STRONG>effective exhaust velocity </STRONG>(<I>symbol c<SUB>e</SUB></I>) 
+  <DD>A fictitious <A   href="e.html#exhaust velocity">exhaust 
+  velocity</A> that would theoretically produce the observed value of <A   href="j.html#jet thrust">jet thrust</A>. 
+  <DD><I>The effective exhaust velocity c<SUB>e</SUB> is determined by the 
+  equation 
+  <CENTER>c<SUB>e</SUB> = V </I>+ [<I>A</I>(<I>p<SUB>1</SUB> - 
+  p<SUB>2</SUB></I>)<I> g / w</I>]</CENTER><I>where V is the velocity of the 
+  exhaust gases; A is the nozzle exit area; p<SUB>1</SUB> is static pressure at 
+  the nozzle exit; p<SUB>2</SUB> is ambient pressure; g is the acceleration of 
+  gravity; and w is the weight flow rate of exhaust gases. </I><A   name="effective multiplication factor"></A>
+  <DT><STRONG>effective multiplication factor </STRONG>(<I>symbol 
+  k<SUB>e</SUB></I>) 
+  <DD>The ratio of the <A   href="n.html#neutron flux">neutron 
+  flux</A> in a nuclear <A   href="r.html#reactor">reactor</A> to that 
+  supplied by a neutron source. 
+  <DT><STRONG>effective neutron cycle time</STRONG> 
+  <DD>The lifetime of an average <A   href="n.html#neutron">neutron</A> within 
+  a <A href="r.html#reactor">reactor</A> 
+  from the time it is produced to the time it is fission captured. 
+  <DD><I>This average takes into account delayed as well as prompt neutrons. 
+  </I><A name="effective propagation velocity"></A>
+  <DT><STRONG>effective propagation velocity</STRONG> 
+  <DD>The velocity of an <A   href="e.html#electromagnetic">electromagnetic</A> 
+  signal which, when multiplied by the transit time for a ray path, gives a 
+  value for actual path length. 
+  <DT><STRONG>effective radiation</STRONG> = <A   href="e.html#effective terrestrial radiation">effective 
+  terrestrial radiation</A>. <A name="effective radius of the earth"></A>
+  <DT><STRONG>effective radius of the earth</STRONG> 
+  <DD>A fictitious value for the radius of the earth, used in place of the 
+  geometrical radius to correct for atmospheric refraction when the <A   href="i.html#index of refraction">index 
+  of refraction</A> in the atmosphere changes linearly with height. See <A   href="m.html#modified index of refraction">modified 
+  index of refraction</A>. 
+  <DD><I>Under conditions of standard refraction the effective radius of the 
+  earth is 8.5 * 10<SUP>6</SUP> meters, or four-thirds the geometrical radius. 
+  If the effective radius is used in ray tracing diagrams, the rays may be drawn 
+  as though they were traveling in straight lines. </I>
+  <DT><STRONG>effective Reynolds number</STRONG> 
+  <DD>A fictitious <A   href="r.html#reynolds number">Reynolds 
+  number</A> applied to the flow of air about a body in a <A   href="w.html#wind tunnel">wind 
+  tunnel</A>, equal to the free-air Reynolds number at which the effect obtained 
+  is the same as the effect obtained in the wind tunnel. <A   name="effective sound pressure"></A>
+  <DT><STRONG>effective sound pressure</STRONG> 
+  <DD>The root-mean-square value of the instantaneous pressure of <A   href="s.html#sound wave">sound waves</A>, 
+  taken over a complete cycle or a period long compared with a cycle, at that 
+  point. The unit is the microbar (dynes per square centimeter). <A   name="effective temperature"></A>
+  <DT><STRONG>effective temperature</STRONG> 
+  <DD>1. In astrophysics, a measure of the temperature of a star deduced by 
+  means of the <A   href="s.html#stefan-boltzmann law">Stefan-Boltzmann 
+  law</A>, from the total energy emitted per unit area. Compare <A   href="b.html#brightness temperature">brightness 
+  temperature</A>, <A   href="c.html#color temperature">color 
+  temperature</A>. 
+  <DD><I>Effective temperature is always less than actual temperature. </I>
+  <DD>2. In physiology, the temperature at which motionless, saturated air would 
+  induce, in a sedentary worker wearing ordinary indoor clothing, the same 
+  sensation of comfort as that induced by the actual conditions of temperature, 
+  humidity, and air movement. Compare <A   href="s.html#sensible temperature">sensible 
+  temperature</A>, standard operative temperature, <A   href="o.html#operative temperature">operative 
+  temperature</A>. 
+  <DD><I>Effective temperature is used as a guide in air-conditioning practice, 
+  and, on the comfort chart (American Society of Heating and Air Conditioning 
+  Engineers) it appears as a family of curves which serves as one coordinate in 
+  defining comfort zones. </I><A name="effective terrestrial radiation"></A>
+  <DT><STRONG>effective terrestrial radiation</STRONG> 
+  <DD>The amount by which outgoing infrared <A   href="t.html#terrestrial radiation">terrestrial 
+  radiation</A> of the earth's surface exceeds downcoming infrared <A   href="c.html#counter-radiation">counter-radiation</A> 
+  from the atmosphere. Also called <I>nocturnal radiation, effective radiation. 
+  </I>See <A   href="a.html#actinometer">actinometer</A>. 
+
+  <DD><I>It is to be emphasized that this amount is a positive quantity, of the 
+  order of several tenths of a langley per minute, at all times of day (except 
+  under conditions of low overcast clouds). It typically attains its diurnal 
+  maximum during the midday hours when high soil temperatures create high rates 
+  of outgoing terrestrial radiation. (For this reason the synonym nocturnal 
+  radiation is apt to lead to slight confusion.) However, in daylight hours the 
+  effective terrestrial radiation is generally much smaller than the <A   href="i.html#insolation">insolation</A>, 
+  while at night it typically dominates the energy budget of the earth's 
+  surface. </I>
+  <DT><STRONG>effective wavelength</STRONG> 
+  <DD>The <A   href="w.html#wavelength">wavelength</A> 
+  corresponding to the <A   href="e.html#effective propagation velocity">effective 
+  propagation velocity</A>. 
+  <DT><STRONG>effector</STRONG> 
+  <DD>Any device used to maneuver a <A   href="r.html#rocket">rocket</A> in 
+  flight, such as an aerodynamic surface, a gimbaled motor, or a jet. <A   name=efficiency></A>
+  <DT><STRONG>efficiency</STRONG> (<I>symbol <IMG src="etasm.gif"></I>) 
+  <DD>Of a device with respect to a physical quantity which may be stored, 
+  transferred, or transformed by the device, the ratio of the useful output of 
+  the quantity to its total input. 
+  <DD><I>Unless specifically stated otherwise, the term </I>efficiency<I> means 
+  efficiency with respect to <A   href="p.html#power">power</A>. </I><A   name=egads></A>
+  <DT><STRONG>egads (abbr) </STRONG>= <I>e</I>lectronic <I>g</I>round 
+  <I>a</I>utomatic <I>d</I>estruct <I>s</I>equencer. 
+  <DT><STRONG>egads button</STRONG> 
+  <DD>A button used by the range safety officer to initiate destruction of a 
+  rocket vehicle in flight if its course, as plotted during flight, is predicted 
+  to go beyond the destruct line. See <A   href="e.html#egads">egads</A>, <A   href="i.html#impact predictor">impact 
+  predictor</A> system. 
+  <DT><STRONG>EHF (abbr) </STRONG>= <A   href="e.html#extremely high frequency"><I>E</I>xtremely 
+  <I>H</I>igh <I>F</I>requency</A>. See <A   href="f.html#frequency band">frequency 
+  band</A>. 
+  <DT><STRONG>eigenmode</STRONG><DFN> = <A   href="n.html#normal mode of vibration">normal 
+  mode of vibration</A>. </DFN><A name=eigenvalues></A>
+  <DT><STRONG>eigenvalue</STRONG> 
+  <DD>See <A   href="c.html#characteristic value problem">characteristic 
+  value problem</A>. 
+  <DT><STRONG>eight ball</STRONG> 
+  <DD>Common name given to a flight <A   href="a.html#attitude indicator">attitude 
+  indicator</A>. <A name="ejection capsule"></A>
+  <DT><STRONG>ejection capsule</STRONG> 
+  <DD>1. In an aircraft or manned spacecraft, a detachable compartment serving 
+  as a cockpit or cabin, which may be ejected as a unit and parachuted to the 
+  ground. 
+  <DD>2. A satellite, probe, or unmanned spacecraft, a boxlike unit, usually 
+  containing recording instruments or records of observed data, which may be 
+  ejected and returned to earth by a parachute or other deceleration device. 
+  <DT><STRONG>ejector</STRONG> 
+  <DD>A device consisting of a <A   href="n.html#nozzle">nozzle</A>, mixing 
+  tube, and <A   href="d.html#diffuser">diffuser</A> 
+  utilizing the kinetic energy of a <A   href="f.html#fluid">fluid</A> stream to 
+  pump another fluid from a low pressure region by direct mixing and ejecting 
+  both streams. <A name="ekman layer"></A><A name=ekman></A>
+  <DT><STRONG>Ekman layer</STRONG> 
+  <DD>The layer of transition between the <A   href="s.html#surface boundary layer">surface 
+  boundary layer</A>, where shearing stress is constant, and the <A   href="f.html#free atmosphere">free 
+  atmosphere</A>, where the atmosphere is treated as an ideal fluid in 
+  approximate <A   href="g.html#geostrophic">geostrophic</A> 
+  equilibrium. Also called <I>spiral layer. </I>
+  <DD><I>In Ekman's analysis (see <A   href="e.html#ekman spiral">Ekman 
+  spiral</A>), the coefficient of eddy viscosity is assumed constant within this 
+  layer; subsequent calculations have relaxed this assumption. </I><A   name="ekman spiral"></A>
+  <DT><STRONG>Ekman spiral</STRONG> 
+  <DD>As used in meteorology, an idealized mathematical description of the wind 
+  distribution in the <A   href="p.html#planetary boundary layer">planetary 
+  boundary layer</A> of the atmosphere, within which the earth's surface has an 
+  appreciable effect on the air motion. The model is simplified by assuming that 
+  within this layer eddy viscosity and density are constant, the motion is 
+  horizontal and steady, the isobars are straight and parallel, and the <A   href="g.html#geostrophic wind">geostrophic 
+  wind</A> is constant with height. <A name="elastic collision"></A>
+  <DT><STRONG>elastic collision</STRONG> 
+  <DD>A <A   href="c.html#collision">collision</A> 
+  between two <A   href="p.html#particles">particles</A> in 
+  which no change occurs in the internal energy of the particles, or in the sum 
+  of their kinetic energies. Commonly referred to as a <I>billiard-ball 
+  collision. </I>
+  <DT><STRONG>elasticity</STRONG> 
+  <DD>The ability of a body which has been deformed by an applied force to 
+  return to its original shape when the force is removed. 
+  <DT><STRONG>elasticizer</STRONG> 
+  <DD>An elastic substance or fuel used in a solid rocket propellant to prevent 
+  cracking of the propellant <A   href="g.html#grain">grain</A> and to bind 
+  it to the combustion-chamber case. 
+  <DT><STRONG>elastic wave</STRONG> 
+  <DD>See <A href="s.html#sound">sound</A>. 
+
+  <DT><STRONG>elastomers</STRONG> 
+  <DD>Rubber-like compounds. 
+  <DD><I>Elastomers are used as pliable components, as in tires, seals, or 
+  gaskets. </I><A name=e-layer></A>
+  <DT><STRONG>E-layer</STRONG> 
+  <DD>A division of the <A   href="i.html#ionosphere">ionosphere</A>, 
+  usually found at an altitude between 100 and 120 kilometers in the <A   href="e.html#e-region">E-region</A>. It 
+  exhibits one or more distinct maximums and sharp gradients of <A   href="f.html#free electron">free 
+  electron</A> density. It is most pronounced in the daytime but does not 
+  entirely disappear at night. Also called <I>E<SUB>1</SUB> </I>- <I>layer, 
+  Kennelly-Heaviside layer, Heaviside layer. </I>See <A   href="i.html#ionosphere">sporadic E-layer 
+  (under ionosphere)</A>, <A   href="a.html#atmospheric shell">atmospheric 
+  shell</A>, <A   href="i.html#ionosphere">ionosphere</A>. 
+  <DD><I>There is some evidence to indicate a second layer above the normal 
+  E-layer located at about 150 kilometers, and called the 
+  </I>E<SUB>2</SUB>-layer. <A name=electrical></A>
+  <DT><STRONG>electrical</STRONG> 
+  <DD>Involving the flow of electricity in a conductor. Compare <A   href="e.html#electronic">electronic</A>. 
+  <A name="electrical distance"></A>
+  <DT><STRONG>electrical distance</STRONG> 
+  <DD>The distance between two points expressed in terms of the duration of 
+  travel of an <A   href="e.html#electromagnetic wave">electromagnetic 
+  wave</A> in free space between the two points. 
+  <DD><I>A convenient unit of electrical distance is the light microsecond or 
+  approximately 983 feet (300 meters). In the use of this unit, electrical 
+  distance is numerically equal to transmission time in microseconds. </I><A   name="electrical elements"></A>
+  <DT><STRONG>electrical element</STRONG> 
+  <DD>See <A   href="e.html#element">element</A>, sense 
+  2. 
+  <DT><STRONG>electrical engine</STRONG> 
+  <DD>A <A   href="r.html#rocket engine">rocket 
+  engine</A> in which the <A   href="p.html#propellant">propellant</A> 
+  is accelerated by some electrical device. Also called <I>electric propulsion 
+  system, electric rocket. </I>
+  <DD><I>Electrical engines can be classified as electrothermal, electrostatic, 
+  or electromagnetic, depending on the nature of the accelerating device. </I>
+  <DT><STRONG>electric-current element</STRONG> = <A   href="e.html#electric dipole">electric 
+  dipole</A>. <A name="electric dipole"></A>
+  <DT><STRONG>electric dipole</STRONG> 
+  <DD>A pair of equal and opposite charges an infinitesimal distance apart. 
+  <DD><I>In electromagnetics, the term </I>dipole<I> is often applied to two 
+  equal and opposite oscillating charges an infinitesimal distance apart; in 
+  this sense, it is synonymous with an </I>electric-current element. <A   name="electric discharge"></A>
+  <DT><STRONG>electric discharge</STRONG> 
+  <DD>The flow of electricity through a gas, resulting in the <A   href="e.html#emission">emission</A> of 
+  radiation that is characteristic of the gas and of the intensity of the 
+  current. Also called <I>discharge, gaseous electric discharge, gaseous 
+  discharge. </I>See <A   href="c.html#corona discharge">corona 
+  discharge</A>, <A   href="p.html#point discharge">point 
+  discharge</A>, <A   href="s.html#spark discharge">spark 
+  discharge</A>, <A   href="l.html#lightning discharge">lightning 
+  discharge</A>. <A name="electric field"></A>
+  <DT><STRONG>electric field</STRONG> 
+  <DD>1. A region in which a charged particle would experience an electrical 
+  force; the geometric array of the imaginary <A   href="e.html#electric lines of force">electric 
+  lines of force</A> that exist in relation to points of opposite charge. 
+  <DD><I>An electric field is a vector field in which magnitude of the vector is 
+  the electric-field strength and the vector is parallel to the lines of force. 
+  </I>
+  <DD>2. = <A   href="e.html#electric-field strength">electric-field 
+  strength</A>. See <A   href="a.html#atmospheric electric field">atmospheric 
+  electric field</A>. 
+  <DT><STRONG>electric-field intensity</STRONG> = <A   href="e.html#electric-field strength">electric-field 
+  strength</A>. <A name="electric field strength"></A><A   name="electric-field strength"></A>
+  <DT><STRONG>electric-field strength</STRONG> 
+  <DD>The electrical force exerted on a unit positive charge at a given point in 
+  space. Electric-field strength is expressed, in the practical system of 
+  electrical units, in terms of volts/centimeter. It is a vector quantity, being 
+  the magnitude of the electric-field vector. Also called <I>electric field, 
+  electric intensity, electric field intensity, electric potential gradient, 
+  field strength. </I>
+  <DD><I>The electric-field strength of the atmosphere is commonly referred to 
+  as the </I>atmospheric electric field. 
+  <DT><STRONG>electric intensity</STRONG> = <A   href="e.html#electric-field strength">electric-field 
+  strength</A>. <A name="electric lines of force"></A>
+  <DT><STRONG>electric lines of force</STRONG> 
+  <DD>Imaginary lines defined by the paths traced by unit charges placed in an 
+  electric field. Lines of force are everywhere parallel to the <A   href="e.html#electric field strength">electric 
+  field strength</A> vector. Their principal use is as a convenient means of 
+  picturing the geometry of an electric field. See <A   href="m.html#magnetic lines of force">magnetic 
+  lines of force</A>. <A name="electric potential"></A>
+  <DT><STRONG>electric potential</STRONG> 
+  <DD>In electrostatics, the work done in moving unit positive charge from 
+  infinity to the point whose potential is being specified. Sometimes shortened 
+  to <I>potential. </I>
+  <DT><STRONG>electric potential gradient </STRONG>= <A   href="e.html#electric field strength">electric-field 
+  strength</A>. 
+  <DT><STRONG>electric power level </STRONG>= <A   href="l.html#level">level</A>. <A   name="electric propulsion"></A>
+  <DT><STRONG>electric propulsion</STRONG> 
+  <DD>A general term encompassing all the various types of propulsion in which 
+  the <A   href="p.html#propellant">propellant</A> 
+  consists of charged electrical particles which are accelerated by electrical 
+  or magnetic fields, or both; for example, electrostatic propulsion, 
+  electromagnetic propulsion, electrothermal propulsion. <A   name="electroacoustic transducer"></A>
+  <DT><STRONG>electroacoustic transducer</STRONG> 
+  <DD>A <A   href="t.html#transducer">transducer</A> 
+  for receiving <A   href="w.html#waves">waves</A> from an 
+  electric system and delivering waves to an acoustic system, or vice versa. 
+  <DD><I>Microphones and earphones are electroacoustic transducer. </I>
+  <DT><STRONG>electrochemical</STRONG> 
+  <DD>See <A   href="c.html#chemical energy">chemical 
+  energy</A>. 
+  <DT><STRONG>electrochemical transducer</STRONG> 
+  <DD>A <A   href="t.html#transducer">transducer</A> 
+  which uses a chemical change to indicate the input parameter. <A   name=electrode></A><A name=electrodes></A>
+  <DT><STRONG>electrode</STRONG> 
+  <DD>1. A terminal at which electricity passes from one medium into another. 
+  The positive electrode is called <I>anode</I>; the negative electrode is 
+  called <I>cathode. </I>
+  <DD>2. In a semiconductor device, an <A   href="e.html#element">element</A> that 
+  performs one or more of the functions of emitting or collecting <A   href="e.html#electrons">electrons</A> or 
+  <A href="h.html#holes">holes</A>, or of 
+  controlling their movements by an electric field. 
+  <DD>3. In electron tubes, a conducting <A   href="e.html#element">element</A> that 
+  performs one or more of the functions of emitting, collecting or controlling, 
+  by an electromagnetic field, the movements of electrons or ions. See <A   href="a.html#anode">anode</A> (electron 
+  tubes) and <A   href="c.html#cathode">cathode</A>. 
+  <DT><STRONG>electrodynamics</STRONG> 
+  <DD>The science dealing with the forces and energy transformations of electric 
+  currents, and the <A   href="m.html#magnetic fields">magnetic 
+  fields</A> associated with them. <A name=electrojet></A>
+  <DT><STRONG>electrojet</STRONG> 
+  <DD>A laterally limited relatively intense electric current located in the <A   href="i.html#ionosphere">ionosphere</A>. 
+  <DT><STRONG>electrokinetic transducer</STRONG> 
+  <DD>A <A   href="t.html#transducer">transducer</A> 
+  that depends for its operation on the dielectric polarization in certain 
+  liquids resulting from viscous shearing stress that accompanies flow through 
+  porous materials. 
+  <DT><STRONG>electroluminescence</STRONG> 
+  <DD><A   href="e.html#emission">Emission</A> of 
+  light caused by an application of electric fields to solids or gases. 
+  <DD><I>In gas electroluminescence, light is emitted when the kinetic energy of 
+  electron or ions accelerated in an electric field is transferred to the atoms 
+  or molecules of the gas in which the discharge takes place. </I><A   name=electromagnetic></A>
+  <DT><STRONG>electromagnetic</STRONG> 
+  <DD>Of or pertaining to magnetism produced by or associated with electricity. 
+  <DD><I>Magnetoelectric pertains to electricity produced by or associated with 
+  magnetism. </I>
+  <DT><STRONG>electromagnetic energy </STRONG>= <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. <A name="electromagnetic radiations"></A><A   name="electromagnetic radiation"></A>
+  <DT><STRONG>electromagnetic radiation</STRONG> <A   name="electromagnetic radiation"></A>
+  <DD>Energy propagated through space or through material media in the form of 
+  an advancing disturbance in electric and magnetic fields existing in space or 
+  in the media. The term <I>radiation </I>, alone, is used commonly for this 
+  type of energy, although it actually has a broader meaning. Also called 
+  <I>electromagnetic energy </I>or simply <I>radiation. </I>See <A   href="e.html#electromagnetic spectrum">electromagnetic 
+  spectrum</A>. 
+  <DT><STRONG>electromagnetic rockets</STRONG> = <A   href="p.html#plasma rocket">plasma 
+  rockets</A>. See <A   href="e.html#electric propulsion">electric 
+  propulsion</A>. <A name="electromagnetic spectrum"></A>
+  <DT><STRONG>electromagnetic spectrum</STRONG> 
+  <DD>The ordered array of known <A   href="e.html#electromagnetic radiations">electromagnetic 
+  radiations</A>, extending from the shortest cosmic rays, through gamma rays, 
+  X-rays, ultraviolet radiation, visible radiation, infrared radiation, and 
+  including microwave and all other wavelengths of radio energy. See <A   href="a.html#absorption spectrum">absorption 
+  spectrum</A>. 
+  <DD><I>The division of this continuum of wavelengths (or frequencies) into a 
+  number of named subportions is rather arbitrary and, with one or two 
+  exceptions, the boundaries of the several subportions are only vaguely 
+  defined. Nevertheless, to each of the commonly identified subportions there 
+  correspond characteristic types of physical systems capable of emitting 
+  radiation of those wavelengths. Thus, gamma rays are emitted from the nuclei 
+  of atoms as they undergo any of several types of nuclear rearrangements; 
+  visible light is emitted, for the most part, by atoms whose planetary 
+  electrons are undergoing transitions to lower energy states; infrared 
+  radiations are associated with characteristic molecular vibrations and 
+  rotations; and radio waves, broadly speaking, are emitted by virtue of the 
+  accelerations of free electrons as, for example, the moving electrons in a 
+  radio antenna wire. </I>
+  <DT><STRONG>electromagnetic theory</STRONG> 
+  <DD>See <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. <A name="electromagnetic wave"></A><A   name="electromagnetic waves"></A>
+  <DT><STRONG>electromagnetic wave</STRONG> 
+  <DD>A wave produced by <A   href="o.html#oscillation">oscillation</A> 
+  of an electric charge. See <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. 
+  <DT><STRONG>electromagnetism</STRONG> 
+  <DD>1. Magnetism produced by an electric current. 
+  <DD>2. The science dealing with the physical relations between electricity and 
+  magnetism. <A name=electromechanical></A>
+  <DT><STRONG>electromechanical transducer</STRONG> 
+  <DD>A <A   href="t.html#transducer">transducer</A> 
+  for receiving <A   href="w.html#waves">waves</A> from an 
+  electric system and delivery waves to a mechanical system, or vice versa. <A   name=electrometeor></A>
+  <DT><STRONG>electrometeor</STRONG> 
+  <DD>A visible or audible manifestation of <A   href="a.html#atmospheric electricity">atmospheric 
+  electricity</A>. This includes, therefore, not only visible electric 
+  discharges (igneous meteors) but also the sounds produced by them, principally 
+  thunder. 
+  <DT><STRONG>electrometer</STRONG> 
+  <DD>An instrument for measuring differences of <A   href="e.html#electric potential">electric 
+  potential</A>. 
+  <DT><STRONG>electromyogram</STRONG> 
+  <DD>A record of the response of a muscle to an electric stimulation. <A   name=electrons></A><A name=electron></A>
+  <DT><STRONG>electron</STRONG> 
+  <DD>The <A   href="s.html#subatomic particle">subatomic 
+  particle</A> that possesses the smallest possible negative electric charge 
+  (4.80298 * 10<SUP>-10</SUP> electrostatic units). See <A   href="p.html#physical constants">physical 
+  constants</A>, table. 
+  <DD><I>The mass of the electron is approximately equal to 1/1836 that of a 
+  hydrogen atom; its theoretical <A   href="r.html#rest mass">rest mass</A> 
+  (symbol </I>m<SUB>e</SUB><I>) is equal to <B>9.109 3897(54) * 10<SUP>-31</SUP> 
+  kg </B>and its rest energy is equal to <B>0.510 999 06(15)</B> million 
+  electron-volt. The charge-to-mass ratio for the electron (symbol 
+  </I>e/m<SUB>e</SUB><I>) is 1.758796 cc<SUP>½</SUP> / g<SUP>½</SUP>. <BR>The 
+  term </I>electron <I>is usually reserved for the orbital or extranuclear 
+  particle, whereas the term </I>beta particle<I> refers to a nuclear electron. 
+  </I>
+  <DD>
+  <P>*The numbers in bold type were taken from the 1987 publication of 
+  <I>Fundamental Physical Constants: 1986 CODATA (Committee on Data for Science 
+  and Technology of the International Council of Scientific Unions) Recommended 
+  Values</I> issued by the U. S. Department of Commerce, National Bureau of 
+  Standards. <BR>"Digits in parentheses represent one standard deviation 
+  uncertainty in the final digits of the given value, based on a least-squares 
+  analysis with five variables and 17 degrees of freedom." <A   name="electron avalanche"></A></P>
+  <DT><STRONG>electron avalanche</STRONG> 
+  <DD>The process in which a relatively small number of free <A   href="e.html#electrons">electrons</A> in 
+  a gas that is subjected to a strong electric field accelerate, ionize gas 
+  atoms by collision, and thus form new free electrons to undergo the same 
+  process in cumulative fashion. 
+  <DD><I>An avalanche cannot begin until the local electric field strength is 
+  high enough to accelerate a free electron to the <A   href="m.html#minimum ionizing speed">minimum 
+  ionizing speed</A> in the space and time interval corresponding to one mean 
+  free path of the electron, for upon collision, the electron usually loses its 
+  forward motion in the direction of the field. </I><A   name="electron beam"></A><A name="electron beams"></A>
+  <DT><STRONG>electron beam</STRONG> 
+  <DD>Specifically, a focused stream of electrons used for neutralization of the 
+  positively charged ion beam in an <A   href="i.html#ion engine">ion engine</A>. 
+  Also used to melt or weld materials with externally high melting points. <A   name="electron device"></A>
+  <DT><STRONG>electron device</STRONG> 
+  <DD>A device in which electricity is conducted principally by <A   href="e.html#electrons">electrons</A> 
+  moving through a vacuum, gas, or semiconductor. <A name="electron gun"></A>
+  <DT><STRONG>electron gun</STRONG> 
+  <DD>An <A   href="e.html#electrode">electrode</A> 
+  structure which produces and may control, focus, deflect, and converge one or 
+  more <A   href="e.html#electron beams">electron 
+  beams</A>. <A name=electronic></A>
+  <DT><STRONG>electronic</STRONG> 
+  <DD>1. Involving the flow of <A   href="e.html#electrons">electrons</A> in 
+  a vacuum or through <A   href="s.html#semiconductors">semiconductors</A>. 
+
+  <DD>2. Of or pertaining to electronics, i.e., to that branch of physics that 
+  treats of the emission, transmission, behavior, and effects of electrons, 
+  especially as applied by means of vacuum tubes, cathode-ray tubes, 
+  photoelectric cells, and the like, together with the associated electrical 
+  devices. 
+  <DT><STRONG>electronic Bohr magneton</STRONG> = <A   href="b.html#bohr magneton">Bohr 
+  magneton</A>. <A name="electronic data processing"></A>
+  <DT><STRONG>electronic data processing</STRONG> 
+  <DD>The use of <A   href="e.html#electronic">electronic</A> 
+  devices and systems in the processing of data so as to interpret the data and 
+  put them into usable form. <A name="electronic missile acquisition"></A>
+  <DT><STRONG>electronic missile acquisition (abbr EMA)</STRONG> 
+  <DD>A crossed baseline <A   href="i.html#interferometer">interferometer</A> 
+  system giving <A   href="a.html#azimuth">azimuth</A> and <A   href="e.html#elevation">elevation</A> 
+  angles. 
+  <DD><I>This system was designed as an acquisition aid for theodolites. The EMA 
+  equipment operates on the <A   href="d.html#dovap">Dovap</A> transponder 
+  frequency. </I>
+  <DT><STRONG>electronics</STRONG> 
+  <DD>That branch of physics that treats of the emission, transmission, 
+  behavior, and effects of <A   href="e.html#electrons">electrons</A>. 
+  See <A   href="e.html#electronic">electronic</A>. 
+  <A name="electronic sky screen equipment"></A>
+  <DT><STRONG>electronic sky screen equipment</STRONG> 
+  <DD>See <A href="e.html#elsse">elsse</A>. 
+
+  <DT><STRONG>electronic transducer</STRONG> 
+  <DD>A <A   href="u.html#unilateral transducer">unilateral 
+  transducer</A> that depends for its operation on the generation of a voltage 
+  by the relative motion of the <A   href="e.html#electrodes">electrodes</A> 
+  in a vacuum tube. 
+  <DT><STRONG>electronic work function </STRONG>= <A   href="h.html#helmholtz function">Helmholtz 
+  function</A>. <A name="electron tube"></A>
+  <DT><STRONG>electron tube</STRONG> 
+  <DD>A device in which conduction by <A   href="e.html#electrons">electrons</A> 
+  takes place through a vacuum or gaseous medium within a gastight envelope. 
+  <DT><STRONG>electron-volt (abbr ev)</STRONG> 
+  <DD>A unit of <A   href="e.html#energy">energy</A> equal to 
+  the energy required to move an electron through a potential difference of 1 
+  volt. Often shortened to <I>volt. </I>
+  <DD>One electron volt equals 1.6020 * 10<SUP>-9</SUP> joule. <A   name=electrostatic></A>
+  <DT><STRONG>electrostatic memory</STRONG> 
+  <DD>The ability of a substance or device to retain an <A   href="e.html#electrostatic">electrostatic</A> 
+  charge after the charging force is removed. 
+  <DT><STRONG>electrostatic rocket </STRONG>= <A   href="i.html#ion rocket">ion rocket</A>. 
+  See <A   href="e.html#electric propulsion">electric 
+  propulsion</A>, <A   href="i.html#ion engine">ion engine</A>. 
+  <DT><STRONG>electrostatic storage</STRONG> 
+  <DD>In a computer, <A   href="s.html#storage">storage</A> of 
+  information in the form of <A   href="e.html#electrostatic">electrostatic</A> 
+  charges. <A name=electrostatic-storage></A>
+  <DT><STRONG>electrostatic-storage tube</STRONG> 
+  <DD>A <A   href="c.html#cathode-ray tube">cathode-ray 
+  tube</A> in which information is stored as positive or negative charges on a 
+  <A   href="d.html#dielectric">dielectric</A> 
+  surface. 
+  <DT><STRONG>electrostriction</STRONG> 
+  <DD>The phenomenon wherein some <A   href="d.html#dielectric">dielectric</A> 
+  materials experience an elastic strain when subjected to an electric field, 
+  this strain being independent of polarity of the field. 
+  <DT><STRONG>electrothermal rocket </STRONG>= electric thermal rocket. See <A   href="e.html#electric propulsion">electric 
+  propulsion</A>. <A name=element></A><A name=elements></A>
+  <DT><STRONG>element</STRONG> 
+  <DD>1. One of the simple parts of which a complex entity is composed. 
+  <DD>2. In chemistry, a substance which cannot be broken down by ordinary 
+  chemical means into simpler components. 
+  <DD>3. In an <A   href="e.html#electron tube">electron 
+  tube</A>, a constituent part of the tube that contributes directly to the 
+  electrical operation of the tube. 
+  <DD>4. In a <A   href="c.html#circuit">circuit</A>, any 
+  electrical device (such an inductor, resistor, capacitor, generator, line, 
+  electron tube) with terminals at which it may be directly connected to other 
+  electrical devices. 
+  <DD>5. In a <A   href="s.html#semiconductor device">semiconductor 
+  device</A>, any integral part of the semiconductor device, any integral part 
+  of the semiconductor device that contributes to its operation. 
+  <DD>6. = <A   href="o.html#orbital element">orbital 
+  element</A>. <A name="elevated pole"></A>
+  <DT><STRONG>elevated pole</STRONG> 
+  <DD>The <A   href="c.html#celestial pole">celestial 
+  pole</A> above the <A   href="h.html#horizon">horizon</A>. 
+  <DD><I>The celestial pole below the horizon is called </I>depressed pole. <A   name=elevation></A>
+  <DT><STRONG>elevation</STRONG> = <A   href="a.html#angle of elevation">angle of 
+  elevation</A>. <A name="elevation angle"></A>
+  <DT><STRONG>elevation angle</STRONG> = <A   href="a.html#angle of elevation">angle of 
+  elevation</A>. 
+  <DT><STRONG>ELF (abbr) </STRONG>= <A   href="e.html#extremely low frequency"><I>e</I>xtremely 
+  <I>l</I>ow <I>f</I>requency</A>. See <A   href="f.html#frequency band">frequency 
+  band</A>. <A name=ellipse></A><A name=ellipses></A>
+  <DT><STRONG>ellipse</STRONG> 
+  <DD>A plane curve constituting the locus of all points the sum of whose 
+  distances from two fixed points called <I>focuses </I>or <I>foci </I>is 
+  constant; an elongated circle. See <A   href="c.html#conic section">conic 
+  section</A>. 
+  <DD><I>The <A   href="o.html#orbits">orbits</A> of 
+  planets, satellites, planetoids, and comets are ellipses, the primary being at 
+  one focus. </I><A name=ellipsoids></A><A name=ellipsoid></A>
+  <DT><STRONG>ellipsoid</STRONG> 
+  <DD>A surface whose plane sections (cross sections) are all <A   href="e.html#ellipses">ellipses</A> or 
+  circles, or the solid enclosed by such a surface. Also called <I>ellipsoid of 
+  revolution, spheroid. </I><A name="ellipsoid of revolution"></A>
+  <DT><STRONG>ellipsoid of revolution</STRONG> = <A   href="e.html#ellipsoid">ellipsoid</A>. 
+  <DD><I>It is so named from the fact that it can be formed by revolving an <A   href="e.html#ellipse">ellipse</A> about 
+  one of its axes. </I><A name=elliptical></A>
+  <DT><STRONG>elliptic</STRONG> 
+  <DD>Pertaining to an <A   href="e.html#ellipse">ellipse</A>, or in 
+  the form of an ellipse. 
+  <DT><STRONG>elliptically polarized sound wave</STRONG> 
+  <DD>A <A   href="t.html#transverse wave">transverse 
+  wave</A> in an elastic medium in which the displacement vector at any point 
+  rotates about the point and has a magnitude which varies as the <A   href="r.html#radius vector">radius 
+  vector</A> of an <A   href="e.html#ellipse">ellipse</A>. 
+  <DD><I>An elliptically polarized wave is equivalent to two superposed plane 
+  polarized waves of simple sinusoidal form in which the displacements lie in 
+  perpendicular planes and are 90° apart in phase. </I><A   name="elliptical polarization"></A>
+  <DT><STRONG>elliptical polarization</STRONG> 
+  <DD>The <A   href="p.html#polarization">polarization</A> 
+  of a <A href="w.html#wave">wave</A> 
+  radiated by an electric vector rotating in a plane and simultaneously varying 
+  in amplitude so as to describe an ellipse. 
+  <DT><STRONG>elliptical system</STRONG> 
+  <DD>A tracking or navigation system where <A   href="e.html#ellipsoids">ellipsoids</A> 
+  of position are determined from time or <A   href="p.html#phase">phase</A> summation 
+  relative to two or more fixed stations which are the focuses for the 
+  ellipsoids. <A name=ellipticity></A>
+  <DT><STRONG>ellipticity </STRONG>(<I>symbol e</I>) 
+  <DD>The amount by which a <A   href="s.html#spheroid">spheroid</A> 
+  differs from a sphere or an <A   href="e.html#ellipse">ellipse</A> differs 
+  from a circle, calculated by dividing the difference in the length of the axes 
+  by the length of the major axis. Also called <I>compression. </I>See <A   href="f.html#flattening">flattening</A>. 
+  <DT><STRONG>ellipticity ratio</STRONG> 
+  <DD>1. The ratio of the <A   href="m.html#major axis">major axis</A> 
+  to the <A href="m.html#minor axis">minor 
+  axis</A> of an <A   href="e.html#ellipse">ellipse</A>. 
+  <DD>2. As a measure of <A   href="e.html#elliptical polarization">elliptical 
+  polarization</A>, the power ratio of the maximum to the minimum electric 
+  vectors of an elliptically polarized antenna. <A name=elongation></A>
+  <DT><STRONG>elongation</STRONG> 
+  <DD>The angular distance of a body of the <A   href="s.html#solar system">solar 
+  system</A> from the sun; the angle at the earth between lines to the sun and 
+  another celestial body of the solar system. The term is usually used only in 
+  connection with <A   href="i.html#inferior planets">inferior 
+  planets</A>. 
+  <DD><I>The greatest elongation of such a body is its maximum angular distance 
+  from the sun before it starts back toward conjunction. The direction of the 
+  body east or west of the sun is usually specified, as </I>greatest elongation 
+  east. <A name=elsse></A>
+  <DT><STRONG>elsse (abbr) </STRONG>= <A   href="e.html#electronic sky screen equipment"><I>El</I>ectronic 
+  <I>s</I>ky <I>s</I>creen <I>e</I>quipment</A>. 
+  <DD>An electronic device which indicates the departure of a rocket from a 
+  predetermined trajectory. 
+  <DT><STRONG>EMA (abbr)</STRONG>= <A   href="e.html#electronic missile acquisition"><I>e</I>lectronic 
+  <I>m</I>issile <I>a</I>cquisition</A>. 
+  <DT><STRONG>embolism</STRONG> 
+  <DD>Large amounts of air in the blood stream which, reaching the heart, cause 
+  it to fail; small amounts are resorbed and cause no symptoms. 
+  <DT><STRONG>emissance </STRONG>= <A   href="e.html#emittance">emittance</A>, 
+  sense 2. <A name=emission></A>
+  <DT><STRONG>emission</STRONG> 
+  <DD>1. With respect to <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>, the process by which a body emits electromagnetic radiation as 
+  a consequence of its temperature only. Compare <A   href="r.html#reflection">reflection</A>, 
+  <A   href="t.html#transmission">transmission</A>. 
+  See <A   href="e.html#emittance">emittance</A>, <A   href="e.html#emissivity">emissivity</A>. 
+  <DD>2. With respect to <A   href="e.html#electric propulsion">electric 
+  propulsion</A> and energy conversion, the sending out of charged particles 
+  from a surface causing the generation of these particles; e.g., emission of 
+  ions from an ionizing surface in ion engines. <A name="emission line"></A>
+  <DT><STRONG>emission line</STRONG> 
+  <DD>A minute range of <A   href="w.html#wavelength">wavelength</A> 
+  (or <A   href="f.html#frequency">frequency</A>) in 
+  the <A   href="e.html#electromagnetic spectrum">electromagnetic 
+  spectrum</A> within which radiant energy is being emitted by a radiating 
+  substance. See <A   href="s.html#spectral line">spectral 
+  line</A>, <A   href="e.html#emission spectrum">emission 
+  spectrum</A>. <A name="emission spectrum"></A>
+  <DT><STRONG>emission spectrum</STRONG> 
+  <DD>The array of <A   href="w.html#wavelengths">wavelengths</A> 
+  and relative intensities of <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> emitted by a given radiator. 
+  <DD><I>Each radiating substance has a unique, characteristic emission 
+  spectrum, just as every medium of transmission has its individual <A   href="a.html#absorption spectrum">absorption 
+  spectrum</A>. </I><A name="emissive power"></A>
+  <DT><STRONG>emissive power</STRONG> 
+  <DD>The rate of thermal <A   href="e.html#emission">emission</A> of <A   href="r.html#radiant energy">radiant 
+  energy</A> per unit area of emitting surface. Usually called <A   href="t.html#thermal emissive power">thermal 
+  emissive power</A>. <A name=emissivity></A>
+  <DT><STRONG>emissivity </STRONG>(<I>symbol <IMG 
+  src="98Einfin.gif"></I>) 
+  <DD>A property of a material, measured as the emittance of a specimen of the 
+  material that is thick enough to be completely opaque and has an optically 
+  smooth surface. <A name=emittance></A>
+  <DT><STRONG>emittance </STRONG>(<I>symbol E</I>, <IMG 
+  src="epsilonsm.gif">) 
+  <DD>1. The radiant flux per unit area emitted by a body. 
+  <DD>2. The ratio of the emitted radiant flux per unit area of a sample to that 
+  of a <A href="b.html#black body">black 
+  body</A> radiator at the same temperature and under the same conditions. 
+  <DD>Spectral emittance <I>refers to emittance measured at a specified 
+  wavelength. <BR>Because of the two common meanings of </I>emittance<I>, it 
+  should be defined when used unless the context allows no misinterpretation. 
+  </I><A name=emulsion></A>
+  <DT><STRONG>emulsion</STRONG> 
+  <DD>In photography, a light-sensitive coating on a film, plate, or paper. See 
+  <A href="n.html#nuclear emulsion">nuclear 
+  emulsion</A>. 
+  <DT><STRONG>emulsion plate</STRONG> 
+  <DD>A plate with a photographic <A   href="e.html#emulsion">emulsion</A> 
+  specially designed to permit observation of the individual tracks of <A   href="i.html#ionizing particles">ionizing 
+  particles</A>. 
+  <DT><STRONG>enamel</STRONG> 
+  <DD>A thin <A   href="c.html#ceramic">ceramic</A> 
+  coating, usually of high glass content, applied to a <A   href="s.html#substrate">substrate</A>, 
+  generally a metal. 
+  <DT><STRONG>Enceladus</STRONG> 
+  <DD>A <A   href="s.html#satellite">satellite</A> of 
+  Saturn orbiting at a mean distance of 238,000 kilometers. <A name=encoder></A>
+  <DT><STRONG>encoder </STRONG>= <A   href="a.html#analog to digital converter">analog 
+  to digital converter</A>. 
+  <DT><STRONG>end-fire array</STRONG> 
+  <DD>A linear <A   href="a.html#antenna array">antenna 
+  array</A> whose direction of maximum radiation is along the axis of the array. 
+  <A name=energy></A>
+  <DT><STRONG>energy</STRONG> 
+  <DD>Any quantity with dimensions mass * length squared divided time squared. 
+  Compare <A   href="e.html#entropy">entropy</A>. 
+  <DT><STRONG>energy conversion efficiency</STRONG> 
+  <DD>The efficiency with which a <A   href="n.html#nozzle">nozzle</A> converts 
+  the energy of the working substance into <A   href="k.html#kinetic energy">kinetic 
+  energy</A>, expressed as the ratio of the kinetic energy of the jet leaving 
+  the nozzle to the kinetic energy of a hypothetical ideal jet leaving an ideal 
+  nozzle using the same working substance at the same initial state and under 
+  the same conditions of velocity and expansion. 
+  <DT><STRONG>energy density</STRONG> 
+  <DD>The <A   href="s.html#sound energy">sound 
+  energy</A> per unit volume in a <A   href="s.html#sound wave">sound wave</A>. 
+  The unit is the erg per cubic centimeter. <A   name="energy density spectrum"></A>
+  <DT><STRONG>energy density spectrum</STRONG> 
+  <DD>The square of the <A   href="a.html#amplitude">amplitude</A> of 
+  the (complex) <A   href="f.html#fourier transform">Fourier 
+  transform</A> of an aperiodic function. Sometimes called <I>energy 
+  </I><I>spectrum. </I>See <A   href="p.html#power spectrum">power 
+  spectrum</A>. <A name="energy equation"></A><A name="energy equations"></A>
+  <DT><STRONG>energy equation</STRONG> 
+  <DD>See <A   href="t.html#thermodynamic energy equation">thermodynamic 
+  energy equation</A>, mechanical energy equation, <A   href="t.html#total energy equation">total 
+  energy equation</A>. <A name="energy level"></A>
+  <DT><STRONG>energy level</STRONG> 
+  <DD>Any one of different values of <A   href="e.html#energy">energy</A> which a 
+  <A href="p.html#particle">particle</A>, 
+  <A href="a.html#atom">atom</A>, or <A   href="m.html#molecule">molecule</A> may 
+  adopt under conditions where the possible values are restricted by quantizing 
+  conditions. 
+  <DD><I>During transitions from one energy level to another, quanta of radiant 
+  energy are emitted or absorbed, their frequency depending on the difference 
+  between the energy levels. </I>
+  <DT><STRONG>energy management</STRONG> 
+  <DD>In rocketry the monitoring of the expenditure of <A   href="f.html#fuel">fuel</A> for flight <A   href="c.html#control">control</A> and <A   href="n.html#navigation">navigation</A>. 
+  <A name="energy spectrum"></A>
+  <DT><STRONG>energy spectrum </STRONG>= <A   href="e.html#energy density spectrum">energy 
+  density spectrum</A>. <A name=engine></A>
+  <DT><STRONG>engine</STRONG> 
+  <DD>A machine or apparatus that converts energy, especially heat energy, into 
+  work. Also called <I>motor. </I>
+  <DT><STRONG>engine control</STRONG> 
+  <DD>Any <A   href="c.html#control">control</A> for 
+  regulating the power and speed of an engine, such as the throttle, mixture 
+  control, manifold-pressure regulator, fuel-pressure control, supercharger 
+  control, etc. 
+  <DT><STRONG>engine-exhaust trail </STRONG>= <A   href="e.html#exhaust trail">exhaust 
+  trail</A>. 
+  <DT><STRONG>engine mount</STRONG> 
+  <DD>A structure used for attaching an <A   href="e.html#engine">engine</A> to a <A   href="v.html#vehicle">vehicle</A>. 
+  <DT><STRONG>engine spray</STRONG> 
+  <DD>That part of a <A   href="p.html#pad deluge">pad deluge</A> 
+  that is directed at cooling a rocket's engine or engines during <A   href="l.html#launch">launch</A>. 
+  <DT><STRONG>English candle</STRONG> = <A   href="i.html#international candle">international 
+  candle</A>. 
+  <DT><STRONG>enhanced radiation</STRONG> 
+  <DD>Increased <A   href="r.html#radio wave">radio wave</A> 
+  or <A href="t.html#thermal">thermal</A> 
+  radiation from the sun, of several hours or days duration. 
+  <DD><I>Enhanced radiation is usually accompanied by many <A   href="b.html#bursts">bursts</A>. </I>
+  <DT><STRONG>enthalpy</STRONG> 
+  <DD>A mathematically defined thermodynamic function of state <I>h = u + pv 
+  </I>where <I>h </I>is specific enthalpy; <I>u </I>is specific internal energy; 
+  <I>p </I>is pressure; and <I>v </I>is specific volume. Also called <I>heat 
+  function. </I>
+  <DD><I>The change in enthalpy measures the heat imparted to a system during a 
+  reversible isobaric process: 
+  <CENTER>dh = dq </CENTER>where dq is the heat increment per unit mass. For a 
+  perfect gas, 
+  <CENTER>dh = c<SUB>p</SUB>dT</CENTER>where c<SUB>p</SUB> is the specific heat 
+  at constant pressure and dT is the temperature increment. </I><A   name=entropy></A>
+  <DT><STRONG>entropy</STRONG> 
+  <DD>1. A measure of the extent to which the energy of a system is unavailable. 
+  A mathematically defined thermodynamic function of state, the increase in 
+  which gives a measure of the energy of a system which has ceased to be 
+  available for work during a certain process: 
+  <CENTER><I>ds = (du + pdv)/T &gt;= dq/T </I></CENTER>where <I>s </I>is 
+  specific entropy; <I>u </I>is specific internal energy; <I>p </I>is pressure; 
+  <I>v </I>is specific volume; <I>T </I>is Kelvin temperature; and <I>q </I>is 
+  heat per unit mass. For reversible processes, 
+  <CENTER><I>ds = dq/T </I></CENTER>In terms of potential temperature <IMG 
+  src="thetasm.gif">, 
+  <CENTER><I>ds = c<SUB>p</SUB> (d<IMG src="thetasm.gif">/<IMG 
+  src="thetasm.gif">)</I></CENTER>where <I>c<SUB>p</SUB></I> is the 
+  specific heat at constant pressure. See <A   href="t.html#third law of thermodynamics">third 
+  law of thermodynamics.</A> 
+  <DD><I>In an adiabatic process, the entropy increases if the process is 
+  irreversible and remains unchanged if the process is reversible. Thus, since 
+  all natural processes are irreversible, it is said that in an isolated system 
+  the entropy is always increasing as the system tends toward equilibrium, a 
+  statement which may be considered a form of the second law of thermodynamics. 
+  </I>
+  <DD>2. In communication theory, <A   href="a.html#average information content">average 
+  information content</A>. 
+  <DT><STRONG>entry corridor</STRONG> 
+  <DD>Depth of the region between two <A   href="t.html#trajectories">trajectories</A> 
+  which define the design limits of a vehicle which will enter a planetary <A   href="a.html#atmosphere">atmosphere</A>. 
+  <DT><STRONG>envelope</STRONG> 
+  <DD>1. Of a variable, a curve which bounds the values which the variable can 
+  assume, but does not consider possible simultaneous occurrences or 
+  correlations between different values. 
+  <DD>2. The bounds within which a certain system can operate as a flight 
+  envelope, especially a graphic representation of these bounds showing 
+  interrelationships of operational parameters. <A name=environment></A>
+  <DT><STRONG>environment</STRONG> 
+  <DD>An external condition or the sum of such conditions, in which a piece of 
+  equipment, a living organism, or a system operates as in <I>temperature 
+  environment, vibration environment</I>,or <I>space environment. </I>
+  <DD><I>Environments are usually specified by a range of values, and may be 
+  either natural or artificial. </I>
+  <DT><STRONG>environmental chamber</STRONG> 
+  <DD>A chamber in which humidity, temperature, pressure, fluid contents, noise, 
+  and movement may be controlled so as to simulate different environments. <A   name="environmental lapse rate"></A>
+  <DT><STRONG>environmental lapse rate</STRONG> 
+  <DD>The rate of decrease of temperature <I>T </I>with elevation <I>z </I>in 
+  the atmosphere, - <IMG src="partderiv.gif"><I>T / <IMG 
+  src="partderiv.gif">z</I> or occasionally <IMG 
+  src="partderiv.gif"><I>T / <IMG src="partderiv.gif">p</I>, 
+  where <I>p</I> is pressure. See <A   href="a.html#autoconvective lapse rate">autoconvective 
+  lapse rate</A>, <A   href="s.html#superadiabatic lapse rate">superadiabatic 
+  lapse rate</A>. 
+  <DD><I>The concept may be applied to other atmospheric variables (e.g., lapse 
+  rate of density) if these are specified. The environmental lapse rate is 
+  determined by the distribution of temperature in the vertical at a given time 
+  and place and should be carefully distinguished from the <A   href="p.html#process lapse rate">process 
+  lapse rate</A>, which applies to an individual air parcel. </I>
+  <DT><STRONG>E<SUB>1</SUB>-layer</STRONG> 
+  <DD>See <A   href="e.html#e-layer">E-layer</A>. 
+  <DT><STRONG>eosinophils</STRONG> 
+  <DD>A type of white blood cell or leukocyte which stains a red color with 
+  eosin stain; normally about 2 to 3 percent of white cells in the blood but 
+  tending to decrease during stressful situations and thus usable as an index 
+  for <A href="s.html#stress">stress</A>. 
+  <A name=ephemerides></A>
+  <DT><STRONG>ephemeris (plural, ephemerides)</STRONG> 
+  <DD>A periodical publication tabulating the predicted positions of <A   href="c.html#celestial bodies">celestial 
+  bodies</A> at regular intervals, such as daily, and containing other data of 
+  interest to astronomers. 
+  <DD><I>A publication giving similar information useful to a navigator is 
+  called an </I>almanac. 
+  <DT><STRONG>ephemeris day</STRONG> 
+  <DD>86,400 <A   href="e.html#ephemeris seconds">ephemeris 
+  seconds</A>. See <A   href="e.html#ephemeris time">ephemeris 
+  time</A>. <A name="ephemeris seconds"></A><A name="ephemeris second"></A>
+  <DT><STRONG>ephemeris second (abbr s)</STRONG> 
+  <DD>This was the fundamental unit of time of the International System of Units 
+  of 1960: 1/31556925.9747 of the tropical year defined by the mean motion of 
+  the sun in longitude at the epoch 1900 January 0 day 12 hours. See <A   href="e.html#ephemeris time">ephemeris 
+  time</A>. 
+  <DD>
+  <P>See <A href="s.html#second">second</A> 
+  for the definition of the latest unit of time in the SI system or look on the 
+  WWW version of the <A   href="http://physics.nist.gov/Divisions/Div840/SI.html">National Institute of 
+  Standards and Technology: Physics Laboratory's International System of Units 
+  (SI)</A>. <A name="ephemeris time"></A></P>
+  <DT><STRONG>ephemeris time (abbr E.T.)</STRONG> 
+  <DD>The uniform measure of time defined by the laws of dynamics and determined 
+  in principle from the orbital motions of the planets, specifically the orbital 
+  motion of the earth as represented by Newcomb's Tables of the Sun. Compare <A   href="u.html#universal time">universal 
+  time</A>. 
+  <DD><I>Beginning with the volume for 1960 the American Ephemeris and Nautical 
+  Almanac uses ephemeris time as the tabular argument in the fundamental 
+  ephemerides of the sun, moon, and planets. <BR>A gravitational ephemeris 
+  expresses the position of a celestial body as a function of ephemeris time; 
+  and, at any instant, the measure of ephemeris time is the value of the 
+  argument at which the ephemeris position is the same as the actual position at 
+  the instant. The ephemeris time at any instant is obtained from observation by 
+  directly comparing observed position of the sun, moon, and planets with 
+  gravitational ephemerides of their coordinates; observations of the moon are 
+  the most effective and expeditious for this purpose. An accurate 
+  determination, however, requires observations over a more or less extended 
+  period; in practice, it takes the form of determining the time correction <IMG 
+  src="deltabg.gif"></I>T<I> that must be applied to universal time 
+  (</I>U.T.<I>) to obtain ephemeris time: 
+  <CENTER></I>E.T. = U.T. + <IMG src="deltabg.gif">T<I></CENTER>The 
+  universal time at any instant may be obtained with little delay from 
+  observations of the dirunal motions. <BR>The fundamental epoch from which 
+  ephemeris time is reckoned is the epoch that Newcomb designated as 1900 
+  January 0, Greenwich mean noon, but which actually is 1900 January 0 day 12 
+  hours E.T.; the instant to which this designation is assigned is the instant 
+  near the beginning of the calendar year A.D. 1900 when the geometric mean 
+  longitude of the Sun referred to the mean equinox of data was 279 degrees 41 
+  minutes 48.04 seconds. Ephemeris time is the measure of time in which 
+  Newcomb's Tables of the Sun agree with observation. <BR>The primary unit of 
+  ephemeris time is the tropical year, defined by the mean motion of the sun in 
+  longitude at the epoch 1900 January 0 day 12 hours E.T.; its length in 
+  ephemeris days is determined by the coefficient of </I>T<I> in Newcomb's 
+  expression for the geometric mean longitude of the sun </I>L<I> referred to 
+  the mean equinox of date, given among the elements of the sun. </I><A   name=epoch></A>
+  <DT><STRONG>epoch</STRONG> 
+  <DD>A particular instant for which certain data are valid, as the data for 
+  which an astronomical catalogue is computed. <A   name="eppley pyrheliometer"></A>
+  <DT><STRONG>Eppley pyrheliometer</STRONG> 
+  <DD>A <A   href="p.html#pyrheliometer">pyrheliometer</A> 
+  of the thermoelectric type. Radiation is allowed to fall on two concentric 
+  silver rings, the outer covered with magnesium oxide and the inner covered 
+  with lampblack. A system of <A   href="t.html#thermocouples">thermocouples</A> 
+  (thermopile) is used to measure the temperature difference between the rings. 
+  Attachments are provided so that measurements of direct and diffuse solar 
+  radiation may be obtained. <BR><I>This instrument has been adopted by the U.S. 
+  Weather Bureau for station use.</I> 
+  <DD><SUB>For instrumentation of NOAA's Surface Radiation Research Branch see 
+  </SUB><A   href="http://www.srrb.noaa.gov/instrument/instpage.htm">http://www.srrb.noaa.gov/instrument/instpage.htm</A> 
+
+  <DT><STRONG>Equ, Equl</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Equuleus. </I>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>equation</STRONG> 
+  <DD>In astronomy, a small <A   href="c.html#correction">correction</A> 
+  to observed values to remove the effects of systematic errors in an 
+  observation. <A name="equation of state"></A>
+  <DT><STRONG>equation of state</STRONG> 
+  <DD>An equation relating temperature, pressure, and volume of a system in 
+  thermodynamic equilibrium. 
+  <DD><I>A large number of such equations have been devised to apply equally to 
+  gaseous and liquid phases throughout a wide range of temperatures and 
+  pressures. Of these, the simplest are the <A   href="p.html#perfect gas laws">perfect 
+  gas law</A> and <A   href="v.html#van der waal">Van der 
+  Waal</A> equation. </I><A name="equation of time"></A>
+  <DT><STRONG>equation of time</STRONG> 
+  <DD>Prior to 1965, the difference between <A   href="m.html#mean time">mean time</A> and 
+  <A href="a.html#apparent time">apparent 
+  time</A>, usually labeled + or - as it is to be applied to mean time to obtain 
+  apparent time. After 1965, the correction to be applied to 12 hours + local 
+  mean time (LMT) to obtain the local hour angle (LHA) of the sun. 
+  <DT><STRONG>equation of wave motion</STRONG> = <A   href="w.html#wave equation">wave 
+  equation</A>. <A name="equations of motion"></A>
+  <DT><STRONG>equations of motion</STRONG> 
+  <DD>A set of equations which give information regarding the motion of a body 
+  or of a point in space as a function of time when initial position and initial 
+  velocity are known. See <A   href="n.html#newton laws of motion">Newton 
+  laws of motion</A>, <A   href="e.html#eulerian coordinates">Eulerian 
+  coordinates</A>. <A name=equator></A>
+  <DT><STRONG>equator</STRONG> 
+  <DD>The <A   href="p.html#primary great circle">primary 
+  great circle</A> of a sphere or spheroid, such as the earth, perpendicular to 
+  the polar <A href="a.html#axis">axis</A>; 
+  or a line resembling or approximating such a circle. 
+  <DD><I>The terrestrial equator is 90° from the earth's geographical poles; the 
+  celestial equator or equinoctial is 90 ° from the celestial poles; the 
+  galactic equator or galactic circle is 90° from the galactic poles. The 
+  astronomical equator is a line connecting points having 0° astronomical 
+  latitude; the geodetic equator connects points having 0° geodetic latitude. 
+  The expression </I>terrestrial equator<I> is sometimes applied to the 
+  astronomical equator. The geodetic equator is shown on charts. A fictitious 
+  equator is a reference line serving as the origin for measurement of 
+  fictitious latitude. A transverse or inverse equator is a meridian the plane 
+  of which is perpendicular to the axis of a transverse projection. An oblique 
+  equator is a great circle the plane of which is perpendicular to the axis of 
+  an oblique projection. A grid equator is a line perpendicular to a prime grid 
+  meridian at the origin. The magnetic equator or aclinic line is that line on 
+  the surface of the earth connecting all points at which the magnetic dip is 
+  zero. The geomagnetic equator is the great circle 90° from the geomagnetic 
+  poles of the earth. </I>
+  <DT><STRONG>equatorial bulge</STRONG> 
+  <DD>The excess of the earth's equatorial diameter over the polar diameter. 
+  <DT><STRONG>equatorial electrojet</STRONG> 
+  <DD>See <A   href="e.html#electrojet">electrojet</A>. 
+  <DT><STRONG>equatorial satellite</STRONG> 
+  <DD>A <A   href="s.html#satellite">satellite</A> 
+  whose <A href="o.html#orbit">orbit</A> 
+  plane coincides, or almost coincides, with the earth's equatorial plane. <A   name="equatorial system"></A>
+  <DT><STRONG>equatorial system</STRONG> 
+  <DD>A set of <A   href="c.html#celestial coordinates">celestial 
+  coordinates</A> based on the <A   href="c.html#celestial equator">celestial 
+  equator</A> as the primary great circle; usually declination and hour angle or 
+  sidereal hour angle. Also called <I>equinoctial system of coordinates, 
+  celestial equator system of coordinates. </I>
+  <DT><STRONG>equigeopotential surface</STRONG> = <A   href="g.html#geopotential surface">geopotential 
+  surface</A>. 
+  <DT><STRONG>equilibrium flow</STRONG> 
+  <DD>Gas <A href="f.html#flow">flow</A> in 
+  which energy is constant along <A   href="s.html#streamlines">streamlines</A> 
+  and composition of the gas at any point is not time dependent. <A   name="equilibrium glide"></A>
+  <DT><STRONG>equilibrium glide</STRONG> 
+  <DD>Gliding flight in which the sum of the vertical components of the 
+  aerodynamic <A   href="l.html#lift">lift</A> and <A   href="c.html#centrifugal force">centrifugal 
+  force</A> is equal to the force of <A   href="g.html#gravity">gravity</A>. <A   name="equilibrium spheroid"></A>
+  <DT><STRONG>equilibrium spheroid</STRONG> 
+  <DD>The shape that the earth would attain if it were entirely covered by a 
+  tideless ocean of constant depth. Compare <A   href="g.html#geoid">geoid</A>. <A   name="equilibrium vapor pressure"></A>
+  <DT><STRONG>equilibrium vapor pressure</STRONG> 
+  <DD>The <A   href="v.html#vapor pressure">vapor 
+  pressure</A> of a system in which two or more phases of a substance coexist in 
+  equilibrium. See <A   href="v.html#vapor tension">vapor 
+  tension</A>. 
+  <DD><I>In meteorology the reference is to water substance unless otherwise 
+  specified. </I><A name=equinoxes></A>
+  <DT><STRONG>equinoctial </STRONG>= <A   href="c.html#celestial equator">celestial 
+  equator</A>. 
+  <DT><STRONG>equinoctial colure</STRONG> 
+  <DD>That <A   href="g.html#great circle">great 
+  circle</A> of the <A   href="c.html#celestial sphere">celestial 
+  sphere</A> through the celestial poles and equinoxes; the <A   href="h.html#hour circle">hour circle</A> 
+  of the vernal equinox. 
+  <DT><STRONG>equinoctial day</STRONG> = <A   href="s.html#sidereal day">sidereal 
+  day</A>. 
+  <DT><STRONG>equinoctial point</STRONG> 
+  <DD>One of the two points of intersection of the <A   href="e.html#ecliptic">ecliptic</A> and 
+  the <A   href="c.html#celestial equator">celestial 
+  equator</A>. Also called <I>equinox. </I>
+  <DT><STRONG>equinoctial system of coordinates</STRONG> = <A   href="c.html#celestial equator system of coordinates">celestial 
+  equator system of coordinates</A>. 
+  <DT><STRONG>equinoctial year</STRONG> = <A   href="t.html#tropical year">tropical 
+  year</A>. 
+  <DT><STRONG>equinox</STRONG> 
+  <DD>1. One of the two points of intersection of the <A   href="e.html#ecliptic">ecliptic</A> and 
+  the <A   href="c.html#celestial equator">celestial 
+  equator</A>, occupied by the sun when its declination is 0°. Also called 
+  <I>equinoctial point. </I>
+  <DD><I>That point occupied on or about March 21, when the sun's declination 
+  changes from south to north, is called </I>vernal equinox, March equinox<I>, 
+  or </I>first point of Aries<I>; that point occupied on or about September 23, 
+  when the declination changes from north to south, is called </I>autumnal 
+  equinox, September equinox<I>, or </I>first point of Libra. <BR>Equinox <I>is 
+  often used to mean </I>vernal equinox<I>, when referring to the origin of 
+  measurement of <A   href="r.html#right ascension">right 
+  ascension</A> and <A   href="c.html#celestial longitude">celestial 
+  longitude</A>. </I>
+  <DD>2. That instant the sun occupies one of the equinoctial points. 
+  <DT><STRONG>equivalent-barotropic atmosphere</STRONG> 
+  <DD>See <A   href="e.html#equivalent barotropic model">equivalent-barotropic 
+  model</A>. <A name="equivalent barotropic model"></A><A   name="equivalent-barotropic model"></A>
+  <DT><STRONG>equivalent-barotropic model</STRONG> 
+  <DD>A model atmosphere characterized by (a) frictionless and adiabatic flow 
+  (b) hydrostatic and <A   href="q.html#quasigeostrophic equilibrium">quasigeostrophic 
+  equilibrium</A>, and in which (c) the vertical shear of the horizontal wind is 
+  assumed to be proportional to the horizontal wind itself. 
+  <DD><I>An equivalent-barotropic atmosphere is, accordingly, an atmosphere in 
+  which the wind does not change direction with height and consequently one in 
+  which the contours and isotherms (on isobaric surfaces, for example) are 
+  everywhere parallel. In such an atmosphere, the vertically averaged motions 
+  are presumably equivalent to those at some intermediate level, the 
+  equivalent-barotropic level. In terms of the motion at this level, assumed to 
+  be an <A   href="i.html#isobaric">isobaric</A> <A   href="s.html#surface">surface</A>, the 
+  behavior of the equivalent-barotropic model may be described by a single 
+  equation (the vorticity equation) in a single unknown (the height of the 
+  isobaric surface). See <A   href="b.html#barotropic vorticity equation">barotropic 
+  vorticity equation</A>. </I>
+  <DT><STRONG>equivalent binary digits</STRONG> 
+  <DD>1. The number of <A   href="b.html#binary">binary</A> places 
+  required to handle the largest quantity which can be handled in some other <A   href="n.html#notation">notation</A>. For 
+  instance 3.323 binary digits are required to convey information equivalent to 
+  that conveyed by one decimal digit. 
+  <DD>2. The number of places required to express in <A   href="b.html#binary notation">binary 
+  notation</A> a quantity in some other notation. 
+  <DT><STRONG>equivalent foot-candle</STRONG> = <A   href="f.html#foot-lambert">foot-lambert</A>. 
+
+  <DT><STRONG>equivalent pendulum</STRONG> 
+  <DD>A device, usually incorporating <A   href="a.html#accelerometers">accelerometers</A> 
+  and <A href="g.html#gyro">gyros</A>, 
+  which has the same response to acceleration as a pendulum with a specific 
+  period. See <A   href="s.html#schuler tuning">Schuler 
+  tuning</A>. <A name="equivalent potential temperature"></A>
+  <DT><STRONG>equivalent potential temperature</STRONG> 
+  <DD>The <A   href="p.html#potential temperature">potential 
+  temperature</A> corresponding to the <A   href="a.html#adiabatic equivalent temperature">adiabatic 
+  equivalent temperature</A>: 
+  <CENTER><I><IMG src="thetasm.gif"><SUB>e</SUB> = T<SUB>a, e</SUB> 
+  (1000 / p)<SUP>0.286</SUP></I></CENTER>where <IMG 
+  src="thetasm.gif"><I><SUB>e</SUB></I> is the equivalent potential 
+  temperature; <I>T<SUB>a, e</SUB></I> is the adiabatic equivalent temperature; 
+  and <I>p</I> is the pressure in millibars. This temperature is conservative 
+  with respect to dry-adiabatic and pseudoadiabatic processes. <A   name="equivalent temperature"></A>
+  <DT><STRONG>equivalent temperature</STRONG> 
+  <DD>1. <A   href="i.html#isobaric equivalent temperature">Isobaric 
+  equivalent temperature</A>; the temperature that an air parcel would have if 
+  all water vapor were condensed out at constant pressure, the latent heat 
+  released being used to heat the air, 
+  <CENTER><I>T<SUB>i, e</SUB> = T</I> [1 + (<I>Lw / c<SUB>p</SUB> 
+  T</I>)]</CENTER>where <I>T<SUB>i, e</SUB></I> is the isobaric equivalent 
+  temperature; <I>T</I> is the temperature; <I>w</I> is the mixing ratio; 
+  <I>L</I> is the latent heat; and <I>c<SUB>p</SUB></I> is the specific heat of 
+  air at constant pressure. 
+  <DD>2. <A   href="a.html#adiabatic equivalent temperature">Adiabatic 
+  equivalent temperature</A>; The temperature that an air parcel would have 
+  after undergoing the following (physically unrealizable) process: 
+  dry-adiabatic expansion until saturated; pseudoadiabatic expansion until all 
+  moisture is precipitated out; dry-adiabatic compression to the initial 
+  pressure. This is the equivalent temperature as read from a thermodynamic 
+  chart and is always greater than the isobaric equivalent temperature: 
+  <CENTER><I>T<SUB>a, e</SUB> = T</I> exp (<I>Lw / c<SUB>p</SUB> 
+  T</I>)</CENTER>where <I>T<SUB>a, e</SUB></I> is the adiabatic equivalent 
+  temperature. Also called <I>pseudoequivalent temperature. </I><A   name="equivalent width"></A>
+  <DT><STRONG>equivalent width</STRONG> 
+  <DD>In spectrography, a measure of the total <A   href="a.html#absorption">absorption</A> 
+  of radiant energy as indicated by an <A   href="a.html#absorption line">absorption 
+  line</A> or <A   href="a.html#absorption band">absorption 
+  band</A>. Compare <A   href="l.html#line width">line width.</A> 
+  <DD><I>The formula for equivalent width W is 
+  <CENTER><IMG height=37 src="101eqwidth.gif" width=100> </CENTER>where 
+  A is the fraction of incident radiation which is absorbed at any wavelength, 
+  and <IMG src="lambdasm.gif"><SUB>1</SUB> and <IMG 
+  src="lambdasm.gif"><SUB>2</SUB> are wavelengths, on opposite sides of 
+  the line or band, where the absorption has dropped to zero. <BR>Thus, in a 
+  plot of A against <IMG src="lambdasm.gif">, the equivalent width 
+  represents the area under the curve, or the width of a fictitious line or band 
+  which absorbs completely throughout its extent but which absorbs the same 
+  total amount of energy as the actual line or band. </I>
+  <DT><STRONG>Equl</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Equuleus. </I>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Equuleus (abbr Equ, Equl)</STRONG> 
+  <DD>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>eradiation</STRONG> 
+  <DD>1. Same as <A   href="r.html#radiation">radiation</A>, 
+  with respect to <A   href="e.html#emission">emission</A>. 
+  <DD>2. = <A   href="t.html#terrestrial radiation">terrestrial 
+  radiation</A>. 
+  <DT><STRONG>erase</STRONG> 
+  <DD>In computer terminology, to expunge, wipe out, or destroy stored 
+  information, usually without destroying the <A   href="s.html#storage">storage</A> media, 
+  as in demagnetizing a magnetic tape. 
+  <DT><STRONG>erector</STRONG> 
+  <DD>A vehicle used to support a <A   href="r.html#rocket">rocket</A> for 
+  transportation and for placing the rocket in an upright position within a <A   href="g.html#gantry">gantry</A>. <A   name=e-region></A>
+  <DT><STRONG>E-region</STRONG> 
+  <DD>The region of the <A   href="i.html#ionosphere">ionosphere</A> 
+  in which the E-layer tends to form. See <A   href="a.html#atmospheric shell">atmospheric 
+  shell</A>. 
+  <DD><I>The E-layer has been observed to be subdivided into two or more 
+  </I>layers<I>, and these are then assigned the designation, E<SUB>1</SUB>, 
+  E<SUB>2</SUB>, etc. Patchy and intermittent clouds of fairly high ionization, 
+  known as </I>sporadic E-layers<I>, also form in the same general region. </I>
+  <DT><STRONG>erf </STRONG>= <A   href="p.html#probability integral">probability 
+  integral</A>. 
+  <DT><STRONG>erg</STRONG> 
+  <DD>The unit of energy or <A   href="w.html#work">work</A> in the <A   href="c.html#centimeter-gram-second system">centimeter-gram-second 
+  system</A>; the work performed by a force of 1 dyne acting through a distance 
+  of 1 centimeter. 
+  <DT><STRONG>ergometer</STRONG> 
+  <DD>An instrument for measuring muscular <A   href="w.html#work">work</A>. 
+  <DT><STRONG>Eri</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Eridanus. </I>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Erid</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Eridanus. </I>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Eridanus (abbr Eri, Erid)</STRONG> 
+  <DD>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>erosion gage</STRONG> 
+  <DD>An instrument for measuring the effect of <A   href="d.html#dust">dust</A> and <A   href="m.html#micrometeors">micrometeors</A> 
+  on materials exposed to space environment. 
+  <DT><STRONG>erratic error</STRONG> 
+  <DD>An error caused by an incomplete element in an instrument. 
+  <DD><I>An example of an erratic error is backlash in a gear train. </I><A   name=error></A><A name=errors></A>
+  <DT><STRONG>error</STRONG> 
+  <DD>1. In mathematics, the difference between the true value and a calculated 
+  or observed value. 
+  <DD><I>A quantity (equal in magnitude to the error) added to a calculated or 
+  observed value to obtain the true value is called a </I>correction. 
+  <DD>2. In a computer or data-processing system, any incorrect step, process, 
+  or result. 
+  <DD><I>In addition to the mathematically usage, in the computer field the term 
+  is also commonly used to refer to machine malfunctions as </I>machine 
+  errors<I> and to human mistakes as </I>human errors<I>. It is frequently 
+  helpful to distinguish between these as follows: errors result from 
+  approximations used in numerical methods; mistakes result from incorrect 
+  programming, coding, data transcription, manual operation, etc.; malfunction 
+  result from failures in the operation of machine components such as gates, 
+  flip-flops, amplifiers, etc. </I>
+  <DT><STRONG>error band</STRONG> 
+  <DD>An error value, usually expressed in percent of full scale, which defines 
+  the maximum allowable error permitted for a specified combination of <A   href="t.html#transducer">transducer</A> 
+  parameters. 
+  <DT><STRONG>error coefficients</STRONG> 
+  <DD>Partial derivatives showing the variation of a function of several 
+  variables, with one of these variables. These derivatives are used as 
+  coefficients of the variables being changed in a series representation of the 
+  total variation of the function. 
+  <DT><STRONG>error function</STRONG> = <A   href="p.html#probability integral">probability 
+  integral</A>. 
+  <DT><STRONG>error signal</STRONG> 
+  <DD>A voltage the magnitude of which is proportional to the difference between 
+  an actual and a desired position. 
+  <DD><I>In radar use, error signals are obtained from <A   href="s.html#selsyns">selsyns</A> and 
+  from automatic gain control circuits and are used to control a <A   href="s.html#servo">servo</A> system so 
+  that the resultant motions tend to correct the error. </I>
+  <DT><STRONG>ertor</STRONG> 
+  <DD>The <A   href="e.html#effective temperature">effective 
+  temperature</A> (radiational) of the earth's <A   href="o.html#ozone">ozone</A> layer. 
+  <DT><STRONG>erythema</STRONG> 
+  <DD>A reddening of the skin due to capillary dilation. 
+  <DD><I>Several forms of erythema can be caused by undue exposure of the human 
+  body to weather elements. The most common is sunburn. </I>
+  <DT><STRONG>E-scan</STRONG> = <A   href="e.html#e-display">E-display</A>. <A   name=escape></A>
+  <DT><STRONG>escape</STRONG> 
+  <DD>Of a particle or larger body: to achieve an <A   href="e.html#escape velocity">escape 
+  velocity</A> and a flightpath outward from a <A   href="p.html#primary body">primary 
+  body</A> so as neither to fall back to the body nor to <A   href="o.html#orbit">orbit</A> it. 
+  <DT><STRONG>escape rocket</STRONG> 
+  <DD>A small rocket engine attached to the leading end of an escape tower, 
+  which may be used to provide additional thrust to the capsule to obtain 
+  separation of the capsule from the booster vehicle in an emergency. 
+  <DT><STRONG>escape speed</STRONG> = <A   href="e.html#escape velocity">escape 
+  velocity</A>. 
+  <DT><STRONG>escape tower</STRONG> 
+  <DD>A trestle tower place on top of a space capsule, which during liftoff 
+  connects the capsule to the escape rocket. 
+  <DD><I>The escape tower is of such length as to protect the capsule from the 
+  heat of the escape rocket in case the rocket is used to separate the capsule 
+  from the booster vehicle during ascent. The tower is ultimately separated from 
+  the capsule if ascent is normal. </I><A name="escape velocity"></A>
+  <DT><STRONG>escape velocity</STRONG> 
+  <DD>The <A   href="r.html#radial">radial</A> speed 
+  which a particle or larger body must attain in order to escape from the 
+  gravitational field of a planet or star. When friction is neglected, the 
+  escape velocity is 
+  <CENTER><IMG height=22 src="102escvel.gif" width=65></CENTER>where 
+  <I>G </I>is the universal gravitational constant (see <A   href="g.html#gravitation">gravitation</A>); 
+  <I>m </I>is the mass of the planet or star; and <I>r </I>is the radial 
+  distance from the center of the planet or star. Also called <I>escape speed. 
+  </I>
+  <DD><I>Escape velocity from Earth is 7 miles/sec; from Mars it is 3.2 
+  miles/sec; and from the Sun it is 390 miles/sec. In order for a celestial body 
+  to retain an atmosphere for long periods of time, the mean velocity of the 
+  atmospheric molecules must be considerably below the escape velocity. </I>
+  <DT><STRONG>E-scope </STRONG>= <A   href="e.html#e-display">E-display</A>. 
+  <DT><STRONG>E.T. (abbr) </STRONG>= <A   href="e.html#ephemeris time"><I>e</I>phemeris 
+  <I>t</I>ime</A>. 
+  <DT><STRONG>etiology</STRONG> 
+  <DD>The doctrine of causes, particularly the causes and reasons for diseases. 
+  <DT><STRONG>E<SUB>2</SUB>-layer</STRONG> 
+  <DD>See <A   href="e.html#e-layer">E-layer</A> note. 
+  <A name=eulerian></A>
+  <DT><STRONG>Eulerian angles</STRONG> 
+  <DD>A system of three angles which uniquely define with reference to one <A   href="c.html#coordinate system">coordinate 
+  system</A> (e.g., earth axes), the orientation of a second coordinate system 
+  (e.g., body axes). Any orientation of the second system is obtainable from 
+  that of the first by <A   href="r.html#rotation">rotation</A> 
+  through each of the three angles in turn, the sequence of which is important. 
+  <A name="eulerian coordinates"></A>
+  <DT><STRONG>Eulerian coordinates</STRONG> 
+  <DD>Any system of <A   href="c.html#coordinates">coordinates</A> 
+  in which properties of a <A   href="f.html#fluid">fluid</A> are 
+  assigned to points in space at each given time, without attempt to identify 
+  individual <A   href="f.html#fluid parcels">fluid 
+  parcels</A> from one time to the next. See <A   href="e.html#equations of motion">equations 
+  of motion</A>. Compare <A   href="l.html#lagrangian coordinates">Lagrangian 
+  coordinates</A>. 
+  <DD><I>Eulerian coordinates are to be distinguished from <A   href="l.html#lagrangian coordinates">Lagrangian 
+  coordinates</A>. The particular coordinate system used to identify points in 
+  space (Cartesian, cylindrical, spherical, etc.) is quite independent of 
+  whether the representation is Eulerian or Lagrangian. </I><A   name="eulerian correlation"></A>
+  <DT><STRONG>Eulerian correlation</STRONG> 
+  <DD>The <A   href="c.html#correlation">correlation</A> 
+  between the properties of a flow at various points in space at a single 
+  instant of time. Sometimes called <I>synoptic correlation. </I>Compare <A   href="l.html#lagrangian correlation">Lagrangian 
+  correlation</A>. 
+  <DT><STRONG>Eulerian equations</STRONG> 
+  <DD>Any of the fundamental equations of hydrodynamics expressed in <A   href="e.html#eulerian coordinates">Eulerian 
+  coordinates</A>. These are so commonly used that the designation <I>Eulerian 
+  </I>is often omitted. 
+  <DT><STRONG>Europa</STRONG> 
+  <DD>A <A   href="s.html#satellite">satellite</A> of 
+  Jupiter orbiting at a mean distance of 671,000 kilometers. Also called 
+  <I>Jupiter II. </I><A name=evaporation></A>
+  <DT><STRONG>evaporation</STRONG> 
+  <DD>The physical process by which a liquid or solid is transformed to the 
+  gaseous state; the opposite of condensation. Also called <I>vaporization. </I>
+  <DD><I>In meteorology, </I>evaporation<I> usually is restricted in use to the 
+  change of water from liquid to gas, while </I>sublimation<I> is used for the 
+  change from solid to gas as well as from gas to solid. <BR>According to the <A   href="k.html#kinetic theory">kinetic 
+  theory</A> of gases, evaporation occurs when liquid molecules escape into the 
+  vapor phase as a result of the chance acquisition of above average, 
+  outward-directed, translational velocities at a time when they happen to lie 
+  within about one mean free path below the effective liquid surface. It is 
+  conventionally stated that evaporation into a gas ceases when the gas reaches 
+  saturation. In reality, net evaporation does cease, but only because the 
+  numbers of molecules escaping from and returning to the liquid are equal, that 
+  is, evaporation is counteracted by condensation. <BR>Energy is lost by an 
+  evaporating liquid; and, when no heat is added externally, the liquid always 
+  cools. The heat thus removed is termed the </I>latent heat of vaporization. 
+  <DT><STRONG>evaporation coefficient</STRONG> 
+  <DD>The ratio of the actual <A   href="e.html#evaporation rate">evaporation 
+  rate</A> to the maximum or <A   href="k.html#knudsen rate of evaporation">Knudsen 
+  rate of evaporation</A>. <A name="evaporation rate"></A>
+  <DT><STRONG>evaporation rate</STRONG> 
+  <DD>1. The mass of material evaporated per unit from unit surface of a liquid 
+  or solid. 
+  <DD>2. The number of <A   href="m.html#molecules">molecules</A> of 
+  a given substance evaporated per second per square centimeter from the free 
+  surface of the condensed phase. <A name=evection></A>
+  <DT><STRONG>evection</STRONG> 
+  <DD>A <A   href="p.html#perturbation">perturbation</A> 
+  of the moon in its orbit due to the attraction of the sun. This results in an 
+  increase in the <A   href="e.html#eccentricity">eccentricity</A> 
+  of the moon's orbit when the sun passes the moon's <A   href="l.html#line of apsides">line of 
+  apsides</A> and a decrease when perpendicular to it. See <A   href="l.html#lunar inequality">lunar 
+  inequality</A>. 
+  <DD><I>Evection amounts to 1 degree 15 minutes in the moon's longitude at 
+  maximum. </I><A name="exchange coefficients"></A><A   name="exchange coefficient"></A>
+  <DT><STRONG>exchange coefficients</STRONG> 
+  <DD>Coefficients of eddy flux (e.g., of momentum, heat, water vapor, etc.) in 
+  <A href="t.html#turbulent flow">turbulent 
+  flow</A>, defined in analogy to those of the kinetic theory of gases (see <A   href="e.html#eddy">eddy</A>). Also called 
+  <I>austausch coefficients, eddy coefficients, interchange coefficients. </I>
+  <DD><I>The exchange-coefficient hypothesis states that the mean eddy flux per 
+  unit area of a conservative quantity (suitability expressed) is proportional 
+  to the gradient of the mean value of this quantity, that is, 
+  <CENTER>Mean flux per unit area = <I>-C<SUB>e</SUB> (d<IMG 
+  src="Ebar.gif">/ dN)</I></CENTER>where C<SUB>e</SUB> is the exchange 
+  coefficient; E is the mean value of the quantity; and N is the direction 
+  normal to the surface. In strict analogy to molecular properties; 
+  C<SUB>e</SUB> would be constant, for turbulent flow C<SUB>e</SUB> turns out to 
+  depend on time and location. See <A   href="e.html#eddy viscosity">eddy 
+  viscosity</A> diffusivity. </I><A name=excitation></A>
+  <DT><STRONG>excitation</STRONG> 
+  <DD>1. An external force, or other input, applied to a system that causes the 
+  system to respond in some way. Also called <I>stimulus. </I>
+  <DD>2. The increase in the internal energy of an atomic or molecular system 
+  caused by a collision with another particle of greater energy. 
+  <DD><I>For atoms in a discharge, </I>excitation<I> usually refers to 
+  increasing the energy level of a bound electron. </I>
+  <DT><STRONG>excited atom</STRONG> 
+  <DD>An atom with one or more of its bound <A   href="e.html#electrons">electrons</A> in 
+  an increased energy level. 
+  <DT><STRONG>exclusive OR circuit</STRONG> 
+  <DD>A <A   href="c.html#circuit">circuit</A> which 
+  produces an output <A   href="s.html#signal">signal</A> when any 
+  one, but not more than one, input is in its prescribed state. Also called 
+  <I>AND-NOT gate. </I>
+  <DT><STRONG>exhaust deflecting ring</STRONG> 
+  <DD>A type of <A   href="j.html#jetavator">jetavator</A> 
+  consisting of a ring so mounted at the end of a <A   href="n.html#nozzle">nozzle</A> as to 
+  permit it to be rotated into the exhaust stream. 
+  <DT><STRONG>exhaust stream</STRONG> 
+  <DD>The stream of gaseous, atomic, or radiant particles that emit from the <A   href="n.html#nozzle">nozzle</A> of a <A   href="r.html#rocket">rocket</A> or other 
+  reaction engine. <A name="exhaust trail"></A>
+  <DT><STRONG>exhaust trail</STRONG> 
+  <DD>A <A   href="c.html#condensation trail">condensation 
+  trail</A> that forms when the water vapor of an aircraft exhaust is mixed with 
+  and saturates (or slightly supersaturates) the air in the wake of the 
+  aircraft. Exhaust trails are of more common occurrence and of longer duration 
+  than <A   href="a.html#aerodynamic trails">aerodynamic 
+  trails</A>. Also called <I>engine-exhaust trail. </I><A   name="exhaust velocity"></A>
+  <DT><STRONG>exhaust velocity</STRONG> 
+  <DD>The velocity of gaseous or other particles (exhaust stream) that exhaust 
+  through the <A   href="n.html#nozzle">nozzle</A> or a <A   href="r.html#reaction engine">reaction 
+  engine</A>, relative to the nozzle. 
+  <DT><STRONG>exobiology</STRONG> 
+  <DD>That field of biology which deals with the effects of extraterrestrial 
+  environments on living organisms and with the search for extraterrestrial 
+  life. <A name=exosphere></A>
+  <DT><STRONG>exosphere</STRONG> 
+  <DD>The outermost, or topmost, portion of the <A   href="a.html#atmosphere">atmosphere</A>. 
+  Its lower boundary is the <A   href="c.html#critical level of escape">critical 
+  level of escape</A>, variously estimated at 500 to 1000 kilometers above the 
+  earth's surface. Also called <I>region of escape. </I>See <A   href="a.html#atmospheric shell">atmospheric 
+  shell</A>. 
+  <DD><I>In the exosphere, the air density is so low that the <A   href="m.html#mean free path">mean free 
+  path</A> of individual particles depends upon their direction with respect to 
+  the local vertical, being greatest for upward moving particles (see <A   href="c.html#cone of escape">cone of 
+  escape</A>, <A   href="f.html#fringe region">fringe 
+  region</A>). It is only from the exosphere that atmospheric gases can, to any 
+  appreciable extent, escape into outer space. </I>
+  <DT><STRONG>exospheric</STRONG> 
+  <DD>Of or pertaining to the <A   href="e.html#exosphere">exosphere</A>. 
+  <DT><STRONG>exotic fuel</STRONG> 
+  <DD>Any fuel considered to be unusual, as a boron-base fuel. 
+  <DT><STRONG>exotic material</STRONG> 
+  <DD>Any structural material which is not presently used in great quantities in 
+  conventional applications. Usually, materials with melting points above 3000° 
+  F. 
+  <DT><STRONG>expandable space structure</STRONG> 
+  <DD>A structure which can be packaged in a small volume for <A   href="l.html#launch">launch</A> and then 
+  erected to its full size and shape outside the earth's atmosphere. <A   name="expansion wave"></A>
+  <DT><STRONG>expansion wave</STRONG> 
+  <DD>A simple <A   href="w.html#wave">wave</A> or 
+  progressive disturbance in the <A   href="i.html#isentropic">isentropic</A> 
+  flow of a compressible fluid, such that the pressure and density of a fluid 
+  particle decrease on crossing the wave in the direction of its motion. Also 
+  called <I>rarefaction wave. </I>See <A   href="c.html#compressional wave">compressional 
+  wave</A>. 
+  <DT><STRONG>expiratory reserve</STRONG> 
+  <DD>The volume of air that can be expelled from the lungs after a normal 
+  expiration. <A name=explement></A>
+  <DT><STRONG>explement</STRONG> 
+  <DD>An angle equal to 360° minus a given angle. Thus, 150 ° is the explement 
+  of 210° and the two are said to be <I>explementary. </I>See <A   href="c.html#complement">complement</A>, 
+  <A   href="s.html#supplement">supplement</A>. 
+  <DT><STRONG>explementary angles</STRONG> 
+  <DD>Two angles whose sum is 360°. <A name=explosion></A>
+  <DT><STRONG>explosion</STRONG> 
+  <DD>1. The sudden production of a large quantity of gas, usually hot, from a 
+  much smaller amount of a gas, liquid, or solid. 
+  <DD>2. Specifically, an explosion, sense 1, produced by combustion of a <A   href="f.html#fuel">fuel</A> and an <A   href="o.html#oxidizer">oxidizer</A>. 
+  <DD><I>The distinction between an explosion, sense 2. and a detonation is that 
+  in an explosion the heat release rate and the number of molecules per unit 
+  volume increase with time more or less uniformly, whereas a detonation is 
+  propagated by an advancing <A   href="s.html#shock front">shock front</A> 
+  behind which exothermic reactions take place and thus is (spatially) 
+  nonuniform. </I><A name="explosion turbine"></A>
+  <DT><STRONG>explosion turbine</STRONG> 
+  <DD>A <A   href="t.html#turbine">turbine</A> rotated 
+  by gases from an intermittent combustion process taking place in a 
+  constant-volume chamber. <A name="explosive bolts"></A>
+  <DT><STRONG>explosive bolt</STRONG> 
+  <DD>A bolt incorporating an explosive which can be detonated on command, thus 
+  destroying the bolt. Explosive bolts are used, for example, in separating a <A   href="s.html#satellite">satellite</A> 
+  from a <A   href="r.html#rocket">rocket</A>. 
+  <DT><STRONG>explosive decompression</STRONG> 
+  <DD>A very rapid reduction of air pressure inside a cabin, coming to a new 
+  static condition of balance with the external pressure. 
+  <DT><STRONG>exponential atmosphere</STRONG> 
+  <DD>1. = <A   href="i.html#isothermal atmosphere">isothermal 
+  atmosphere</A>. 
+  <DD>2. An atmosphere in which the density is given by 
+  <CENTER><IMG src="rhosm.gif"> = <IMG 
+  src="rhosm.gif"><I><SUB>o</SUB> e<SUP>-h/H</SUP></I></CENTER>where 
+  <IMG src="rhosm.gif"> is density, <IMG 
+  src="rhosm.gif"><SUB>o</SUB> is density at the datum plane, <I>h 
+  </I>is altitude, and <I>H</I> is scale height. 
+  <DT><STRONG>exposure suit</STRONG> 
+  <DD>A suit designed to protect a person from a harmful natural <A   href="e.html#environment">environment</A>, 
+  such as cold water. <A name="extended range dovap"></A>
+  <DT><STRONG>extended range Dovap (abbr Extradop)</STRONG> 
+  <DD>A <A   href="b.html#baseline">baseline</A> 
+  extension of the <A   href="d.html#dovap">Dovap</A> system to 
+  provide a <A   href="c.html#coherent">coherent</A> 
+  reference to the ground transmitter and all Dovap receivers located beyond 
+  line-of-sight to the ground transmitter. 
+  <DD><I>The coherent reference is supplied by a cable and is multiplied up to 
+  the proper reference frequency. </I>
+  <DT><STRONG>extensive air shower </STRONG>= <A   href="a.html#auger shower">Auger 
+  shower</A>. 
+  <DT><STRONG>exterior ballistics</STRONG> 
+  <DD>That branch of <A   href="b.html#ballistics">ballistics</A> 
+  that deals with the motion of projectiles in flight. 
+  <DT><STRONG>external storage</STRONG> 
+  <DD>In computer terminology, <A   href="s.html#storage">storage</A> media 
+  separate from the machine but capable of retaining information in a form 
+  acceptable to the machine, as floppy disks, removable reels of magnetic tape 
+  or decks of punched cards. <A name=extinction></A>
+  <DT><STRONG>extinction</STRONG> 
+  <DD>The attenuation of light; that is, the reduction of <A   href="i.html#illuminance">illuminance</A> 
+  of a collimated beam of light as the light passes through a medium wherein <A   href="a.html#absorption">absorption</A> 
+  and <A   href="s.html#scattering">scattering</A> 
+  occur. <A name="extinction coefficient"></A>
+  <DT><STRONG>extinction coefficient</STRONG> 
+  <DD>In meteorology, a measure of the space rate of diminution, or extinction, 
+  of any transmitted light; thus, it is the <A   href="a.html#attenuation coefficient">attenuation</A> 
+  <A   href="c.html#coefficient">coefficient</A> 
+  applied to <A   href="v.html#visible">visible</A> 
+  radiation. The extinction coefficient <IMG src="epsilonsm.gif"> is 
+  identified as 
+  <CENTER><I>dI = -<IMG src="epsilonsm.gif">I dx</I> </CENTER>or 
+  <CENTER><I>I = I<SUB>0</SUB> e<SUP>-<IMG 
+  src="epsilonsm.gif">x</SUP></I> </CENTER>where <I>I </I>is the 
+  illuminance (luminous flux density) at the selected point in space, 
+  <I>I<SUB>0</SUB></I> is the illuminance at the light source; and <I>x </I>is 
+  the distance from the source. 
+  <DD><I>When so used, the extinction coefficient equals the sum of the medium's 
+  absorption coefficient and scattering coefficient, each computed as a weighted 
+  average over all wavelengths in the visible spectrum. As long as scattering 
+  effects are primary, as in the lower atmosphere, the value of the extinction 
+  coefficient is a function of the particle size of atmospheric suspensoids. It 
+  varies in order of magnitude from 10 per kilometer with very low visibility to 
+  0.01 per kilometer in very clear air. </I>
+  <DT><STRONG>extinction cross section</STRONG> = <A   href="s.html#scattering cross section">scattering 
+  cross section</A>. 
+  <DT><STRONG>Extradop (abbr) </STRONG>= <A   href="e.html#extended range dovap"><I>ext</I>ended 
+  <I>ra</I>nge <I>Do</I>va<I>p</I></A>. 
+  <DT><STRONG>extragalactic</STRONG> 
+  <DD>Outside our galaxy, which is the <A   href="m.html#milky way">Milky Way</A>. 
+  <DT><STRONG>extraordinary ray</STRONG> 
+  <DD>The refracted component of a beam of <A   href="r.html#radiation">radiation</A> 
+  split by having passed through a doubly refracting substance. The other 
+  component is called the <I>ordinary ray. </I>See <A   href="m.html#magnetic double refraction">magnetic 
+  double refraction</A>. 
+  <DT><STRONG>extraterrestrial life</STRONG> 
+  <DD>Life forms evolved and existing outside the terrestrial <A   href="b.html#biosphere">biosphere</A>. <A   name="extraterrestrial radiation"></A>
+  <DT><STRONG>extraterrestrial radiation</STRONG> 
+  <DD>In general, <A   href="s.html#solar radiation">solar 
+  radiation</A> received just outside the earth's atmosphere. <A   name="extremely high frequency"></A>
+  <DT><STRONG>extremely high frequency (abbr EHF)</STRONG> 
+  <DD>See <A   href="f.html#frequency bands">frequency 
+  bands</A>. <A name="extremely low frequency"></A>
+  <DT><STRONG>extremely low frequency (abbr ELF)</STRONG> 
+  <DD>See <A   href="f.html#frequency bands">frequency 
+  bands</A>. 
+  <DT><STRONG>extreme value</STRONG> 
+  <DD>In statistics, the upper or lower bound of the random variable which is 
+  not expected to be exceeded by a specified percentage of the population within 
+  a given <A   href="c.html#confidence interval">confidence 
+  interval</A>. 
+  <DT><STRONG>eyeballs in, eyeballs out, eyeballs down, eyeballs up, eyeballs 
+  left, eyeballs right. </STRONG>See <A   href="p.html#physiological acceleration">physiological 
+  acceleration</A>. </DT>

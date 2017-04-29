@@ -1,0 +1,91 @@
+<DT><STRONG>zenith</STRONG> <A name=zenith></A>
+  <DD>That point of the <A 
+  href="c.html#celestial sphere">celestial 
+  sphere</A> vertically overhead. 
+  <DD><I>The point 180 degrees from the zenith is called the nadir.</I> 
+  <DT><STRONG>zenithal</STRONG> 
+  <DD>Of or pertaining to the <A 
+  href="z.html#zenith">zenith</A>. 
+  <DT><STRONG>zenith attraction</STRONG> 
+  <DD>The effect of the earth's gravity on a <A 
+  href="m.html#meteoric">meteoric</A> body, 
+  which increases the velocity and moves the <A 
+  href="r.html#radiant">radiant</A> toward 
+  the <A href="z.html#zenith">zenith</A>. 
+  <A name="zenith distance"></A>
+  <DT><STRONG>zenith distance</STRONG> 
+  <DD>Angular distance from the zenith; the arc of a <A 
+  href="v.html#vertical circle">vertical 
+  circle</A> between the zenith and a point on the <A 
+  href="c.html#celestial sphere">celestial 
+  sphere</A>, measured from the zenith through 90 degrees, for bodies above the 
+  horizon. 
+  <DD><I>This is the same as colatitude with reference to the celestial 
+  horizon.</I> 
+  <DT><STRONG>zenographic</STRONG> 
+  <DD>Referring to positions on Jupiter measured in <A 
+  href="l.html#latitude">latitude</A> from 
+  Jupiter's equator and in <A 
+  href="l.html#longitude">longitude</A> 
+  from a reference meridian. <A name=zero></A>
+  <DT><STRONG>zero gravity</STRONG> = weightlessness. 
+  <DT><STRONG>zero-g </STRONG>= weightlessness. 
+  <DT><STRONG>zero launch</STRONG> 
+  <DD>The launch of a rocket or aircraft by a <A 
+  href="z.html#zero-length launcher">zero-length 
+  launcher</A>. 
+  <DT><STRONG>zero-length launcher</STRONG> <A name="zero-length launcher"></A>
+  <DD>A <A 
+  href="l.html#launcher">launcher</A> that 
+  holds a vehicle in position and releases the rocket simultaneously at two 
+  points so that the buildup of <A 
+  href="t.html#thrust">thrust</A>, normally 
+  rocket thrust, is sufficient to take the missile or vehicle directly into the 
+  air without need of a take-off run and without imposing a pitch rate release. 
+  <DD><I>The term is not normally applied to a pad used for a vertical 
+  launch.</I> 
+  <DT><STRONG>zero-length rocket</STRONG> 
+  <DD>A <A href="r.html#rocket">rocket</A> 
+  with sufficient thrust to launch a vehicle directly into the air. 
+  <DD><I>Said especially of a rocket used to launch an aerodynamic vehicle.</I> 
+  <DT><STRONG>zero-lift chord</STRONG> 
+  <DD>A <A href="c.html#chord">chord</A> 
+  taken through the trailing edge of an <A 
+  href="a.html#airfoil">airfoil</A> in the 
+  direction of the relative wind when the airfoil is at a zero-lift angle of 
+  attack. 
+  <DT><STRONG>zeta machine</STRONG> 
+  <DD>An experimental <A 
+  href="t.html#thermonuclear">thermonuclear</A> 
+  device which generates a <A 
+  href="p.html#plasma">plasma</A> inside a 
+  torus and employs the <A 
+  href="p.html#pinch effect">pinch 
+  effect</A> for heating and compression. 
+  <DT><STRONG>zip fuel</STRONG> 
+  <DD>A boron-base high-energy <A 
+  href="l.html#liquid propellant">liquid 
+  propellant</A>. <A name=zodiac></A>
+  <DT><STRONG>zodiac</STRONG> 
+  <DD>The band of the sky extending 8 degrees either side of the <A 
+  href="e.html#ecliptic">ecliptic</A>. 
+  <DD><I>The Sun, Moon, and navigational planets are always within this band, 
+  with the occasional exception of Venus. The zodiac is divided into 12 equal 
+  parts, called signs, each part being named for the principal constellation 
+  originally within it.</I> 
+  <DT><STRONG>zodiacal counterglow</STRONG> = gegenschein. <A 
+  name="zodiacal light"></A>
+  <DT><STRONG>zodiacal light</STRONG> 
+  <DD>A faint cone of light extending upward from the horizon in the direction 
+  of the <A 
+  href="e.html#ecliptic">ecliptic</A> 
+  (zodiac). It is seen from tropical latitudes for a few hours after sunset or 
+  before sunrise. 
+  <DD><I>The spectrum of the zodiacal light is similar to that of sunlight, so 
+  it has been suggested that it is due to the scattering of sunlight by 
+  extraterrestrial dust particles. Some scattering is also due to electrons. 
+  </I><A name="zone time"></A>
+  <DT><STRONG>zone time</STRONG> 
+  <DD>See <A href="t.html#time">time</A>. 
+  <DT><STRONG>z-time</STRONG> = Greenwich mean time. 
+  <DT><STRONG>Zurich number </STRONG>= relative sunspot number </DT>

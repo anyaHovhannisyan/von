@@ -110,20 +110,20 @@ th
 
 #search
 {
-	padding: 8px 120px;
+	padding: 5px 120px;
 }
 
 input[type=text] {
-    width: 80px;
+    width: 70px;
     height: 40px;
     box-sizing: border-box;
-    border: 1px solid rgba(147,201,210,1);
-    border-radius: 2px;
+    border: 2px solid rgba(147,201,210,1);
+    border-radius: 4px;
     font-size: 16px;
-    background-color: rgba(15, 73, 76, 0.48);
-    /*background-image: url('img/search1.png');*/
+    background-color: rgba(255,255,255,0.8);
+    background-image: url('searchicon.png');
     background-position: 10px 10px; 
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
     padding: 5px 10px;
@@ -132,80 +132,5 @@ input[type=text] {
 
 input[type=text]:focus {
     width: 70%;
-	background-color: rgba(15, 73, 76, 0.48);
-}
-
-input[type=text]:hover
-{
-	background-color: rgba(15, 73, 76, 0.48);
-}
-
-.acroTitle
-{
-	color: silver;
-	margin: 0 0;
-}
-
-.acroMean
-{
-	font-weight: bold;
-}
-
-.acroWords
-{
-	color: gainsboro;
-	margin: -2px 0;
-}
-
-#foot
-{
-	padding: 15px;
-}
-
-input[type=submit] 
-{
-	background-color:rgba(0,0,0,0.5);
-	border:0.5px solid #666;
-	color:#666;
-	font-size:20px;
-	height:35px;
-	outline:none;
-	padding:0 ;
-	width:200px;
-	margin-top:10px;
-	font-family: Pompadur,verdana,sans-serif;
-	font-weight:100;
-	cursor:pointer;
-}
-
-input[type=submit]:hover 
-{
-	background:rgba(0, 202, 183, 0.42);
-	border:1px solid #666;
-	color:#fff;
-}
-
-.commentor
-{
-	color: white;
-	font-weight: bold;
-}
-
-.commentItself
-{
-	color: gainsboro;
-}
-
-textarea {
-    width: 80%;
-    height: 150px;
-    padding: 12px 20px;
-    box-sizing: border-box;
-    border: 1px solid #ccc;
-    border-radius: 2px;
-    background-color: rgba(15, 73, 76, 0.48);
-    font-size: 16px;
-    resize: none;
-    color: silver;
 }
 

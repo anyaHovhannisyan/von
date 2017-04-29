@@ -1,0 +1,1539 @@
+<DT><STRONG>g or G</STRONG> 
+  <DD>An acceleration equal to the <A 
+  href="a.html#acceleration of gravity">acceleration 
+  of gravity</A>, 980.665 centimeter-second-squared, approximately 32.2 feet per 
+  second per second at sea level; used as a unit of stress measurement for 
+  bodies undergoing acceleration. See <A 
+  href="a.html#acceleration of gravity">acceleration 
+  of gravity</A>; <A 
+  href="g.html#gravity">gravity</A>. 
+  <DT><STRONG>gage pressure</STRONG> 
+  <DD>In engineering literature, a term used to indicate the difference between 
+  <A 
+  href="a.html#atmospheric pressure">atmospheric 
+  pressure</A> and <A 
+  href="a.html#absolute pressure">absolute 
+  pressure</A>, as read from a <A 
+  href="d.html#differential manometer">differential 
+  manometer</A>. <A name=gain></A>
+  <DT><STRONG>gain</STRONG> 
+  <DD>1. A general term used to denote an increase in signal power or <A 
+  href="s.html#signal strength">signal 
+  strength</A> in transmission from one point to another. Gain is usually 
+  expressed in decibels and is widely used to denote transducer gain. 
+  <DD>2. An increase or amplification. In radar there are two general usages of 
+  the term: (a) antenna gain, or gain factor, is the ratio of the power 
+  transmitted along the beam axis to that of an <A 
+  href="i.html#isotropic radiator">isotropic 
+  radiator</A> transmitting the same total power; (b) receiver gain, or video 
+  gain, is the amplification given a signal by the receiver. See <A 
+  href="h.html#height gain">height 
+  gain</A>. 
+  <DT><STRONG>gain factor</STRONG> 
+  <DD>See <A href="g.html#gain">gain</A>, 
+  sense 2(a). <A name=gal></A>
+  <DT><STRONG>gal</STRONG> 
+  <DD>(From <I>Gal</I>ileo). A unit of <A 
+  href="a.html#acceleration">acceleration</A> 
+  equal to 1 centimeter per second per second, or 1000 milligals. 
+  <DD><I>The gal and milligal are used in measuring the <A 
+  href="a.html#acceleration of gravity">acceleration 
+  of gravity</A>. </I>
+  <DT><STRONG>galactic</STRONG> 
+  <DD>1. Pertaining to our <A 
+  href="g.html#galaxy">galaxy</A>, the 
+  Milky Way. 
+  <DD>2. Pertaining to the <A 
+  href="g.html#galactic system of coordinates">galactic 
+  system of coordinates</A>, as <I>galactic latitude. </I>
+  <DT><STRONG>galactic circle</STRONG> = <A 
+  href="g.html#.galactic equator">galactic 
+  equator</A>. 
+  <DD>See <A 
+  href="g.html#galactic system of coordinates">galactic 
+  system of coordinates</A>. <A name="galactic equator"></A>
+  <DT><STRONG>galactic equator</STRONG> 
+  <DD>See <A 
+  href="g.html#galactic system of coordinates">galactic 
+  system of coordinates</A>. 
+  <DT><STRONG>galactic pole</STRONG> 
+  <DD>See <A 
+  href="g.html#galactic system of coordinates">galactic 
+  system of coordinates</A>. 
+  <DT><STRONG>galactic radio waves</STRONG> 
+  <DD><A href="r.html#radio waves">Radio 
+  waves</A> emanating from our <A 
+  href="g.html#galaxy">galaxy</A>. See <A 
+  href="c.html#cosmic radio waves">cosmic 
+  radio waves</A>. <A name="galactic system of coordinates"></A>
+  <DT><STRONG>galactic system of coordinates</STRONG> 
+  <DD>An astronomical <A 
+  href="c.html#coordinate system">coordinate 
+  system</A> using latitude measured north and south from the galactic equator 
+  and longitude measured in the sense of increasing <A 
+  href="r.html#right ascension">right 
+  ascension</A> from 0 to 360 degrees. See <A 
+  href="c.html#coordinate">coordinate</A>, 
+  table. 
+  <DD><I>Galactic latitude is designated b, galactic longitude l. The reference 
+  points for galactic coordinates were changed by action of the International 
+  Astronomical Union in 1958. The new values are: the north galactic pole lies 
+  in the direction right ascension = 12 hours 49 minutes, declination = 27.4 
+  degrees N (equinox 1950); the new zero of longitude is the great semicircle 
+  originating at the new north galactic pole at the position angle 0 = 123 
+  degrees with respect to the equatorial pole for 1950. </I><A name=galaxy></A>
+  <DT><STRONG>galaxy</STRONG> 
+  <DD>A vast assemblage of stars, nebulae, etc., composing an island universe 
+  separated from other such assemblages by great distances. 
+  <DD><I>The sun and its family of planets is part of a galaxy commonly called 
+  the Milky Way. The nearest galaxy to the Milky Way is the spiral galaxy 
+  Andromeda at a distance of approximately 800,000 light years. </I>
+  <DT><STRONG>gamma photon</STRONG> = gamma ray. 
+  <DT><STRONG>gamma radiation </STRONG>= gamma ray. <A 
+  name="gamma radiation"></A><A name="gamma ray"></A><A name="gamma rays"></A>
+  <DT><STRONG>gamma ray</STRONG> 
+  <DD>A quantum of <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> emitted by a <A 
+  href="n.html#nucleus">nucleus</A>, each 
+  such photon being emitted as the result of a quantum transition between two 
+  energy levels of the nucleus. Gamma rays have energies usually between 10 
+  thousand electron volts and 10 million electron volts with correspondingly 
+  short wavelengths and high frequencies. Also called <I>gamma radiation. </I>
+  <DD><I>X-rays occur in the same energy range as gamma rays but are of 
+  nonnuclear origin. In atmospheric electricity, gamma rays are of some 
+  importance in contributing to atmospheric ionization, along with alpha 
+  particles and beta particles. Gamma ray photons have much greater penetration 
+  ranges than do alpha and beta particles, often amounting to distances of the 
+  order of a hundred meters in air at sea level. These high-energy photons may 
+  initiate their ionizing action by ejecting <A 
+  href="p.html#photoelectrons">photoelectrons</A> 
+  from neutral atoms or molecules of the air, by ejecting electrons by the <A 
+  href="c.html#compton effect">Compton 
+  effect</A>, or (for gamma photons with energies above a few million electron 
+  volts) by pair production in which an electron and a positron are created. 
+  </I><A name=gantry></A>
+  <DT><STRONG>gantry</STRONG> 
+  <DD>A frame structure that spans over something, as an elevated platform that 
+  runs astride a work area, supported by wheels on each side; short for 
+  <I>gantry crane </I>or <I>gantry scaffold. </I>
+  <DT><STRONG>gantry crane</STRONG> 
+  <DD>A large crane mounted on a platform that usually runs back and forth on 
+  parallel tracks astride the work area. Often shortened to <I>gantry. </I>
+  <DT><STRONG>gantry scaffold</STRONG> 
+  <DD>A massive scaffolding structure mounted on a bridge or platform supported 
+  by a pair of towers or trestles that normally run back and forth on parallel 
+  tracks, used to assemble and service a large rocket as the rocket rests on its 
+  launching pad. Often shortened to <I>gantry. </I>
+  <DD><I>This structure is a latticed arrangement of girders, tubing, platforms, 
+  cranes, elevators, instruments, wiring, floodlights, cables, and ladders - all 
+  used to attend the rocket. </I>
+  <DT><STRONG>Ganymede</STRONG> 
+  <DD>A satellite of Jupiter orbiting at a mean distance of 1,071,000 
+  kilometers. Also called <I>Jupiter III. </I>
+  <DT><STRONG>garbage</STRONG> 
+  <DD>Miscellaneous objects in <A 
+  href="o.html#orbit">orbit</A>, usually 
+  material ejected or broken away from a <A 
+  href="l.html#launch vehicle">launch 
+  vehicle</A> or <A 
+  href="s.html#satellite">satellite</A>. <A 
+  name=gas></A><A name=gases></A>
+  <DT><STRONG>gas</STRONG> 
+  <DD>The state of matter in which the <A 
+  href="m.html#molecules">molecules</A> are 
+  practically unrestricted by intermolecular forces so that the molecules are 
+  free to occupy any space within an enclosure. 
+  <DD><I>In vacuum technology the word gas has been loosely applied to the 
+  noncondensable gas and vapor within a <A 
+  href="v.html#vacuum system">vacuum 
+  system</A>. </I><A name="gas cap"></A>
+  <DT><STRONG>gas cap</STRONG> 
+  <DD>The gas immediately in front of a body as it travels through the 
+  atmosphere. 
+  <DD><I>This gas is compressed and heated. If the speed is sufficiently high, 
+  the gas becomes incandescent; it is to this condition that the term is usually 
+  applied, as in the gas cap of a <A 
+  href="m.html#meteor">meteor</A>. </I><A 
+  name="gas constant"></A>
+  <DT><STRONG>gas constant (symbol R, R*)</STRONG> 
+  <DD>The constant factor in the <A 
+  href="e.html#equation of state">equation 
+  of state</A> for perfect gases. The universal gas constant is R = 8.3143 joules/degrees K-mol The gas constant 
+  for a particular gas, specific gas constant, <I>r </I>= R/ <I>m </I>where <I>m 
+  </I>is the molecular weight of the gas. See <A 
+  href="b.html#boltzmann">Boltzmann</A> 
+  constant. 
+  <DT><STRONG>gas constant per molecule</STRONG> = <A 
+  href="b.html#boltzmann constant">Boltzmann 
+  constant</A>. 
+  <DT><STRONG>gaseous discharge</STRONG> = electric discharge. <A 
+  name=" gaseous electric discharge"></A>
+  <DT><STRONG>gaseous electric discharge</STRONG> = electric discharge. <A 
+  name="gaseous electronics"></A>
+  <DT><STRONG>gaseous electronics</STRONG> 
+  <DD>The study of the conduction of electricity through gases, involving study 
+  of the <A 
+  href="t.html#townsend">Townsend</A>, <A 
+  href="g.html#glow">glow</A>, and <A 
+  href="a.html#arc discharges">arc 
+  discharges</A>, and all the collision phenomena on an atomic scale. Formerly 
+  called <I>gaseous discharges. </I><A name="gas laws"></A>
+  <DT><STRONG>gas laws</STRONG> 
+  <DD>The thermodynamic laws applying to perfect gases: <A 
+  href="b.html#boyle-mariotte law">Boyle-Mariotte 
+  law</A>, <A 
+  href="c.html#charles-gay-lussac law">Charles-Gay-Lussac 
+  law</A>, <A 
+  href="d.html#dalton law">Dalton law</A>, 
+  <A 
+  href="e.html#equation of state">equation 
+  of state</A>. Also called <I>perfect-gas laws, ideal-gas laws. </I>
+  <DT><STRONG>gas scrubbing</STRONG> 
+  <DD>The contacting of a gaseous mixture with a liquid for the purpose of 
+  removing gaseous contaminants or entrained liquids or solids. <A 
+  name="gas turbine"></A>
+  <DT><STRONG>gas turbine</STRONG> 
+  <DD>1. A <A 
+  href="t.html#turbine">turbine</A> rotated 
+  by expanding gases, as in a <A 
+  href="t.html#turbojet engine">turbojet 
+  engine</A> or in a turbosupercharger. 
+  <DD>2. A <A 
+  href="g.html#gas-turbine engine">gas-turbine 
+  engine</A>. <A name="gas-turbine engine"></A>
+  <DT><STRONG>gas-turbine engine</STRONG> 
+  <DD>An engine incorporating as its chief element a <A 
+  href="t.html#turbine">turbine</A> rotated 
+  by expanding gases. In its most usual form, it consists essentially of a 
+  rotary air <A 
+  href="c.html#compressor">compressor</A> 
+  with an air intake, one or more <A 
+  href="c.html#combustion chambers">combustion 
+  chambers</A>, a turbine, and an exhaust outlet. <A name=gate></A>
+  <DT><STRONG>gate</STRONG> 
+  <DD>1. To control passage of a signal as in the circuits of a <A 
+  href="c.html#computer">computer</A>. 
+  <DD>2. A <A 
+  href="c.html#circuit">circuit</A> having 
+  an output and inputs so designed that the output is energized only when a 
+  definite set of input conditions are met. In computers, called <I>AND-gate. 
+  </I>
+  <DT><STRONG>gating</STRONG> 
+  <DD>The process of selecting those portions of a <A 
+  href="w.html#wave">wave</A> which exist 
+  during one or more selected time intervals or which have magnitudes between 
+  selected limits. <A name=gauss></A>
+  <DT><STRONG>gauss</STRONG> 
+  <DD>A unit of <A 
+  href="m.html#magnetic induction">magnetic 
+  induction</A> (or magnetic flux density) equal to 1 dyne per unit cgs magnetic 
+  pole. 
+  <DD><I>Prior to 1932, the gauss was used both as a unit of magnetic induction 
+  and as a unit of magnetic <A 
+  href="f.html#field intensity">field 
+  intensity</A>, but the latter quantity is now measured in oersteds. </I><A 
+  name="gaussian constant"></A>
+  <DT><STRONG>Gaussian constant (symbol <I>k </I>)</STRONG> 
+  <DD>Originally used in astronomical calculations as <I>k </I>= G<sup>1/2</sup> </I>, where <I>G </I>is the <A 
+  href="c.html#constant of gravitation">constant 
+  of gravitation</A>. <I>k </I>is now defined as exactly 0.01720209895 radians. 
+  Also called <I>Gaussian gravitation constant. </I>See <A 
+  href="a.html#astronomical unit">astronomical 
+  unit</A>. <A name="gaussian distribution"></A>
+  <DT><STRONG>Gaussian distribution</STRONG> = normal distribution. 
+  <DT><STRONG>Gaussian gravitation constant </STRONG>= Gaussian constant. 
+  <DT><STRONG>Gaussian noise</STRONG> = random noise. 
+  <DT><STRONG>Gauss theorem </STRONG>= divergence theorem. 
+  <DT><STRONG>Gay-Lussac law </STRONG>= Charles-Gay-Lussac law. 
+  <DT><STRONG>GCA (abbr)</STRONG> = ground-controlled approach. 
+  <DT><STRONG>GCI (abbr) </STRONG>= ground-controlled intercept. <A 
+  name=g-display></A>
+  <DT><STRONG>G-display</STRONG> 
+  <DD>In radar, a rectangular <A 
+  href="d.html#display">display</A> in 
+  which a <A 
+  href="t.html#target">target</A> appears 
+  as a laterally centralized <A 
+  href="b.html#blip">blip</A> when the 
+  radar antenna is aimed at it in azimuth and wings appear to grow on the blip 
+  as the distance to the target is diminished. Horizontal and vertical aiming 
+  errors are respectively indicated by horizontal and vertical displacement of 
+  the blip. Also called <I>G-scan, G-scope, G-indicator. </I>
+  <DT><STRONG>gee</STRONG> 
+  <DD>A suffix meaning earth, as in <I>perigee </I>, <I>apogee. </I>See <A 
+  href="p.html#perigee">perigee</A>, note. 
+  <A name=gegenschein></A>
+  <DT><STRONG>gegenschein</STRONG> 
+  <DD>A round or elongated spot of light in the sky at a point 180 degrees from 
+  the sun. Also called <I>counterglow, zodiacal counterglow. </I>Compare <A 
+  href="z.html#zodiacal light">zodiacal 
+  light</A>. 
+  <DT><STRONG>Geiger counter</STRONG> 
+  <DD>An instrument for detecting and measuring radioactivity. In full, 
+  <I>Geiger-Muller </I>counter. 
+  <DD><I>This counter, essentially a thin-walled gas-filled metallic tube with a 
+  needle electrode projected within, detects the radiating particle indirectly. 
+  The particle penetrates the thin wall and ionizes the gas; a current is 
+  momentarily set up, which is detectable and measurable. Compare <A 
+  href="s.html#scintillation counter">scintillation 
+  counter</A>. </I>
+  <DT><STRONG>Geiger-Muller counter</STRONG> 
+  <DD>Full term for <I>Geiger counter. </I>
+  <DT><STRONG>Gem, Gemi</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Gemini. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Gemini (abbr Gem, Gemi)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>general circulation </STRONG>= planetary circulation. 
+  <DT><STRONG>generalized coordinates</STRONG> 
+  <DD>Any set of <A 
+  href="c.html#coordinates">coordinates</A> 
+  specifying the state of the system under consideration. Usually employed in 
+  problems involving a finite number of <A 
+  href="d.html#degree of freedom">degrees 
+  of freedom</A>, the generalized coordinates are chosen so as to take advantage 
+  of the constraints of the system in reducing the total number of coordinates. 
+  Also called <I>Lagrangian coordinates. </I>
+  <DT><STRONG>generalized transmission function</STRONG> 
+  <DD>In atmospheric-radiation theory, a set of values, variable with 
+  wavelength, each one of which represents an average <A 
+  href="t.html#transmission coefficient">transmission 
+  coefficient</A> for a small wavelength interval and for a specified optical 
+  path through the absorbing gas in question. See <A 
+  href="u.html#universal transmission function">universal 
+  transmission function</A>. 
+  <DT><STRONG>general perturbations</STRONG> 
+  <DD>In orbital determinations, a method of calculating perturbative effects by 
+  expanding and integrating in series. See <A 
+  href="p.html#perturbation">perturbation</A>. 
+  <A name="general precession"></A>
+  <DT><STRONG>general precession</STRONG> 
+  <DD>The resultant motion of the components causing <A 
+  href="p.html#precession of the equinoxes">precession 
+  of the equinoxes</A>. The general precession is westward along the ecliptic at 
+  the rate of about 50.3 seconds of arc per year. 
+  <DD><I>The effect of the sun and moon, called lunisolar precession, is to 
+  produce a westward motion of the equinoxes along the ecliptic. The effect of 
+  other planets, called planetary precession, tends to produce a much smaller 
+  motion eastward along the ecliptic. The component of general precession along 
+  the celestial equator, called precession in right ascension, is about 46.1 
+  seconds of arc per year; and the component along a celestial meridian, called 
+  precession in declination, is about 20.0 seconds of arc per year. See <A 
+  href="a.html#astronomical constants">astronomical 
+  constants</A>. </I><A name=generation></A>
+  <DT><STRONG>generation</STRONG> 
+  <DD>In any technical or technological development, as of a missile, jet 
+  engine, or the like, a stage or period that is marked by features or 
+  performances not marked, or existent, in a previous period of development or 
+  production, as in the <I>first generation of rockets using liquid propellants. 
+  </I>
+  <DT><STRONG>genetic effect of radiation</STRONG> 
+  <DD>Inheritable changes, chiefly mutations, produced in living organisms by 
+  the absorption of <A 
+  href="i.html#ionizing radiations">ionizing 
+  radiations</A>. On the basis of present knowledge these effects are purely 
+  additive, and there is no recovery. <A name=geo></A>
+  <DT><STRONG>geo</STRONG> 
+  <DD>A prefix meaning earth, as in <I>geology, geophysics. </I>
+  <DD><I>Some writers use the established terms such as geology to refer to the 
+  same concept on other bodies of the solar system, as the geology of Mars, 
+  rather than areology or marsology, geology of the Moon, rather than 
+  selenology. </I><A name=geocentric></A>
+  <DT><STRONG>geocentric</STRONG> 
+  <DD>Relative to the earth as a center; measured from the center of the earth. 
+  <DT><STRONG>geocentric diameter</STRONG> 
+  <DD>The diameter of a celestial body measured in seconds of arc as viewed from 
+  the earth's center. 
+  <DT><STRONG>geocentric latitude</STRONG> 
+  <DD>Of a position in the earth's surface; the angle between a line to the 
+  center of the earth and the plane of the equator. 
+  <DD><I>Because the earth is approximately an oblate spheroid, rather than a 
+  true sphere, this differs from geographic latitude, the maximum difference 
+  being 11.6 minutes of arc at latitude 45 degrees. </I><A 
+  name="geocentric parallax"></A>
+  <DT><STRONG>geocentric parallax</STRONG> 
+  <DD>The difference in the apparent direction or position of a <A 
+  href="c.html#celestial body">celestial 
+  body</A> measured in seconds of arc, as observed from the center of the earth 
+  and a point on its surface. See <A 
+  href="p.html#parallax">parallax</A>. <A 
+  name=geocorona></A>
+  <DT><STRONG>geocorona</STRONG> 
+  <DD>1. The shell of hydrogen surrounding the earth at the limit of the 
+  atmosphere. 
+  <DD><I>In Shlovsky's system of nomenclature, the geocorona includes the 
+  metasphere, the outer, fully ionized zone, and the protosphere, the inner 
+  zone. </I>
+  <DD>2. = <A 
+  href="v.html#van allen radiation belts">Van 
+  Allen radiation belts</A>. 
+  <DD><I>The use of geocorona in sense 2 should be discouraged, since it 
+  conflicts with the relatively well-established usage in sense 1. </I><A 
+  name="geodesic line"></A>
+  <DT><STRONG>geodesic line</STRONG> 
+  <DD>The shortest line on a mathematically derived surface, between two points 
+  on the surface. Also called <I>geodesic. </I>
+  <DD><I>A geodesic line on the spheroidal earth is called a geodetic line. </I>
+  <DT><STRONG>geodesy</STRONG> 
+  <DD>The science which deals mathematically with the size and shape of the 
+  earth, and the earth's external gravity field, and with surveys of such 
+  precision that overall size and shape of the earth must be taken into 
+  consideration. 
+  <DT><STRONG>geodetic</STRONG> 
+  <DD>Of or pertaining to geodesy; geodesic. 
+  <DT><STRONG>geodetic coordinates</STRONG> 
+  <DD>Quantities which define the position of a point on the <A 
+  href="s.html#spheroid">spheroid</A> of 
+  reference with respect to the planes of the geodetic equator and of a 
+  reference meridian. Compare <A 
+  href="g.html#geographic coordinates">geographic 
+  coordinates</A>. 
+  <DT><STRONG>geodetic datum</STRONG> 
+  <DD>A datum consisting of five quantities, the latitude and longitude and 
+  elevation above the reference <A 
+  href="s.html#spheroid">spheroid</A> of an 
+  initial point, a line from this point, and two constants which define the 
+  reference <A 
+  href="s.html#spheroid">spheroid</A>. <A 
+  href="a.html#azimuth">Azimuth</A> or 
+  orientation of the line, given the longitude, is determined by astronomic 
+  observations. Alternatively, the datum may be considered as three rectangular 
+  coordinates fixing the origin of a <A 
+  href="c.html#coordinate system">coordinate 
+  system</A> whose orientation is determined by the fixed stars, and the 
+  reference spheroid is an arbitrary coordinate surface of an orbiting 
+  ellipsoidal coordinate system. 
+  <DD><I>A geodetic datum forms the basis for the computation of horizontal 
+  control surveys in which the curvature of the earth is considered. </I>
+  <DT><STRONG>geodetic equator</STRONG> 
+  <DD>The <A 
+  href="g.html#great circle">great 
+  circle</A> midway between the poles of revolution of the earth, connecting 
+  points of 0 degrees geodetic latitude. See <A 
+  href="a.html#astronomical equator">astronomical 
+  equator</A>. <A name="geodetic latitude"></A><A name="geodetic latitudes"></A>
+  <DT><STRONG>geodetic latitude</STRONG> 
+  <DD>Angular distance between the plane of the <A 
+  href="e.html#equator">equator</A> and a 
+  normal to the <A 
+  href="s.html#spheroid">spheroid</A>. It 
+  is the <A 
+  href="a.html#astronomical latitude">astronomical 
+  latitude</A> corrected for the meridional component of the <A 
+  href="d.html#deflection of the vertical">deflection 
+  of the vertical</A>. Also called <I>geographic latitude, topographical 
+  latitude. </I>
+  <DD><I>This is the latitude used for charts. </I>
+  <DT><STRONG>geodetic line</STRONG> 
+  <DD>A <A 
+  href="g.html#geodesic line">geodesic 
+  line</A> on the spheroidal earth. Also called <I>geodesic. </I>Compare <A 
+  href="g.html#geodesic line">geodesic 
+  line</A>. <A name="geodetic longitude"></A>
+  <DT><STRONG>geodetic longitude</STRONG> 
+  <DD>The angle between the plane of the reference <A 
+  href="m.html#meridian">meridian</A> and 
+  the plane through the polar axis and the normal to the <A 
+  href="s.html#spheroid">spheroid</A>. It 
+  is the <A 
+  href="a.html#astronomical longitude">astronomical 
+  longitude</A> corrected for the prime vertical component of the <A 
+  href="d.html#deflection of the vertical">deflection 
+  of the vertical</A> divided by the cosine of the <A 
+  href="l.html#latitude">latitude</A>. Also 
+  called <I>geographic longitude. </I>
+  <DD><I>This is the longitude used for charts. </I>
+  <DT><STRONG>geodetic meridian</STRONG> 
+  <DD>A line connecting points of equal <A 
+  href="g.html#geodetic longitude">geodetic 
+  longitude</A>. Also called <I>geographic meridian. </I>See <A 
+  href="a.html#astronomical meridian">astronomical 
+  meridian</A>. 
+  <DT><STRONG>geodetic parallel</STRONG> 
+  <DD>A line connecting points of equal <A 
+  href="g.html#geodetic latitude">geodetic 
+  latitude</A>. Also called <I>geographic parallel. </I>See <A 
+  href="a.html#astronomical parallel">astronomical 
+  parallel</A>. 
+  <DT><STRONG>geodetic position</STRONG> 
+  <DD>A position of a point on the surface of the earth expressed in terms of <A 
+  href="g.html#geodetic latitude">geodetic 
+  latitude</A> and <A 
+  href="g.html#geodetic longitude">geodetic 
+  longitude</A>. 
+  <DD><I>A geodetic position implies an adopted geodetic <A 
+  href="d.html#datum">datum</A>, which must 
+  be stated for a complete record of the position. </I>
+  <DT><STRONG>geodetic survey</STRONG> 
+  <DD>1. A survey which takes into account the size and shape of the earth. 
+  <DD>2. An organization engaged in making geodetic surveys, sense 1. 
+  <DT><STRONG>geodynamic height</STRONG> = dynamic height. 
+  <DT><STRONG>geodynamic meter</STRONG> = dynamic meter. See dynamic height. 
+  <DT><STRONG>geographical coordinates</STRONG> = geographic coordinates. 
+  <DT><STRONG>geographical mile</STRONG> 
+  <DD>The length of 1 minute of arc of the equator, or 6087.08 feet. <A 
+  name="geographical pole"></A>
+  <DT><STRONG>geographical pole</STRONG> 
+  <DD>Either of the two points of intersection of the surface of the earth with 
+  its axis or rotation where all <A 
+  href="m.html#meridians">meridians</A> 
+  meet, labeled N or S to indicate whether the <I>north </I>geographical pole of 
+  the <I>south </I>geographical pole. <A name="geographical position"></A>
+  <DT><STRONG>geographical position</STRONG> 
+  <DD>1. That point on the earth at which a given <A 
+  href="c.html#celestial body">celestial 
+  body</A> is in the <A 
+  href="z.html#zenith">zenith</A> of a 
+  specified time. 
+  <DD><I>The geographical position of the sun is also called the subsolar point, 
+  of the moon the sublunar point, and of a star the substellar or subastral 
+  point. </I>
+  <DD>2. Any position on the earth defined by means of its <A 
+  href="g.html#geographic coordinates">geographic 
+  coordinates</A>, either astronomical or geodetic. <A 
+  name="geographic coordinates"></A>
+  <DT><STRONG>geographic coordinates</STRONG> 
+  <DD><A 
+  href="c.html#coordinates">Coordinates</A> 
+  defining a point on the surface of the earth, usually <A 
+  href="l.html#latitude">latitude</A> and 
+  <A href="l.html#longitude">longitude</A>. 
+  Also called <I>terrestrial coordinates, geographical coordinates. </I>See <A 
+  href="c.html#coordinate">coordinate</A>, 
+  table, for relationship between <A 
+  href="g.html#geographic coordinates">geographic 
+  coordinates</A> and <A 
+  href="c.html#celestial coordinates">celestial 
+  coordinates</A>. 
+  <DD><I>Geographic coordinates can refer to either astronomical or geodetic 
+  coordinates. </I>
+  <DT><STRONG>geographic latitude</STRONG> = geodetic latitude. 
+  <DT><STRONG>geographic longitude</STRONG> = geodetic longitude. <A 
+  name=geoid></A>
+  <DT><STRONG>geoid</STRONG> 
+  <DD>The figure of the earth as defined by the <A 
+  href="g.html#geopotential surface">geopotential 
+  surface</A> which most nearly coincides with mean sea level over the entire 
+  surface of the earth. 
+  <DD><I>Because of variations in the direction of gravity, to which it is 
+  everywhere perpendicular, the geoid is not quite an <A 
+  href="e.html#ellipsoid of revolution">ellipsoid 
+  of revolution</A>, the sea-level surface being higher under mountainous areas. 
+  Compare <A 
+  href="e.html#equilibrium spheroid">equilibrium 
+  spheroid</A>, <A 
+  href="g.html#geosphere">geosphere</A>. 
+  </I>
+  <DT><STRONG>geoidal horizon</STRONG> 
+  <DD>That circle of the <A 
+  href="c.html#celestial sphere">celestial 
+  sphere</A> formed by the intersection of the celestial sphere and a plane 
+  through a point on the geoid perpendicular to the zenith-nadir line. See <A 
+  href="h.html#horizon">horizon</A>. <A 
+  name=geomagnetic></A>
+  <DT><STRONG>geomagnetic</STRONG> 
+  <DD>Of or pertaining to <A 
+  href="g.html#geomagnetism">geomagnetism</A>. 
+
+  <DT><STRONG>geomagnetic coordinates</STRONG> 
+  <DD>A system of <A 
+  href="s.html#spherical coordinates">spherical 
+  coordinates</A> based on the best fit of a centered <A 
+  href="d.html#dipole">dipole</A> to the 
+  actual <A 
+  href="m.html#magnetic field">magnetic 
+  field</A> of the earth. <A name="geomagnetic equator"></A>
+  <DT><STRONG>geomagnetic equator</STRONG> 
+  <DD>The terrestrial <A 
+  href="g.html#great circle">great 
+  circle</A> everywhere 90 degrees from the <A 
+  href="g.html#geomagnetic">geomagnetic</A> 
+  poles. 
+  <DD><I>Geomagnetic equator should not be confused with magnetic equator, the 
+  line connecting all points of zero magnetic dip. Compare <A 
+  href="a.html#aclinic line">aclinic 
+  line</A>. </I><A name="geomagnetic latitude"></A>
+  <DT><STRONG>geomagnetic latitude</STRONG> 
+  <DD>Angular distance from the <A 
+  href="g.html#geomagnetic equator">geomagnetic 
+  equator</A>, measured northward or southward through 90 degrees and labeled N 
+  or S to indicate the direction of measurement. Also erroneously called 
+  <I>magnetic latitude. </I>
+  <DD><I>Geomagnetic latitude should not be confused with magnetic latitude, the 
+  <A href="m.html#magnetic dip">magnetic 
+  dip</A>. Phenomena closely related to the earth's magnetic field are often 
+  plotted according to geomagnetic latitude rather than geographic latitude. 
+</I>
+  <DT><STRONG>geomagnetic meridian</STRONG> 
+  <DD>1. The meridional lines of a <A 
+  href="g.html#geomagnetic">geomagnetic</A> 
+  coordinate system. 
+  <DD>2. = <A 
+  href="m.html#magnetic meridian">magnetic 
+  meridian</A>. <A name="geomagnetic pole"></A>
+  <DT><STRONG>geomagnetic pole</STRONG> 
+  <DD>Either of two antipodal points marking the intersection of the earth's 
+  surface with the extended axis of a <A 
+  href="d.html#dipole">dipole</A> assumed 
+  to be located at the center of the earth and approximating the source of the 
+  actual <A 
+  href="m.html#magnetic field">magnetic 
+  field</A> of the earth. 
+  <DD><I>That pole in the Northern Hemisphere (latitude, 78 1/2 degrees N; 
+  longitude, 69 degrees W) is designated north geomagnetic pole, and that pole 
+  in the Southern Hemisphere (latitude, 78 1/2 degrees S, longitude, 111 degrees 
+  E) is designated south geomagnetic pole. The great circle midway between these 
+  poles is called geomagnetic equator. The expression geomagnetic pole should 
+  not be confused with magnetic pole, which relates to the actual magnetic field 
+  of the earth. See <A 
+  href="g.html#geomagnetic latitude">geomagnetic 
+  latitude</A>. </I>
+  <DT><STRONG>geomagnetic storm </STRONG>= magnetic storm. <A 
+  name=geomagnetism></A>
+  <DT><STRONG>geomagnetism</STRONG> 
+  <DD>1. The <A 
+  href="m.html#magnetic">magnetic</A> 
+  phenomena, collectively considered, exhibited by the earth and its atmosphere 
+  and by extension the magnetic phenomena in interplanetary <A 
+  href="s.html#space">space</A>. 
+  <DD>2. The study of the <A 
+  href="m.html#magnetic field">magnetic 
+  field</A> of the earth. Also called <I>terrestrial magnetism. </I>
+  <DT><STRONG>geometrical horizon</STRONG> 
+  <DD>See <A 
+  href="h.html#horizon">horizon</A>. 
+  <DT><STRONG>geometric chord</STRONG> 
+  <DD>See <A href="c.html#chord">chord</A>, 
+  note. 
+  <DT><STRONG>geometric dilution of precision</STRONG> 
+  <DD>(abbr GDOP). As applied to a <A 
+  href="t.html#trajectory measuring system">trajectory 
+  measuring system</A>, the increase in error of calculated space position which 
+  is caused by the location of the measured position relative to the system. 
+  <DD><I>This is an increase which is caused solely by the geometry of the 
+  problem and assumes that all basic measurements maintain a constant accuracy. 
+  </I>
+  <DT><STRONG>geometric mean</STRONG> 
+  <DD>A measure of central position. The geometric mean of <I>n </I>quantities 
+  equals the <I>n </I>th root of the product of the quantities. 
+  <DT><STRONG>geometric position</STRONG> = true position. <A 
+  name=geophysics></A>
+  <DT><STRONG>geophysics</STRONG> 
+  <DD>The physics of the earth and its environment, i.e., earth, air, and (by 
+  extension) space. 
+  <DD><I>Classically, geophysics is concerned with the nature of and physical 
+  occurrences at and below the surface of the earth including, therefore, 
+  geology, oceanography, geodesy, seismology, hydrology, etc. The trend is to 
+  extend the scope of geophysics to include meteorology, geomagnetism, 
+  astrophysics, and other sciences concerned with the physical nature of the 
+  universe. </I><A name=geopotential></A>
+  <DT><STRONG>geopotential</STRONG> 
+  <DD>The <A 
+  href="p.html#potential energy">potential 
+  energy</A> of a unit mass relative to sea level, numerically equal to the work 
+  that would be done in lifting the unit mass from sea level to the height at 
+  which the mass is located; commonly expressed in terms of <A 
+  href="d.html#dynamic height">dynamic 
+  height</A> or <A 
+  href="g.html#geopotential height">geopotential 
+  height</A>. Compare <A 
+  href="g.html#gravitational potential">gravitational 
+  potential</A>. 
+  <DD><I>The geopotential &Phi; at height Z is given mathematically by the 
+  expression, <center><img src="geopot.gif"> </center>where g is the acceleration of gravity. </I><A 
+  name="geopotential height"></A>
+  <DT><STRONG>geopotential height</STRONG> 
+  <DD>The height of a given point in the atmosphere in units proportional to the 
+  potential energy of unit mass ( <A 
+  href="g.html#geopotential">geopotential</A>) 
+  at this height, relative to sea level. 
+  <DD><I>The relation, in the cgs system, between the geopotential height H and 
+  the geometric height Z is <center><IMG 
+  src="geopoh.gif"></center> where g is the acceleration of gravity, so that 
+  the two heights are numerically interchangeable for most meteorological 
+  purposes. Also, 1 geopotential meter is equal to 0.98 <A 
+  href="d.html#dynamic meter">dynamic 
+  meter</A>. See <A 
+  href="d.html#dynamic height">dynamic 
+  height</A>. At the present time, the geopotential height unit is used for all 
+  aerological reports, by convention of the World Meteorological Organization. 
+  </I>
+  <DT><STRONG>geopotential meter</STRONG> 
+  <DD>A unit of length used in measuring <A 
+  href="g.html#geopotential height">geopotential 
+  height</A>; 1 geopotential meter is equal to 0.98 <A 
+  href="d.html#dynamic meter">dynamic 
+  meter</A>. See <A 
+  href="d.html#dynamic height">dynamic 
+  height</A>. <A name="geopotential surface"></A>
+  <DT><STRONG>geopotential surface</STRONG> 
+  <DD>A surface of constant geopotential, i.e., a surface along which a particle 
+  of matter could move without undergoing any changes in its <A 
+  href="p.html#potential energy">potential 
+  energy</A>. Also called <I>equigeopotential surface, level surface. </I>
+  <DD><I>Geopotential surfaces almost coincide with surfaces of constant 
+  geometric height. Because of the poleward increase of the acceleration of 
+  gravity along a constant geometric-height surface, a given geopotential 
+  surface has a small geometric-height over the poles than over the equator. See 
+  <A href="p.html#potential">potential</A>, 
+  <A 
+  href="g.html#geopotential height">geopotential 
+  height</A>, <A 
+  href="d.html#dynamic height">dynamic 
+  height</A>. </I>
+  <DT><STRONG>georef (abbr) </STRONG>= World Geographic Reference System. 
+  Pronounced as a word. <A name=geosphere></A>
+  <DT><STRONG>geosphere</STRONG> 
+  <DD>The solid and liquid portions of the earth; the <A 
+  href="l.html#lithosphere">lithosphere</A> 
+  plus the <A 
+  href="h.html#hydrosphere">hydrosphere</A>. 
+  Compare <A href="g.html#geoid">geoid</A>, 
+  <A 
+  href="e.html#equilibrium spheroid">equilibrium 
+  spheroid</A>. 
+  <DD><I>Above the geosphere lies the atmosphere and at the interface between 
+  these two regions is found almost all of the biosphere, or zone of life. 
+  </I><A name=geostrophic></A><A name="geostrophic wind"></A>
+  <DT><STRONG>geostrophic wind</STRONG> 
+  <DD>That horizontal wind velocity for which the <A 
+  href="c.html#coriolis acceleration">coriolis 
+  acceleration</A> exactly balances the horizontal pressure force. Compare <A 
+  href="g.html#gradient wind">gradient 
+  wind</A>. <A name="geostrophic wind level"></A>
+  <DT><STRONG>geostrophic wind level</STRONG> 
+  <DD>The lowest level at which the wind becomes <A 
+  href="g.html#geostrophic">geostrophic</A> 
+  in the theory of the <A 
+  href="e.html#ekman spiral">Ekman 
+  spiral</A>, proportional to<center>
+  <IMG align=center src="geostw.gif"></center> where v is the kinematic eddy viscosity and <IMG 
+  src="geostw2.gif" align=center> the latitude. Also called <I>gradient wind 
+  level. </I>
+  <DD><I>In practice it is observed that the geostrophic wind level is between 
+  1.2 and 1.6 kilometers, and it is assumed that this marks the upper limit of 
+  frictional influence of the earth's surface. The geostrophic wind level may be 
+  considered to be the top of the <A 
+  href="e.html#ekman layer">Ekman layer</A> 
+  and <A 
+  href="p.html#planetary boundary">planetary 
+  boundary</A> <A 
+  href="l.html#layer">layer</A>, i.e., the 
+  base of the <A 
+  href="f.html#free atmosphere">free 
+  atmosphere</A>. </I><A name=get></A>
+  <DT><STRONG>get</STRONG> 
+  <DD>To remove gas from a vacuum system by <A 
+  href="s.html#sorption">sorption</A>. 
+  <DT><STRONG>getter</STRONG> 
+  <DD>1. A material which is included in a vacuum system or device for removing 
+  gas by <A 
+  href="s.html#sorption">sorption</A>. 
+  <DD>2. To remove gas by <A 
+  href="s.html#sorption">sorption</A>. Also 
+  called <I>get. </I>
+  <DT><STRONG>G-force</STRONG> 
+  <DD>An <A 
+  href="i.html#inertial force">inertial 
+  force</A> usually expressed in multiples of terrestrial <A 
+  href="g.html#gravity">gravity</A>. 
+  <DT><STRONG>GHA (abbr)</STRONG> = Greenwich hour angle. 
+  <DT><STRONG>giant planets</STRONG> 
+  <DD>The planets Jupiter, Saturn, Uranus, and Neptune. Also called <I>Jovian 
+  planets. </I><A name=gibbous></A>
+  <DT><STRONG>gibbous</STRONG> 
+  <DD>Bounded by convex curves. 
+  <DD><I>The term is used particularly in reference to the moon when it is 
+  between first quarter and full or between full and last quarter, or to other 
+  celestial bodies when they present a similar appearance. See <A 
+  href="p.html#phases of the moon">phases 
+  of the moon</A>. </I>
+  <DT><STRONG>Gibbs free energy = Gibbs function.</STRONG> <A 
+  name="gibbs function"></A>
+  <DT><STRONG>Gibbs function</STRONG> 
+  <DD>A mathematically defined <A 
+  href="t.html#thermodynamic function of state">thermodynamic 
+  function of state</A>, which is constant during a reversible 
+  isobaric-isothermal process. Also called <I>Gibbs free energy, thermodynamic 
+  potential. </I>Compare <A 
+  href="h.html#helmholtz function">Helmholtz 
+  function</A>. 
+  <DD><I>In symbols the specific Gibbs function g is g = h - Ts where h is 
+  specific enthalpy; T is Kelvin temperature; and s is specific entropy. By use 
+  of the first law of thermodynamics for reversible processes, dg = -s dT + dp. 
+  </I>
+  <DT><STRONG>giga (abbr G)</STRONG> 
+  <DD>A prefix meaning multiplied by 10<sup>9</sup>.
+  <A name=gimbal></A>
+  <DT><STRONG>gimbal</STRONG> 
+  <DD>1. A device with two mutually perpendicular and intersecting axes of 
+  rotation, thus giving free angular movement in two directions, on which an 
+  engine or other object may be mounted. 
+  <DD>2. In a <A 
+  href="g.html#gyro">gyro</A>, a support 
+  which provides the <A 
+  href="s.html#spin axis">spin axis</A> 
+  with a <A 
+  href="d.html#degree of freedom">degree of 
+  freedom</A>. 
+  <DD>3. To move a <A 
+  href="r.html#reaction engine">reaction 
+  engine</A> about on a gimbal so as to obtain pitching and yawing correction 
+  moments. 
+  <DD>4. To mount something on a gimbal. 
+  <DT><STRONG>gimbaled motor</STRONG> 
+  <DD>A <A 
+  href="r.html#rocket engine">rocket 
+  engine</A> mounted on a <A 
+  href="g.html#gimbal">gimbal</A>. 
+  <DT><STRONG>gimbal freedom</STRONG> 
+  <DD>In a <A href="g.html#gyro">gyro</A>, 
+  the maximum angular displacement about the output axis of a gimbal. 
+  <DD><I>It is expressed in degrees of output angle or in equivalent angular 
+  input. </I>
+  <DT><STRONG>gimbal lock</STRONG> 
+  <DD>A condition of a two-degree-of-freedom <A 
+  href="g.html#gyro">gyro</A> wherein the 
+  alignment of the spin axis with an <A 
+  href="a.html#axis of freedom">axis of 
+  freedom</A> deprives the gyro of a <A 
+  href="d.html#degree of freedom">degree of 
+  freedom</A>, and therefore of its useful properties. 
+  <DT><STRONG>G-indicator</STRONG> 
+  <DD>1. <A 
+  href="g.html#g-display">G-display</A>. 
+  <DD>2. A display that shows the amount of <A 
+  href="i.html#inertial force">inertial 
+  force</A> acting on body. <A name="giorgi system"></A>
+  <DT><STRONG>Giorgi system</STRONG> = MKSA system. 
+  <DT><STRONG>G-layer</STRONG> 
+  <DD>A layer of <A 
+  href="f.html#free electrons">free 
+  electrons</A> in the ionosphere which is occasionally observed above the 
+  F2-layer. See <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  <A name="glaze icing"></A>
+  <DT><STRONG>glaze icing</STRONG> 
+  <DD>Glaze aircraft icing (also known as clear icing) is hard and transparent. 
+  It is formed by the relatively slow freezing of supercooled water droplets as 
+  they spread over the surface. It tends to acccumulate more rapidly than <A 
+  href="r.html#rime icing">rime icing</A>, 
+  and is often very hard and therefore more difficult to remove. Since it does 
+  not freeze instantly, the ice can form into shapes that cause significant 
+  aerdynamic penalties, and it therefore the most hazardous form of icing. 
+  However, it is the least frequent type of ice encountered, reponsible for 
+  about 10% of icing reports. 
+  <P><!--Definition  by Andrew Reehorst, 1/9/98.--><A name=glide></A></P>
+  <DT><STRONG>glide</STRONG> 
+  <DD>1. A controlled descent by a heavier-than-air aeronautical vehicle under 
+  little or no engine thrust in which forward motion is maintained by <A 
+  href="g.html#gravity">gravity</A> and 
+  vertical descent is controlled by <A 
+  href="l.html#lift">lift</A> forces. 
+  <DD>2. A descending flight path of a glide, sense 1, as, a shallow <I>glide. 
+  </I>3. To descend in a glide, sense 1. 
+  <DT><STRONG>glide angle</STRONG> = gliding angle. <A name="glide path"></A>
+  <DT><STRONG>glide path</STRONG> 
+  <DD>1. The <A 
+  href="f.html#flight path">flight path</A> 
+  of an aeronautical vehicle in a <A 
+  href="g.html#glide">glide</A>, seen from 
+  the side. 
+  <DD>2. The path used by an aircraft or spacecraft in approach procedure and 
+  which is generated by an instrument-landing facility. 
+  <DT><STRONG>glider</STRONG> 
+  <DD>1. A fixed-wing aircraft specially designed to <A 
+  href="g.html#glide">glide</A>, or to 
+  glide and <A href="s.html#soar">soar</A>. 
+  This kind of aircraft ordinarily has no powerplant. 
+  <DD>2. See <A 
+  href="h.html#hypersonic glider">hypersonic 
+  glider</A>. 
+  <DT><STRONG>glide ratio</STRONG> 
+  <DD>The ratio of the horizontal distance traveled to the vertical distance 
+  descended in a <A 
+  href="g.html#glide">glide</A>. Also 
+  called <I>gliding ratio. </I>
+  <DT><STRONG>glide scope</STRONG> 
+  <DD>1. An inclined surface which includes a <A 
+  href="g.html#glide path">glide path</A> 
+  and which is generated by an instrument-landing facility. 
+  <DD>2. = <A 
+  href="s.html#slope angle">slope 
+  angle</A>. 
+  <DD>3. = <A 
+  href="g.html#gliding angle">gliding 
+  angle</A>. <A name="gliding angle"></A>
+  <DT><STRONG>gliding angle</STRONG> 
+  <DD>The angle between the horizontal and the <A 
+  href="g.html#glide path">glide path</A> 
+  of an aircraft. Also called <I>glide angle </I>or <I>glide slope. </I>
+  <DT><STRONG>gliding ratio</STRONG> = glide ratio. <A 
+  name="global radiation"></A>
+  <DT><STRONG>global radiation</STRONG> 
+  <DD>The total of <A 
+  href="d.html#direct solar radiation">direct 
+  solar radiation</A> and <A 
+  href="d.html#diffuse sky radiation">diffuse 
+  sky radiation</A> received by a unit horizontal surface. 
+  <DD><I>Global radiation is measured by <A 
+  href="p.html#pyranometers">pyranometers</A>. 
+  </I>
+  <DT><STRONG>global velocities</STRONG> 
+  <DD>The range of velocities, slightly less than <A 
+  href="c.html#circular velocity">circular 
+  velocity</A>, that permit sustained flight once around the earth in 
+  equilibrium glide. Compare <A 
+  href="o.html#orbital velocity">orbital 
+  velocity</A>. 
+  <DT><STRONG>globe lightning</STRONG> = ball lightning. <A 
+  name="glow discharge"></A><A name=glow></A>
+  <DT><STRONG>glow discharge</STRONG> 
+  <DD>Any <A 
+  href="e.html#electric discharge">electrical 
+  discharge</A> which produces <A 
+  href="l.html#luminosity">luminosity</A>. 
+  <DD><I>Thus <A 
+  href="c.html#corona discharge">corona 
+  discharge</A> is a glow discharge, but <A 
+  href="p.html#point discharge">point 
+  discharge</A> is not. Relatively high electric field strengths are required 
+  for glow discharges, for the density of radiatively recombining gas atoms and 
+  molecules must be high. See <A 
+  href="g.html#gaseous electronics">gaseous 
+  electronics</A>. </I>
+  <DT><STRONG>G-meter</STRONG> 
+  <DD>A meter that indicates acceleration. 
+  <DT><STRONG>GMT (abbr)</STRONG> = Greenwich mean time. 
+  <DT><STRONG>gnotobiotics</STRONG> 
+  <DD>The study of germ-free animals. 
+  <DT><STRONG>goniometer</STRONG> 
+  <DD>An instrument for measuring <A 
+  href="a.html#angles">angles</A>. 
+  <DT><STRONG>gox</STRONG> 
+  <DD>Gaseous oxygen. <A name=gradient></A><A name=gradients></A>
+  <DT><STRONG>gradient</STRONG> 
+  <DD>1. The space rate of decrease of a function. Of a function in three space 
+  dimensions, the <A 
+  href="v.html#vector">vector</A> normal to 
+  surfaces of constant value of the function and directed toward decreasing 
+  values, with magnitude equal to the rate of decrease of the function in this 
+  direction. The gradient of a function f is denoted by -<img src="del.gif">f (without the minus sign in the older 
+  literature), and is itself a function of both space and time. The ascendant is 
+  the negative of the gradient. See <A 
+  href="d.html#del-operator">del-operator</A>. 
+
+  <DD>2. Often loosely used to denote the <A 
+  href="m.html#magnitude">magnitude</A> of 
+  the gradient or ascendant. 3. Either the rate of change of a quantity (as 
+  temperature, pressure, etc.) or a diagram or curve representing this. <A 
+  name="gradient wind"></A>
+  <DT><STRONG>gradient wind</STRONG> 
+  <DD>Any horizontal wind velocity tangent to the contour line of a constant 
+  pressure surface or an isobar of a geopotential surface. At such points the <A 
+  href="c.html#coriolis acceleration">coriolis 
+  acceleration</A> and the <A 
+  href="c.html#centripetal acceleration">centripetal 
+  acceleration</A> together exactly balance the horizontal pressure force. 
+  Compare <A 
+  href="g.html#geostrophic wind">geostrophic 
+  wind</A>. <A name=grain></A>
+  <DT><STRONG>grain</STRONG> 
+  <DD>1. An elongated molding or extrusion of <A 
+  href="s.html#solid propellant">solid 
+  propellant</A> for a <A 
+  href="r.html#rocket">rocket</A>, 
+  regardless of size. 
+  <DD>2. In photography, a small particle of metallic silver remaining in a 
+  photographic emulsion after development and fixing. In the agglomerate, these 
+  grains form the dark area of a photographic image. 
+  <DD>3. An individual crystal in a polycrystalline metal or alloy. 
+  <DT><STRONG>gram</STRONG> 
+  <DD>The standard of mass in the <A 
+  href="m.html#metric system">metric 
+  system</A>. 
+  <DT><STRONG>gram-calorie</STRONG> 
+  <DD>See <A 
+  href="c.html#calorie">calorie.</A> 
+  <DT><STRONG>gram-centimeter</STRONG> 
+  <DD>The <A href="c.html#cgs">CGS</A> 
+  gravitation unit of work. 
+  <DT><STRONG>gram-molecule</STRONG> 
+  <DD>The mass in grams of a substance numerically equal to its <A 
+  href="m.html#molecular weight">molecular 
+  weight</A>. <A name=granules></A>
+  <DT><STRONG>granules</STRONG> 
+  <DD>Small bright features of the <A 
+  href="p.html#photosphere">photosphere</A> 
+  of the sun, covering 50 to 60 percent of the surface. They have been likened 
+  in appearance to rice grains. 
+  <DT><STRONG>graph</STRONG> 
+  <DD>A diagram indicating the relationship between two or more variables. <A 
+  name="grashof number"></A><A name=grashof></A>
+  <DT><STRONG>Grashof number (symbol N<SUB>Gr</SUB>, 
+  G<SUB>r</SUB>)</STRONG> 
+  <DD>A nondimensional parameter used in the theory of <A 
+  href="h.html#heat transfer">heat 
+  transfer</A>, defined by N<sub>Gr</sub> = l<sup>3</sup>g [(T<sub>1</sub> -
+  T<sub>0</sub>) / v<sup>2</sup>T<sub>0</sub>] where <I>l </I>is a representative length; 
+  T<SUB>1</SUB> and T<SUB>0</SUB> are representative 
+  temperatures; <I>g </I>is the acceleration of gravity; and <I>v </I>is the 
+  kinematic viscosity. 
+  <DD><I>The Grashof number is associated with the <A 
+  href="r.html#reynolds number">Reynolds 
+  number</A> and the <A 
+  href="p.html#prandtl number">Prandtl 
+  number</A> in the study of <A 
+  href="c.html#convection">convection</A>. 
+  </I>
+  <DT><STRONG>grass</STRONG> 
+  <DD>1. Sharp, closely space discontinuities in the trace of a <A 
+  href="c.html#cathode-ray tube">cathode-ray 
+  tube</A>, produced by random interference; so named because of their 
+  resemblance to blades of lawn grass. 
+  <DD>2. In radar, a descriptive colloquialism used to refer to the indication 
+  of noise on an 'A' or similar type of <A 
+  href="d.html#display">display</A>. See <A 
+  href="n.html#noise">noise</A>. <A 
+  name=graticule></A>
+  <DT><STRONG>graticule</STRONG> 
+  <DD>1. The network of lines representing <A 
+  href="p.html#parallels">parallels</A> and 
+  <A href="m.html#meridians">meridians</A> 
+  on a map, chart, or plotting sheet. See <A 
+  href="g.html#grid">grid</A>. 
+  <DD>2. A scale at the focal plane of an optical instrument to aid in the 
+  measurement of objects. See <A 
+  href="r.html#reticle">reticle</A>. 
+  <DT><STRONG>graviceptor</STRONG> = gravireceptor. 
+  <DT><STRONG>gravireceptors</STRONG> 
+  <DD>Highly specialized nerve endings and receptor organs located in skeletal 
+  muscles, tendons, joints, and in the inner ear which furnish information to 
+  the brain with respect to body position, equilibrium, and the direction of 
+  gravitational forces. See <A 
+  href="g.html#gravitation">gravitation</A>. 
+  <A name=gravitation></A>
+  <DT><STRONG>gravitation</STRONG> 
+  <DD>The <A 
+  href="a.html#acceleration">acceleration</A> 
+  produced by the mutual attraction of two masses, directed along the line 
+  joining their centers of masses, and of magnitude inversely proportional to 
+  the square of the distance between the two centers of mass. 
+  <DD><I>This acceleration on a unit mass has the magnitude G(m/r2), where m is 
+  the mass of the attracting body, r is the distance between the centers of 
+  mass, and G is the gravitational constant equal to 6.670 +/- 0.005 X 10<sup>-8</sup> 
+  cm<SUP>2</SUP>/gram sec<SUP>2</SUP>. In the case of masses in the earth's 
+  gravitational field, m is the mass of the earth, equal to 5.975 X 10<sup>27</sup> grams. 
+  However, the rotation of the earth and atmosphere modifies this field to 
+  produce the field of <A 
+  href="g.html#gravity">gravity</A>. </I><A 
+  name=gravitational></A>
+  <DT><STRONG>gravitational</STRONG> 
+  <DD>Pertaining to <A 
+  href="g.html#gravitation">gravitation</A>. 
+
+  <DT><STRONG>gravitational constant (symbol G)</STRONG> 
+  <DD>The coefficient of proportionality in <A 
+  href="n.html#newton law of gravitation">Newton 
+  law of gravitation</A>. G = 6.670 +/- 0.005 X 10<sup>-8</sup> dyne-centimeter squared 
+  per gram squared.  Also called <I>constant of gravitation, 
+  Newtonian universal constant of gravitation. </I>
+  <DD><I>In celestial mechanics, G may be used as a symbol with units 
+  unspecified or in a particular problem may be made equal to 1 or 4 pi squared 
+  by the choice of units for other parameters in 
+  the particular problem. </I><A name="gravitational potential"></A>
+  <DT><STRONG>gravitational potential</STRONG> 
+  <DD>1. The <A 
+  href="p.html#potential">potential</A> 
+  associated with the force of <A 
+  href="g.html#gravitation">gravitation</A> 
+  arising from the attraction between mass points, e.g., the earth's center and 
+  a particle in space. 
+  <DD><I>The gravitational potential, associated with the force of gravitation, 
+  should not be confused with the <A 
+  href="g.html#geopotential">geopotential</A> 
+  associated with the force of <A 
+  href="g.html#gravity">gravity</A>. The 
+  latter is equal to the former plus the centrifugal force due to the earth's 
+  rotation. The potentials of the three forces are related in the same manner. 
+  </I>
+  <DD>2. At any point, the <A 
+  href="w.html#work">work</A> needed to 
+  remove an object from that point to infinity. 
+  <DT><STRONG>gravitational red shift</STRONG> 
+  <DD>See <A href="r.html#red shift">red 
+  shift</A>, note. 
+  <DT><STRONG>gravitational tide</STRONG> 
+  <DD>An <A 
+  href="a.html#atmospheric tide">atmospheric 
+  tide</A> due to gravitational attraction of the sun or moon. See <A 
+  href="t.html#thermal tide">thermal 
+  tide</A>. 
+  <DD><I>The simidiurnal solar atmospheric tide is partly gravitational; the 
+  semidiurnal lunar atmospheric tide is totally gravitational. </I>
+  <DT><STRONG>gravitational wave </STRONG>= gravity wave. 
+  <DT><STRONG>gravitation constant</STRONG> 
+  <DD>See <A 
+  href="n.html#newtonian universal constant of gravitation">Newtonian 
+  universal constant of gravitation</A>, <A 
+  href="g.html#gaussian constant">Gaussian 
+  constant</A>. 
+  <DT><STRONG>graviton</STRONG> 
+  <DD>The hypothetical elementary unit of gravitation which is equivalent to the 
+  electron in electromagnetic theory. <A name=gravity></A>
+  <DT><STRONG>gravity</STRONG> 
+  <DD>1. Viewed from a frame of reference fixed in the earth, force imparted by 
+  the earth to a mass which is at rest relative to the earth. Since the earth is 
+  rotating, the force observed as gravity is the resultant of the force of <A 
+  href="g.html#gravitation">gravitation</A> 
+  and the <A 
+  href="c.html#centrifugal force">centrifugal 
+  force</A> arising from this rotation and the use of an earthbound rotating 
+  frame of reference. It is directed normal to sea level and to its geopotential 
+  surfaces. See <A 
+  href="v.html#virtual gravity">virtual 
+  gravity</A>, <A 
+  href="g.html#geopotential height">geopotential 
+  height</A>, <A 
+  href="s.html#standard gravity">standard 
+  gravity</A>. 
+  <DD><I>The magnitude of the force of gravity at sea level decreases from the 
+  poles, where the centrifugal force is zero, to the equator, where the 
+  centrifugal force is a maximum but directed opposite to the force of 
+  gravitation. This difference is accentuated by the shape of the earth, which 
+  is nearly that of an oblate spheroid of revolution slightly depressed at the 
+  poles. Also, because of the asymmetric distribution of the mass of the earth, 
+  the force of gravity is not directed precisely toward the earth's center. The 
+  magnitude of the force of gravity is usually called either gravity, 
+  acceleration of gravity, or apparent gravity. </I>
+  <DD>2. = <A 
+  href="a.html#acceleration of gravity">acceleration 
+  of gravity</A>. 
+  <DD>3. By extension, the attraction of any heavenly body for any mass; as 
+  <I>Martian gravity. </I><A name="gravity wave"></A>
+  <DT><STRONG>gravity wave</STRONG> 
+  <DD>A <A href="w.html#wave">wave</A> 
+  disturbance in a <A 
+  href="f.html#fluid">fluid</A> in which 
+  buoyancy (or reduced gravity) acts as the restoring force on fluid parcels 
+  displaced from <A 
+  href="h.html#hydrostatic equilibrium">hydrostatic 
+  equilibrium</A>. Also called <I>gravitational wave. </I>
+  <DT><STRONG>gravity well</STRONG> 
+  <DD>An analogy in which the <A 
+  href="g.html#gravitational">gravitational</A> 
+  field is considered as a deep pit out of which a space vehicle has to climb to 
+  escape from a planetary body. <A name="gray body"></A>
+  <DT><STRONG>gray body</STRONG> 
+  <DD>A hypothetical body which absorbs some constant fraction, between zero and 
+  one, of all <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> incident upon it, which fraction is the <A 
+  href="a.html#absorptivity">absorptivity</A> 
+  and is independent of <A 
+  href="w.html#wavelength">wavelength</A>. 
+  As such, a gray body represent a surface of absorptive characteristics 
+  intermediate between those of <A 
+  href="w.html#white body">white body</A> 
+  and a <A href="b.html#black body">black 
+  body</A>. No such substance are known in nature. Also called <I>grey body. 
+  </I><A name="gray code"></A>
+  <DT><STRONG>Gray code</STRONG> 
+  <DD>A <A href="b.html#binary code">binary 
+  code</A> in which adjacent quantities differ in one place or column only. 
+  Often used in mechanical devices. <A name=grayout></A>
+  <DT><STRONG>grayout</STRONG> 
+  <DD>A temporary condition in which vision is hazy, restricted, or otherwise 
+  impaired, owing to insufficient oxygen. Compare <A 
+  href="b.html#blackout">blackout</A>. <A 
+  name="great circle"></A><A name="great circles"></A>
+  <DT><STRONG>great circle</STRONG> 
+  <DD>The intersection of a sphere and a plane through its center. Also called 
+  <I>orthodrome. </I>
+  <DD><I>The intersection of a sphere and a plane which does not pass through 
+  its center is called a small circle. </I>
+  <DT><STRONG>greatest elongation</STRONG> 
+  <DD>The maximum angular distance of a body of the <A 
+  href="s.html#solar system">solar 
+  system</A> from the sun, as observed from the earth. The direction of the body 
+  east or west of the sun is usually specified, as <I>greatest elongation west. 
+  </I><A name="great red spot"></A>
+  <DT><STRONG>Great Red Spot</STRONG> 
+  <DD>An oval feature in the visible cloud surface of Jupiter, at latitude 20 to 
+  25 degrees S. It is about 25,000 miles long in the planet's east-west 
+  direction, and about 7000 miles wide in the north-south direction. It is often 
+  reddish in color, but may be white or grey, or nearly invisible compared to 
+  its surroundings. See <A 
+  href="s.html#south tropical disturbance">South 
+  Tropical Disturbance</A>. 
+  <DD><I>The neighboring cloud matter seems to pass around it on the northern 
+  side, producing the so-called Red Spot Hollow, by which it may be detected 
+  even when the spot itself is invisible. Its rotation period averages 9 hours, 
+  55 minutes, 38 seconds (very nearly the same as the rest of the planet), but 
+  varies enough so that through the years since its discovery in 1878 it has 
+  made more than one complete revolution with respect to the underlying planet. 
+  </I>
+  <DT><STRONG>great year</STRONG> 
+  <DD>The period of one complete cycle of the <A 
+  href="e.html#equinoxes">equinoxes</A> 
+  around the <A 
+  href="e.html#ecliptic">ecliptic</A>, 
+  about 25,800 years. Also called <I>platonic year. </I>See <A 
+  href="p.html#precession of the equinoxes">precession 
+  of the equinoxes</A>. 
+  <DT><STRONG>green flash</STRONG> 
+  <DD>A brilliant green coloring of the upper edge of the sun as it appears at 
+  sunrise or disappears at sunset when there is a clear, distinct horizon. 
+  <DD><I>The green flash is due to <A 
+  href="r.html#refraction">refraction</A> 
+  by the atmosphere, which disperses the first (or last) spot of light into a 
+  spectrum. The green is bent more than red or yellow and hence is visible 
+  sooner at sunrise and later at sunset. </I><A name="greenhouse effect"></A>
+  <DT><STRONG>greenhouse effect</STRONG> 
+  <DD>The heating effect exerted by the atmosphere upon the earth by virtue of 
+  the fact that the atmosphere (mainly, its water vapor) absorbs and remits <A 
+  href="i.html#infrared radiation">infrared 
+  radiation</A>. In detail: the shorter wavelengths of <A 
+  href="i.html#insolation">insolation</A> 
+  are transmitted rather freely through the atmosphere to be absorbed at the 
+  earth's surface. The earth then reemits this as long-wave (infrared) <A 
+  href="t.html#terrestrial radiation">terrestrial 
+  radiation</A>, a portion of which is absorbed by the atmosphere and again 
+  emitted (see <A 
+  href="a.html#atmospheric radiation">atmospheric 
+  radiation</A>). Some of this is emitted downward back to the earth's surface ( 
+  <A 
+  href="c.html#counter-radiation">counter-radiation</A>). 
+
+  <DD><I>The mean surface temperature for the entire world, 14 degrees C, is 
+  almost 40 degrees C higher than the mean temperature required for radiative 
+  equilibrium of a black body at the earth's mean distance from the sun. It is 
+  essential, in understanding the concept of the greenhouse effect, to note that 
+  the important additional warming is due to the counterradiation from the 
+  atmosphere. The glass panes of a greenhouse function in this manner, hence the 
+  name. </I>
+  <DT><STRONG>Green theorem</STRONG> 
+  <DD>See <A 
+  href="d.html#divergence theorem">divergence 
+  theorem</A>. 
+  <DT><STRONG>Greenwich apparent time </STRONG>
+  <DD>(abbr GAT) <A 
+  href="l.html#local apparent time">Local 
+  apparent time</A> at the <A 
+  href="g.html#greenwich meridian">Greenwich 
+  meridian</A>; the arc of the celestial equator, or the angle at the celestial 
+  pole, between the lower branch of the Greenwich celestial meridian and the 
+  hour circle of the apparent or true sun, measured westward from the lower 
+  branch of the Greenwich celestial meridian through 24 hours; <A 
+  href="g.html#greenwich hour angle">Greenwich 
+  hour angle</A> of the apparent or <A 
+  href="t.html#true sun">true sun</A>, 
+  expressed in time units, plus 12 hours. 
+  <DT><STRONG>Greenwich civil time (abbr GCT)</STRONG> = Greenwich mean time. 
+  <DD>(United States terminology from 1925 through 1952). <A 
+  name="greenwich hour angle"></A>
+  <DT><STRONG>Greenwich hour angle (abbr GHA)</STRONG> 
+  <DD>Angular distance west of the Greenwich <A 
+  href="c.html#celestial meridian">celestial 
+  meridian</A>; the arc of the celestial equator, or the angle at the celestial 
+  pole, between the upper branch of the Greenwich celestial meridian and the 
+  hour circle of a point on the <A 
+  href="c.html#celestial sphere">celestial 
+  sphere</A>, measured westward from the Greenwich celestial meridian through 
+  360 degrees; local hour angle at the Greenwich meridian. 
+  <DT><STRONG>Greenwich mean time (abbr GMT)</STRONG> 
+  <DD><A 
+  href="l.html#local mean time">Local mean 
+  time</A> at the <A 
+  href="g.html#greenwich meridian">Greenwich 
+  meridian</A>; the arc of the celestial equator, or the angle at the celestial 
+  pole, between the lower branch of the Greenwich celestial meridian and the 
+  hour circle of the mean sun, measured westward from the lower branch of the 
+  Greenwich celestial meridian through 24 hours; <A 
+  href="g.html#greenwich hour angle">Greenwich 
+  hour angle</A> of the <A 
+  href="m.html#mean sun">mean sun</A>, 
+  expressed in time units, plus 12 hours. Called <I>Greenwich civil time </I>in 
+  U.S. terminology from 1925 through 1952. Also called <I>universal time, 
+  Z-time. </I>
+  <DD><I>Mean time reckoned from the upper branch of the Greenwich meridian is 
+  called Greenwich astronomical time. </I><A name=greenwich></A><A 
+  name="greenwich meridian"></A>
+  <DT><STRONG>Greenwich meridian</STRONG> 
+  <DD>The meridian through Greenwich, England, serving as the reference for 
+  Greenwich time. 
+  <DD><I>The Greenwich meridian is accepted almost universally as the prime 
+  meridian, or the origin of measurement of <A 
+  href="l.html#longitude">longitude</A>. 
+  </I>
+  <DT><STRONG>Greenwich sidereal time </STRONG>
+  <DD>(abbr GST) <A 
+  href="l.html#local sidereal time">Local 
+  sidereal time</A> at the <A 
+  href="g.html#greenwich meridian">Greenwich 
+  meridian</A>; the arc of the celestial equator, or the angle at the celestial 
+  pole, between the upper branch of the Greenwich celestial meridian and the 
+  hour circle of the vernal equinox, measured westward from the upper branch of 
+  the Greenwich celestial meridian through 24 hours; <A 
+  href="g.html#greenwich hour angle">Greenwich 
+  hour angle</A> of the <A 
+  href="v.html#vernal equinox">vernal 
+  equinox</A>, expressed in time units. 
+  <DT><STRONG>G-region</STRONG> 
+  <DD>See <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  <A name="gregorian calendar"></A>
+  <DT><STRONG>Gregorian calendar</STRONG> 
+  <DD>The calendar now in common use, in which each year has 365 days except 
+  leap years. See <A 
+  href="c.html#calendar year">calendar 
+  year</A>. 
+  <DT><STRONG>grey body</STRONG><DFN> = gray body. </DFN><A name=grid></A>
+  <DT><STRONG>grid</STRONG> 
+  <DD>1. A series of lines, usually straight and parallel, superimposed on a 
+  chart or plotting sheet to serve as a directional reference for navigation. 
+  See <A 
+  href="g.html#graticule">graticule</A>. 
+  <DD>2. Two sets of mutually perpendicular lines dividing a map or chart into 
+  squares or rectangles to permit location of any point by a system of 
+  rectangular coordinates. See <A 
+  href="m.html#military grid">military 
+  grid</A>, <A 
+  href="w.html#world geographic reference system">world 
+  geographic reference system</A>. 
+  <DD>3. An <A 
+  href="e.html#electrode">electrode</A> 
+  with one or more openings to permit passage of <A 
+  href="e.html#electrons">electrons</A> or 
+  <A href="i.html#ions">ions</A>. It 
+  usually consists of a wire mesh electrode placed between the anode and cathode 
+  of an electron tube to serve as a control of the current flowing between them. 
+
+  <DD>4. Pertaining to or measured from a reference grid, as <I>grid azimuth, 
+  grid latitude, grid meridian. </I>
+  <DT><STRONG>grid variation</STRONG> 
+  <DD>See <A 
+  href="v.html#variation">variation</A>, 
+  note. 
+  <DT><STRONG>grivation</STRONG> = grid variation. 
+  <DT><STRONG>gross thrust</STRONG> 
+  <DD>The total <A 
+  href="t.html#thrust">thrust</A> of a <A 
+  href="j.html#jet engine">jet engine</A> 
+  without deduction of the <A 
+  href="d.html#drag">drag</A> due to the 
+  momentum of the incoming air (ram drag). 
+  <DD><I>The gross thrust is equal to the product of the mass rate of fluid flow 
+  and the velocity of the fluid relative to the nozzle, plus the product of the 
+  nozzle exit area and the difference between the exhaust pressure and ambient 
+  pressure. </I><A name="gross weight"></A>
+  <DT><STRONG>gross weight</STRONG> 
+  <DD>The total weight of an aircraft, rocket, etc., as loaded; specifically, 
+  the total weight with full crew, full tanks, payload, etc. Also called 
+  <I>take-off weight. </I>See <A 
+  href="d.html#design gross weight">design 
+  gross weight</A>. 
+  <DT><STRONG>ground</STRONG> 
+  <DD>1. The earth's surface, especially the earth's land surface. Used in 
+  combination to form adjectives, as in <I>ground-to-air, ground-to-ground </I>, 
+  and <I>air-to-ground. </I>See <A 
+  href="s.html#surface">surface</A>. 
+  <DD>2. The domain of nonflight operations that normally take place on the 
+  earth's surface or in a vehicle or on a platform that rests upon the surface, 
+  as in <I>ground support. </I>
+  <DD>3. = electrical ground. 
+  <DT><STRONG>ground clutter </STRONG>= ground return. 
+  <DT><STRONG>ground-controlled approach </STRONG>
+  <DD>(abbr GCA) A ground <A 
+  href="r.html#radar">radar</A> system 
+  providing information by which aircraft approaches may be directed via radio 
+  communications. 
+  <DT><STRONG>ground-controlled intercept </STRONG>
+  <DD>(abbr GCI) A <A 
+  href="r.html#radar">radar</A> system by 
+  means of which a controller may direct an aircraft to make an interception of 
+  another aircraft. 
+  <DT><STRONG>ground-effect machine</STRONG> 
+  <DD>A machine that hovers or moves just above the ground by creating a cushion 
+  of supporting air between it and the ground surface and varying the thrust 
+  vector and magnitude to regulate direction and rate of motion. 
+  <DT><STRONG>ground environment</STRONG> 
+  <DD>1. The <A 
+  href="e.html#environment">environment</A> 
+  that surrounds and affects a system of piece of equipment while it operates on 
+  the ground. 
+  <DD>2. That <A 
+  href="s.html#system">system</A> or part 
+  of a system, as of a guidance system, that functions on the ground; the 
+  aggregate of equipment, conditions, facilities, and personnel that go to make 
+  up a system, or part of a system, functioning on the ground. See <A 
+  href="e.html#environment">environment</A>. 
+
+  <DT><STRONG>ground-handling equipment</STRONG> 
+  <DD>Equipment on the ground used to move, lift, or transport a space vehicle, 
+  a rocket, or component parts. 
+  <DD><I>Such equipment includes the gantry, the transporter, and the forklift. 
+  </I>
+  <DT><STRONG>ground layer </STRONG>= surface boundary layer. <A 
+  name="ground return"></A>
+  <DT><STRONG>ground return</STRONG> 
+  <DD>Radar <A 
+  href="e.html#echoes">echoes</A> reflected 
+  from the terrain. Also called <I>ground clutter, land return. </I>
+  <DD><I>Echoes from the sea are called sea clutter or sea return. </I><A 
+  name="ground start"></A>
+  <DT><STRONG>ground start</STRONG> 
+  <DD>An <I>ignition sequence </I>of a rocket's main stage, initiated and cycled 
+  through on the ground. Compare <A 
+  href="a.html#air start">air start</A>, <A 
+  href="i.html#in-flight start">in-flight 
+  start</A>. 
+  <DD><I>In large rockets, the ground start may be fueled from pressurized tanks 
+  external to the rocket, permitting takeoff with the rocket's own internal 
+  propellant load intact. </I><A name="ground support equipment"></A>
+  <DT><STRONG>ground support equipment </STRONG>
+  <DD>(abbr GSE) That equipment on the ground, including all implements, tools, 
+  and devices (mobile or fixed), required to inspect, test, adjust, calibrate, 
+  appraise, gage, measure, repair, overhaul, assemble, disassemble, transport, 
+  safeguard, record, store, or otherwise function in support of a rocket, space 
+  vehicle, or the like, either in the research and development phase or in an 
+  operational phase, or in support of the guidance system used with the missile, 
+  vehicle, or the like. 
+  <DD><I>The GSE is not considered to include land or buildings; nor does it 
+  include the guidance-station equipment itself, but it does include the test 
+  and checkout equipment required for operation of the guidance-station 
+  equipment. </I>
+  <DT><STRONG>ground wave</STRONG> 
+  <DD>A <A href="r.html#radio">radio</A> 
+  wave that is propagated over the earth and is ordinarily affected by the 
+  presence of the earth's surface and the <A 
+  href="t.html#troposphere">troposphere</A>. 
+  The ground wave includes all components of a radio wave over the earth except 
+  <A 
+  href="i.html#ionospheric">ionospheric</A> 
+  and <A 
+  href="t.html#tropospheric">tropospheric</A> 
+  waves. Compare <A 
+  href="s.html#sky wave">sky wave</A>. 
+  <DD><I>The ground wave is refracted because of variations in the dielectric 
+  constant of the troposphere including the condition known as a <A 
+  href="s.html#surface duct">surface 
+  duct</A>. </I><A name="group velocity"></A>
+  <DT><STRONG>group velocity</STRONG> 
+  <DD>The velocity of a <A 
+  href="w.html#wave">wave</A> disturbance 
+  as a whole, i.e., of an entire group of component simple harmonic waves. The 
+  group velocity U is related to the phase speed c of the individual harmonic 
+  waves of length <I>l </I>by the frequency equation U = c - <I>l </I>( <I>dc 
+  </I>/ <I>dl </I>). The phase speed c is thus equal to the group velocity only 
+  in the case of nondispersive waves, i.e., when <I>dc/dl </I>= 0. See <A 
+  href="v.html#velocity of propagation">velocity 
+  of propagation</A>. 
+  <DT><STRONG>Gru, Grus</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Grus. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Grus (abbr Gru, Grus)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>G-scan </STRONG>= G-display. 
+  <DT><STRONG>G-scope </STRONG>= G-display. <A name=GSE></A>
+  <DT><STRONG>GSE (abbr)</STRONG> =<A 
+  href="g.html#ground support equipment">ground-support 
+  equipment.</A> <A name=g-suit></A>
+  <DT><STRONG>g-suit or G-suit</STRONG> 
+  <DD>A suit that exerts pressure on the abdomen and lower parts of the body to 
+  prevent or retard the collection of blood below the chest under positive <A 
+  href="a.html#acceleration">acceleration</A>. 
+  Compare <A 
+  href="p.html#pressure suit">pressure 
+  suit</A>. 
+  <DT><STRONG>g-tolerance</STRONG> 
+  <DD>A tolerance in a person or other animal, or in a piece of equipment, to an 
+  <A 
+  href="a.html#acceleration">acceleration</A> 
+  of a particular value. <A name=guidance></A>
+  <DT><STRONG>guidance</STRONG> 
+  <DD>The process of directing the movements of an aeronautical vehicle or space 
+  vehicle, with particular reference to the selection of a flight path. See <A 
+  href="c.html#control">control</A>. 
+  <DD><I>In preset guidance a predetermined path is set into the guidance 
+  mechanism and not altered, in inertial guidance accelerations are measured and 
+  integrated within the craft, in command guidance the craft responds to 
+  information received from an outside source. Beam-rider guidance utilizes a 
+  beam; terrestrial-reference guidance, some influence of the earth; celestial 
+  guidance, the celestial bodies and particularly the stars; and homing guidance 
+  the information is in response to transmissions from the craft, in semiactive 
+  homing guidance the transmissions are from a source other than the craft, and 
+  in passive homing guidance natural radiations from the destination are 
+  utilized. Midcourse guidance extends from the end of the launching phase to an 
+  arbitrary point enroute and terminal guidance extends from this point to the 
+  destination. </I>
+  <DT><STRONG>guided missile</STRONG> 
+  <DD>1. Broadly, any <A 
+  href="m.html#missile">missile</A> that is 
+  subject to, or capable of, some degree of guidance or direction after having 
+  been launched, fired, or otherwise set in motion. 
+  <DD>2. Specifically, an unmanned, self-propelled flying vehicle (such as a 
+  pilotless aircraft or rocket) carrying a destructive load and capable of being 
+  directed or of directing itself after launching or take-off, responding either 
+  to external direction or to direction originating from devices within the 
+  missile itself. 
+  <DD>3. Loosely, by extension, any steerable projectile. See <A 
+  href="b.html#ballistic missile">ballistic 
+  missile</A>. 
+  <DT><STRONG>guiding center</STRONG> 
+  <DD>The center point of the <A 
+  href="l.html#larmor orbit">Larmor 
+  orbit</A> of a charged particle gyrating in a magnetic field. 
+  <DD><I>It is often convenient to separate the total motion of a particle into 
+  the Larmor orbit plus the motion of the guiding center. In addition to the 
+  unimpeded motion of the guiding center of a particle along the magnetic field, 
+  the presence of electric fields will displace the guiding center perpendicular 
+  to the magnetic field. </I>
+  <DT><STRONG>gust tunnel</STRONG> 
+  <DD>A <A href="w.html#wind tunnel">wind 
+  tunnel</A> in which gusts are simulated. Specifically, a tunnel in which 
+  models are passed over a vertical jet or jets simulating gusts. <A 
+  name=gyro></A>
+  <DT><STRONG>gyro</STRONG> 
+  <DD>1. A device which utilizes the angular momentum of a spinning mass (rotor) 
+  to sense angular motion of its base about one or two axes orthogonal to the 
+  spin axis. Also called <I>gyroscope. </I>
+  <DD><I>This definition does not include more complex systems such as <A 
+  href="s.html#stable platforms">stable 
+  platforms</A> using gyros as components. </I>
+  <DD>2. Short for <I>directional gyro, gyrocompass </I>, etc. <A 
+  name=gyrofrequency></A>
+  <DT><STRONG>gyrofrequency</STRONG> 
+  <DD>The natural period of revolution of a <A 
+  href="f.html#free electron">free 
+  electron</A> in the earth's <A 
+  href="m.html#magnetic field">magnetic 
+  field</A>. See <A 
+  href="m.html#magnetoionic theory">magnetoionic 
+  theory</A>. 
+  <DT><STRONG>gyro horizon</STRONG> 
+  <DD>An <A 
+  href="a.html#artificial horizon">artificial 
+  horizon</A> or an <A 
+  href="a.html#attitude gyro">attitude 
+  gyro</A>. <A name="gyro pickoff"></A>
+  <DT><STRONG>gyro pickoff</STRONG> 
+  <DD>A device which produces a <A 
+  href="s.html#signal">signal</A>, 
+  generally a voltage, as a function of the angle between two <A 
+  href="g.html#gyro">gyro</A> gimbals or 
+  between a <A 
+  href="g.html#gimbal">gimbal</A> and the 
+  base. <A name=gyros></A>
+  <DT><STRONG>gyroscope</STRONG> = gyro. <A name=gyroscopic></A>
+  <DT><STRONG>gyroscopic inertia</STRONG> 
+  <DD>The property of a rotor of resisting any force which tends to change its 
+  axis of rotation. See <A 
+  href="g.html#gyro">gyro</A>. </DD>

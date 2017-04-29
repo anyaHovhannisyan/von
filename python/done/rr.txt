@@ -1,0 +1,2196 @@
+<DT><STRONG>rabbit</STRONG> 
+  <DD>Video <A   href="d.html#display">display</A> of a 
+  beacon's replies to <A   href="i.html#interrogations">interrogations</A> 
+  from two or more nonsynchronized <A   href="r.html#radars">radars</A>. 
+  <DT><STRONG>racon</STRONG> (From <A   href="r.html#radar beacon">radar 
+  beacon</A>) 
+  <DD>A <A   href="t.html#transponder">transponder</A> 
+  for <A   href="i.html#interrogation">interrogation</A> 
+  by a <A   href="p.html#primary radar">primary 
+  radar</A>. 
+  <DT><STRONG>radar</STRONG> <A name=radar></A>
+  <DD>(From radio detection and ranging). 
+  <DD>1. A method, system, or technique of using beamed, reflected, and timed <A   href="r.html#radio waves">radio waves</A> 
+  for detecting, locating, or tracking objects (such as rockets), for measuring 
+  altitude, etc., in any of various activities, such as air traffic control or 
+  guidance. 
+  <DD>2. The electronic equipment or apparatus used to generate, transmit, 
+  receive, and, usually, to display radio scanning or locating waves; a radar 
+  set. 
+  <DD><I>The terms primary radar and secondary radar may be used when the return 
+  signals are, respectively, by reflection and by the transmission of a second 
+  signal as a result of triggering responder beacon by the incident signal. </I>
+  <DT><STRONG>radar altimeter</STRONG> = <A   href="r.html#radio altimeter">radio 
+  altimeter</A>. 
+  <DT><STRONG>radar altitude</STRONG> 
+  <DD>The altitude of an aircraft or spacecraft as determined by a <A   href="r.html#radio altimeter">radio 
+  altimeter</A>; thus, the actual distance from the nearest terrain feature. 
+  <DT><STRONG>radar astronomy</STRONG> 
+  <DD>The study of celestial bodies within the solar system by means of <A   href="r.html#radiation">radiation</A> 
+  originating on earth but reflected from the body under observation. See <A   href="r.html#radio astronomy">radio 
+  astronomy</A>. 
+  <DT><STRONG>radar band</STRONG> 
+  <DD>See <A   href="f.html#frequency band">frequency 
+  band</A>. <A name="radar beacon"></A>
+  <DT><STRONG>radar beacon</STRONG> 
+  <DD>A <A href="b.html#beacon">beacon</A> 
+  transmitting a characteristic signal on <A   href="r.html#radar">radar</A> frequency, 
+  permitting a craft to determine the bearing and sometimes the range of the 
+  beacon. 
+  <DD><I>A racon returns a coded signal when triggered by the proper type of 
+  radar pulse; a ramark continuously transmits a signal which appears as a 
+  radial line on the plan position indicator. </I><A name="radar beam"></A>
+  <DT><STRONG>radar beam</STRONG> 
+  <DD>See <A href="b.html#beam">beam</A>. 
+  <DT><STRONG>radar cross section</STRONG> 
+  <DD>The ratio of <A   href="p.html#power">power</A> returned in 
+  a radar echo to power received by the <A   href="t.html#target">target</A> 
+  reflecting the signal. Compare <A   href="s.html#scattering cross section">scattering 
+  cross section</A>. 
+  <DT><STRONG>radar duct</STRONG> 
+  <DD>See <A href="r.html#radio duct">radio 
+  duct</A>. 
+  <DT><STRONG>radar echo</STRONG> 
+  <DD>See <A href="e.html#echo">echo</A>. 
+  <A name="radar frequency"></A>
+  <DT><STRONG>radar frequency</STRONG> 
+  <DD>See <A   href="f.html#frequency band">frequency 
+  band.</A> <A name="radar horizon"></A>
+  <DT><STRONG>radar horizon</STRONG> 
+  <DD>The <A   href="a.html#angle of elevation">angle of 
+  elevation</A> at which the <A   href="b.html#beam">beam</A> from a <A   href="r.html#radar">radar</A> antenna is 
+  intercepted by the earth's horizon. Compare <A   href="r.html#radio horizon">radio 
+  horizon</A>. <A name="radar indicators"></A>
+  <DT><STRONG>radar indicator</STRONG> = radarscope. 
+  <DT><STRONG>radar mile</STRONG> 
+  <DD>A time unit of 10.75 microseconds duration; the time it takes for the <A   href="s.html#signal">signal</A> emitted 
+  by a radar to travel from the radar to a <A   href="t.html#target">target</A> one mile 
+  distant and return to the radar. <A name="radar range"></A>
+  <DT><STRONG>radar range</STRONG> 
+  <DD>1. The distance from a <A   href="r.html#radar">radar</A> to a target 
+  as measured by the radar. 
+  <DD>2. The maximum distance at which a radar set is effective in detecting 
+  targets. 
+  <DD><I>Radar range depends upon variables such as weather conditions, type of 
+  target, etc. Radar range, sense 2, is sometimes given a specific definition, 
+  e.g., the range at which the set is effective one-half of the time. </I>
+  <DT><STRONG>radar range equation</STRONG> 
+  <DD>The relation between the maximum range Rmax at which a point target is 
+  detectable and the properties of the radar and the target 
+  <center>R<sub>max</sub> = [(PA<sup>2</sup>&lambda;<sup>2</sup>&sigma;)/(4&pi;)<sup>3</sup>S<sub>min</sub>)]<sup>1/4</sup>
+  </center>where <I>P </I>is the transmitted power of the 
+  radar; &lambda; is its wavelength; &sigma; is the scattering cross section of the target; 
+  <I>A </I>is the antenna gain; and <I>S<sub>min</sub> </I>is the threshold signal. <A   name="radar reflectivity"></A>
+  <DT><STRONG>radar reflectivity</STRONG> 
+  <DD>In general, the measure of the efficiency of a <A   href="r.html#radar target">radar 
+  target</A> in intercepting and returning a radar <A   href="s.html#signal">signal</A>. It 
+  depends upon the size, shape, aspect, and the dielectric properties at the 
+  surface of the target. It includes the effects of not only reflection (see <A   href="r.html#reflectivity">reflectivity</A>) 
+  but also <A   href="s.html#scattering">scattering</A> 
+  and <A   href="d.html#diffraction">diffraction</A>. 
+  <A name="radar reflector"></A>
+  <DT><STRONG>radar reflector</STRONG> 
+  <DD>A device capable of or intended for reflecting <A   href="r.html#radar">radar</A> signals. 
+  See <A   href="c.html#corner reflector">corner 
+  reflector</A>, <A   href="p.html#parabolic reflector">parabolic 
+  reflector</A>. 
+  <DT><STRONG>radar scan</STRONG> 
+  <DD>1. The searching motion of a radar beam in any of various path 
+  configurations; the pattern of the motion of a radar beam. 
+  <DD>2. <A   href="r.html#radar scanning">Radar 
+  scanning</A>. <A name="radar scanning"></A>
+  <DT><STRONG>radar scanning</STRONG> 
+  <DD>The action or process of moving or directing a searching radar beam. See 
+  <A   href="c.html#circular scanning">circular 
+  scanning</A>, <A   href="c.html#conical scanning">conical 
+  scanning</A>, <A   href="h.html#helical scanning">helical 
+  scanning</A>. <A name=radarscope></A><A name=radars></A>
+  <DT><STRONG>radarscope</STRONG> 
+  <DD>The <A   href="c.html#cathode-ray tube">cathode-ray 
+  tube</A> or oscilloscope in a <A   href="r.html#radar set">radar set</A>, 
+  which displays the received signal in such a manner as to indicate range, 
+  bearing, etc. Sometimes called a <I>radar indicator. </I>
+  <DT><STRONG>radar screen</STRONG> 
+  <DD>1. The face of a <A   href="c.html#cathode-ray oscilloscope">cathode-ray 
+  oscilloscope</A> used in a <A   href="r.html#radar set">radar set</A>. 
+  <DD>2. A network of radar installations, or their emanations, serving, e.g., 
+  to detect strange aircraft. <A name="radar set"></A>
+  <DT><STRONG>radar set</STRONG> 
+  <DD>An electronic apparatus consisting principally of a transmitter, antenna, 
+  receiver, and indicator for sending out scanning beams and receiving and 
+  displaying the reflected waves or the waves emitted by a radar beacon. See <A   href="r.html#radar">radar</A>. 
+  <DT><STRONG>radar shadow</STRONG> 
+  <DD>A condition in which <A   href="r.html#radar frequency">radar 
+  frequency</A> signals do not reach a region because of an intervening 
+  obstruction. <A name="radar target"></A>
+  <DT><STRONG>radar target</STRONG> 
+  <DD>An object which reflects a sufficient amount of a <A   href="r.html#radar">radar</A> signal to 
+  produce an echo signal on the radar screen. 
+  <DT><STRONG>radar volume</STRONG> 
+  <DD>The volume in space that is irradiated by a given <A   href="r.html#radar">radar</A>. For a <A   href="c.html#continuous-wave radar">continuous-wave 
+  radar</A> it is equivalent to the antenna radiation pattern. For a <A   href="p.html#pulse radar">pulse radar</A> 
+  it is a function of the cross-section area of the beam of the antenna and the 
+  pulse length of the transmitted pulse. 
+  <DT><STRONG>radar wave</STRONG> 
+  <DD>A transmitted or reflected <A   href="r.html#radio wave">radio wave</A> 
+  used in <A href="r.html#radar">radar</A>; 
+  a radio wave in one of the <A   href="f.html#frequency bands">frequency 
+  bands</A> used for radar. <A name=radial></A>
+  <DT><STRONG>radial</STRONG> 
+  <DD>Motion along a radius. 
+  <DT><STRONG>radial motion</STRONG> 
+  <DD>Motion along a radius, or a component in such a direction, particularly 
+  that component of space motion of a <A   href="c.html#celestial body">celestial 
+  body</A> in the direction of the line of sight. <A   name="radial velocities"></A><A name="radial velocity"></A>
+  <DT><STRONG>radial velocity</STRONG> 
+  <DD>In <A href="r.html#radar">radar</A>, 
+  that vector component of the <A   href="v.html#velocity">velocity</A> of a 
+  moving <A href="t.html#target">target</A> 
+  that is directed away from or toward the ground station. <A name=radian></A>
+  <DT><STRONG>radian</STRONG> 
+  <DD>The angle subtended at the center of a circle by an arc equal in length to 
+  a radius of the circle. It is equal to 360&deg;/2&pi; or approximately 57 degrees 17 
+  minutes 44.8 seconds. <A name=radiance></A>
+  <DT><STRONG>radiance</STRONG> 
+  <DD>In radiometry, a measure of the intrinsic radiant <A   href="i.html#intensity">intensity</A> 
+  emitted by a radiator in a given direction. It is the <A   href="i.html#irradiance">irradiance</A> 
+  (radiant flux density) produced by radiation from the source upon a unit 
+  surface area oriented normal to the line between source and receiver, divided 
+  by the solid angle subtended by the source at the receiving surface. It is 
+  assumed that the medium between the radiator and receiver is perfectly 
+  transparent; therefore, radiance is independent of <A   href="a.html#attenuation">attenuation</A> 
+  between source and receiver. 
+  <DD><I>If the radiant source is a perfectly diffuse radiator (that is, emits 
+  exactly according to <A   href="l.html#lambert law">Lambert 
+  law</A>), then its radiance is equal to its <A   href="e.html#emittance">emittance</A> per 
+  unit solid angle. The radiance of a light source is termed luminance 
+  (formerly, brightness). </I>
+  <DT><STRONG>radiancy (symbol R, <img src="radiancy.gif">, W)</STRONG> 
+  <DD>The rate of radiant-energy <A   href="e.html#emission">emission</A> for a 
+  unit area of a source in all the radial directions of the overspreading 
+  hemisphere. 
+  <DT><STRONG>radiant</STRONG> <A name=radiant></A>
+  <DD>1. Pertaining to the <A   href="e.html#emission">emission</A> or 
+  the measurement of <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. Compare <A   href="l.html#luminous">luminous</A>. 
+  <DD>2. In astronomy, the apparent location on the <A   href="c.html#celestial sphere">celestial 
+  sphere</A> of the origin of the luminous <A   href="t.html#trajectories">trajectories</A> 
+  of <A href="m.html#meteors">meteors</A> 
+  seen during a <A   href="m.html#meteor shower">meteor 
+  shower</A>. 
+  <DD><I>For convenience, the common meteor showers are named for the 
+  constellations of stars in which their radiants appear. </I>
+  <DD>3. In describing auroras, a projected point of intersection of lines drawn 
+  coincident with auroral streamers; that is, the point from which the aurora 
+  seems to originate. <A name="radiant density"></A>
+  <DT><STRONG>radiant density</STRONG> = radiant energy density. 
+  <DT><STRONG>radiant emittance</STRONG> 
+  <DD>See <A   href="e.html#emittance">emittance</A>, 
+  sense 1. <A name="radiant energy"></A>
+  <DT><STRONG>radiant energy (symbol <I>U </I>)</STRONG> 
+  <DD>1. The <A   href="e.html#energy">energy</A> of any 
+  type of <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. Also called <I>radiation. </I>
+  <DD>2. Infrequently, any energy that may be radiated, as, for example, 
+  acoustic energy. 
+  <DT><STRONG>radiant energy density (symbol <I>u </I>)</STRONG> 
+  <DD>The instantaneous amount of radiant energy contained in a unit volume of 
+  propagating medium. 
+  <DT><STRONG>radiant energy thermometer</STRONG> 
+  <DD>An instrument which determines the <A   href="b.html#black body">black body</A> 
+  temperature of a substance by measuring its thermal radiation. 
+  <DD><I>The substance need not be thermally black over the whole spectrum, 
+  since it is possible to limit the measurement to those frequencies where it is 
+  black. </I><A name="radiant flux"></A>
+  <DT><STRONG>radiant flux (symbol &Phi;)</STRONG> 
+  <DD>The rate of flow of radiant energy. 
+  <DT><STRONG>radiant flux density </STRONG>= radiant flux per unit area 
+  <DD><I>When applied to a source, it is called radiancy or radiant emittance 
+  (symbol W). When applied to a receiver, it is called irradiancy or irradiance 
+  (symbol H). </I>
+  <DT><STRONG>radiant heat</STRONG> 
+  <DD><A   href="i.html#infrared">Infrared</A> 
+  radiation. 
+  <DD><I>This term, still used in certain engineering fields, is to be avoided 
+  since it confuses the distinct physical concepts of radiation and heat. </I><A   name="radiant intensity"></A>
+  <DT><STRONG>radiant intensity</STRONG> 
+  <DD>Radiant flux per unit solid angle. 
+  <DT><STRONG>radiant temperature</STRONG> 
+  <DD>The <A   href="t.html#temperature">temperature</A> 
+  obtained by use of a total radiation <A   href="p.html#pyrometer">pyrometer</A> 
+  when sighted upon a nonblack body. 
+  <DD><I>This is always less than the true temperature. </I><A name=radiate></A>
+  <DT><STRONG>radiating element</STRONG> 
+  <DD>A basic subdivision of an antenna which in itself is capable of radiating 
+  or receiving <A   href="r.html#radiofrequency">radiofrequency</A> 
+  energy. <A name=radiation></A>
+  <DT><STRONG>radiation</STRONG> 
+  <DD>1. The process by which electromagnetic energy is propagated through free 
+  space by virtue of joint undulatory variations in the electric and magnetic 
+  fields in space. This concept is to be distinguished from conduction and 
+  convection. A group of physical principles known as the radiation laws 
+  comprise, to a large extent, the current state of practical knowledge of the 
+  complex radiative processes. 
+  <DD>2. The process by which energy is propagated through any medium by virtue 
+  of the <A href="w.html#wave motion">wave 
+  motion</A> of that medium, as in the propagation of sound wave through the 
+  atmosphere, or ocean waves along the water surface. 
+  <DD>3. = <A   href="r.html#radiant energy">radiant 
+  energy</A>. 
+  <DD>4. = <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>, specifically, high-energy radiation such as <A   href="g.html#gamma rays">gamma rays</A> 
+  and <A href="x.html#x-rays">X-rays</A>. 
+  <DD>5. Corpuscular emissions, such as &alpha; or &beta;-radiation. 
+  <DD>6. = <A   href="n.html#nuclear radiation">nuclear 
+  radiation</A>. 
+  <DD>7. = <A   href="r.html#radioactivity">radioactivity</A>. 
+  <A name="radiation belt"></A>
+  <DT><STRONG>radiation belt</STRONG> 
+  <DD>An envelope of charged particles trapped in the <A   href="m.html#magnetic field">magnetic 
+  field</A> of a spatial body. See <A   href="v.html#van allen belt">Van Allen 
+  belt</A>. <A name="radiation constants"></A>
+  <DT><STRONG>radiation constants</STRONG> 
+  <DD>Values used in <A   href="p.html#planck law">Planck law</A> 
+  and other radiation calculations. The first radiation constant (symbol 
+  <MATH>c<SUB>1</SUB></MATH>) = 3.7415 erg centimeters squared per second. The 
+  second radiation constant (symbol <MATH>c<SUB>2</SUB></MATH>) = 1.43879 
+  centimeters degrees K. See <A   href="p.html#physical constants">physical 
+  constants</A>. 
+  <DT><STRONG>radiation cooled</STRONG> 
+  <DD>Of a structure, pertaining to the use of materials able to radiate heat at 
+  a rate such that the rate of increase of the temperature of the material is 
+  low. 
+  <DT><STRONG>radiation counter</STRONG> 
+  <DD>An instrument used for detecting or measuring moving subatomic particles 
+  by a counting process. 
+  <DT><STRONG>radiation dose</STRONG> 
+  <DD>The amount of radiation absorbed by a material, system, or tissue in a 
+  given amount of time; usually measured in one of the commonly accepted units 
+  as <A   href="r.html#roentgen">roentgen</A>, <A   href="r.html#roentgen-equivalent-man">roentgen-equivalent-man</A>, 
+  <A   href="r.html#roentgen-equivalent-physical">roentgen-equivalent-physical</A>, 
+  etc. <A name="radiation laws"></A><A name="radiation law"></A>
+  <DT><STRONG>radiation laws</STRONG> 
+  <DD>1. The four physical laws which, together, fundamentally describe the 
+  behavior of black-body radiation: (a) the <A   href="k.html#kirchhoff law">Kirchhoff 
+  law</A> is essentially a thermodynamic relationship between emission and 
+  absorption of any given wavelength at a given temperature; (b) the <A   href="p.html#planck law">Planck law</A> 
+  describes the variation of intensity of black-body radiation at a given 
+  temperature, as a function of wavelength; (c) the <A   href="s.html#stefan-boltzmann law">Stefan-Boltzmann 
+  law</A> relates the time rate of radiant energy emission from a black body to 
+  its absolute temperature; (d) the <A   href="w.html#wien law">Wien law</A> 
+  relates the wavelength of maximum intensity emitted by a black body to its 
+  absolute temperature. 
+  <DD>2. All the more inclusive assemblage of empirical and theoretical laws 
+  describing all manifestations of radiative phenomena; e.g., <A   href="b.html#bouguer law">Bouguer law</A> 
+  and <A href="l.html#lambert law">Lambert 
+  law</A>. 
+  <DT><STRONG>radiation lobe</STRONG> 
+  <DD>A portion of the <A   href="r.html#radiation pattern">radiation 
+  pattern</A> bounded by one or two cones of <A   href="n.html#nulls">nulls</A>. 
+  <DT><STRONG>radiation medicine</STRONG> 
+  <DD>That branch of medicine dealing with the effect of <A   href="r.html#radiation">radiation</A>, 
+  specifically high-energy radiation such as X-rays, gamma rays, and energetic 
+  particles on the body and with the prevention or cure of physiological 
+  injuries resulting from such radiation. <A name="radiation pattern"></A>
+  <DT><STRONG>radiation pattern</STRONG> 
+  <DD>A graphical representation of the <A   href="r.html#radiation">radiation</A> of 
+  an <A href="a.html#antenna">antenna</A> 
+  as a function of direction. Cross sections in which radiation patterns are 
+  frequently given are vertical planes and the horizontal plane, or the 
+  principal electric and magnetic polarization planes. Also called <I>antenna 
+  pattern, lobe pattern, coverage diagram. </I>
+  <DD><I>Two types of radiation patterns should be distinguished. They are: (a) 
+  the free-space radiation pattern which is the complete lobe pattern of the 
+  antenna and is a function of the wavelength, feed system, and reflector 
+  characteristics, and (b) the field radiation pattern which differs primarily 
+  from the free-space pattern by the formation of interference lobes whenever 
+  direct and reflected wave trains interfere with each other as is found in most 
+  surface-based radars. The envelope of these interference lobes has the same 
+  shape, but, for a perfectly reflecting surface, it has up to twice the 
+  amplitude of the free-space radiation pattern. </I>
+  <DT><STRONG>radiation pressure (symbol P<sub>r</sub>)</STRONG> 
+  <DD><A   href="p.html#pressure">Pressure</A> 
+  exerted upon any material body by <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> incident upon it. See <A   href="p.html#poynting-robertson effect">Poynting-Robertson 
+  effect</A>. 
+  <DD><I>This pressure is manifested whenever the electromagnetic momentum is a 
+  radiation field is changes, and is exactly twice as great when the radiation 
+  is reflected at normal incidence as it is when the radiation is entirely 
+  absorbed at normal incidence. The magnitude of any radiation-pressure effect 
+  is directly proportional to the intensity of the radiation, and is very small 
+  by most standards. On a perfectly reflecting surface P<SUB>r</SUB> = u/3 where u is 
+  radiation density, the amount of radiative energy per unit volume in the space 
+  above the surface. Radiation pressure has a perceptible effect on the orbit of 
+  earth satellites, especially those with a large reflecting surface such as 
+  Echo. </I>
+  <DT><STRONG>radiation pyrometer</STRONG> 
+  <DD>See <A   href="p.html#pyrometer">pyrometer</A>, 
+  note. 
+  <DT><STRONG>radiation shield</STRONG> 
+  <DD>1. A device used on certain types of instruments to prevent unwanted <A   href="r.html#radiation">radiation</A> 
+  from biasing the measurement of a quantity. 
+  <DD>2. A device used to protect human beings from the harmful effects of <A   href="n.html#nuclear radiation">nuclear 
+  radiation</A>, cosmic radiation, or the like. 
+  <DD>3. = <A   href="h.html#heat shield">heat 
+  shield</A>. 
+  <DT><STRONG>radiation sickness</STRONG> 
+  <DD>A syndrome following intense acute exposure to <A   href="i.html#ionizing radiations">ionizing 
+  radiations</A>. It is characterized by nausea and vomiting a few hours after 
+  exposure. Further symptoms include bloody diarrhea, hemorrhage under the skin 
+  (and internally), epilation (hair falling), and a decrease in blood-cell 
+  level. <A name=radiator></A>
+  <DT><STRONG>radiator</STRONG> 
+  <DD>1. Any source of <A   href="r.html#radiant energy">radiant 
+  energy</A>, especially <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. 
+  <DD>2. A device that dissipates the heat from something, as from water or oil, 
+  not necessarily by radiation only. 
+  <DD><I>Generally, the application of the terms radiator (in sense 2) or heat 
+  exchanger to a particular apparatus depends upon the point of view: If the 
+  emphasis is upon merely getting rid of heat, radiator is most often used, or 
+  sometimes cooler; if the emphasis is upon transferring heat, heat exchanger is 
+  used -- but these distinctions do not always hold true. </I><A name=radio></A>
+  <DT><STRONG>radio</STRONG> 
+  <DD>1. Communication by <A   href="e.html#electromagnetic waves">electromagnetic 
+  waves</A>, without a connecting wire. 
+  <DD>2. Pertaining to <A   href="r.html#radiofrequency">radiofrequency</A>, 
+  as in <I>radio wave. </I><A name=radioactive></A>
+  <DT><STRONG>radioactive</STRONG> 
+  <DD>Exhibiting or pertaining to <A   href="r.html#radioactivity">radioactivity</A>. 
+
+  <DT><STRONG>radioactive gas</STRONG> 
+  <DD>1. In atmospheric electricity, any one of the three radioactive inert 
+  gases, radon, thoron, and actinon, which contribute to atmospheric <A   href="i.html#ionization">ionization</A> 
+  by virtue of the ionizing effect of the alpha particles which each emits on 
+  disintegration. These three gases are isotopic to each other, all having 
+  atomic number 86. 
+  <DD>2. Any gaseous material containing <A   href="r.html#radioactive">radioactive</A> 
+  atoms. <A name="radioactive ionization gage"></A>
+  <DT><STRONG>radioactive ionization gage</STRONG> 
+  <DD>An <A   href="i.html#ionization gage">ionization 
+  gage</A> in which the ions are produced by radiations (usually <A   href="a.html#alpha particles">alpha 
+  particles</A>) emitted from a radioactive source. <A name=radioactivity></A>
+  <DT><STRONG>radioactivity</STRONG> 
+  <DD>1. Spontaneous disintegration of atomic nuclei with emission of <A   href="c.html#corpuscular">corpuscular</A> 
+  or <A   href="e.html#electromagnetic radiations">electromagnetic 
+  radiations</A>. 
+  <DD><I>The principal types of radioactivity are alpha decay, beta decay, and 
+  isomeric transition. To be considered as radioactive a process must have a 
+  measurable lifetime between approximately 10E-10 second and approximately 
+  10E17 years. Radiations emitted within a time too short for measurement are 
+  called prompt. Prompt radiations such as gamma rays and X-rays are often 
+  associated with radioactive disintegrations. </I>
+  <DD>2. The number of spontaneous disintegrations per unit mass and per unit 
+  time of a given unstable (radioactive) element, usually measured in curies. <A   name="radio altimeter"></A>
+  <DT><STRONG>radio altimeter</STRONG> 
+  <DD>A device that measures the altitude of a craft above the terrain by 
+  measuring the elapsed time between transmission of <A   href="r.html#radio waves">radio waves</A> 
+  from the craft and the reception of the same waves reflected from the terrain. 
+  Also called <I>radar altimeter. </I><A name="radio astronomy"></A>
+  <DT><STRONG>radio astronomy</STRONG> 
+  <DD>1. The study of <A   href="c.html#celestial">celestial</A> 
+  objects through observation of <A   href="r.html#radiofrequency">radiofrequency</A> 
+  waves emitted or reflected by these objects. 
+  <DD><I>In this sense radio astronomy includes both the use of radiation 
+  emitted by the celestial bodies and of radiation originating on earth and 
+  reflected by celestial bodies (radar astronomy). </I>
+  <DD>2. Specifically, the study of celestial objects by measurement of the 
+  radiation emitted by them in the radiofrequency range of the electromagnetic 
+  spectrum. 
+  <DD><I>Radio astronomy measurements are usually of the <A   href="i.html#intensity">intensity</A> of 
+  the received signal but often include <A   href="p.html#polarization">polarization</A> 
+  of the signal and angular size of the source. </I><A name="radio beacon"></A>
+  <DT><STRONG>radio beacon</STRONG> 
+  <DD>Any radio <A   href="t.html#transmitter">transmitter</A>, 
+  together with its associated equipment, that emits signals enabling the 
+  determination, by means of suitable receiving equipment, of direction, 
+  distance, or position with respect to the beacon. <A name="radio beam"></A>
+  <DT><STRONG>radio beam</STRONG> 
+  <DD>See <A href="b.html#beam">beam</A>. 
+  <DT><STRONG>radiobiology</STRONG> 
+  <DD>The study of the effects produced on living organisms by <A   href="r.html#radiation">radiation</A>. 
+  <DT><STRONG>radio blackout </STRONG>= blackout, sense 1. 
+  <DT><STRONG>radio channel</STRONG> 
+  <DD>A <A   href="f.html#frequency band">frequency 
+  band</A> comprised of the emission <A   href="b.html#bandwidth">bandwidth</A>, 
+  the <A   href="i.html#interference guard bands">interference 
+  guard bands</A>, and the <A   href="f.html#frequency tolerance">frequency 
+  tolerance</A>. 
+  <DT><STRONG>radio command</STRONG> 
+  <DD>A radio <A   href="s.html#signal">signal</A> to which 
+  a rocket, satellite, or the like responds. 
+  <DT><STRONG>radio control</STRONG> 
+  <DD>1. Remote <A   href="c.html#control">control</A> of a 
+  pilotless airplane, a rocket, etc., by means of radio <A   href="s.html#signals">signals</A> that 
+  activate controlling devices. 
+  <DD>2. Any radio apparatus used for this kind of control. <A   name="radio direction finder"></A>
+  <DT><STRONG>radio direction finder</STRONG> 
+  <DD>A radio-receiving set, together with its associated equipment, used to 
+  determine the direction from which a radio <A   href="s.html#signal">signal</A> is 
+  transmitted. <A name="radio duct"></A>
+  <DT><STRONG>radio duct</STRONG> 
+  <DD>A rather shallow, almost horizontal layer in the <A   href="a.html#atmosphere">atmosphere</A> 
+  through which vertical temperature and moisture gradients are such as to 
+  produce an <A   href="i.html#index of refraction">index 
+  of refraction</A> lapse rate of greater than -48 N-units per 1000 feet. Strong 
+  temperature, or moisture inversions, or both are necessary for the formation 
+  of radio ducts. The resulting <A   href="s.html#superstandard propagation">superstandard 
+  propagation</A> is such as to cause the curvature of rays traveling through it 
+  to be greater than that of the earth. Radio energy which originates within the 
+  duct and leaves the antenna at angles near the horizontal may thus be 
+  <I>trapped </I>within the layer. See <A   href="a.html#anomalous propagation">anomalous 
+  propagation</A>, <A   href="s.html#skip effect">skip 
+  effect</A>. 
+  <DD><I>The effect is similar to that of a mirage (it is sometimes called radio 
+  mirage), and radar targets may be detected at phenomenally long ranges if both 
+  target and radar are in the duct. The greater the elevation angle between 
+  radar and target, the less the possibility of serious distortion due to 
+  transmission through ducts. Ducts may be surface based or elevated, with 
+  thickness ranging from a few tens of feet up to a maximum of 1000 feet. 
+  Elevated ducts are generally associated with subsidence or frontal inversions 
+  and are seldom found above 15,000 to 20,000 feet. </I><A   name="radio energy"></A>
+  <DT><STRONG>radio energy</STRONG> 
+  <DD><A   href="e.html#electromagnetic radiation">Electromagnetic 
+  radiation</A> of greater wavelength (lower frequency) than <A   href="i.html#infrared">infrared</A> 
+  radiation, that is, of <A   href="w.html#wavelength">wavelength</A> 
+  greater than about 1000 microns (0.01 centimeter). The high-frequency end of 
+  the radio energy spectrum is known as <I>microwave radiation. </I>See <A   href="f.html#frequency bands">frequency 
+  bands</A>. 
+  <DT><STRONG>radio fadeout </STRONG>= fadeout. <A name=radiofrequency></A><A   name="radio frequency"></A><A name="radio frequencies"></A>
+  <DT><STRONG>radiofrequency (abbr RF)</STRONG> 
+  <DD>1. A <A   href="f.html#frequency">frequency</A> at 
+  which coherent electromagnetic radiation of energy is useful for communication 
+  purposes. 
+  <DD><I>Roughly, the radiofrequency of the electromagnetic spectrum lies 
+  between 10E4 and 10E12 cycles per second. See <A   href="f.html#frequency bands">frequency 
+  bands</A>. </I>
+  <DD>2. Specifically, the frequency of a given radio <A   href="c.html#carrier wave">carrier 
+  wave</A>. 
+  <DT><STRONG>radiofrequency band</STRONG> 
+  <DD>See <A   href="f.html#frequency band">frequency 
+  band</A>. 
+  <DT><STRONG>radio goniometer</STRONG> = radio direction finder. 
+  <DT><STRONG>radio guidance system</STRONG> 
+  <DD>A <A   href="g.html#guidance">guidance</A> 
+  system that uses radio signals to guide an aircraft or spacecraft in flight; 
+  the <A href="s.html#system">system</A> 
+  includes both the flight-borne equipment and the guidance station equipment on 
+  the ground. 
+  <DT><STRONG>radio hole</STRONG> 
+  <DD>Strong <A   href="f.html#fading">fading</A> of the 
+  radio <A href="s.html#signal">signal</A> 
+  at some position in space along an air-to-air or air-to-ground radio path. The 
+  effect is caused by the abnormal <A   href="r.html#refraction">refraction</A> 
+  of radio waves. <A name="radio horizon"></A>
+  <DT><STRONG>radio horizon</STRONG> 
+  <DD>The locus of points at which direct rays from a radio <A   href="t.html#transmitter">transmitter</A> 
+  become tangential to the earth's surface. Assuming a smooth surface, the 
+  distance of the horizon is given approximately by the equation 
+  <center><img src="radhoriz.gif"></center>
+  where <I>r </I>is the distance, statute miles, 
+  and <I>h </I>is the height, feet, of the <A   href="a.html#antenna">antenna</A> above 
+  the surface. See <A   href="e.html#effective radius of the earth">effective 
+  radius of the earth</A>, <A   href="s.html#scatter propagation">scatter 
+  propagation</A>. Compare <A   href="r.html#radar horizon">radar 
+  horizon</A>. 
+  <DD><I>The horizon extends beyond (below) the geometrical and visible horizons 
+  as the result of normal atmospheric refraction. It may be decreased or 
+  increased in particular cases as standard propagation is replaced by <A   href="s.html#substandard propagation">substandard 
+  propagation</A> or <A   href="s.html#superstandard propagation">superstandard 
+  propagation</A>, respectively. Beyond the radio horizon, surface targets 
+  cannot be detected under normal atmospheric conditions although significant 
+  amounts of radio power have been detected in the diffraction zone below the 
+  horizon. It is now felt that this represents power scattered by 
+  turbulence-produced atmospheric inhomogeneities. </I><A   name="radio interferometer"></A>
+  <DT><STRONG>radio interferometer</STRONG> 
+  <DD>An <A   href="i.html#interferometer">interferometer</A> 
+  operating at radiofrequencies. 
+  <DD><I>Radio interferometers are used in radio astronomy and in satellite 
+  tracking. </I><A name="radio meteor"></A>
+  <DT><STRONG>radio meteor</STRONG> 
+  <DD>A <A href="m.html#meteor">meteor</A> 
+  which has been detected by the reflection of a radio <A   href="s.html#signal">signal</A> from the 
+  meteor trail of relatively high ion density ( <A   href="i.html#ion column">ion column</A>). 
+  See <A   href="w.html#whistling meteor">whistling 
+  meteor</A>. Compare <A   href="p.html#photographic meteor">photographic 
+  meteor</A>. 
+  <DD><I>Such an ion column is left behind a meteoroid when it reaches the 
+  region of the upper atmosphere between about 80 and 120 kilometers, although 
+  occasionally radio meteors are detect at higher altitudes. The maximum 
+  reflection occurs when the column is perpendicular to the line to the 
+  transmitter-receiver. </I><A name=radiometer></A>
+  <DT><STRONG>radiometer</STRONG> 
+  <DD>An instrument for detecting and, usually, measuring <A   href="r.html#radiant energy">radiant 
+  energy</A>. Compare <A   href="b.html#bolometer">bolometer</A>. 
+  See <A   href="a.html#actinometer">actinometer</A>, 
+  <A   href="p.html#photometer">photometer</A>. 
+  <DT><STRONG>radiometer vacuum gage </STRONG>= Knudsen gage. <A   name="radiometric magnitude"></A>
+  <DT><STRONG>radiometric magnitude</STRONG> (symbol <i>m<sub>rad</sub></i>)
+  <dd> The <A   href="m.html#magnitude">magnitude</A> of 
+  a <A   href="c.html#celestial body">celestial 
+  body</A> measured with reference to the total radiation observable through the 
+  atmosphere. <A name=radiometry></A>
+  <DT><STRONG>radiometry</STRONG> 
+  <DD>The science of measurement of radiant energy. 
+  <DD><I>In practice, there is no clear distinction between <A   href="r.html#radiometry">radiometry</A> 
+  and <A   href="p.html#photometry">photometry</A> 
+  although photometry usually refers to measurement in the visible and 
+  near-visible range. </I>
+  <DT><STRONG>radio mirage</STRONG> 
+  <DD>See <A href="r.html#radio duct">radio 
+  duct</A>, note. <A name=radionuclide></A>
+  <DT><STRONG>radionuclide</STRONG> 
+  <DD>A radioactive <A   href="n.html#nuclide">nuclide</A>; an 
+  atom which emits corpuscular or electromagnetic radiation. 
+  <DT><STRONG>radiophare </STRONG>= radio beacon. 
+  <DD><I>This term is commonly used in international terminology. </I><A   name=radiosonde></A>
+  <DT><STRONG>radiosonde</STRONG> 
+  <DD>An instrument, usually balloon-borne, for the simultaneous measurement and 
+  transmission of meteorological data while moving vertically through the 
+  atmosphere. See <A   href="d.html#dropsonde">dropsonde</A>. 
+  <DD><I>The instrument consists of transducers for the measurement of pressure, 
+  temperature, and humidity; a modulator for the conversion of the output of the 
+  transducers to a quantity which controls a property of the radiofrequency 
+  signal; a selector switch which determines the sequence in which the 
+  parameters are to be transmitted; and a transmitter which generates the 
+  radiofrequency carrier. </I>
+  <DT><STRONG>radiospectrum</STRONG> 
+  <DD>The range of frequencies of <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> usable for radio communication. 
+  <DD><I>The radiospectrum ranges from about 10 kilocycles per second to over 
+  300,000 megacycles per second. Corresponding wavelengths are 30 kilometers to 
+  1 millimeter. See <A   href="f.html#frequency bands">frequency 
+  bands</A>. </I><A name="radio telescope"></A>
+  <DT><STRONG>radio telescope</STRONG> 
+  <DD>A device for receiving, amplifying, and measuring the intensity of <A   href="r.html#radio waves">radio waves</A> 
+  originating outside the earth's atmosphere or reflected from a body outside 
+  the atmosphere. 
+  <DD><I>A radio telescope usually includes a source of radiation of known power 
+  for calibration of the received signal. The term radio telescope is not 
+  restricted to devices incorporating a paraboloidal dish antenna. A radio 
+  telescope can use any antenna or combination of antennas which will accept the 
+  radiation being studied. </I>
+  <DT><STRONG>radio theodolite </STRONG>= radio direction finder. <A   name="radio waves"></A><A name="radio wave"></A>
+  <DT><STRONG>radio waves</STRONG> 
+  <DD><A href="w.html#waves">Waves</A> 
+  produced by <A   href="o.html#oscillation">oscillation</A> 
+  of an electric charge at a <A   href="f.html#frequency">frequency</A> 
+  useful for radio communication. Formerly called <I>Hertzian </I><I>waves. 
+  </I>See <A   href="f.html#frequency bands">frequency 
+  bands</A>, <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. <A name="radius vector"></A>
+  <DT><STRONG>radius vector</STRONG> 
+  <DD>A straight line connecting a fixed reference point or center with a second 
+  point, which may be moving; specifically, in astronomy, the straight line 
+  connecting the center of a <A   href="c.html#celestial body">celestial 
+  body</A> with the center of a body which revolves around it, as <I>the radius 
+  vector of the moon. </I>See <A   href="p.html#polar coordinates">polar 
+  coordinates</A>, <A   href="s.html#spherical coordinates">spherical 
+  coordinates</A>. 
+  <DT><STRONG>radix</STRONG> = base (of a number system). 
+  <DT><STRONG>radix point</STRONG> 
+  <DD>The index which separates the <A   href="d.html#digits">digits</A> 
+  associated with negative powers from those associated with the zero and 
+  positive powers of the base of the <A   href="n.html#number system">number 
+  system</A> in which a quantity is represented. For example, <I>binary point, 
+  decimal point. </I>
+  <DT><STRONG>radome</STRONG> 
+  <DD>(From <I>radar dome. </I>Pronounced <I>raydome </I>). A <A   href="d.html#dielectric">dielectric</A> 
+  housing for an <A   href="a.html#antenna">antenna</A>. 
+  <DT><STRONG>ram air</STRONG> 
+  <DD>Air entering an <A   href="a.html#airscoop">airscoop</A> or 
+  air <A href="i.html#inlet">inlet</A> as a 
+  result of the high-speed forward movement of a vehicle. 
+  <DT><STRONG>ramark</STRONG> 
+  <DD>A fixed <A   href="r.html#radar frequency">radar 
+  frequency</A> facility which continuously emits a signal so that a bearing 
+  indication appears on a radar <A   href="d.html#display">display</A>. See <A   href="r.html#radar beacon">radar 
+  beacon</A>. 
+  <DT><STRONG>ram drag</STRONG> 
+  <DD>The <A href="d.html#drag">drag</A> 
+  produced by the <A   href="m.html#momentum">momentum</A> of 
+  air entering an <A   href="a.html#airscoop">airscoop</A> or an 
+  air <A href="i.html#inlet">inlet</A> of 
+  an aeronautical vehicle in flight. <A name=ramjet></A>
+  <DT><STRONG>ramjet</STRONG> = ramjet engine. <A name="ramjet engine"></A>
+  <DT><STRONG>ramjet engine</STRONG> 
+  <DD>A type of <A   href="j.html#jet engine">jet engine</A> 
+  with no mechanical compressor consisting of a specially shaped tube or duct 
+  open at both ends, the air necessary for combustion being shoved into the duct 
+  and compressed by the forward motion of the engine, where the air passes 
+  through a <A   href="d.html#diffuser">diffuser</A> and 
+  is mixed with <A   href="f.html#fuel">fuel</A> and burned, 
+  the exhaust gases issuing in a <A   href="j.html#jet">jet</A> from the rear 
+  opening. The ramjet engine cannot operate under static conditions. Often 
+  called a <I>ramjet. </I>Also called <I>Lorin tube. </I><A name=random></A>
+  <DT><STRONG>random</STRONG> 
+  <DD>Eluding precise prediction, completely irregular. Compare <A   href="s.html#stochastic">stochastic</A>. 
+  <DD><I>In connection with probability and statistics, the term random implies 
+  collective or long-run regularity; thus, a long record of the behavior of a 
+  random phenomenon presumably gives a fair indication of its general behavior 
+  in another long record, although the individual observations have no 
+  discernible system of progression. </I>
+  <DT><STRONG>random error</STRONG> 
+  <DD>Errors that are not systematic, are not erratic, and are not <A   href="m.html#mistakes">mistakes</A>. 
+  <DD><I>Such random errors are caused by disturbed elements in the measuring 
+  instrument and usually are of an approximately normal or <A   href="g.html#gaussian distribution">Gaussian 
+  distribution</A>. Such random errors are sometimes called short-period errors. 
+  </I>
+  <DT><STRONG>random number</STRONG> 
+  <DD>An expression formed by a set of <A   href="d.html#digits">digits</A> selected 
+  from a sequence of digits in which each successive digit is equally likely to 
+  be any of the digits. 
+  <DT><STRONG>random noise</STRONG> 
+  <DD>An <A   href="o.html#oscillation">oscillation</A> 
+  whose instantaneous amplitude occur, as a function of time, according to a 
+  normal (Gaussian) curve. Also called <I>Gaussian noise, random Gaussian noise. 
+  </I><A name="random sample"></A>
+  <DT><STRONG>random sample</STRONG> 
+  <DD>A <A href="s.html#sample">sample</A> 
+  taken at random from a population. 
+  <DT><STRONG>random variable</STRONG> 
+  <DD>A variable characterized by <A   href="r.html#random">random</A> behavior 
+  in assuming its different possible values. Mathematically, it is described by 
+  its probability distribution, which specifies the possible values of a random 
+  variables together with the probability associated (in an appropriate sense) 
+  with each value. A random variable is said to be <I>continuous </I>if its 
+  possible values extend over a continuum and <I>discrete </I>if its possible 
+  values are separated by finite intervals. Also called <I>variate. </I>See 
+  probability theory. 
+  <DT><STRONG>random vibration</STRONG> 
+  <DD>An <A   href="o.html#oscillation">oscillation</A> 
+  whose instantaneous <A   href="m.html#magnitude">magnitude</A> is 
+  not specified for any given instant of time. The instantaneous magnitudes of a 
+  random oscillation are specified only by probability distribution functions 
+  giving the fraction of the total time that the magnitude, or some sequence of 
+  magnitudes, lies within a specified range. 
+  <DD><I>A random vibration whose instantaneous magnitudes occur according to 
+  the <A   href="g.html#gaussian distribution">Gaussian 
+  distribution</A> is called Gaussian random vibration. Wide-band vibration 
+  amplitude is usually expressed as root-mean-square acceleration in 
+  gravitational units of acceleration g. The parameter used to specify the 
+  frequency distribution of a random vibration is power spectral density (g<sup>2</sup> per cycle per second), sometimes called 
+  acceleration density or acceleration spectral density. </I><A name=range></A>
+  <DT><STRONG>range</STRONG> 
+  <DD>1. The difference between the maximum and minimum of a given set of 
+  numbers; in a <A   href="p.html#periodic">periodic</A> 
+  process it is twice the amplitude, i.e., the wave height. 
+  <DD>2. The distance between two objects, usually an observation point and an 
+  object under observation. See <A   href="s.html#slant range">slant 
+  range</A>. 
+  <DD>3. A maximum distance attributable to some process, as in <I>visual range 
+  </I>or <I>the range of a rocket. </I>
+  <DD>4. An area in and over which rockets are fired for testing, as <I>Atlantic 
+  Missile Range. </I>
+  <DD>5. = <A   href="r.html#radar range">radar 
+  range</A>. <A name="range attenuation"></A>
+  <DT><STRONG>range attenuation</STRONG> 
+  <DD>In <A href="r.html#radar">radar</A> 
+  terminology, the decrease in <A   href="p.html#power density">power 
+  density</A> (flux density) caused by the divergence of the flux lines with 
+  distance, this decrease being in accordance with the inverse-square law. 
+  <DD><I>For one-way transmission, this attenuation is proportional to 1/RE2 
+  where R is the range from the transmitter. For a radar and a point target, the 
+  range attenuation is proportional to 1/RE4, the transmission being two way. 
+  </I><A name="range error"></A>
+  <DT><STRONG>range error</STRONG> 
+  <DD>The error in <A   href="r.html#radar range">radar range</A> 
+  measurement due to the <A   href="p.html#propagation">propagation</A> 
+  of radio energy through a nonhomogeneous atmosphere. This error is due to the 
+  fact that the velocity of radio-wave propagation varies with the <A   href="i.html#index of refraction">index 
+  of refraction</A> and that ray travel is not in straight lines through actual 
+  atmospheres. The resulting range error is generally insignificant. Compare <A   href="a.html#azimuth error">azimuth 
+  error</A>. 
+  <DT><STRONG>range gating</STRONG> 
+  <DD>The use of circuits in <A   href="r.html#radar">radar</A> to suppress 
+  <A href="s.html#signals">signals</A> from 
+  all targets falling outside selected <A   href="r.html#range">range</A> limits. 
+  <DT><STRONG>range-height-indicator scope</STRONG> 
+  <DD>(abbr RHI-scope). A type of <A   href="r.html#radar">radar</A> indicator 
+  (radar-scope); an intensity-modulated <A   href="i.html#indicator">indicator</A> on 
+  which echoes are displayed in coordinates of slant range and elevation angle, 
+  simulating, thereby, a vertical cross section of the atmosphere along some 
+  azimuth from the radar. 
+  <DD><I>The power of the signal returned from the target is used to modulate 
+  the intensity of the electron beam. </I>
+  <DT><STRONG>range marker</STRONG> 
+  <DD>The index marks displayed on radar indicators to establish the scale or 
+  facilitate determination of the distance of a target from the radar. On the <A   href="p.html#plan position indicator">plan 
+  position indicator</A> scope, for example, range markers take the form of 
+  concentric circles with the position of the radar at the center. See <A   href="a.html#azimuth marker">azimuth 
+  marker</A>. Also called <I>distance marker. </I>
+  <DT><STRONG>range only measurement of trajectory and recording (abbr Romotar) 
+  </STRONG>
+  <DD>A nonambiguous spherical and elliptical, long-baseline, range-only <A   href="t.html#trajectory measuring system">trajectory 
+  measuring system</A> utilizing phase comparison techniques with range 
+  modulation frequencies. 
+  <DD><I>The system consists of three of more receivers which track a <A   href="t.html#transponder">transponder</A> 
+  interrogated by a signal transmitter. The reference signal from the ground 
+  transmitter is also received by the ground receivers. Simultaneous range 
+  measurements are made by the ground receivers, which are correlated with base 
+  timing from which space position can be computed by triangulation. The system 
+  operates on 387 and 417 megacycles. </I>
+  <DT><STRONG>range rate</STRONG> 
+  <DD>The rate at which the distance from the measuring equipment to the target 
+  or signal source being tracked is changing with respect to time. See <A   href="r.html#radial velocity">radial 
+  velocity</A>. <A name="range ring"></A>
+  <DT><STRONG>range ring</STRONG> 
+  <DD>A circle on a <A   href="p.html#plan position indicator">plan 
+  position indicator</A>, particularly one with an adjustable diameter, to 
+  indicate distance from the antenna. See <A   href="d.html#distance marker">distance 
+  marker</A>. 
+  <DT><STRONG>range safety officer</STRONG> 
+  <DD>An official on a <A   href="r.html#rocket">rocket</A> test <A   href="r.html#range">range</A> whose 
+  responsibility is to supervise the planning and execution of each test to 
+  insure the maximum safety of all personnel and property within the range 
+  boundaries. 
+  <DT><STRONG>range strobe</STRONG> 
+  <DD>An index mark which may be displayed on some types of radar <A   href="i.html#indicators">indicators</A> 
+  to assist in the determination of the exact <A   href="r.html#range">range</A> of a <A   href="t.html#target">target</A>. 
+  <DT><STRONG>range sweep</STRONG> 
+  <DD>See <A href="s.html#sweep">sweep</A>, 
+  note. <A name="range wind"></A>
+  <DT><STRONG>range wind</STRONG> 
+  <DD>The component of a <A   href="b.html#ballistic">ballistic</A> 
+  wind which is parallel to the longitudinal axis of the range. <A   name="ranging pulse"></A>
+  <DT><STRONG>ranging pulse</STRONG> 
+  <DD>In a radar system the <A   href="p.html#pulse">pulse</A> used to 
+  measure the <A   href="r.html#range">range</A> of the 
+  object being tracked. <A name="ranging systems"></A>
+  <DT><STRONG>ranging system</STRONG> 
+  <DD>A <A href="r.html#radar">radar</A> 
+  system which measures range (distance). 
+  <DT><STRONG>Rankine cycle</STRONG> 
+  <DD>An idealized thermodynamic cycle consisting of two constant-pressure 
+  processes and two isentropic processes. <A name=rankine></A><A   name="rankine temperature scale"></A>
+  <DT><STRONG>Rankine temperature scale</STRONG> 
+  <DD>(abbr degrees R). A temperature scale with the degree-interval of the <A   href="f.html#fahrenheit temperature scale">Fahrenheit 
+  temperature scale</A> and the zero point at <A   href="a.html#absolute zero">absolute 
+  zero</A>. The <A   href="i.html#ice point">ice point</A> is 
+  thus 491.69 degrees Rankine and the <A   href="b.html#boiling point">boiling 
+  point</A> of water is 671.69 degrees Rankine. 
+  <DT><STRONG>Rankine vortex</STRONG> 
+  <DD>A two-dimensional circular <A   href="f.html#flow">flow</A> in which a 
+  circular region about the origin is in solid rotation: <BR><I>V/R </I>= 
+  Constant where <I>V </I>is the tangential speed and <I>R </I>is the distance 
+  from the origin; the region outside is free of vorticity, the speed being 
+  inversely proportional to the distance from the origin (as in the <I>V-R 
+  </I>vortex) <BR><I>VR </I>= Constant. 
+  <DD><I>This vortex has occasionally been used as a model for the surface wind 
+  distribution in a hurricane. It is characteristic of a cylindrical vortex in a 
+  liquid with a free surface. </I><A name=raob></A>
+  <DT><STRONG>raob</STRONG> 
+  <DD>(From <A   href="r.html#radiosonde">radiosonde</B> 
+  observation). An observation of the vertical distribution of temperature, 
+  pressure, and relative humidity, obtained by means of a <A   href="r.html#radiosonde">radiosonde</A>. 
+  <DT><STRONG>rarefraction wave</STRONG> = expansion wave. <A   name="rarefied gas dynamics"></A>
+  <DT><STRONG>rarefied gas dynamics</STRONG> 
+  <DD>The study of the phenomena related to the molecular or noncontinuum nature 
+  of gas <A href="f.html#flow">flow</A> at 
+  densities where <center>&lambda; / l &gt; 0.01 </center> 
+  where &lambda; is molecular mean free path and l 
+  is a characteristic dimension of the flow field. <br>
+  Flow with &lambda; / l &gt; 0.01 is called <I>molecular flow. </I><br>
+  Flow with &lambda; / l &lt; 0.01 is called <I>continuum flow. </I><br>
+  Flow with &lambda; / l of approximately 0.01 to 0.1 is called <I>slip flow. </I><br>
+  Flow with &lambda; / l of approximately 0.1 to 10 is called <i>transition flow</i>.<br>
+  Flow with &lambda; / l &gt; 10 is called <i>free molecule flow</i>.<br>
+  Slip flow and transition flow 
+  are not always distinguished from each other. The value 1 is sometimes used 
+  instead of 10 as the boundary value for transition flow and free molecule 
+  flow. </I>
+  <DT><STRONG>rare gas </STRONG>= inert gas. 
+  <DT><STRONG>raster</STRONG> 
+  <DD>The pattern followed by the <A   href="e.html#electron beam">electron 
+  beam</A> exploring element scanning the screen of a television transmitter or 
+  receiver. 
+  <DT><STRONG>raster line</STRONG> 
+  <DD>One line of a raster, or scanning pattern. 
+  <DT><STRONG>rate gyro</STRONG> 
+  <DD>A <A   href="s.html#single-degree-of-freedom">single-degree-of-freedom</A> 
+  gyro having primarily elastic restraint of its spin axis about the output 
+  axis. In this gyro an output signal is produced by gimbal angular 
+  displacement, relative to the base, which is proportional to the angular rate 
+  of the base about the input axis. 
+  <DT><STRONG>rate integrating gyro</STRONG> 
+  <DD>A <A   href="s.html#single-degree-of-freedom">single-degree-of-freedom</A> 
+  gyro having primarily viscous restraint of its spin axis about the output 
+  axis. In this gyro an output signal is produced by gimbal angular 
+  displacement, relative to the base, which is proportional to the integral of 
+  the angular rate of the base about the input axis. <A name="rate of decay"></A>
+  <DT><STRONG>rate of decay</STRONG> 
+  <DD>1. Of a sound, the time rate at which the <A   href="s.html#sound pressure level">sound 
+  pressure level</A> (or other stated characteristic) decreases at a given point 
+  and at a given time. A commonly used unit is the decibel per second. 
+  <DD>2. Of a radioactive <A   href="n.html#nuclide">nuclide</A>, the 
+  number of nuclei of that nuclide changing (or disintegrating) per unit time. 
+  It is usually expressed as the instantaneous rate of decay by - <I>dN/dt 
+  </I>where <I>N </I>is the total number of the state nuclides present at the 
+  given time <I>t. </I>
+  <DT><STRONG>rate of incidence </STRONG>= impingement rate. <A   name="ratio deviation"></A>
+  <DT><STRONG>ratio deviation</STRONG> 
+  <DD>In a <A   href="f.html#frequency modulation">frequency 
+  modulation</A> system, the ratio of the maximum <A   href="f.html#frequency deviation">frequency 
+  deviation</A> to the maximum modulating <A   href="f.html#frequency">frequency</A> of 
+  the system. Also called <I>modulation index. </I>
+  <DT><STRONG>rational horizon</STRONG> = celestial horizon. 
+  <DD>See <A   href="h.html#horizon">horizon</A>. <A   name=rato></A>
+  <DT><STRONG>RATO, Rato, or rato</STRONG> 
+  <DD>(From <A   href="r.html#rocket-assisted take-off">rocket-assisted 
+  take-off</A>). 
+  <DD>1. A <A   href="t.html#take-off">take-off</A> in 
+  which a rocket or rockets, commonly of the solid-fuel type, are used to 
+  provide additional thrust. Hence, <I>RATO bottle, Rato bottle, rato unit </I>, 
+  etc., a <A   href="r.html#rocket">rocket</A> so used. 
+  <DD>2. A RATO bottle or unit; the complete apparatus on an aircraft, 
+  comprising rockets, ignition system, etc., for assisted take-off. See <A   href="j.html#jato">JATO</A>. 
+  <DT><STRONG>ratrace</STRONG> 
+  <DD>A <A href="m.html#magic tee">magic 
+  tee</A> modification for the acceptance of higher power; a circular loop of 
+  coaxial line closed upon itself and having four branching connections. 
+  <DT><STRONG>raw data</STRONG> 
+  <DD>Data that is in a form ready for processing. 
+  <DD><I>Different groups regard data in various forms as raw, dependent on 
+  their function. A photographic processing group may regard the latent image as 
+  raw data, a reading group may regard the photographic image as raw data, a 
+  computing group may regard certain digits data as raw data, and so on. </I><A   name=rawin></A>
+  <DT><STRONG>rawin</STRONG> 
+  <DD>A measurement of wind direction and speed at altitude by radar tracking of 
+  a balloon-borne target. 
+  <DT><STRONG>rawinsonde</STRONG> 
+  <DD>A combination <A   href="r.html#raob">raob</A> and <A   href="r.html#rawin">rawin</A>; an 
+  observation of temperature, pressure, relative humidity, and winds-aloft by 
+  means of <A   href="r.html#radiosonde">radiosonde</A> 
+  and radio direction finding equipment or <A   href="r.html#radar">radar</A> tracking. 
+  <A name=ray></A>
+  <DT><STRONG>ray</STRONG> 
+  <DD>1. An elemental <A   href="p.html#path">path</A> of radiated 
+  <A href="e.html#energy">energy</A>; or 
+  the energy following this path. It is perpendicular to the <A   href="p.html#phase fronts">phase 
+  fronts</A> of the <A   href="r.html#radiation">radiation</A>. 
+  See <A   href="i.html#incident ray">incident 
+  ray</A>, <A   href="r.html#reflected ray">reflected 
+  ray</A>, <A   href="r.html#refracted ray">refracted 
+  ray</A>. 
+  <DD>2. One of a series of lines diverging from a common point, as radii from 
+  the center of a circle. 
+  <DD>3. A long, narrow, light colored streak on the lunar surface originating 
+  from a <A   href="c.html#crater">crater</A>. Rays 
+  range in length to over 150 kilometers and usually several radiate from the 
+  same crater, like spokes of a wheel. 
+  <DT><STRONG>Rayleigh atmosphere</STRONG> 
+  <DD>An idealized <A   href="a.html#atmosphere">atmosphere</A> 
+  consisting of only those particles, such as molecules, that are smaller than 
+  about one-tenth the <A   href="w.html#wavelength">wavelength</A> 
+  of all radiation incident upon that atmosphere. In such an atmosphere, simple 
+  <A   href="r.html#rayleigh scattering">Rayleigh 
+  scattering</A> would prevail. 
+  <DD><I>This model atmosphere is amenable to reasonably complete theoretical 
+  treatment, and hence has often served as a useful starting point in 
+  description of the optical properties of actual atmospheres. The polarization 
+  of skylight, for example, exhibits almost none of the complexities found in 
+  the real atmosphere. </I><A name="rayleigh formula"></A>
+  <DT><STRONG>Rayleigh formula</STRONG> 
+  <DD>See <A   href="a.html#aerodynamic force">aerodynamic 
+  force</A>, <A   href="d.html#drag">drag</A>, <A   href="d.html#drag coefficient">drag 
+  coefficient</A>. <A name="rayleigh law"></A>
+  <DT><STRONG>Rayleigh law</STRONG> 
+  <DD>See <A   href="r.html#rayleigh scattering">Rayleigh 
+  scattering</A>. 
+  <DT><STRONG>Rayleigh limit</STRONG> 
+  <DD>See <A   href="r.html#rayleigh scattering">Rayleigh 
+  scattering</A>. <A name="rayleigh number"></A>
+  <DT><STRONG>Rayleigh number</STRONG> 
+  <DD>The nondimensional ratio between the product of buoyancy forces and heat 
+  advection and the product of viscous forces and heat conduction in a fluid. It 
+  is written as 
+  <center><img src="rayleigh.gif"></center>
+  where <I>g </I>is the acceleration of gravity; 
+  &Delta;<sub>z</sub>T is a characteristic vertical temperature 
+  difference in the characteristic depth <I>d </I>; &alpha; is the coefficient of expansion; <I>v </I>is the 
+  kinematic viscosity; and <I>k </I>the thermometric conductivity. 
+  <DD><I>The Rayleigh number is equal to the product of the <A   href="g.html#grashof">Grashof</A> and <A   href="p.html#prandtl numbers">Prandtl 
+  numbers</A>, and is the critical parameter in the theory of thermal 
+  instability. </I><A name="rayleigh scattering"></A>
+  <DT><STRONG>Rayleigh scattering</STRONG> 
+  <DD>Any <A   href="s.html#scattering">scattering</A> 
+  process produced by spherical particles whose radii are smaller than about 
+  one-tenth the <A   href="w.html#wavelength">wavelength</A> 
+  of the scattered <A   href="r.html#radiation">radiation</A>. 
+  Compare <A   href="m.html#mie scattering">Mie 
+  scattering</A>. 
+  <DD><I>In Rayleigh scattering, the scattering coefficient varies inversely 
+  with the fourth power of the wavelength, a relation known as the Rayleigh law. 
+  The angular intensity polarization relationships for Rayleigh scattering are 
+  conveniently simple. For particles not larger than the Rayleigh limit, there 
+  is complete symmetry of scattering about a plane normal to the direction of 
+  the incident radiation, so that the forward scatter equals the backward 
+  scatter. The Rayleigh scattering coefficient k<sub>s</sub> is 
+  <center><img src="rayscat.gif"></center>
+  where n is the number of scatters of diameter d; 
+  m is the index of refraction; and &lambda; is the wavelength of the radiation. </I>
+  <DT><STRONG>Rayleigh wave</STRONG> 
+  <DD>1. A two-dimensional <A   href="b.html#barotropic disturbance">barotropic 
+  disturbance</A> in a <A   href="f.html#fluid">fluid</A> having one 
+  or more discontinuities in the vorticity profile. 
+  <DD>2. A surface wave associated with the free boundary of a solid, such that 
+  a surface particle describes an <A   href="e.html#ellipse">ellipse</A> whose 
+  major axis is normal to the surface and whose center is at the undisturbed 
+  surface. At maximum particle displacement away from the solid surface the 
+  motion of the particle is opposite to that of the wave. 
+  <DD><I>The propagation velocity of a Rayleigh wave is slightly less than that 
+  of a shear wave in the solid; the wave amplitude of the Rayleigh wave 
+  diminishes exponentially with depth. </I><A name=rays></A>
+  <DT><STRONG>rays (abbr R)</STRONG> 
+  <DD>See <A   href="a.html#aurora">aurora</A>. <A   name="ray tracing"></A>
+  <DT><STRONG>ray tracing</STRONG> 
+  <DD>A procedure used in the graphical determination of the <A   href="p.html#path">path</A> followed by a 
+  single <A href="r.html#ray">ray</A> of 
+  radiant energy as it travels through media of varying <A   href="i.html#index of refraction">index 
+  of refraction</A>. <A name=reaction></A><A name="reaction balance"></A>
+  <DT><STRONG>reaction balance</STRONG> 
+  <DD>A type of thrust meter using a balance to measure the static <A   href="t.html#thrust">thrust</A> of a <A   href="r.html#rocket">rocket</A> or jet 
+  engine. <A name="reaction engine"></A><A name="reaction engines"></A>
+  <DT><STRONG>reaction engine</STRONG> 
+  <DD>An engine that develops <A   href="t.html#thrust">thrust</A> by its 
+  reaction to a substance ejected from it; specifically, such an engine that 
+  elects a jet or stream of gases created by the burning of fuel within the 
+  engine. Also called <A   href="r.html#reaction motor">reaction 
+  motor</A>. 
+  <DD><I>A reaction engine operates in accordance with Newton third law of 
+  motion, i.e., to every action (force) there is an equal and opposite reaction. 
+  Both rocket engines and jet engines are reaction engines. </I><A   name="reaction motor"></A>
+  <DT><STRONG>reaction motor</STRONG> = reaction engine. <A   name="reaction propulsion"></A>
+  <DT><STRONG>reaction propulsion</STRONG> 
+  <DD><A   href="p.html#propulsion">Propulsion</A> 
+  by reaction to a jet or jets ejected from one or more <A   href="r.html#reaction engines">reaction 
+  engines</A>. 
+  <DT><STRONG>reaction time</STRONG> 
+  <DD>In human engineering, the interval between an input signal (physiological) 
+  or a stimulus (psychophysiological) and the response elicited by the signal. 
+  <A name="reaction turbine"></A>
+  <DT><STRONG>reaction turbine</STRONG> 
+  <DD>A type of <A   href="t.html#turbine">turbine</A> having 
+  rotor blades shaped so that they form a ring of <A   href="n.html#nozzles">nozzles</A>, the 
+  turbine being rotated by the reaction of the <A   href="f.html#fluid">fluid</A> ejected 
+  from between the blades. Compare <A   href="i.html#impulse turbine">impulse 
+  turbine</A>. <A name=reactor></A>
+  <DT><STRONG>reactor</STRONG> = nuclear reactor. <A name="reactor core"></A><A   name="reactor cores"></A>
+  <DT><STRONG>reactor core</STRONG> 
+  <DD>In a <A   href="n.html#nuclear reactor">nuclear 
+  reactor</A> the region containing the <A   href="f.html#fissionable">fissionable</A> 
+  material. <A name=reading></A>
+  <DT><STRONG>read</STRONG> 
+  <DD>In <A   href="c.html#computer">computer</A> 
+  operations, to acquire information, usually from some form of <A   href="s.html#storage">storage</A>. See <A   href="w.html#write">write</A>. 
+  <DT><STRONG>read in</STRONG> 
+  <DD>In <A   href="c.html#computer">computer</A> 
+  operations, to introduce information into <A   href="s.html#storage">storage</A>. <A   name=readout></A>
+  <DT><STRONG>readout</STRONG> 
+  <DD>1. The action of a radio <A   href="t.html#transmitter">transmitter</A> 
+  transmitting data either instantaneously with the acquisition of the data or 
+  by playing of a magnetic tape upon which the data have been recorded. See <A   href="i.html#instantaneous readout">instantaneous 
+  readout</A>. 
+  <DD>2. The data transmitted by the action described in sense 1. 
+  <DD>3. In <A   href="c.html#computer">computer</A> 
+  operations, to extract information from <A   href="s.html#storage">storage</A>. 
+  <DT><STRONG>readout indicators</STRONG> 
+  <DD>Any type of indicating instrument from which meaningful information and 
+  data can be directly obtained and used. <A name="readout station"></A>
+  <DT><STRONG>readout station</STRONG> 
+  <DD>A recording or receiving radio station at which data are received from a 
+  <A   href="t.html#transmitter">transmitter</A> 
+  in a probe, satellite, or other <A   href="s.html#spacecraft">spacecraft</A>. 
+  <A name="real time"></A>
+  <DT><STRONG>real time</STRONG> 
+  <DD>Time in which reporting on events or recording of events is simultaneous 
+  with the events. 
+  <DD><I>For example, the real time of a satellite is that time in which it 
+  simultaneously reports its environment as it encounters it; the real time of a 
+  computer is that time during which it is accepting data. </I>
+  <DT><STRONG>real-time data</STRONG> 
+  <DD>Data presented in usable form at essentially the same time the event 
+  occurs. 
+  <DD><I>The delay in presenting the data must be small enough to allow a 
+  corrective action to be taken if required. </I>
+  <DT><STRONG>rearward acceleration</STRONG> 
+  <DD>See <A   href="p.html#physiological acceleration">physiological 
+  acceleration</A>. 
+  <DT><STRONG>Reamer temperature scale</STRONG> 
+  <DD>A <A   href="t.html#temperature">temperature</A> 
+  scale in which, under a pressure of 1 atmosphere, the <A   href="i.html#ice point">ice point</A> is 
+  0 degrees and the <A   href="b.html#boiling point">boiling 
+  point</A> of water is 80 degrees. 
+  <DT><STRONG>rebreather</STRONG> 
+  <DD>An oxygen system with a circuit closed to the atmosphere, to which oxygen 
+  is added to meet the user's needs; carbon dioxide and water vapor are removed 
+  from the expired gas. <A name="received power"></A>
+  <DT><STRONG>received power</STRONG> 
+  <DD>In <A href="r.html#radar">radar</A>, 
+  the power of a <A   href="t.html#target signal">target 
+  signal</A> received at the antenna. This power is normally of the order of 
+  microwatts as compared to the megawatts of transmitted power. Also called 
+  <I>scattered power. </I><A name=receiver></A><A name=receivers></A>
+  <DT><STRONG>receiver</STRONG> 
+  <DD>1. The initial component or sensing element of a measuring system. For 
+  example, the receiver of a thermoelectric thermometer is the measuring 
+  thermocouple. 
+  <DD>2. An instrument used to detect the presence of and to determine the 
+  information carried by <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. A receiver includes circuits designed to detect, amplify, 
+  rectify, and shape the incoming <A   href="r.html#radiofrequency">radiofrequency</A> 
+  signals received at the <A   href="a.html#antenna">antenna</A> in such 
+  a manner that the information- containing component of this received energy 
+  can be delivered to the desired indicating or recording equipment. 
+  <DT><STRONG>receptor</STRONG> 
+  <DD>A sensory nerve ending or organ in a living organism that is sensitive to 
+  physical or chemical stimuli. 
+  <DT><STRONG>reciprocal</STRONG> 
+  <DD>1. A direction 180 degrees from a given direction. 
+  <DD>2. The quotient of 1 divided by a given number. 
+  <DT><STRONG>reciprocal centimeter</STRONG> 
+  <DD>See <A href="w.html#wave number">wave 
+  number</A>, note. <A name="reciprocating engine"></A>
+  <DT><STRONG>reciprocating engine</STRONG> 
+  <DD>An <A   href="e.html#engine">engine</A>, 
+  especially an internal-combustion engine, in which a piston or pistons moving 
+  back and forth work upon a crankshaft or other device to create rotational 
+  movement. 
+  <DT><STRONG>reciprocity</STRONG> 
+  <DD>See <A   href="p.html#principle of reciprocity">principle 
+  of reciprocity</A>. <A name=recognition></A>
+  <DT><STRONG>recognition</STRONG> 
+  <DD>The psychological process in which an observer so interprets the visual 
+  stimuli he receives from a distant object that he forms a correct conclusion 
+  as to the exact nature of the object. 
+  <DD><I>Recognition is a more subtle phenomenon than the antecedent step of 
+  detection, for the latter involves only the simpler process of interpreting 
+  visual stimuli to the extend of concluding that an object is present at some 
+  distance from the observer. </I><A name=recombination></A>
+  <DT><STRONG>recombination</STRONG> 
+  <DD>The process by which a positive and a negative <A   href="i.html#ion">ion</A> join to form a 
+  neutral <A   href="m.html#molecule">molecule</A> or 
+  other neutral particle, also process by which radicals or dissociations 
+  species join to form molecules. 
+  <DD><I>Recombination is applied both to the simple case of capture of free 
+  electrons by positive atomic or molecular ions, and also to the more complex 
+  case of neutralization of a positive small ion by a negative small ion or a 
+  similar (but much more rare) neutralization of large ions. Recombination is, 
+  in general, a process accompanied by emission of radiation. The light emitted 
+  from the channel of a lightning stroke is recombination radiation as is <A   href="a.html#airglow">airglow</A>. The 
+  much less concentrated recombinations steadily occurring in all parts of the 
+  atmosphere where ions are forming and disappearing does not yield observable 
+  radiation. The rate at which electrons, small ions, and large ions recombine 
+  is a function of their respective mobilities and of their concentration. The 
+  former dependence is expressed in terms of the recombination coefficient of 
+  the particular ion type. </I>
+  <DT><STRONG>recombination coefficient</STRONG> 
+  <DD>A measure of the specific rate at which oppositely charged <A   href="i.html#ions">ions</A> join to form 
+  neutral particles (a measure of ion <A   href="r.html#recombination">recombination</A>). 
+  Compare <A   href="c.html#combination coefficient">combination 
+  coefficient</A>. 
+  <DT><STRONG>recombination energy</STRONG> 
+  <DD>The energy released as heat or light when two oppositely charged <A   href="i.html#ions">ions</A> join to form 
+  a neutral atom or molecule, or two dissociated atoms combine to form a stable 
+  <A href="m.html#molecule">molecule</A>. 
+  <DT><STRONG>recoverable</STRONG> 
+  <DD>Of a <A   href="r.html#rocket">rocket</A> vehicle 
+  or one of its parts, so designed or equipped as to be located after flight and 
+  recovered with or without damage. <A name=recovery></A>
+  <DT><STRONG>recovery</STRONG> 
+  <DD>1. The procedure or action that obtains when the whole of a <A   href="s.html#satellite">satellite</A>, or 
+  a section, instrumentation package, or other part of a rocket vehicle is 
+  retrieved after a launch, as in <I>recovery was counted upon to give added 
+  data. </I>
+  <DD>2. The conversion of <A   href="k.html#kinetic energy">kinetic 
+  energy</A> to <A   href="p.html#potential energy">potential 
+  energy</A> such as in the deceleration of air in the duct of a <A   href="r.html#ramjet engine">ramjet 
+  engine</A>. Also called <I>ram recovery. </I>
+  <DD>3. In flying, the action of a lifting vehicle returning to an equilibrium 
+  attitude after a nonequilibrium maneuver. 
+  <DT><STRONG>recovery capsule</STRONG> 
+  <DD>A <A   href="c.html#capsule">capsule</A> 
+  designed to be recovered after reentry. See <A   href="r.html#reentry vehicle">reentry 
+  vehicle</A>. 
+  <DT><STRONG>recovery gear</STRONG> 
+  <DD>The devices and equipment used to mark and locate a nose cone or other 
+  part of a <A   href="r.html#rocket vehicle">rocket 
+  vehicle</A> after impact. 
+  <DT><STRONG>recovery package</STRONG> 
+  <DD>A package attached to a reentry or other body designed for recovery, 
+  containing devices intended to locate the body after <A   href="i.html#impact">impact</A>. 
+  <DD><I>This package may, for example, release a balloon that will buoy up a 
+  reentry body (if it impacts in water) and serve as a radio beacon or light. 
+  </I>
+  <DT><STRONG>recovery temperature</STRONG> 
+  <DD>Short for <A   href="a.html#adiabatic recovery temperature">adiabatic 
+  recovery temperature</A>. 
+  <DT><STRONG>recrystallization</STRONG> 
+  <DD>1. In metals, the change from one crystal structure to another, as occurs 
+  on heating or cooling through a critical temperature. 
+  <DD>2. The formation of a new strain-free grain structure from that existing 
+  in cold-worked metal, usually accomplished by heating. 
+  <DT><STRONG>rectangular curvilinear coordinates</STRONG> 
+  <DD>See <A   href="c.html#curvilinear coordinates">curvilinear 
+  coordinates</A>. 
+  <DT><STRONG>rectifier</STRONG> 
+  <DD>A static device having an asymmetrical conduction characteristic which is 
+  used to convert attending current into direct current. 
+  <DD><I>A rotating device for this purpose is called a converter. Compare <A   href="i.html#inverter">inverter</A>. 
+  </I><A name=recycle></A>
+  <DT><STRONG>recycle</STRONG> 
+  <DD>1. In a <A   href="c.html#countdown">countdown</A> to 
+  stop the count and to return to an earlier point in the countdown, as in <I>we 
+  have recycled, now at T minus 80 and counting. </I>Compare <A   href="h.html#hold">hold</A>. 
+  <DD>2. To give a completely new <A   href="c.html#checkout">checkout</A> to a 
+  rocket or other object. <A name=redout></A>
+  <DT><STRONG>redout</STRONG> 
+  <DD>The condition occurring under <A   href="n.html#negative g">negative g</A> 
+  in which objects appear to have a red coloration due to uncertain causes, 
+  possibly venous congestion of engorged eyelids. Compare <A   href="b.html#blackout">blackout</A>, 
+  sense 3. <A name="red shift"></A>
+  <DT><STRONG>red shift</STRONG> 
+  <DD>In astronomy, the displacement of observed spectral lines toward the 
+  longer wavelengths of the red end of the spectrum. Compare <A   href="s.html#space reddening">space 
+  reddening</A>. 
+  <DD><I>The term red shift is applied both to the <A   href="d.html#doppler effect">Doppler 
+  effect</A> caused by the relative speed of recession of the observed body and 
+  the gravitational or relativistic shift in which the frequency of light 
+  emitted by atoms in stellar atmosphere is decreased by a factor proportional 
+  to the mass-radius relationship of the star. </I>
+  <DT><STRONG>Red Spot Hollow</STRONG> 
+  <DD>See <A   href="g.html#great red spot">Great Red 
+  Spot</A>. 
+  <DT><STRONG>reduced frequency (symbol k)</STRONG> 
+  <DD>The frequency of <A   href="v.html#vibration">vibration</A> of 
+  a body, or of the variation of the <A   href="f.html#flow">flow</A> behind the 
+  body, expressed as the circular frequency times the representative length of 
+  the body divided by the velocity of the flow. 
+  <DT><STRONG>redundancy</STRONG> 
+  <DD>1. In information theory: of a source, the amount by which the logarithm 
+  of the number of symbols available at the source exceeds the average 
+  information content per symbol of the source. 
+  <DD><I>The term redundancy has been used loosely in other senses. For example, 
+  a source whose output is normally transmitted over a given channel has been 
+  called redundant, if the channel utilization index is less than unity. </I>
+  <DD>2. The existence of more than one means for accomplishing a given task, 
+  where all means must fail before there is an overall failure to the system. 
+  <DD><I>Parallel redundancy applies to systems where both means are working at 
+  the same time to accomplish the task, and either of the system is capable of 
+  handling the job itself in case of failure of the other system. Standby 
+  redundancy applies to a system where there is an alternative means of 
+  accomplishing the task that is switched in by a malfunction sensing device 
+  when the primary system fails. </I><A name="reech number"></A>
+  <DT><STRONG>Reech number</STRONG> 
+  <DD>The reciprocal <I>lg/V<sup>2</sup> </I>, of the <A   href="f.html#froude number">Froude 
+  number</A>, where <I>g </I>is the acceleration of gravity; <I>l </I>is a 
+  characteristic length; and <I>V </I>is a characteristic speed. <A   name=reentry></A>
+  <DT><STRONG>reentry</STRONG> 
+  <DD>The event occurring when a <A   href="s.html#spacecraft">spacecraft</A> 
+  or other object comes back into the <A   href="s.html#sensible atmosphere">sensible 
+  atmosphere</A> after being rocketed to higher altitudes; the action involved 
+  in this event. <A name="reentry body"></A>
+  <DT><STRONG>reentry body</STRONG> 
+  <DD>That part of a space vehicle that reenters the atmosphere after flight 
+  above the <A   href="s.html#sensible atmosphere">sensible 
+  atmosphere</A>. 
+  <DT><STRONG>reentry nose cone</STRONG> 
+  <DD>A <A href="n.html#nose cone">nose 
+  cone</A> designed especially for <A   href="r.html#reentry">reentry</A>, 
+  consisting of one or more chambers protected by an outer shield. See <A   href="h.html#heat sink">heat sink</A>. 
+  <DT><STRONG>reentry trajectory</STRONG> 
+  <DD>That part of a <A   href="r.html#rocket's">rocket's</A> 
+  trajectory that begins at reentry and ends at target or at the surface. 
+  <DD><I>If the rocket is unguided at reentry, its reentry trajectory is 
+  ballistic in character. </I><A name="reentry vehicles"></A><A   name="reentry vehicle"></A>
+  <DT><STRONG>reentry vehicle</STRONG> 
+  <DD>Any payload carrying <A   href="v.html#vehicle">vehicle</A> 
+  designed to leave the <A   href="s.html#sensible atmosphere">sensible 
+  atmosphere</A> and then return through it to earth. 
+  <DD><I>This term applies both to return vehicles from orbital or space 
+  payloads and to <A   href="b.html#boostglide vehicles">boostglide 
+  vehicles</A>. </I><A name="reference ellipsoid"></A>
+  <DT><STRONG>reference ellipsoid</STRONG> 
+  <DD>An ellipsoid of revolution used as a datum for geodetic measurements. See 
+  <A href="g.html#geoid">geoid</A>. 
+  <DT><STRONG>reference frame</STRONG> = coordinate system. 
+  <DT><STRONG>reference line </STRONG>= datum line. 
+  <DT><STRONG>reference plane</STRONG> = datum plane. 
+  <DT><STRONG>reference point</STRONG> = datum point. 
+  <DT><STRONG>reference signal</STRONG> 
+  <DD>In <A   href="t.html#telemetry">telemetry</A>, 
+  the <A href="s.html#signal">signal</A> 
+  against which data-carrying signals are compared to measure differences in 
+  time, phase, frequency, etc. 
+  <DT><STRONG>referent</STRONG> 
+  <DD>An assumed zero value of a quantity relative to which magnitudes of the 
+  quality are measured, or a structure having this zero value of the quantity; 
+  e.g., a voltage measured relative to the ground as a <I>referent. </I><A   name=reflectance></A>
+  <DT><STRONG>reflectance (symbol &rho;)</STRONG> 
+  <DD>The ratio of the radiant <A   href="f.html#flux">flux</A> reflected by 
+  a body to that incident upon it. Also called <I>reflection factor. </I>
+  <DD><I>For an opaque body, the sum of the reflectance and the absorptance for 
+  the incident radiation is unity  &rho; + &alpha; = 1. </I><A name="reflected code"></A>
+  <DT><STRONG>reflected code </STRONG>= cyclic code. <A name="reflected ray"></A>
+  <DT><STRONG>reflected ray</STRONG> 
+  <DD>A <A href="r.html#ray">ray</A> 
+  extending outward from a point of reflection. 
+  <DT><STRONG>reflected wave</STRONG> 
+  <DD>1. A <A   href="s.html#shock wave">shock wave</A>, 
+  <A href="e.html#expansion wave">expansion 
+  wave</A>, or <A   href="c.html#compression wave">compression 
+  wave</A> reflected by another wave incident upon a wall or other boundary. 
+  <DD>2. In electronics, a radio wave reflected from a surface or object. <A   name="reflecting telescope"></A>
+  <DT><STRONG>reflecting telescope</STRONG> 
+  <DD>A telescope which collects light by means of a concave mirror. <A   name=reflection></A>
+  <DT><STRONG>reflection</STRONG> 
+  <DD>The process whereby a surface of discontinuity turns back a portion of the 
+  incident radiation into the medium through which the radiation approached. See 
+  <A href="a.html#albedo">albedo</A>, <A   href="r.html#reflectivity">reflectivity</A>, 
+  <A href="r.html#radar reflectivity">radar 
+  reflectivity</A>. 
+  <DD><I>For true reflection to occur there must be a real discontinuity of the 
+  <A   href="i.html#index of refraction">index 
+  of refraction</A> or at least it must change over an interfacial layer of 
+  thickness small compared to the wavelength of the radiation. If the change of 
+  refractive index is gradual (as may occur in a stratified medium) radiation 
+  may be returned by a process of continuous refraction, not to be confused with 
+  reflection. In radar, the term reflection is often applied to the return of 
+  radio energy from a volume of precipitation or cloud particles, where <A   href="s.html#scattering">scattering</A> 
+  is the important process. When the scale of the irregularities on the 
+  reflecting surface is small compared to the wavelength, regular or specular 
+  reflection (also called mirror reflection, regual reflection) results; if the 
+  irregularities are large compare of reflection is not affected by wavelength 
+  except as the relative scale of the irregularities of the surface change with 
+  wavelength. the fraction of the incident radiation reflected does depend on 
+  wavelength because of the selective nature of the absorptivity and 
+  transmissivity. The idealized white body is a total reflector; a black body 
+  reflects none of the incident radiation. The laws of specular reflection are: 
+  (first law) the reflected ray lies in the same plane as the incident ray and 
+  the normal to the surface at the point of incidence; and (second law) the 
+  angle of reflection equals the angle of incidence, both measured from the 
+  normal to the surface. </I><A name="reflection coefficient"></A>
+  <DT><STRONG>reflection coefficient</STRONG> 
+  <DD>A measure of the quality of <A   href="s.html#specular reflection">specular 
+  reflection</A> produced by a given surface; defined as the ratio of the 
+  radiant energy reflected along the geometrical reflection path to the total 
+  that is incident upon the surface. By definition, a reflection coefficient of 
+  1.0 implies perfect specular reflection. Compare <A   href="r.html#reflectivity">reflectivity</A>. 
+
+  <DD><I>Reflection coefficients of less than 1.0 occur either as a result of 
+  energy loss by absorption at the reflection surface, or by scattering of the 
+  energy out of the geometrical reflection path due to the diffuse or irregular 
+  nature of the reflecting surface. Note that the reflection coefficient varies 
+  with wavelength since a surface which might appear to be rough at very short 
+  wavelengths is much smoother to longer wavelength radiation. It also varies 
+  with polarization. </I><A name=reflectivity></A>
+  <DT><STRONG>reflectivity</STRONG> 
+  <DD>1. A measure of the fraction of <A   href="r.html#radiation">radiation</A> 
+  reflected by a given surface; defined as the ratio of the <A   href="r.html#radiant energy">radiant 
+  energy</A> reflected to the total that is incident upon that surface. Compare 
+  <A   href="r.html#reflection coefficient">reflection 
+  coefficient</A>. See <A   href="r.html#radar reflectivity">radar 
+  reflectivity</A>. 
+  <DD><I>The reflectivity of any given substance is, in general, a variable 
+  strongly dependent upon the wavelength of the radiation in question. The 
+  reflectivity of a given surface for a specified broad spectral range, such as 
+  the visible spectrum or the solar spectrum, is referred to as the albedo. </I>
+  <DD>2. In thermal radiation, a property of a material, measured as the <A   href="r.html#reflectance">reflectance</A> 
+  of a specimen of the material that is thick enough to be completely opaque and 
+  has an optically smooth surface. <A name=reflector></A>
+  <DT><STRONG>reflector</STRONG> 
+  <DD>1. In general, any object that reflects incident <A   href="e.html#energy">energy</A>; usually 
+  it is a device designed for specific reflection characteristics. See <A   href="r.html#retroreflector">retroreflector</A>, 
+  <A href="c.html#corner reflector">corner 
+  reflector</A>, <A   href="p.html#parabolic reflector">parabolic 
+  reflector</A>, <A   href="r.html#radar reflector">radar 
+  reflector</A>. 
+  <DD>2. In an antenna, a <A   href="p.html#parasitic element">parasitic 
+  element</A> located in a direction other than the general direction of the 
+  major lobe of radiation. 
+  <DD>3. A material of high <A   href="s.html#scattering cross section">scattering 
+  cross section</A> that surrounds a reactor core to reduce the escape of 
+  neutrons, many of which are reflected back into the core. 
+  <DD>4. A <A   href="r.html#repeller">repeller</A>. <A   name="refracted ray"></A><A name=refracted></A>
+  <DT><STRONG>refracted ray</STRONG> 
+  <DD>A <A href="r.html#ray">ray</A> 
+  extending onward from the point of <A   href="r.html#refraction">refraction</A>. 
+  <DT><STRONG>refracted wave</STRONG> 
+  <DD>A <A href="w.html#wave">wave</A> that 
+  has had its direction of motion changed by <A   href="r.html#refraction">refraction</A>. 
+  <A name=refracting></A>
+  <DT><STRONG>refracting telescope</STRONG> 
+  <DD>A telescope which collects light by means of a lens or system of lenses. 
+  Also called <I>refractor. </I><A name=refraction></A>
+  <DT><STRONG>refraction</STRONG> 
+  <DD>The process in which the direction of energy <A   href="p.html#propagation">propagation</A> 
+  is changed as the result of a change in density within the propagating medium, 
+  or as the energy passes through the interface representing a density 
+  discontinuity between two media. In the first instance the rays undergo a 
+  smooth bending over a finite distance. In the second case the <A   href="i.html#index of refraction">index 
+  of refraction</A> changes through an interfacial layer that is thin compared 
+  to the wavelength of the radiation; thus, the refraction is abrupt, 
+  essentially discontinuous. See <A   href="a.html#atmospheric refraction">atmospheric 
+  refraction</A>. Compare <A   href="r.html#reflection">reflection</A>, 
+  <A   href="d.html#diffraction">diffraction</A>, 
+  <A   href="s.html#scattering">scattering</A>. 
+  <DT><STRONG>refraction error</STRONG> 
+  <DD>See <A   href="a.html#astronomical refraction error">astronomical 
+  refraction error</A>, <A   href="t.html#terrestrial refraction error">terrestrial 
+  refraction error</A>, <A   href="c.html#curved-path error">curved-path 
+  error</A>. 
+  <DT><STRONG>refraction index </STRONG>= index of refraction. <A   name="refractive index"></A>
+  <DT><STRONG>refractive index </STRONG>= index of refraction. 
+  <DT><STRONG>refractive modulus</STRONG> = modified index of refraction. <A   name=refractivity></A>
+  <DT><STRONG>refractivity</STRONG> 
+  <DD>1. The algebraic difference between an <A   href="i.html#index of refraction">index 
+  of refraction</A> and unity. 
+  <DD><I>For the atmosphere, refractivity may be more conveniently expressed in 
+  N-units: N = (n - 1) 10E6 The deviation of the refractivity at any altitude 
+  from the usual standard profile is expressed in B-units (for radiofrequencies 
+  up to 20 kilomegacycles): <BR>B = N + 0.12h where h is altitude in feet. 
+  <P>The deviation of the refractivity at any altitude from the gradient at 
+  which the refraction curvature of a tangential ray will match the curvature of 
+  the earth may be expressed in M- units: <BR>M = N + 0.048h where 0.048 is 10E6 
+  divided by the radius of the earth in feet. </I></P>
+  <DD>2. = <A   href="i.html#index of refraction">index 
+  of refraction</A>. 
+  <DD><I>This usage should be discouraged. </I>
+  <DT><STRONG>refractometer</STRONG> 
+  <DD>An instrument for measuring the <A   href="i.html#index of refraction">index 
+  of refraction</A> of a liquid, gas or solid. 
+  <DT><STRONG>refractor</STRONG> = refracting telescope. <A name=refractory></A>
+  <DT><STRONG>refractory</STRONG> 
+  <DD>A material, usually <A   href="c.html#ceramic">ceramic</A>, that 
+  resists the action of heat, does not fuse at high temperatures, and is very 
+  difficult to break down. 
+  <DT><STRONG>refractory metal</STRONG> 
+  <DD>A metal with melting point above 4000 degrees F. 
+  <DD><I>Usually refers to columbium, molybdenum, tantalum, or tungsten. </I>
+  <DT><STRONG>refrangible</STRONG> 
+  <DD>Capable of undergoing <A   href="r.html#refraction">refraction</A>. 
+  <A name=regenerative></A>
+  <DT><STRONG>regeneration</STRONG> 
+  <DD>1. = <A   href="p.html#positive feedback">positive 
+  feedback</A>. 
+  <DD>2. In <A   href="c.html#computer">computer</A> 
+  operations, the process of restoring a <A   href="s.html#storage">storage</A> device, 
+  whose information storing state may deteriorate, to its latest undeteriorated 
+  state. See <A   href="r.html#rewrite">rewrite</A>. <A   name="regenerative cooling"></A>
+  <DT><STRONG>regenerative cooling</STRONG> 
+  <DD>The cooling of a part of an engine by the fuel or propellant being 
+  delivered to the combustion chamber; specifically, the cooling of a 
+  rocket-engine <A   href="c.html#combustion chamber">combustion 
+  chamber</A> or <A   href="n.html#nozzle">nozzle</A> by 
+  circulating the <A   href="f.html#fuel">fuel</A> or <A   href="o.html#oxidizer">oxidizer</A>, or 
+  both, around the part to be cooled. 
+  <DT><STRONG>regenerative detector</STRONG> 
+  <DD>A <A   href="d.html#demodulator">demodulator</A> 
+  whose gain or conversion ratio is increased by the addition of positive <A   href="f.html#feedback">feedback</A> or 
+  regeneration at the carrier frequency. 
+  <DD><I>The sensitivity, small-signal selectivity, and distortion are increased 
+  over those found in a detector without regeneration. </I>
+  <DT><STRONG>regenerative engine</STRONG> 
+  <DD>A liquid propellant <A   href="r.html#rocket engine">rocket 
+  engine</A> cooled by <A   href="r.html#regenerative cooling">regenerative 
+  cooling</A>. <A name=regenerator></A>
+  <DT><STRONG>regenerator</STRONG> 
+  <DD>A device used in a <A   href="t.html#thermodynamic">thermodynamic</A> 
+  process for capturing and returning to the process <A   href="h.html#heat">heat</A> that would 
+  otherwise be lost. Also called a <I>heat exchanger </I>(which see). 
+  <DT><STRONG>region</STRONG> 
+  <DD>A portion of the <A   href="i.html#ionosphere">ionosphere</A> 
+  usually characterized by a particular altitude or range of altitudes, in which 
+  concentration of <A   href="f.html#free electron">free 
+  electron</A> tend to form. 
+  <DT><STRONG>region of escape </STRONG>= exosphere. 
+  <DT><STRONG>register</STRONG> 
+  <DD>A device capable of retaining information, often that contained in a small 
+  subset (e.g., one word) of the aggregate information in a digital <A   href="c.html#computer">computer</A>. See 
+  <A href="s.html#storage">storage</A>. <A   name=regression></A>
+  <DT><STRONG>regression</STRONG> 
+  <DD>The statistical counterpart or analog of the functional expression, in 
+  ordinary mathematics, on one variable in terms of others. Thus, <I>regression 
+  curve, regression coefficient. </I><A name="regression of the nodes"></A>
+  <DT><STRONG>regression of the nodes</STRONG> 
+  <DD>Precessional motion of a set of <A   href="n.html#nodes">nodes</A>. See <A   href="p.html#precession">precession</A>. 
+  <DD><I>The expression is used principally with respect to the moon, the nodes 
+  of which make a complete westerly revolution in approximately 18.6 years. </I>
+  <DT><STRONG>regular reflection</STRONG> = specular reflection. 
+  <DT><STRONG>regular reflector </STRONG>= specular reflector. 
+  <DT><STRONG>reheat = reheating (especially in sense 1).</STRONG> 
+  <DT><STRONG>reheating</STRONG> 
+  <DD>1. The addition of heat to a <A   href="w.html#working fluid">working 
+  fluid</A> in an engine after a partial expansion. 
+  <DD>2. The retention of heat in a fluid, as after passing through a turbine 
+  stage, owing to the inefficiency of the stage. <A name=relay></A><A   name=relative></A>
+  <DT><STRONG>relative</STRONG> 
+  <DD>Of angle measurements in navigation, measured from the <A   href="h.html#heading">heading</A> of a 
+  craft, as <I>relative bearing. </I>
+  <DT><STRONG>relative angular momentum</STRONG> 
+  <DD>The <A   href="m.html#moment">moment</A> of the <A   href="r.html#relative momentum">relative 
+  momentum</A> about a point. See <A   href="a.html#angular momentum">angular 
+  momentum</A>. <A name="relative coordinate system"></A><A   name="relative coordinate systems"></A>
+  <DT><STRONG>relative coordinate system</STRONG> 
+  <DD>Any <A   href="c.html#coordinate system">coordinate 
+  system</A> which is moving with respect to an <A   href="i.html#inertial coordinate system">inertial 
+  coordinate system</A>. 
+  <DD><I>Referred to a relative system, various apparent forces arise in Newton 
+  laws owing to motion of the system. See, e.g., <A   href="c.html#centrifugal force">centrifugal 
+  force</A>, <A   href="c.html#coriolis force">coriolis 
+  force</A>. </I>
+  <DT><STRONG>relative distance</STRONG> 
+  <DD>See <A   href="r.html#relative movement">relative 
+  movement</A>, note. <A name="relative humidity"></A>
+  <DT><STRONG>relative humidity (symbol <I>U </I>)</STRONG> 
+  <DD>The (dimensionless) ratio of the actual <A   href="v.html#vapor pressure">vapor 
+  pressure</A> of the air to the <A   href="s.html#saturation vapor pressure">saturation 
+  vapor pressure</A>. The corresponding ratios of <A   href="s.html#specific humidity">specific 
+  humidity</A> or of <A   href="m.html#mixing ratio">mixing 
+  ratio</A> give approximations of sufficient accuracy for many purposes in 
+  meteorology. The relative humidity is usually express in percent. Also called 
+  <I>humidity. </I>See <A   href="a.html#absolute humidity">absolute 
+  humidity</A>, <A   href="d.html#dew point">dew point</A>. 
+  <DD><I>The ratio of mixing ratio to saturation mixing ratio is preferred as a 
+  definition of relative humidity by the International Meteorological 
+  Organization. </I><A name="relative momentum"></A>
+  <DT><STRONG>relative momentum</STRONG> 
+  <DD>The product of the mass of a particle and its relative velocity; or, in 
+  the case of a fluid, the product of density and relative velocity. See <A   href="m.html#momentum">momentum</A>. 
+  <DT><STRONG>relative motion </STRONG>= apparent motion, relative movement. See 
+  <A href="m.html#motion">motion</A>. <A   name="relative movement"></A>
+  <DT><STRONG>relative movement</STRONG> 
+  <DD>Motion of one object or body measured relative to another. Usually called 
+  <I>apparent motion </I>when applied to the change of position of a celestial 
+  body as observed from the earth. Also called <I>relative motion. </I>
+  <DD><I>The expression is usually used in connection with problems involving 
+  motion of one craft or vehicle relative to another, the direction of such 
+  motion being called direction of relative movement and the speed of such 
+  motion being called speed of relative movement or relative speed. Distance 
+  relative to a specified reference point, usually one in motion, is called 
+  relative distance. </I>
+  <DT><STRONG>relative position</STRONG> 
+  <DD>A point defined with reference to another <A   href="p.html#position">position</A>, 
+  either fixed or moving. 
+  <DD><I>The coordinates of such a point are usually <A   href="b.html#bearing">bearing</A>, true 
+  or relative, and distance from an identified reference point. </I>
+  <DT><STRONG>relative scattering function</STRONG> 
+  <DD>See <A   href="r.html#relative scatter intensity">relative 
+  scatter intensity</A>. <A name="relative scatter intensity"></A>
+  <DT><STRONG>relative scatter intensity</STRONG> 
+  <DD>For <A   href="s.html#scattering">scattering</A> 
+  of <A   href="r.html#radiation">radiation</A> 
+  under any given set of physical conditions: the ratio of the <A   href="r.html#radiant intensity">radiant 
+  intensity</A> scattered in any given direction to the radiant intensity 
+  scattered in the direction of the incident beam. 
+  <DD><I>The value of this ratio is a function of the angle between the 
+  direction in question and the directions of the incident beam. Thus, it may be 
+  symbolized as f(&rho;), the relative scattering function. Compare <A   href="s.html#scattering function">scattering 
+  function</A>. See <A   href="s.html#scatter angle">scatter 
+  angle</A>. </I>
+  <DT><STRONG>relative speed </STRONG>= speed of relative movement. <A   name="relative sunspot number"></A>
+  <DT><STRONG>relative sunspot number</STRONG> 
+  <DD>A measure of sunspot activity, computed from the formula <I>R </I>= <I>k 
+  (10 g + f) </I>where <I>R </I>is the relative sunspot number; <I>f </I>is the 
+  number of individual spots; <I>g </I>is the number of groups of spots; and 
+  <I>k </I>a factor that varies with the observer (his personal equation), the 
+  seeing, and the observatory (location and instrumentation). Also called 
+  <I>sunspot number, sunspot relative number, Wolf number, Wolf-Wolfer number, 
+  Zurich number. </I>
+  <DT><STRONG>relative vorticity</STRONG> 
+  <DD>See <A   href="a.html#absolute vorticity">absolute 
+  vorticity</A>. <A name=relativistic></A>
+  <DT><STRONG>relativistic</STRONG> 
+  <DD>In general, pertaining to material, as a particle, moving at speeds which 
+  are an appreciable fraction of the <A   href="s.html#speed of light">speed of 
+  light</A> thus increasing the mass. <A name="relativistic mass equation"></A>
+  <DT><STRONG>relativistic mass equation</STRONG> 
+  <DD>The equation 
+  <center><i>m = m<sub>0</sub> [1 - (v<sup>2</sup>/c<sup>2</sup>)]<sup>-1/2</sup> = m<sub>0</sub>/(1 - &beta;<sup>2</sup>)<sup>1/2</sup></i></center>
+  where &beta; = <I>v/c </I>for the relativistic mass <I>m 
+  </I>of a particle or body of rest mass m <sub>0</sub> when its velocity is <I>v. </I>See <A   href="r.html#relativistic velocity">relativistic 
+  velocity</A>. 
+  <DT><STRONG>relativistic particle</STRONG> 
+  <DD>A particle with a velocity so large that its relativistic mass exceeds its 
+  <A href="r.html#rest mass">rest mass</A> 
+  by an amount which is significant for the computation or other considerations 
+  at hand. See <A   href="r.html#relativistic velocity">relativistic 
+  velocity</A>. 
+  <DT><STRONG>relativistic red shift</STRONG> 
+  <DD>See <A href="r.html#red shift">red 
+  shift</A>, note. <A name="relativistic velocity"></A>
+  <DT><STRONG>relativistic velocity</STRONG> 
+  <DD>A velocity sufficiently high that some properties of a particle of this 
+  velocity have values significantly different from those obtaining when the 
+  particle is at rest. See <A   href="r.html#rest mass">rest mass</A>. 
+  <DD><I>The property of most interest is the mass. For many purposes, the 
+  velocity is relativistic when it exceeds about one-tenth the velocity of 
+  light. See also <A   href="f.html#fitzgerald-lorentz contraction">Fitzgerald-Lorentz 
+  contraction</A>. </I><A name=relativity></A>
+  <DT><STRONG>relativity</STRONG> 
+  <DD>A principle that postulates the equivalence of the description of the 
+  universe, in terms of physical laws, by various observers, or for various 
+  frames of reference. See <A   href="r.html#relativistic mass equation">relativistic 
+  mass equation</A>, <A   href="m.html#mass-energy equivalence">mass-energy 
+  equivalence</A>. 
+  <DT><STRONG>relativity theory</STRONG> 
+  <DD>See <A   href="r.html#relativity">relativity</A>. 
+  <A name="relaxation time"></A>
+  <DT><STRONG>relaxation time</STRONG> 
+  <DD>1. In general, the time required for a system, object, or fluid to recover 
+  to a specified condition or value after disturbance. 
+  <DD>2. Specifically, the time taken by an exponentially decaying quantity to 
+  decrease in amplitude by a factor of 1/ <I>e </I>= 0.3679. <A   name=reliability></A>
+  <DT><STRONG>reliability</STRONG> 
+  <DD>Of a piece of equipment or a system, the <A   href="p.html#probability">probability</A> 
+  of specified performance for a given period of time when used in the specified 
+  manner. 
+  <DT><STRONG>rem</STRONG> 
+  <DD>Abbreviation for <A   href="r.html#roentgen-equivalent-man">roentgen-equivalent-man</A>. 
+
+  <DT><STRONG>remaining body</STRONG> 
+  <DD>That part of a <A   href="r.html#rocket">rocket</A> or <A   href="v.html#vehicle">vehicle</A> that 
+  remains after the separation of a <A   href="f.html#fallaway section">fallaway 
+  section</A> or <A   href="c.html#companion body">companion 
+  body</A>. 
+  <DD><I>In a multistage rocket, the remaining body diminishes in size 
+  successively as each section or part is cast away and successively becomes a 
+  different body. </I><A name=remanence></A>
+  <DT><STRONG>remanence (symbol B)</STRONG> 
+  <DD>The magnetic <A   href="f.html#flux density">flux 
+  density</A> which remains in a magnetic <A   href="c.html#circuit">circuit</A> after 
+  the removal of an applied magnetomotive force. Also called <I>retentivity. 
+</I>
+  <DD><I>This should not be confused with residual flux density. If the magnetic 
+  circuit has an airgap, the remanence will be less than the residual flux 
+  density. </I>
+  <DT><STRONG>remote control</STRONG> 
+  <DD><A href="c.html#control">Control</A> 
+  of an operation from a distance, especially by means of electricity or 
+  electronics; a controlling switch, lever, or other device used in this kind of 
+  control; as in <I>remote-control armament, remote-control switch </I>, etc. 
+  <DT><STRONG>remote indicating</STRONG> 
+  <DD>Of an instrument, displaying indications at a point remote from its 
+  sensing element, often by electrical or electronic means. <A   name="remote velocity"></A>
+  <DT><STRONG>remote velocity</STRONG> 
+  <DD>The <A   href="v.html#velocity">velocity</A> of an 
+  object taken as a whole relative to the surrounding <A   href="f.html#fluid">fluid</A> at a point 
+  undisturbed by the moving object. Distinguished from the <A   href="l.html#local velocity">local 
+  velocity</A> of any of the object's parts. 
+  <DT><STRONG>renal</STRONG> 
+  <DD>Pertaining to the kidneys. <A name=rendezvous></A>
+  <DT><STRONG>rendezvous</STRONG> 
+  <DD>1. The event of two or more objects meeting with zero relative velocity at 
+  a preconceived time and place. 
+  <DD>2. The point in space at which such an event takes place, or is to take 
+  place. 
+  <DD><I>A rendezvous would be involved, for example, in servicing or 
+  resupplying a space station. </I>
+  <DT><STRONG>rep</STRONG> 
+  <DD>Abbreviation for <A   href="r.html#roentgen-equivalent-physical">roentgen-equivalent-physical</A>. 
+  <A name=repeller></A>
+  <DT><STRONG>repeller</STRONG> 
+  <DD>An <A   href="e.html#electrode">electrode</A> 
+  whose primary function is to reverse the direction of an <A   href="e.html#electron">electron</A> 
+  stream. Also called <I>reflector. </I><A name=reset></A>
+  <DT><STRONG>reset</STRONG> 
+  <DD>1. To restore a <A   href="s.html#storage">storage</A> device 
+  to a prescribed state. 
+  <DD>2. To place a <A   href="b.html#binary cell">binary cell</A> 
+  in the initial or <I>zero </I>state. See <A   href="c.html#clear">clear</A>. 
+  <DT><STRONG>residual</STRONG> 
+  <DD>In <A   href="c.html#celestial mechanics">celestial 
+  mechanics</A> and <A   href="t.html#trajectory">trajectory</A> 
+  analysis, the deviation between an observed and a computed value, usually in 
+  the sense observed minus computed. 
+  <DT><STRONG>residual flux density (symbol B<sub>r</sub>)</STRONG> 
+  <DD>The magnetic <A   href="f.html#flux density">flux 
+  density</A> at which the magnetizing force is zero when the material is in a 
+  symmetrically magnetized condition. See <A   href="r.html#remanence">remanence</A>. 
+  <DT><STRONG>residual air</STRONG> 
+  <DD>The volume of air remaining in the lungs after a maximal expiration. 
+  <DT><STRONG>residual load</STRONG> 
+  <DD>Of a <A   href="v.html#vehicle">vehicle</A>, the 
+  sum of the payload, all items directly associated with the payload, and other 
+  relatively fixed weights of the overall vehicle; calculated as the difference 
+  between gross weight and the sum of propellant, tank, structure, and 
+  power-plant weights. 
+  <DT><STRONG>residual stress</STRONG> 
+  <DD>In structures, any <A   href="s.html#stress">stress</A> in an 
+  unloaded body. These stresses arise from local yielding of the material due to 
+  machining, welding, quenching, cold work, etc. <A name=resistance></A>
+  <DT><STRONG>resistance (symbol <I>R </I>)</STRONG> 
+  <DD>1. In electricity, the factor by which the square of the instantaneous 
+  conduction current must be multiplied to obtain the power lost by heat 
+  dissipation or other permanent radiation of energy away from the electrical 
+  current. 
+  <DD>2. In mechanics, the opposition by frictional effects to forces tending to 
+  produce motion. <A name=resistivity></A>
+  <DT><STRONG>resistivity (symbol &rho;)</STRONG> 
+  <DD>In electricity, a characteristic proportionality factor equal to the 
+  resistance of a centimeter cube of a substance to the passage of an electric 
+  current perpendicular to two parallel faces. Also called <I>specific 
+  resistance. </I><I>R </I>= &rho;( <I>l/A </I>) where <I>R </I>is the resistance 
+  of a uniform conductor, <I>l </I>is the length, <I>A </I>is its 
+  cross-sectional area, and &rho; is its resistivity. <A name=resolution></A>
+  <DT><STRONG>resolution</STRONG> 
+  <DD>1. The ability of a film, a lens, a combination of both, or a <A   href="v.html#vidicon">vidicon</A> system 
+  to render barely distinguishable a standard pattern of black and white lines. 
+  <DD><I>When the resolution is said to be 10 lines per millimeter, it means 
+  that the pattern whose line plus space width is 0.1 millimeter is barely 
+  resolved, the finer patterns are not resolved, and the coarser patterns are 
+  more clearly resolved. In satellite television systems the limiting element is 
+  the television scanning pattern. </I>
+  <DD>2. In <A   href="r.html#radar">radar</A>, the 
+  minimum angular separation at the antenna at which two targets can be 
+  distinguished (a function of <A   href="b.html#beamwidth">beamwidth</A>); 
+  or the minimum range at which two targets at the same azimuth can be separated 
+  (equal to one-half the pulse length). 
+  <DD>3. Of a <A   href="g.html#gyro">gyro</A>, a measure of 
+  response to small changes in input; the maximum value of the minimum input 
+  change that will cause a detectable change in the output for inputs greater 
+  than the threshold, expressed as a percent of one half the input range. 
+  <DT><STRONG>resolving power</STRONG> 
+  <DD>1. = <A   href="r.html#resolution">resolution</A>, 
+  senses 1 and 2. 
+  <DD>2. In a unidirectional <A   href="a.html#antenna">antenna</A>, the 
+  reciprocal of its beam width measured in degrees. 
+  <DD><I>The <A   href="r.html#resolution">resolution</A> 
+  of a directional radio system can be different from the resolving power of its 
+  antenna, since the resolution is affected by other factors. </I><A   name=resonate></A><A name=resonant></A><A name=resonance></A>
+  <DT><STRONG>resonance</STRONG> 
+  <DD>1. The phenomenon of amplification of a <A   href="f.html#free wave">free wave</A> or 
+  <A   href="o.html#oscillation">oscillation</A> 
+  of a system by a <A   href="f.html#forced wave">forced wave</A> 
+  or oscillation of exactly equal <A   href="p.html#period">period</A>. The 
+  forced wave may arise from an impressed force upon the system or from a 
+  boundary condition. The growth of the resonant amplitude is characteristically 
+  linear in time. 
+  <DD>2. Of a system in <A   href="f.html#forced oscillation">forced 
+  oscillation</A>, the condition which exists when any change, however small, in 
+  the <A   href="f.html#frequency">frequency</A> of 
+  excitation causes a decrease in the response of the system. <A   name="resonance frequency"></A>
+  <DT><STRONG>resonance frequency</STRONG> 
+  <DD>A <A   href="f.html#frequency">frequency</A> at 
+  which <A   href="r.html#resonance">resonance</A> 
+  exists. Also called <I>resonant frequency. </I>
+  <DD><I>In case of possible confusion, the type of resonance must be indicated, 
+  as velocity resonance frequency. </I>
+  <DT><STRONG>resonant frequency</STRONG> = resonance frequency. <A   name=resonator></A>
+  <DT><STRONG>resonator</STRONG> 
+  <DD>In radio and radar applications, a <A   href="c.html#circuit">circuit</A> which 
+  will <A   href="r.html#resonate">resonate</A> at a 
+  given <A   href="f.html#frequency">frequency</A>, or 
+  over a range of frequencies, when properly excited. 
+  <DD><I>A very important type of resonator is the cavity resonator, a closed 
+  hollow volume having conducting walls. The frequency at which these cavities 
+  will resonate is a function of their volume and shape; thus, they are used for 
+  making accurate frequency comparisons and for generating radio frequencies, 
+  usually in the microwave region. </I>
+  <DT><STRONG>respiration</STRONG> 
+  <DD>The interchange of gases of living organisms and the gases of the medium 
+  in which they live. 
+  <DD><I>Respiration applies to the interchange by any channel as pulmonary 
+  respiration, cutaneous respiration, etc. </I>
+  <DT><STRONG>responder</STRONG> 
+  <DD>1. In general, an instrument that indicates reception of an electric or 
+  electromagnetic <A   href="s.html#signal">signal</A>. 
+  <DD>2. = <A   href="t.html#transponder">transponder</A>. 
+
+  <DT><STRONG>responder beacon</STRONG> = transponder beacon. 
+  <DT><STRONG>response</STRONG> 
+  <DD>Of a device or system, the motion (or other output) resulting from an <A   href="e.html#excitation">excitation</A> 
+  under specified conditions. 
+  <DD><I>Modifying phrases must be prefixed to the term response to indicate 
+  what kinds of input and output are being utilized. The response 
+  characteristic, often presented graphically, gives the response as a function 
+  of some independent variable such as frequency or direction. For such purposes 
+  it is customary to assume that other characteristics of the input (for 
+  example, voltage) are held constant. </I>
+  <DT><STRONG>responsor</STRONG> 
+  <DD>A radio <A   href="r.html#receiver">receiver</A> which 
+  receives the reply from a <A   href="t.html#transponder">transponder</A> 
+  and produces an output suitable for feeding to a <A   href="d.html#display">display</A> system. 
+
+  <DD><I>A responsor is usually combined in a single unit with an interrogator, 
+  which sends out the pulse that triggers a transponder, the combined unit being 
+  called an interrogator-responsor. </I>
+  <DT><STRONG>restart</STRONG> 
+  <DD>Specifically, the act of firing a <A   href="s.html#stage">stage</A> of a <A   href="r.html#rocket">rocket</A> after a 
+  previous powered flight and a coast phase in a <A   href="p.html#parking orbit">parking 
+  orbit</A>. <A name="rest mass"></A>
+  <DT><STRONG>rest mass</STRONG> 
+  <DD>According to <A   href="r.html#relativistic">relativistic</A> 
+  theory, the mass which a body has when it is at absolute rest. Mass increases 
+  when the body is in motion according to 
+  <center><img src="restmass.gif"></center>
+  where <I>m </I>is its mass in motion; m<sub>0</sub> is its rest mass; <I>v </I>is the body's speed 
+  of motion; and <I>c </I>is the speed of light. 
+  <DD><I>Newtonian physics, in contrast with relativistic physics, makes no 
+  distinction between rest mass and mass in general. </I><A   name="restricted propellant"></A>
+  <DT><STRONG>restricted propellant</STRONG> 
+  <DD>A <A   href="s.html#solid propellant">solid 
+  propellant</A> having only a portion of its surface exposed for burning, the 
+  other surfaces being covered by an <A   href="i.html#inhibitor">inhibitor</A>. 
+  <DT><STRONG>restrictor</STRONG> 
+  <DD>In <A   href="s.html#solid-propellant rockets">solid-propellant 
+  rockets</A>, a layer of fuel containing no <A   href="o.html#oxidizer">oxidizer</A>, or 
+  of noncombustible material, adhered to the surface of the propellant so as to 
+  prevent burning in that region. 
+  <DT><STRONG>resultant</STRONG> 
+  <DD>The sum of two or more <A   href="v.html#vectors">vectors</A>. 
+  <DT><STRONG>resultant wind</STRONG> 
+  <DD>The vectorial average of all wind directions and speeds at a given place 
+  for a certain period. 
+  <DT><STRONG>Ret, Reti</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Reticulum. </I>See 
+  <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>retentivity</STRONG> = remanence. 
+  <DT><STRONG>Reti</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Reticulum. </I>See <A   href="c.html#constellation">constellation</A> 
+  <A name=reticle></A>
+  <DT><STRONG>reticle</STRONG> 
+  <DD>A system of lines, wires, etc., placed in the focal plane of an optical 
+  instrument to serve as a reference. Also called <I>reticule. </I>
+  <DD><I>A crosshair is a hair, thread, or wire constituting part of a reticle. 
+  </I>
+  <DT><STRONG>reticule </STRONG>= reticle. 
+  <DT><STRONG>Reticulum (abbr Ret, Reti)</STRONG> 
+  <DD>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>retrace</STRONG> 
+  <DD>See <A href="t.html#trace">trace</A>, 
+  note. <A name=retrofiring></A>
+  <DT><STRONG>retrofire</STRONG> 
+  <DD>To ignite a <A   href="r.html#retrorocket">retrorocket</A>. 
+
+  <DT><STRONG>retroflector</STRONG> = retroreflector. 
+  <DT><STRONG>retrograde motion</STRONG> 
+  <DD>1. Motion in an <A   href="o.html#orbit">orbit</A> opposite to 
+  the usual orbital direction of <A   href="c.html#celestial bodies">celestial 
+  bodies</A> within a given system. Specifically, of a <A   href="s.html#satellite">satellite</A>, 
+  motion in a direction opposite to the direction of rotation of the <A   href="p.html#primary">primary</A>. 
+  <DD>2. The apparent motion of a planet westward among the stars. Also called 
+  <I>retrogression. </I>
+  <DT><STRONG>retrogression</STRONG> = retrograde motion. 
+  <DT><STRONG>retropack</STRONG> 
+  <DD>A rocket unit built into or strapped to a <A   href="s.html#spacecraft">spacecraft</A> 
+  that provides <A   href="r.html#retrothrust">retrothrust</A>. 
+
+  <DT><STRONG>retroreflection</STRONG> 
+  <DD><A   href="r.html#reflection">Reflection</A> 
+  wherein the reflected rays return along paths parallel to those of their 
+  corresponding incident rays. Also called <I>retroflection. </I><A   name=retroreflector></A>
+  <DT><STRONG>retroreflector</STRONG> 
+  <DD>Any instrument used to cause reflected <A   href="r.html#rays">rays</A> to return 
+  along paths parallel to those of their corresponding incident rays. Also 
+  called <I>retroflector. </I>
+  <DD><I>One type of retroreflector, the corner reflector, is an efficient radar 
+  target. </I><A name=retrorocket></A>
+  <DT><STRONG>retrorocket</STRONG> 
+  <DD>(From <I>retro </I>acting.) A <A   href="r.html#rocket">rocket</A> fitted on 
+  or in a spacecraft, satellite, or the like to produce <A   href="t.html#thrust">thrust</A> opposed 
+  to forward motion. <A name=retrothrust></A>
+  <DT><STRONG>retrothrust</STRONG> 
+  <DD><A href="t.html#thrust">Thrust</A> 
+  used for a braking maneuver; reverse thrust. 
+  <DT><STRONG>retrosequence</STRONG> 
+  <DD>The sequence of events preparatory to, and programmed to follow, the <A   href="r.html#retrofiring">retrofiring</A> 
+  for <A   href="s.html#spacecraft">spacecraft</A> 
+  reentry. 
+  <DT><STRONG>reverberation</STRONG> 
+  <DD>1. The persistence of <A   href="s.html#sound">sound</A> in an 
+  enclosed space, as a result of multiple reflections after the sound source has 
+  stopped. 
+  <DD>2. The sound that persists in an enclosed space, as a result of repeated 
+  reflection or scattering after the source of the sound has stopped. 
+  <DT><STRONG>reverberation time</STRONG> 
+  <DD>In acoustics, the time required for the time average of the <A   href="s.html#sound energy density">sound 
+  energy density</A>, initially in a steady state, to decrease, after the source 
+  is stopped, to one-millionth of its initial value. The unit is the second. <A   name="reverse thrust"></A>
+  <DT><STRONG>reverse thrust</STRONG> 
+  <DD><A href="t.html#thrust">Thrust</A> 
+  applied to a moving object in a direction to oppose the object's motion. 
+  <DT><STRONG>reversing layer</STRONG> 
+  <DD>See <A   href="p.html#photosphere">photosphere</A>, 
+  note. 
+  <DT><STRONG>revetment</STRONG> 
+  <DD>A wall of concrete, earth, sandbags, or the like installed for protection, 
+  as against the blast of exploding fuel during a rocket <A   href="a.html#abort">abort</A>. <A   name=revolution></A><A name=revolutions></A>
+  <DT><STRONG>revolution</STRONG> 
+  <DD>1. Motion of a <A   href="c.html#celestial body">celestial 
+  body</A> in its orbit; circular motion about an axis usually external to the 
+  body. 
+  <DD><I>In some contexts, the terms revolution and rotation are used 
+  interchangeably but, with reference to the motions of a celestial body, 
+  revolution refers to motion in an orbit or about an axis external to the body, 
+  whereas rotation refers to motion about an axis within the body. Thus, the 
+  earth revolves about the sun annually and rotates about its axis daily. </I>
+  <DD>2. One complete cycle of the movement of a <A   href="c.html#celestial body">celestial 
+  body</A> in its orbit, or of a body about an external axis, as <I>a revolution 
+  of the earth about the sun. </I><A name=revolve></A>
+  <DT><STRONG>revolve</STRONG> 
+  <DD>To move in a path about an axis, usually external to the body 
+  accomplishing the motion, as in <I>the planets revolve about the sun. 
+  </I>Hence <A   href="r.html#revolution">revolution</A>. 
+  See <A href="r.html#rotate">rotate</A>. 
+  <A name=rewrite></A>
+  <DT><STRONG>rewrite</STRONG> 
+  <DD>In a <A   href="s.html#storage">storage</A> device 
+  whose information storing state may be destroyed by <A   href="r.html#reading">reading</A>, the 
+  process of restoring the device to its state prior to reading. <A   name="reynolds number"></A><A name=reynolds></A>
+  <DT><STRONG>Reynolds number (symbol R, N<sub>Re</sub>)</STRONG> 
+  <DD>(After Osborne Reynolds (1842-1912), English scientist.) A nondimensional 
+  parameter representing the ratio of the <A   href="m.html#momentum">momentum</A> 
+  forces to the <A   href="v.html#viscous">viscous</A> forces 
+  in fluid <A href="f.html#flow">flow</A>. 
+  <DD><I>In aerodynamics, the Reynolds number of fluid flow about a body is 
+  often expressed as the fraction <i>&rho; = Vl/&mu;</i> where &rho;
+  is the density of the fluid, V is its velocity, 
+  l is a characteristic dimension of the body, and 
+  &mu; is the coefficient of viscosity of the fluid. 
+  See critical Reynolds number, effective Reynolds number. As applied to the 
+  flow of gas through a circular tube the Reynolds number is a dimensionless 
+  quantity equal to the product of the gas density, &rho;
+  , in grams per cubic centimeter; times the flow 
+  velocity v, in centimeters per second; times the tube diameter, d, in 
+  centimeters; divided by the viscosity coefficient &mu;, in poises: 
+  <center>R = &rho; vd/&mu;</center> </I><A name="reynolds stresses"></A>
+  <DT><STRONG>Reynolds stresses</STRONG> 
+  <DD>In the mathematical treatment of a viscous, incompressible, homogeneous 
+  fluid in turbulent motion, terms which represent the transfer of momentum due 
+  to turbulent fluctuations. 
+  <DT><STRONG>RF (abbr)</STRONG> = radiofrequency. 
+  <DT><STRONG>Rhea</STRONG> 
+  <DD>A <A   href="s.html#satellite">satellite</A> of 
+  Saturn orbiting at a mean distance of 527,000 kilometers. 
+  <DT><STRONG>rhombic antenna</STRONG> 
+  <DD>An <A   href="a.html#antenna">antenna</A> 
+  composed of long-wire radiators comprising the sides of a rhombus. The antenna 
+  usually is terminated in an impedance. The sides of the rhombus, the angle 
+  between the sides, the elevation, and the termination are proportional to give 
+  the desired directivity. 
+  <DT><STRONG>rho-theta system</STRONG> 
+  <DD>1. Any electronic navigation system in which position is defined in terms 
+  of distance, or radius &rho; and <A   href="b.html#bearing">bearing</A> &theta; with respect to a transmitting station. Also 
+  called an <I>R-theta system. </I>
+  <DD>2. Specifically, a <A   href="p.html#polar coordinate">polar 
+  coordinate</A> navigation system providing data with sufficient accuracy to 
+  permit the use of a computer which will provide arbitrary course lines 
+  anywhere within the coverage area of the system. 
+  <DT><STRONG>ribbon parachute</STRONG> 
+  <DD>A type of parachute having a canopy consisting of an arrangement of 
+  closely spaced tapes. This parachute has high porosity with attendant 
+  stability and slight opening shock. 
+  <DT><STRONG>rice grains</STRONG> = granules. 
+  <DT><STRONG>rich</STRONG> 
+  <DD>Of a combustible mixture: having a relatively high proportion of <A   href="f.html#fuel">fuel</A> to <A   href="o.html#oxidizer">oxidizer</A>; more 
+  precisely, having a value greater than <A   href="s.html#stoichiometric">stoichiometric</A>. 
+  <A name="richardson number"></A>
+  <DT><STRONG>Richardson number (symbol N<sub>Ri</sub>)</STRONG> 
+  <DD>A nondimensional number arising in the study of shearing flows of a 
+  stratified <A   href="f.html#fluid">fluid</A>: 
+  <center>N<sub>Ri</sub> = g&beta;/(<img src="partderiv.gif">u/<img src="partderiv.gif">z)<sup>2</sup></center>
+  where <I>g </I>is the acceleration of gravity; 
+  &beta; is a representative vertical stability (commonly 
+  <img src="partderiv.gif">&theta;/&theta;<img src="partderiv.gif">z, where 
+  &theta; is potential temperature); and 
+  <img src="partderiv.gif">u/<img src="partderiv.gif">z 
+  a characteristic vertical shear. 
+  <DD><I>In Richardson's original interpretation, the Richardson number is a 
+  characteristic ratio of work done against gravitational stability to energy 
+  transferred from mean to turbulent motion. Theoretical studies have placed the 
+  critical Richardson number variously from 1/4 to 2, with instability for 
+  smaller values and stability for greater. </I><A name="right ascension"></A><A   name="right ascensions"></A>
+  <DT><STRONG>right ascension</STRONG> 
+  <DD>Angular distance east of the <A   href="v.html#vernal equinox">vernal 
+  equinox</A>; the arc of the <A   href="c.html#celestial equator">celestial 
+  equator</A>, or the angle at the celestial pole, between the <A   href="h.html#hour circle">hour circle</A> 
+  of a point on the <A   href="c.html#celestial sphere">celestial 
+  sphere</A>, measured eastward from the hour circle of the vernal equinox 
+  through 24 hours. 
+  <DD><I>Angular distance west of the vernal equinox, through 360 degrees, is 
+  sidereal hour angle. </I>
+  <DT><STRONG>rill</STRONG> 
+  <DD>(from German <I>rille </I>meaning <I>groove </I>). A deep, narrow, 
+  depression on the lunar surface which cuts across all other types of lunar 
+  topographic features. <A name="rime icing"></A>
+  <DT><STRONG>rime icing</STRONG> 
+  <DD>Rime aircraft icing is opaque, brittle, and granular. It is formed by the 
+  rapid freezing of small supercooled water droplets, allowing air to be trapped 
+  in. It is generally less hazardous than <A   href="g.html#glaze icing">glaze 
+  icing</A>, because it usually forms more slowly and is more conformal to the 
+  existing aerodynamic surface. It is the most frequent type, composing about 
+  75% of icing reports. <!--Andrew Reehorst, 1/9/98-->
+  <DT><STRONG>ring around</STRONG> 
+  <DD>Self-interrogation of a <A   href="b.html#beacon">beacon</A> due to 
+  insufficient isolation between receiver and transmitter, i.e., the beacon 
+  transmitter pulse passes through the receiver and retriggers the transmitter. 
+  <DT><STRONG>ring counter chain</STRONG> 
+  <DD>A series of <A   href="b.html#bistable elements">bistable 
+  elements</A> triggered in sequence. 
+  <DD><I>An open chain is reset by an externally applied reset pulse; a closed 
+  chain, by feedback from the last element in the chain. </I><A   name=ringwall></A>
+  <DT><STRONG>ringwall</STRONG> 
+  <DD>See <A   href="l.html#lunar crater">lunar 
+  crater</A>. 
+  <DT><STRONG>riometer</STRONG> = relative ionospheric opacity meter. 
+  <DT><STRONG>Rirti (abbr)</STRONG> 
+  <DD>Recording infrared tracking instrument. <A name="rise time"></A>
+  <DT><STRONG>rise time</STRONG> 
+  <DD>The time required for the leading edge of a <A   href="p.html#pulse">pulse</A> to rise 
+  from one-tenth of its final value to nine-tenths of its final value. Rise time 
+  is proportional to time constant. See <A   href="d.html#decay time">decay time</A>. 
+  <DT><STRONG>rizalite</STRONG> 
+  <DD>See <A   href="t.html#tektite">tektite</A>. <A   name="robitzsch actinograph"></A>
+  <DT><STRONG>Robitzsch actinograph</STRONG> 
+  <DD>A <A   href="p.html#pyranometer">pyranometer</A> 
+  developed by M. Robitzsch. Its design utilizes three bimetallic strips which 
+  are exposed horizontally at the center of a hemispherical glass bowl. The 
+  outer strips are white reflectors, and the center strip is a blackened 
+  absorber. The bimetals are joined in such a manner that the pen of the 
+  instrument deflects in proportion to the difference in temperature between the 
+  black and white strips. 
+  <DT><STRONG>rockair</STRONG> 
+  <DD>A high-altitude sounding system consisting of a small <A   href="s.html#solid-propellant">solid-propellant</A> 
+  research <A   href="r.html#rocket">rocket</A> carried 
+  aloft by an aircraft. The rocket is fired while the aircraft is in vertical 
+  ascent. <A name="rocket's"></A>
+  <DT><STRONG>rocket</STRONG> <A name=rocket></A>
+  <DD>1. A projectile, pyrotechnic device, or flying <A   href="v.html#vehicle">vehicle</A> 
+  propelled by a <A   href="r.html#rocket engine">rocket 
+  engine</A>. 
+  <DD>2. A <A   href="r.html#rocket engine">rocket 
+  engine</A>; any one of the <I>combustion </I><I>chambers </I>or tubes of a 
+  multichambered <A   href="r.html#rocket engine">rocket 
+  engine</A>. 
+  <DT><STRONG>rocket airplane</STRONG> 
+  <DD>An airplane using a rocket or rockets for its chief or only propulsion. <A   name="rocket-assisted take-off"></A>
+  <DT><STRONG>rocket-assisted take-off</STRONG> 
+  <DD>The full term for <A   href="r.html#rato">RATO</A>. 
+  <DT><STRONG>rocket booster</STRONG> 
+  <DD>A <A   href="b.html#booster">booster</A>, senses 
+  2 and 3. <A name="rocket engine"></A><A name="rocket engines"></A>
+  <DT><STRONG>rocket engine</STRONG> 
+  <DD>A <A   href="r.html#reaction engine">reaction 
+  engine</A> that contains within itself, or carries along with itself, all the 
+  substances necessary for its operation or for the consumption or combustion of 
+  its <A href="f.html#fuel">fuel</A>, not 
+  requiring intake of any outside substance and hence capable of operation in 
+  outer space. Also called <I>rocket motor. </I>
+  <DD><I>Chemical rocket engines contain or carry along their own fuel and 
+  oxidizer, usually in either liquid or solid form, and range from simple motors 
+  consisting only of a combustion chamber and exhaust nozzle to engines of some 
+  complexity incorporating, in addition, fuel and oxygen lines, pumps, cooling 
+  system, etc., and sometimes having two or more combustion chambers. 
+  Experimental rocket motors have used neutral gas, ionized gas, and plasma as 
+  propellants. See <A   href="l.html#liquid-propellant rocket engine">liquid-propellant 
+  rocket engine</A>, <A   href="s.html#solid-propellant rocket engine">solid-propellant 
+  rocket engine</A>, <A   href="i.html#ion rocket">ion rocket</A>, 
+  <A href="p.html#plasma rocket">plasma 
+  rocket</A>. </I><A name="rocket fuel"></A>
+  <DT><STRONG>rocket fuel</STRONG> 
+  <DD>A <A href="f.html#fuel">fuel</A>, 
+  either liquid or solid, developed for, or used by, a <A   href="r.html#rocket">rocket</A>. 
+  <DT><STRONG>rocket launcher</STRONG> 
+  <DD>A device for launching a <A   href="r.html#rocket">rocket</A>. See <A   href="l.html#launcher">launcher</A>. 
+  <DD><I>Rocket launchers are wheel mounted, motorized, or fixed for use on the 
+  ground; or they are mounted on aircraft, as under the wings; or they are 
+  installed below or on the decks of ships. </I><A name="rocket motor"></A>
+  <DT><STRONG>rocket motor</STRONG> = <A   href="r.html#rocket engine">rocket 
+  engine</A>. <A name="rocket nozzle"></A>
+  <DT><STRONG>rocket nozzle</STRONG> 
+  <DD>The exhaust <A   href="n.html#nozzle">nozzle</A> of a <A   href="r.html#rocket">rocket</A>. 
+  <DT><STRONG>rocket plane</STRONG> 
+  <DD>An airplane powered by <A   href="r.html#rocket engines">rocket 
+  engines.</A> <A name="rocket propellant"></A>
+  <DT><STRONG>rocket propellant (abbr RP)</STRONG> 
+  <DD>1. Any agent used for consumption or combustion in a rocket and from which 
+  the rocket derives its thrust, such as a <A   href="f.html#fuel">fuel</A>, oxidizer, 
+  additive, catalyst, or any compound or mixture of these. 
+  <DD>2. The ejected <A   href="f.html#fluid">fluid</A> in a 
+  nuclear rocket. <A name="rocket propulsion"></A>
+  <DT><STRONG>rocket propulsion</STRONG> 
+  <DD><A   href="r.html#reaction propulsion">Reaction 
+  propulsion</A> by a <A   href="r.html#rocket engine">rocket 
+  engine</A>. <A name="rocket ramjet"></A>
+  <DT><STRONG>rocket ramjet</STRONG> 
+  <DD>A <A   href="r.html#ramjet engine">ramjet 
+  engine</A> having a <A   href="r.html#rocket">rocket</A> mounted 
+  within the ramjet duct, the rocket being used to bring the ramjet up to the 
+  necessary operating speed. Sometimes called a <I>ducted rocket. </I>
+  <DT><STRONG>rocketry</STRONG> 
+  <DD>The science or study of <A   href="r.html#rockets">rockets</A>, 
+  including theory, research, development, experimentation, and application; the 
+  art or science of using rockets. 
+  <DT><STRONG>rocket ship</STRONG> 
+  <DD>An aircraft, space-air vehicle, or spacecraft using <A   href="r.html#rocket propulsion">rocket 
+  propulsion</A>. 
+  <DT><STRONG>rocket sled</STRONG> 
+  <DD>A sled that runs on a rail or rails and is accelerated to high velocities 
+  by a <A   href="r.html#rocket engine">rocket 
+  engine</A>. 
+  <DD><I>This sled is used in determining g-tolerances and for developing crash 
+  survival techniques. Rocket sleds are at Edwards Air Force Base, Holloman Air 
+  Force Base, and the Naval Ordnance Test Station. See <A   href="s.html#snort track">snort 
+  track</A>. </I><A name=rockets></A>
+  <DT><STRONG>rocketsonde</STRONG> = meteorological rocket. 
+  <DT><STRONG>rocket thrust</STRONG> 
+  <DD>The <A   href="t.html#thrust">thrust</A> of a <A   href="r.html#rocket engine">rocket 
+  engine</A> usually expressed in pounds. 
+  <DD><I>On a test stand, rocket thrust may be measured by use of strain gages, 
+  thrust-balancing pistons, dynamometers, or spring scales, each calibrated in 
+  pounds to represent the static weight moved by the engine. </I><A   name="rocket thrust chamber"></A>
+  <DT><STRONG>rocket thrust chamber</STRONG> 
+  <DD>That part of a rocket engine comprised of the <A   href="c.html#combustion chamber">combustion 
+  chamber</A> and the diverging section of the <A   href="n.html#nozzle">nozzle</A>. <A   name="rocket vehicle"></A>
+  <DT><STRONG>rocket vehicle</STRONG> 
+  <DD>A <A   href="v.html#vehicle">vehicle</A> 
+  propelled by a <A   href="r.html#rocket engine">rocket 
+  engine</A>, used to place a satellite in orbit, place a missile upon target, 
+  carry a passenger over a rail as on a rocket sled, etc. 
+  <DT><STRONG>rockoon</STRONG> 
+  <DD>A high-altitude <A   href="s.html#sounding">sounding</A> 
+  system consisting of a small <A   href="s.html#solid-propellant">solid-propellant</A> 
+  research <A   href="r.html#rocket">rocket</A> carried 
+  aloft by a large plastic balloon. 
+  <DD><I>The rocket is fired near the maximum altitude of the balloon flight. It 
+  is a relatively mobile sounding system and has been used extensively on 
+  shipboard. </I><A name=rods></A><A name=rod></A>
+  <DT><STRONG>rod</STRONG> 
+  <DD>A type of photoreceptive cell in the retina of the mammalian eye. Rods are 
+  involved in detection of movement and <A   href="s.html#scotopic vision">scotopic 
+  vision</A> (night vision). 
+  <DT><STRONG>rod threshold</STRONG> 
+  <DD>The dimmest illumination in which the <A   href="r.html#rods">rods</A> of the retina 
+  can function. <A name=roentgens></A><A name=roentgen></A>
+  <DT><STRONG>roentgen</STRONG> 
+  <DD>A unit of radiation, that quantity of X-rays or gamma rays which will 
+  produce, as a consequence of ionization, 1 electrostatic unit of electricity 
+  in 1 cubic centimeter of dry air measured at 0 degrees C and standard 
+  atmospheric pressure. <A name=roentgen-equivalent-man></A>
+  <DT><STRONG>roentgen-equivalent-man</STRONG> 
+  <DD>(abbr rem) A unit of radiation which when absorbed by a human being, 
+  produces the same effect as the absorption of 1 <A   href="r.html#roentgen">roentgen</A> of 
+  high-voltage <A   href="x.html#x-rays">X-rays</A>. <A   name=roentgen-equivalent-physical></A>
+  <DT><STRONG>roentgen-equivalent-physical </STRONG>
+  <DD>(abbr rep) A unit measuring a purely physical effect of <A   href="r.html#radiation">radiation</A> by 
+  the number of ion pairs produced per unit volume of target material per time 
+  unit. One rep is equivalent to the absorption of 93 erfs per gram of tissue. 
+  <DT><STRONG>Roentgen ray</STRONG> = X-ray. <A name=roll></A>
+  <DT><STRONG>roll</STRONG> 
+  <DD>1. The act of rolling; rotational or oscillatory movement of an aircraft 
+  or similar body about a <A   href="l.html#longitudinal axis">longitudinal 
+  axis</A> through the body - called <I>roll </I>for any degree of such 
+  rotation. 
+  <DD>2. The amount of this movement, i.e., the angle of roll. 
+  <DT><STRONG>roll axis</STRONG> 
+  <DD>A <A   href="l.html#longitudinal axis">longitudinal 
+  axis</A> through an aircraft, rocket, or similar body, about which the body 
+  rolls. 
+  <DD><I>A roll axis may be a body, wind, or stability axis, or any other 
+  lengthwise axis. </I>
+  <DT><STRONG>rolling axis</STRONG> = roll axis. 
+  <DT><STRONG>rolling moment</STRONG> 
+  <DD>A <A href="m.html#moment">moment</A> 
+  that tends to rotate an aircraft, a rocket, etc., about a <A   href="l.html#longitudinal axis">longitudinal 
+  axis</A>. This moment is considered positive when it tends to depress the 
+  starboard side of the body. 
+  <DT><STRONG>roll out</STRONG> 
+  <DD>In computer terminology, to read out of a <A   href="s.html#storage">storage</A> device 
+  by simultaneously increasing by one the value of the digit in each column and 
+  repeating this <I>r </I>times (where <I>r </I>is the radix) and, at the 
+  instant the representation changes from ( <I>r - 1</I>) to zero: generating a 
+  particular <A   href="s.html#signal">signal</A>, or 
+  terminating a sequence of signals, or originating a sequence of signals. 
+  <DT><STRONG>Romotar (abbr) </STRONG>= range-only measurement of trajectory and 
+  recording. 
+  <DT><STRONG>root chord</STRONG> 
+  <DD>In aerodynamics, the <A   href="c.html#chord">chord</A> of a 
+  lifting surface at the intersection of that surface with its supporting body, 
+  e.g., <I>wing root chord. </I><A name="root-mean-square error"></A>
+  <DT><STRONG>root-mean-square error (symbol &sigma;)</STRONG> 
+  <DD>In statistics, the square root of the <A   href="a.html#arithmetic">arithmetic</A> 
+  mean of the squares of the deviations of the various items from the arithmetic 
+  mean of the whole. Also termed <I>standard deviation. </I>
+  <DT><STRONG>root-mean-square sound pressure = effective sound 
+  pressure.</STRONG> 
+  <DT><STRONG>rope</STRONG> 
+  <DD>Code name for <A   href="w.html#window">window</A>, sense 2. 
+  <A name=rotate></A>
+  <DT><STRONG>rotate</STRONG> 
+  <DD>To turn about an internal axis. Said especially of <A   href="c.html#celestial bodies">celestial 
+  bodies</A>. Hence <A   href="r.html#rotation">rotation</A>. 
+  Compare <A   href="r.html#revolve">revolve</A>. 
+  <DT><STRONG>rotating cylinder gage</STRONG> 
+  <DD>A type of <A   href="m.html#molecular drag gage">molecular 
+  drag gage</A>. 
+  <DT><STRONG>rotating disk gage</STRONG> 
+  <DD>A type of <A   href="m.html#molecular drag gage">molecular 
+  drag gage</A>. 
+  <DT><STRONG>rotating Reynolds number</STRONG> 
+  <DD>A nondimensional number arising in problems of a rotating viscous <A   href="f.html#fluid">fluid</A>. Also 
+  called <I>rotation Reynolds number. </I>
+  <DD><I>It may appear either as &Omega;<i>h<sup>2</sup>/v</i> in which case it equals one-half the square root 
+  of the Taylor number, or as &Omega;r<sup>2</sup>/v where r is a suitable radius, h is a 
+  representative depth, &Omega is the absolute angular speed, and v is the 
+  kinematic viscosity. </I><A name=rotation></A>
+  <DT><STRONG>rotation</STRONG> 
+  <DD>1. Turning of a body about an axis within the body, as the <I>daily 
+  rotation of the earth. </I>See <A   href="r.html#revolution">revolution</A>. 
+  <DD>2. One turn of a body about an internal axis, as <I>a rotation of the 
+  earth. </I>
+  <DT><STRONG>rotational speed (symbol n)</STRONG> 
+  <DD>Revolutions per unit time. 
+  <DT><STRONG>rotational wave</STRONG> = shear wave. 
+  <DT><STRONG>rotation Reynolds number</STRONG> = rotating Reynolds number. 
+  <DT><STRONG>Roti (abbr)</STRONG> 
+  <DD>Recording optical tracking instrument. <A name=rotor></A>
+  <DT><STRONG>rotor</STRONG> 
+  <DD>See <A href="g.html#gyro">gyro</A>. 
+  <DT><STRONG>rotor angular momentum </STRONG>
+  <DD>(symbol H) Of a <A   href="g.html#gyro">gyro</A>, the product 
+  of spin <A   href="a.html#angular velocity">angular 
+  velocity</A> and <A   href="r.html#rotor moment of inertia">rotor 
+  moment of inertia</A>, usually expressed in gram centimeters squared per 
+  second. It is a measure of the ability of a gyrorotor to maintain the <A   href="s.html#spin axis">spin axis</A> 
+  fixed in space. <A name="rotor moment of inertia"></A>
+  <DT><STRONG>rotor moment of inertia</STRONG> 
+  <DD>The <A   href="m.html#moment of inertia">moment of 
+  inertia</A> of a <A   href="g.html#gyro">gyro</A> rotor about 
+  its <A href="s.html#spin axis">spin 
+  axis</A>. 
+  <DT><STRONG>rounding error</STRONG> 
+  <DD>In computations, the error resulting from deleting the less significant <A   href="d.html#digits">digits</A> of a 
+  quantity and applying some rule of correction to the part retained. Also 
+  called <I>round-off error. </I>
+  <DT><STRONG>round off</STRONG> 
+  <DD>To delete less significant <A   href="d.html#digits">digits</A> from a 
+  number and possible apply some rule of correction to the part retained. 
+  <DT><STRONG>round-off error </STRONG>= rounding error. <A name=routine></A><A   name=routines></A>
+  <DT><STRONG>routine</STRONG> 
+  <DD>A set of <A   href="i.html#instructions">instructions</A> 
+  arranged in proper sequence to cause a <A   href="c.html#computer">computer</A> to 
+  perform a desired operation, such as the solution of a mathematical problem. 
+  <A name=rp></A>
+  <DT><STRONG>RP (abbr)</STRONG> = rocket propellant. 
+  <DD>Used with a number in designations of different propellants, as in <I>RP-1 
+  </I>. 
+  <DT><STRONG>RP-1</STRONG> 
+  <DD>A rocket <A   href="f.html#fuel">fuel</A> consisting 
+  essentially of kerosene. 
+  <DT><STRONG>R-theta system</STRONG> = rho-theta system. 
+  <DT><STRONG>R-T unit</STRONG> 
+  <DD>The receiver-transmitter portion of a <A   href="r.html#radar beacon">radar 
+  beacon</A> system. 
+  <DT><STRONG>rubber-base propellant</STRONG> 
+  <DD>A <A   href="s.html#solid propellant">solid 
+  propellant</A> mixture in which the oxygen supply is obtained from a 
+  perchlorate and the fuel is provided by a synthetic rubber latex. 
+  <DT><STRONG>rumble</STRONG> 
+  <DD>A form of <A   href="c.html#combustion instability">combustion 
+  instability</A>, especially in a <A   href="l.html#liquid-propellant rocket engine">liquid-propellant 
+  rocket engine</A>, characterized by a low-pitched, low-frequency rumbling 
+  noise; the noise made in this kind of combustion. 
+  <DT><STRONG>rupture disk</STRONG> = burst disk. </DT>

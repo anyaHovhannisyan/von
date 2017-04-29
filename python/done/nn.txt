@@ -1,0 +1,767 @@
+<DT><STRONG>NACA (abbr)</STRONG> 
+  <DD>National Advisory Committee for Aeronautics. The predecessor of NASA. 
+  <DT><STRONG>NACA Standard Atmosphere</STRONG> 
+  <DD>See <A   href="s.html#standard atmosphere">standard 
+  atmosphere</A>. <A name=nadir></A>
+  <DT><STRONG>nadir</STRONG> 
+  <DD>That point on the <A   href="c.html#celestial sphere">celestial 
+  sphere</A> vertically below the observer, or 180 degrees from the <A   href="z.html#zenith">zenith</A>. 
+  <DT><STRONG>nano (abbr n)</STRONG> 
+  <DD>A prefix meaning multiplied by 10<SUP>-9</SUP>. <A name=nanosecond></A>
+  <DT><STRONG>nanosecond (abbr nsec)</STRONG> 
+  <DD>10E-9 second. Also called <I>millimicrosecond. </I>
+  <DT><STRONG>Napierian base</STRONG> 
+  <DD>The logarithmic base, e. 
+  <DT><STRONG>NASA (abbr)</STRONG> 
+  <DD>National Aeronautics and Space Administration. 
+  <DT><STRONG>NASC (abbr)</STRONG> 
+  <DD>National Aeronautics and Space Council. <A name="natural coordinates"></A>
+  <DT><STRONG>natural coordinates</STRONG> 
+  <DD>An orthogonal, or mutually perpendicular, system of curvilinear 
+  coordinates for the description of fluid motion, consisting of an axis T 
+  tangent to the instantaneous velocity vector and an axis N normal to this 
+  velocity vector to the left in the horizontal plane, to which a vertically 
+  directed axis Z may be added for the description of three-dimensional flow. <A   name="natural frequency"></A>
+  <DT><STRONG>natural frequency</STRONG> 
+  <DD>1. The frequency of <A   href="f.html#free oscillation">free 
+  oscillation</A> of a system. For a multiple-degree-of-freedom system, the 
+  natural frequencies are the frequencies of the normal <A   href="m.html#modes">modes</A> of 
+  vibration. 
+  <DD>2. The undamped <A   href="r.html#resonance frequency">resonance 
+  frequency</A> of a physical system. It is expressed in cycles per unit time. 
+  The system may be mechanical, pneumatic, or electrical. 
+  <DT><STRONG>natural mode </STRONG>= normal mode of vibration. 
+  <DT><STRONG>natural year </STRONG>= tropical year. 
+  <DT><STRONG>nausea</STRONG> 
+  <DD>A feeling of discomfort in the region of the stomach, with aversion to 
+  food and a tendency to vomit. <A name="nautical almanac"></A>
+  <DT><STRONG>Nautical Almanac</STRONG> 
+  <DD>An annual publication of the U.S. Naval Observatory and H. M. Nautical 
+  Almanac Office, Royal Greenwich Observatory, listing the Greenwich hour angle 
+  and declination of various <A   href="c.html#celestial bodies">celestial 
+  bodies</A> to a precision of 0.1 minute of arc at hourly intervals; time of 
+  sunrise, sunset, moonrise, moonset; and other astronomical information useful 
+  to navigators. Prior to 1960 separate publications were issued by the two 
+  observatories entitled the <I>American Nautical Almanac </I>and the 
+  <I>Abridged Nautical Almanac. </I>See <A   href="a.html#american ephemeris and nautical almanac">American 
+  Ephemeris and Nautical Almanac</A>. <A name="nautical mile"></A>
+  <DT><STRONG>nautical mile</STRONG> 
+  <DD>A unit of distance used principally in navigation. For practical 
+  navigation it is usually considered the length of 1 minute of any <A   href="g.html#great circle">great 
+  circle</A> of the earth, the <A   href="m.html#meridian">meridian</A> being 
+  the great circle most commonly used. Also called <I>sea mile. </I>
+  <DD><I>Because of various lengths of the nautical mile in use throughout the 
+  world, due to differences in definition and the assumed size and shape of the 
+  earth, the International Hydrographic Bureau in 1929 proposed a standard 
+  length of 1852 meters, which is known as the international nautical mile. This 
+  has been adopted by nearly all maritime nations. The U.S. Departments of 
+  Defense and Commerce adopted this value on July 1, 1954. With the yard-meter 
+  relationship then in use, the international nautical mile was equivalent to 
+  6076.10333 feet. Using the yard-meter conversion factor effective July 1, 
+  1959, the international nautical mile is equivalent to 6076.11549 
+  international feet. </I>
+  <DT><STRONG>nautical twilight</STRONG> 
+  <DD>That period when the <A   href="u.html#upper limb">upper limb</A> 
+  of the sun is below the visible <A   href="h.html#horizon">horizon</A> and the 
+  center of the sun is not more than 12 degrees below the celestial horizon. 
+  <DT><STRONG>nautical year</STRONG> = tropical year. <A   name="navier-stokes equations"></A>
+  <DT><STRONG>Navier-Stokes equations</STRONG> 
+  <DD>The <A   href="e.html#equations of motion">equations 
+  of motion</A> for a <A   href="v.html#viscous fluid">viscous 
+  fluid</A> which may be written 
+  <center><img src="navstoke.gif"></center>
+  where <I>p </I>is the pressure; &rho; is the density; <I>t </I>is the time; <I>F 
+  </I>is the total external force; <I>N </I>is the fluid velocity; and <I>v 
+  </I>is the kinematic viscosity. For an incompressible fluid, the term in 
+  <img src="del.gif" align=center> <sup>.</sup> N (divergence) vanishes and the effects of 
+  viscosity then play a role analogous to that of temperature in thermal 
+  conduction and to that of density in simple diffusion. See <A   href="v.html#viscosity">viscosity</A>, <A   href="e.html#ekman spiral">Ekman 
+  spiral</A>. 
+  <DD><I>Solutions of the Navier-Stokes equations have been obtained only in a 
+  limited number of special cases. The equations are derived on the basis of 
+  certain simplifying assumptions concerning the stress tensor of the fluid; in 
+  one dimension they represent the assumption referred to as the Newtonian 
+  friction law. </I><A name=navigation></A>
+  <DT><STRONG>navigation</STRONG> 
+  <DD>The practice or art of directing the movement of a craft from one point to 
+  another. 
+  <DD><I>Navigation usually implies the presence of a human, a navigator, aboard 
+  the craft. Compare <A   href="g.html#guidance">guidance</A>. </I>
+  <DT><STRONG>navigational planets</STRONG> 
+  <DD>The four <A   href="p.html#planets">planets</A> 
+  commonly used in celestial surface and air navigation: Venus, Mars, Jupiter, 
+  and Saturn. <A name="navigational stars"></A>
+  <DT><STRONG>navigational stars</STRONG> 
+  <DD>The 57 stars included in the main listing of the <I>Nautical Almanac 
+  </I>and Polaris. 
+  <DD><I>The navigational stars include almost all of the stars with common 
+  names. See table VII. </I><A name="navigational triangle"></A>
+  <DT><STRONG>navigational triangle</STRONG> 
+  <DD>The spherical triangle solved in computing <A   href="a.html#altitude">altitude</A> and 
+  <A href="a.html#azimuth">azimuth</A>. See 
+  <A   href="c.html#celestial triangle">celestial 
+  triangle</A>. 
+  <DD><I>The celestial triangle is formed on the celestial sphere by the great 
+  circles connecting the elevated pole, zenith of the assumed position of the 
+  observer, and a celestial body. The terrestrial triangle is formed on the 
+  earth by the great circles connecting the pole and two places on the earth. 
+  The term astronomical triangle applies to either the celestial or terrestrial 
+  triangle used for solving celestial observations. </I>
+  <DT><STRONG>navigation dome</STRONG> = astrodome. 
+  <DT><STRONG>N-display</STRONG> 
+  <DD>In radar, a display similar to the <A   href="k.html#k-display">K-display</A> in 
+  which the <A   href="t.html#target">target</A> appears 
+  as a pair of vertical deflections or <A   href="b.html#blips">blips</A> from the 
+  horizontal time base. Direction is indicated by the relative amplitude of the 
+  vertical deflections; target distance is determined by moving an adjustable 
+  signal along the baseline until it coincides with the horizontal position of 
+  the vertical deflections. The horizontal control is calibrated in distance. 
+  Also called <I>N-scan, N-scope, N-indicator. </I>
+  <DT><STRONG>negative acceleration</STRONG><DFN> = deceleration. </DFN>
+  <DT><STRONG>negative altitude</STRONG> 
+  <DD>See <A   href="a.html#altitude">altitude</A>. 
+  <DT><STRONG>negative divergence </STRONG>= convergence. 
+  <DT><STRONG>negative feedback</STRONG> 
+  <DD>Feedback which results in decreasing the amplification. <A   name="negative g"></A>
+  <DT><STRONG>negative g</STRONG> 
+  <DD>In designating the direction of acceleration on a body, the opposite of 
+  <I>positive g </I>, for example, the effect of flying an outside loop in the 
+  upright seated position. See <A   href="p.html#physiological acceleration">physiological 
+  acceleration</A>. 
+  <DT><STRONG>negative temperature coefficient</STRONG> 
+  <DD>1. The partial derivative of any physical variable with respect to 
+  temperature, when the value of the variable decreases as temperature 
+  increases. 
+  <DD>2. The decrease in reactivity of a nuclear <A   href="r.html#reactor">reactor</A> with 
+  increase in temperature. 
+  <DD><I>Increasing temperature within the reactor increases the average neutron 
+  energy. Since the cross section of the fissionable material decrease with 
+  increased neutron energy, the net effect of increased temperature is to 
+  decrease the number of fissions. </I>
+  <DT><STRONG>negaton</STRONG> 
+  <DD>Variant spelling <I>negatron. </I>See <A   href="e.html#electron">electron</A>. 
+  <DT><STRONG>negatron</STRONG> 
+  <DD>A negative electron. Sometimes shortened to <I>negaton. </I>See <A   href="e.html#electron">electron</A>. 
+  <DT><STRONG>negentropy </STRONG>= average information content. 
+  <DT><STRONG>neper (abbr n)</STRONG> 
+  <DD>A measure of power equal to one-half the <I>Napierian logarithm 
+  </I>(logarithm to the base <I>e </I>) of the power ratio. 1 neper is equal to 
+  8.686 <A   href="d.html#decibels">decibels</A>. 
+  <DD><I>Under certain conditions the neper is a measure of the ratio of 
+  amplitudes of such physical quantities as voltage, current, particle 
+  velocities, and sound pressure. The neper is not commonly used in 
+  English-speaking countries. </I><A name=nephelometer></A>
+  <DT><STRONG>nephelometer</STRONG> 
+  <DD>1. General name for instruments which measure, at more than one angle, the 
+  <A   href="s.html#scattering">scattering</A> 
+  function of particles suspended in a medium. Information obtained from such 
+  instruments may be used to determine the size of the suspended particles an 
+  the visual range through the medium. 
+  <DD>2. An instrument for chemical analysis by measuring the light-scattering 
+  properties of a <A   href="s.html#suspension">suspension</A>. 
+  <DD>3. = <A   href="n.html#nephometer">nephometer</A>. 
+  See <A   href="v.html#visibility meter">visibility 
+  meter</A>. 
+  <DT><STRONG>nephelometry</STRONG> 
+  <DD>1. The study of <A   href="s.html#suspensoids">suspensoids</A> 
+  by means of light-scattering techniques. See <A   href="n.html#nephelometer">nephelometer</A>. 
+
+  <DD>2. The study of the scattering properties of small samples of air and its 
+  suspensoids. 
+  <DD>3. Chemical analysis by use of the nephelometer. 
+  <DT><STRONG>nepheloscope</STRONG> 
+  <DD>1. An instrument for demonstrating the temperature changes which occur in 
+  air that is rapidly expanded or compressed. 
+  <DD>2. A laboratory instrument for the production of clouds by the 
+  condensation process. 
+  <DD>3. = <A   href="n.html#nephoscope">nephoscope</A>. 
+  <A name=nephometer></A>
+  <DT><STRONG>nephometer</STRONG> 
+  <DD>A general term for instruments designed to measure the amount of 
+  cloudiness. An early type consists of a convex hemispherical mirror mapped 
+  into six parts. The amount of cloud coverage on the mirror is noted by the 
+  observer. Also called <I>nephelometer. </I>Compare nephoscope. <A   name=nephoscope></A>
+  <DT><STRONG>nephoscope</STRONG> 
+  <DD>An instrument for determining the direction of cloud motion. There are two 
+  basic designs of nephoscope: the direct-vision nephoscope and the mirror 
+  nephoscope. Also called <I>nepheloscope. </I>
+  <DT><STRONG>Neptune</STRONG> 
+  <DD>See <A   href="p.html#planet">planet</A>, table. 
+  <DT><STRONG>Nereid</STRONG> 
+  <DD>A <A   href="s.html#satellite">satellite</A> of 
+  Neptune orbiting at a mean distance of 5,570,000 kilometers. 
+  <DT><STRONG>net radiation factor</STRONG> 
+  <DD>The fraction of the total <A   href="e.html#energy">energy</A> emitted 
+  by one surface or volume that is absorbed by another surface or volume 
+  directly and indirectly. <A name="net thrust"></A>
+  <DT><STRONG>net thrust</STRONG> 
+  <DD>The gross <A   href="t.html#thrust">thrust</A> of a jet 
+  engine minus the <A   href="d.html#drag">drag</A> due to the <A   href="m.html#momentum">momentum</A> of 
+  the incoming air. <A name=network></A>
+  <DT><STRONG>network</STRONG> 
+  <DD>1. A combination of <A   href="e.html#electrical elements">electrical 
+  elements</A>. 
+  <DD>2. A group of parts or systems combined to provide a closed information 
+  loop, i.e., one that provides for inquiry or command, response, and 
+  interpretation of response in relation to inquiry or command. 
+  <DT><STRONG>neurology</STRONG> 
+  <DD>The study of the anatomy, physiology, and pathology of the nervous system. 
+
+  <DT><STRONG>neuromuscular</STRONG> 
+  <DD>Pertaining jointly to nerves and muscles, as <I>neuromuscular junction. 
+  </I>
+  <DT><STRONG>neutral</STRONG> 
+  <DD>Without an electrical charge; neither positive nor negative. 
+  <DT><STRONG>neutral line </STRONG>= Busch lemniscate. 
+  <DT><STRONG>neutral point</STRONG> 
+  <DD>1. In atmospheric optics, one of several points in the sky for which the 
+  degree of <A   href="p.html#polarization">polarization</A> 
+  of <A   href="d.html#diffuse sky radiation">diffuse 
+  sky radiation</A> is zero. 
+  <DD><I>In an ideal Rayleigh atmosphere there would be just two such points, 
+  the solar point and the antisolar point. Because of effects of multiple 
+  scattering and because of the action of scattering particles larger than 
+  molecules, the actual atmosphere is typically found to have quite different 
+  neutral points. In the vertical plane containing the observer's zenith and the 
+  sun, three neutral points are commonly found: the <A   href="a.html#arago point">Arago 
+  point</A>, the <A   href="b.html#babinet point">Babinet 
+  point</A>, and the <A   href="b.html#brewster point">Brewster 
+  point</A>. </I>
+  <DD>2. In aircraft, that location of the center of gravity at which the 
+  aircraft would exhibit neutral aerodynamic stability. 
+  <DD>3. = <A   href="l.html#lagrangian point">Lagrangian 
+  point</A>. 
+  <DT><STRONG>neutrino</STRONG> 
+  <DD>A <A   href="s.html#subatomic particle">subatomic 
+  particle</A> of zero, or near zero, rest mass, having no electric charge, 
+  postulated by Fermi (1934) in order to explain apparent contradictions to the 
+  law of conservation of energy in beta-particle emission. 
+  <DD><I>According to Fermi theory, the atomic nucleus in beta decay releases 
+  energy partly in the form of electrons (beta particles) and partly in the form 
+  of neutrinos. </I><A name=neutron></A><A name=neutrons></A>
+  <DT><STRONG>neutron</STRONG> 
+  <DD>A <A   href="s.html#subatomic particle">subatomic 
+  particle</A> with no electric charge, and with a mass of 1.67482 X 10E-24 
+  gram. 
+  <DD><I><A   href="p.html#protons">Protons</A> and 
+  neutrons comprise atomic nuclei; and they are both classed as nucleons. </I><A   name="neutron flux"></A>
+  <DT><STRONG>neutron flux</STRONG> 
+  <DD>The sum of the distances traveled by all the <A   href="n.html#neutrons">neutrons</A> in 1 
+  cubic centimeter in 1 second. Normally the figure must be energy qualified, 
+  e.g., thermal, intermediate, or fast neutron flux. <A name=neutrosphere></A>
+  <DT><STRONG>neutrosphere</STRONG> 
+  <DD>The <A   href="a.html#atmospheric shell">atmospheric 
+  shell</A> from the earth's surface upward in which the atmospheric 
+  constituents are for the most part not ionized, i.e., it is electrically 
+  neutral. 
+  <DD><I>The region of transition between the neutrosphere and the ionosphere is 
+  somewhere between 70 and 90 kilometers, depending on latitude and season. </I>
+  <DT><STRONG>Newcomb tables of the sun</STRONG> 
+  <DD>See <A   href="e.html#ephemeris time">ephemeris 
+  time</A>. <A name="new moon"></A>
+  <DT><STRONG>new moon</STRONG> 
+  <DD>The moon at <A   href="c.html#conjunction">conjunction</A>, 
+  when little or none of it is visible to an observer on the earth because the 
+  illuminated side is away from him. Also called <I>change of the moon. </I>See 
+  <A   href="p.html#phases of the moon">phases 
+  of the moon</A>. <A name=newtons></A><A name=newton></A>
+  <DT><STRONG>newton</STRONG> 
+  <DD>The unit of force in the <A   href="m.html#mksa system">MKSA 
+  system</A>; that force which gives to a mass of 1 kilogram an acceleration of 
+  1 meter per second squared. 
+  <DT><STRONG>Newton equations of motion</STRONG> = Newton laws of motion. 
+  <DT><STRONG>Newton formula for the stress</STRONG> = Newtonian friction law. 
+  <DT><STRONG>Newtonian friction law</STRONG> 
+  <DD>The statement that the tangential force (i.e., the force in the direction 
+  of the <A href="f.html#flow">flow</A>) 
+  per unit area acting at an arbitrary level within a <A   href="f.html#fluid">fluid</A> contained 
+  between two rigid horizontal plates, one of which is motionless and the other 
+  of which is in steady motion, is proportional to the shear of the fluid motion 
+  at that level. Mathematically, the law is given by <i><center>&Tau; = &mu;(
+  <img src="partderiv.gif">u / <img src="partderiv.gif">z)</center></i>
+  where &Tau; is the tangential force per unit area, usually 
+  called the shearing stress; &mu; is a constant of proportionally called the 
+  dynamic viscosity; and <img src="partderiv.gif">u/<img src="partderiv.gif">z is the shear of the fluid flow normal to the 
+  resting plate. Also called <I>Newton formula for the stress. </I><A   name="newtonian mechanics"></A>
+  <DT><STRONG>Newtonian mechanics</STRONG> 
+  <DD>The system of mechanics based upon <A   href="n.html#newton laws of motion">Newton 
+  laws of motion</A> in which <A   href="m.html#mass">mass</A> and <A   href="e.html#energy">energy</A> are 
+  considered as separate, conservative, mechanical properties, in contrast to 
+  their treatment in relativistic mechanics. <A   name="newtonian speed of sound"></A>
+  <DT><STRONG>Newtonian speed of sound</STRONG> 
+  <DD>An approximation to the speed of sound <i>a</i> in a <A   href="p.html#perfect gas">perfect gas</A> 
+  given by the relation <center><i>a<sup>2</sup> = p / &rho;</i></center> where <A   href="p.html#p">p</A> is pressure and &rho; is density. Compare <A   href="l.html#laplacian speed of sound">Laplacian 
+  speed of sound</A>. See <A   href="a.html#acoustic velocity">acoustic 
+  velocity</A>. 
+  <DD><I>Newton derived this expression by assuming the propagation of sound to 
+  be an isothermal process. It leads to values about 16 percent below those 
+  observed. </I><A name="newtonian telescope"></A>
+  <DT><STRONG>Newtonian telescope</STRONG> 
+  <DD>A <A   href="r.html#reflecting telescope">reflecting 
+  telescope</A> in which a small plane mirror reflects the convergent beam from 
+  the objective to an eyepiece at one side of the telescope. After the second 
+  reflection the rays travel approximately perpendicular to the longitudinal 
+  axis of the telescope. See <A   href="c.html#cassegrain telescope">Cassegrain 
+  telescope</A>. <A name="newtonian universal constant of gravitation"></A>
+  <DT><STRONG>Newtonian universal constant of gravitation</STRONG> = 
+  gravitational constant. 
+  <DT><STRONG>Newton law of cooling</STRONG> 
+  <DD>See thermal conductivity. <A name="newton law of gravitation"></A>
+  <DT><STRONG>Newton law of gravitation</STRONG> 
+  <DD>Every particle of matter in the universe attracts every other particle 
+  with a force, F, acting along the line joining the two particles, proportional 
+  to the product of the masses M and m of the particles and inversely proportional to 
+  the square of the distance r between the particles, or F = G(M * m) / r<sup>2</sup>,
+  where G = gravitational constant. <A   name="newton laws of motion"></A>
+  <DT><STRONG>Newton laws of motion</STRONG> 
+  <DD>A set of three fundamental postulates forming the basis of the mechanics 
+  of rigid bodies, formulated by Newton in 1687. 
+  <DD><I>The first law is concerned with the principle of inertia and states 
+  that if a body in motion is not acted upon by an external force, its momentum 
+  remains constant (law of conservation of momentum). The second law asserts 
+  that the rate of change of momentum of a body and is in the direction of the 
+  applied force. A familiar statement of this is the equation F = ma where F is 
+  vector sum of the applied forces, m is the mass, and a is the vector 
+  acceleration of the body. The third law is the principle of action and 
+  reaction, stating that for every force acting upon a body there exists a 
+  corresponding force of the same magnitude exerted by the body in the opposite 
+  direction. </I>
+  <DT><STRONG>N-indicator</STRONG> = N-display. 
+  <DT><STRONG>nitrogen cycle</STRONG> 
+  <DD>The exchange of nitrogen between animals and plants, in which plants 
+  convert urea or nitrates to protein, animals digest protein and excrete its 
+  nitrogen content an urea, which is taken up again by plants. 
+  <DT><STRONG>nitrogen desaturation</STRONG> 
+  <DD>The reduction of the nitrogen content of the tissues of the body by 
+  breathing gases not containing nitrogen. 
+  <DT><STRONG>noctilucent clouds</STRONG> 
+  <DD>Clouds of unknown composition which occur at great heights, 75 to 90 
+  kilometers. They resemble thin cirrus, but usually with a bluish or silverish 
+  color, although sometimes orange to red, standing out against a dark night 
+  sky. Sometimes called <I>luminous clouds. </I>
+  <DD><I>These clouds have been seen rarely, and then only during twilight, 
+  especially with the sun between 5 and 13 degrees below the horizon; they have 
+  been observed only during summer months in both hemispheres (between latitudes 
+  50 to 75 degrees N and 40 to 60 degrees S), and only in some parts of these 
+  latitude belts. </I>
+  <DT><STRONG>nocturnal radiation </STRONG>= effective terrestrial radiation. 
+  <DT><STRONG>nodal point</STRONG> = node. <A name=node></A><A name=nodes></A>
+  <DT><STRONG>node</STRONG> 
+  <DD>1. One of the two points of intersection of the <A   href="o.html#orbit">orbit</A> of a 
+  planet, planetoid, or comet with the <A   href="e.html#ecliptic">ecliptic</A>, or 
+  of the orbit of a <A   href="s.html#satellite">satellite</A> 
+  with the plane of the orbit of its <A   href="p.html#primary">primary</A>. Also 
+  called <I>nodal point. </I>See <A   href="r.html#regression of the nodes">regression 
+  of the nodes</A>. 
+  <DD><I>That point at which the body crosses to the north side of the reference 
+  plane is called the ascending node; the other, the descending node. The line 
+  connecting the nodes is called line of nodes. </I>
+  <DD>2. A point, line, or surface in a <A   href="s.html#standing wave">standing 
+  wave</A> where some characteristic of the wave field has essentially zero 
+  amplitude. 
+  <DD><I>The appropriate modifier should be used before the word node to signify 
+  the type that is intended; e.g., displacement node, velocity node, pressure 
+  node. </I>
+  <DD>3. A terminal of any branch of a network or a terminal common to two or 
+  more branches of a network. Also called <I>junction point, branch point </I>, 
+  or <I>vertex. </I>
+  <DT><STRONG>nodical month</STRONG> = dracontic month. <A   name="nodical period"></A>
+  <DT><STRONG>nodical period</STRONG> 
+  <DD>The interval between successive passages of a <A   href="s.html#satellite">satellite</A> 
+  through the <A   href="a.html#ascending node">ascending 
+  node</A>. <A name=noise></A>
+  <DT><STRONG>noise</STRONG> 
+  <DD>1. Any undesired <A   href="s.html#sound">sound</A>. By 
+  extension, noise is any unwanted disturbance within a useful frequency band, 
+  such as undesired electric waves in a transmission channel or device. 
+  <DD><I>When caused by natural electrical discharges in the atmosphere, noise 
+  may be called static. </I>
+  <DD>2. An erratic, intermittent, or statistically random <A   href="o.html#oscillation">oscillation</A>. 
+
+  <DD>3. In electrical circuit analysis, that portion of the unwanted <A   href="s.html#signal">signal</A> which is 
+  statistically random, as distinguished from hum, which is an unwanted signal 
+  occurring at multiples of the power-supply frequency. 
+  <DD><I>If ambiguity exists as to the nature of the noise, a phrase such as 
+  acoustic noise or electric noise should be used. Since the above definition 
+  are not mutually exclusive, it is usually necessary to depend on context for 
+  the distinction. See <A   href="w.html#white noise">white 
+  noise</A>. </I><A name="noise level"></A>
+  <DT><STRONG>noise level</STRONG> 
+  <DD>See <A href="l.html#level">level</A>. 
+
+  <DT><STRONG>nonadiabatic process</STRONG> 
+  <DD>See <A   href="d.html#diabatic process">diabatic 
+  process</A>. 
+  <DT><STRONG>noncoherent echo</STRONG> 
+  <DD>See <A   href="c.html#coherent echo">coherent 
+  echo</A>. 
+  <DT><STRONG>noncondensable gas</STRONG> 
+  <DD>A gas whose temperature is above its <A   href="c.html#critical temperature">critical 
+  temperature</A>, so that it cannot be liquefied by increase of pressure alone. 
+  <A name="nondimensional number"></A>
+  <DT><STRONG>nondimensional number</STRONG> 
+  <DD>A pure number not involving any physical dimensions, e.g., a ratio of two 
+  velocities or two lengths. 
+  <DD><I>Such numbers are fundamental descriptive quantities of a physical 
+  system. Nondimensional numbers involving several variables often are 
+  interpreted as estimates of characteristics velocity ratios, force ratios, 
+  heat transfer ratios, frequency ratios, etc. Usually several different ratio 
+  interpretations are possible and useful for the same number. (See <A   href="m.html#mach number">Mach 
+  number</A>, <A   href="r.html#reynolds number">Reynolds 
+  number</A>, <A   href="b.html#boussinesq">Boussinesq 
+  number</A>, <A   href="c.html#cauchy number">Cauchy 
+  number</A>, <A   href="p.html#prandtl number">Prandtl 
+  number</A>, <A   href="p.html#peclet number">Peclet 
+  number</A>, <A   href="r.html#rayleigh number">Rayleigh 
+  number</A>, <A   href="s.html#strouhal number">Strouhal 
+  number</A>, <A   href="r.html#richardson number">Richardson 
+  number</A>, <A   href="n.html#nusselt number">Nusselt 
+  number</A>, <A   href="g.html#grashof number">Grashof 
+  number</A>, <A   href="t.html#taylor number">Taylor 
+  number</A>, <A   href="f.html#froude number">Froude 
+  number</A>.) </I>
+  <DT><STRONG>nondimensional parameter</STRONG> 
+  <DD>Any parameter of a problem which has the dimensions of a pure number, 
+  usually rendered so deliberately. See <A   href="n.html#nondimensional number">nondimensional 
+  number</A>. 
+  <DT><STRONG>nonimpinging injector</STRONG> 
+  <DD>An <A   href="i.html#injector">injector</A> used 
+  in rocket engines which employs parallel streams of propellant usually 
+  emerging normal to the face of the injector. 
+  <DD><I>In this injector, mixing is usually obtained by turbulence and 
+  diffusion. The V-2 used a nonimpinging injector. </I>
+  <DT><STRONG>nonlinear damping</STRONG> 
+  <DD>Damping due to a damping <A   href="f.html#force">force</A> that is not 
+  proportional to <A   href="v.html#velocity">velocity</A>. 
+  <DD><I>The words force and velocity should be treated in the generalized 
+  sense. For example, they can be replaced by voltage and current, respectively. 
+  </I>
+  <DT><STRONG>nonlinear distortion</STRONG> 
+  <DD><A   href="d.html#distortion">Distortion</A> 
+  caused by a deviation from a proportional relationship between specified 
+  measures of the output and input of a system. 
+  <DD><I>The related measures need not be output and input values of the same 
+  quantity; e.g., in a linear detector, the desired relation is between the 
+  output signal voltage and the input modulation envelope. </I>
+  <DT><STRONG>nonvolatile</STRONG> 
+  <DD>Of a <A   href="c.html#computer">computer</A> or 
+  computer component. The ability to retain information in the absence of power 
+  as <I>nonvolatile memory </I>, <I>nonvolatile storage. </I>
+  <DT><STRONG>nonvolatile storage</STRONG> = permanent memory. <A name=noon></A>
+  <DT><STRONG>noon</STRONG> 
+  <DD>The instant at which a time reference is over the <A   href="u.html#upper branch">upper 
+  branch</A> of the reference meridian. 
+  <DD><I>Noon may be solar or sidereal as either the sun or vernal equinox is 
+  over the upper branch of the reference meridian. Solar noon may be further 
+  classified as mean or apparent as the mean or apparent sun is the reference. 
+  Noon may also be classified according to the reference meridian, either the 
+  local or Greenwich meridian or additionally in the case of mean noon, a 
+  designated time zone meridian. </I>
+  <DT><STRONG>Nor, Norm</STRONG> 
+  <DD>International Astronomical Union abbreviations for Norma. See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Norma (abbr Nor, Norm)</STRONG> 
+  <DD>See <A   href="c.html#constellation">constellation</A>. 
+  <A name=normal></A>
+  <DT><STRONG>normal</STRONG> 
+  <DD>1. Equivalent to usual, regular, rational, or standard conditions. 
+  <DD>2. Perpendicular. 
+  <DD><I>A line measured to another line or a plane when it is perpendicular to 
+  it. A line is normal to a curve or curved surface when it is perpendicular to 
+  the tangent line or plane at the point of tangency. </I>
+  <DD>3. Referring to thermal radiation properties, in a direction perpendicular 
+  to the surface. 
+  <DD>4. The line <A   href="n.html#normal">normal</A>, sense 2, 
+  to a surface. 
+  <DT><STRONG>normal dispersion</STRONG> 
+  <DD><A   href="d.html#dispersion">Dispersion</A> 
+  of an <A   href="e.html#electromagnetic wave">electromagnetic 
+  wave</A> characterized by an increase in <A   href="r.html#refractive index">refractive 
+  index</A> with increase in frequency. <A name="normal distribution"></A>
+  <DT><STRONG>normal distribution</STRONG> 
+  <DD>The fundamental frequency distribution of statistical analysis. A 
+  continuous variety <I>x </I>is said to have a normal distribution or to be 
+  normally distributed if it possesses a density function <I>f(x) </I>which 
+  satisfies the equation 
+  <center><img src="normdist.gif"></center>
+  where &mu; is the arithmetic mean (or first moment) and &sigma; is the standard deviation. Also called 
+  <I>Gaussian distribution. </I>
+  <DD><I>About two-thirds of the total area under the curve is included between 
+  x = &mu; - &sigma; and x = &mu; + &sigma;. The corresponding frequency distribution of 
+  vectors is the normal circular distribution in which the frequencies of vector 
+  deviations are represented by a series of circles centered on a vector mean. 
+  When applied to error distribution, this function is the normal law of errors, 
+  and the distribution is called the normal curve of error. </I>
+  <DT><STRONG>normal emittance</STRONG> 
+  <DD><A   href="e.html#emittance">Emittance</A> in 
+  a direction perpendicular to the surface or in a small solid angle whose axial 
+  ray is perpendicular to the surface. 
+  <DT><STRONG>normal functions</STRONG> 
+  <DD>See <A   href="o.html#orthogonal functions">orthogonal 
+  functions</A>. 
+  <DT><STRONG>normal gravity</STRONG> 
+  <DD>See <A   href="a.html#acceleration of gravity">acceleration 
+  of gravity</A>. 
+  <DT><STRONG>normalize</STRONG> 
+  <DD>1. To change in scale so that the sum of squares, or the integral of the 
+  squares of the transformed quantity is unity. See <A   href="o.html#orthogonal functions">orthogonal 
+  functions"</A>. 
+  <DD>2. To transform a random variable so that the resulting random variable so 
+  that the resulting random variable has a normal distribution. 
+  <DD>3. In computer operations, to adjust the exponent and coefficient of a <A   href="f.html#floating point">floating-point</A> 
+  result so that the coefficient is in the prescribed normal range. Also called 
+  <I>standardize. </I><A name="normal mode of vibration"></A>
+  <DT><STRONG>normal mode of vibration</STRONG> 
+  <DD>A <A href="m.html#mode">mode</A> of 
+  free vibration of an undamped system. In general, any composite motion of a 
+  vibrating system ban be analyzed into a summation of its normal modes. Also 
+  called <I>natural mode, characteristic mode </I>, and <I>eigenmode. </I>
+  <DT><STRONG>normal plane</STRONG> 
+  <DD>In aerodynamics, a plane at right angles to the <A   href="l.html#longitudinal axis">longitudinal 
+  axis</A> of an <A   href="a.html#aerodynamic vehicle">aerodynamic 
+  vehicle</A>. <A name="normal shock"></A>
+  <DT><STRONG>normal shock</STRONG> = <A   href="n.html#normal shock wave">normal 
+  shock wave</A>. <A name="normal shock wave"></A>
+  <DT><STRONG>normal shock wave</STRONG> 
+  <DD>A <A href="s.html#shock wave">shock 
+  wave</A> perpendicular, or substantially so, to the direction of flow in a <A   href="s.html#supersonic flow">supersonic 
+  flow</A> field. Sometimes shortened to <I>normal </I><I>shock. </I>
+  <DT><STRONG>northbound node</STRONG> =<A   href="a.html#ascending node">ascending 
+  node</A>. 
+  <DT><STRONG>northern lights</STRONG> = <A   href="a.html#aurora borealis">aurora 
+  borealis</A>. 
+  <DT><STRONG>north polar sequence</STRONG> 
+  <DD>A list of stars near the north celestial pole arranged in order of 
+  photographic <A   href="m.html#magnitude">magnitude</A>, 
+  used as reference stars in stellar <A   href="p.html#photometry">photometry</A>. 
+  <DT><STRONG>north pole</STRONG> 
+  <DD>1. In astronomy, that end of the axis of rotation of a celestial body at 
+  which, when viewed from above, the body appears to rotate in a clockwise 
+  direction. See <A   href="c.html#celestial pole">celestial 
+  pole</A>, <A   href="e.html#ecliptic pole">ecliptic 
+  pole</A>, <A   href="g.html#geographical pole">geographical 
+  pole</A>, <A   href="g.html#geomagnetic pole">geomagnetic 
+  pole</A>, <A   href="m.html#magnetic pole">magnetic 
+  pole</A>. 
+  <DD>2. The north-seeking end of a magnet. 
+  <DT><STRONG>north-upward plan position indicator</STRONG> 
+  <DD>See <A   href="p.html#plan position indicator">plan 
+  position indicator</A>. <A name="nose cone"></A>
+  <DT><STRONG>nose cone</STRONG> 
+  <DD>The cone-shaped leading end of a <A   href="r.html#rocket vehicle">rocket 
+  vehicle</A>, consisting (a) of a chamber or chambers in which a satellite, 
+  instruments, animals, plants, or auxiliary equipment may be carried, and (b) 
+  of an outer surface built to withstand high temperatures generated by <A   href="a.html#aerodynamic heating">aerodynamic 
+  heating</A>. 
+  <DD><I>In a satellite vehicle, the nose cone may become the satellite itself 
+  after separating from the final stage of the rocket or it may be used to 
+  shield the satellite until orbital speed is accomplished, then separating from 
+  the satellite. </I>
+  <DT><STRONG>nose gear</STRONG> 
+  <DD>That part of a <A   href="l.html#landing gear">landing 
+  gear</A> which is located at the forward end of the vehicle. <A   name=notation></A><A name="notation "></A>
+  <DT><STRONG>notation</STRONG> 
+  <DD>A manner of representing quantities. See <A   href="p.html#positional notation">positional 
+  notation</A>, <A   href="b.html#binary notation">binary 
+  notation</A>, <A   href="b.html#biquinary notation">biquinary 
+  notation</A>, <A   href="d.html#decimal notation">decimal 
+  notation</A>, <A   href="f.html#fixed point">fixed 
+  point</A>, <A   href="f.html#floating point">floating 
+  point</A>, <A   href="h.html#hexidecimal notation">hexidecimal 
+  notation</A>, <A   href="o.html#octal notation">octal 
+  notation</A>, <A   href="s.html#sexidecimal notation">sexidecimal 
+  notation</A>, <A   href="t.html#ternary notation">ternary 
+  notation</A>. <A name="not circuit"></A>
+  <DT><STRONG>NOT circuit</STRONG> 
+  <DD>In computers, a device or <A   href="c.html#circuit">circuit</A> which 
+  inverts the <A   href="p.html#polarity">polarity</A> of a 
+  <A href="p.html#pulse">pulse</A>. Also 
+  called <I>inverter. </I>
+  <DT><STRONG>nova (plural novae)</STRONG> 
+  <DD>A star which suddenly becomes many times brighter than previously, and 
+  then gradually fades. <A name=nozzle></A><A name=nozzles></A>
+  <DT><STRONG>nozzle (symbol n used as subscript)</STRONG> 
+  <DD>1. A duct, tube, pipe, spout, or the like through which a <A   href="f.html#fluid">fluid</A> is directed 
+  and from the open end of which the fluid is discharged, designed to meter the 
+  fluid or to produce a desired direction, velocity, or shape of discharge. See 
+  <A href="d.html#de laval nozzle">de Laval 
+  nozzle</A>, <A   href="j.html#jet nozzle">jet nozzle</A>, 
+  <A   href="s.html#supersonic nozzle">supersonic 
+  nozzle</A>. 
+  <DD>2. Specifically, that part of a <A   href="r.html#rocket thrust chamber">rocket 
+  thrust chamber</A> assembly in which the gases produced in the chamber are 
+  accelerated to high velocities. 
+  <DT><STRONG>nozzle blade</STRONG> 
+  <DD>Any one of the blades or vanes in a <A   href="n.html#nozzle diaphragm">nozzle 
+  diaphragm</A>. Also called a <I>nozzle vane. </I>
+  <DT><STRONG>nozzle-contraction area ratio</STRONG> 
+  <DD>(symbol <i>&epsilon;<sub>c</sub></i>). Ratio of the cross-sectional area for gas flow 
+  at the nozzle inlet to that at the throat. <A name="nozzle diaphragm"></A>
+  <DT><STRONG>nozzle diaphragm</STRONG> 
+  <DD>A ring of stationary, equally spaced blades or vanes, forming an annulus 
+  of nozzles through which fluid is directed onto a turbine wheel. Sometimes 
+  called a <I>nozzle ring. </I>
+  <DT><STRONG>nozzle-divergence loss factor</STRONG> 
+  <DD>(symbol &lambda;). The ratio between the momentum of the gases in 
+  a nozzle with an angle 2a and the momentum of an <A   href="i.html#ideal nozzle">ideal 
+  nozzle</A>. In mathematical form <center>&lambda; = 1/2(1 + cos <i>a</i>)</center>. 
+  <DT><STRONG>nozzle efficiency</STRONG> 
+  <DD>The efficiency with which a <A   href="n.html#nozzle">nozzle</A> converts 
+  <A   href="p.html#potential energy">potential 
+  energy</A> into <A   href="k.html#kinetic energy">kinetic 
+  energy</A>, commonly expressed as the ratio of the actual change in kinetic 
+  energy to the ideal change at the given pressure ratio. <A   name="nozzle exit"></A>
+  <DT><STRONG>nozzle exit area</STRONG> 
+  <DD>The cross-sectional area of a rocket <A   href="n.html#nozzle">nozzle</A> available 
+  for gas flow measured at the nozzle exit. 
+  <DT><STRONG>nozzle-expansion area ratio</STRONG> 
+  (symbol &epsilon;<sub>e</sub>)<DD> Ratio of the cross-sectional area for gas flow 
+  at the exit of a <A   href="n.html#nozzle">nozzle</A> to the 
+  cross-sectional area available for gas flow at the throat. <A   name="nozzle ring"></A>
+  <DT><STRONG>nozzle ring</STRONG> = nozzle diaphragm. <A   name="nozzle throat"></A>
+  <DT><STRONG>nozzle throat</STRONG> 
+  <DD>The portion of a <A   href="n.html#nozzle">nozzle</A> with the 
+  smallest cross section. 
+  <DT><STRONG>nozzle throat area</STRONG> 
+  <DD>The area of the minimum cross section of a rocket <A   href="n.html#nozzle">nozzle</A>. 
+  <DT><STRONG>nozzle thrust coefficient</STRONG> 
+  <DD>(symbol C<sub>F</sub>). A measure of the amplification of <A   href="t.html#thrust">thrust</A> due to 
+  gas expansion in a particular nozzle as compared with the thrust that would be 
+  exerted if the <A   href="c.html#chamber pressure">chamber 
+  pressure</A> acted only over the <A   href="t.html#throat">throat</A> area. 
+  Also called <I>thrust coefficient. </I>
+  <DT><STRONG>nozzle vane</STRONG> = nozzle blade. 
+  <DT><STRONG>N-scan </STRONG>= N-display. 
+  <DT><STRONG>N-scope</STRONG> = N-display. 
+  <DT><STRONG>nuclear Bohr magneton </STRONG>= <A   href="n.html#nuclear magneton">nuclear 
+  magneton</A>. <A name="nuclear cross section"></A>
+  <DT><STRONG>nuclear cross section (symbol &sigma;)</STRONG> 
+  <DD>A measure of the probability that the reaction will take place which is 
+  defined by <I>dI = In &sigma; dx </I>where <I>I </I>is the intensity of the 
+  particle beam; <I>n </I>is the number of target nuclei per cubic centimeter of 
+  target; &sigma; is the cross section for the specified process, 
+  expressed in square centimeters; and <I>x </I>is the target thickness in 
+  centimeters. See <A   href="b.html#barn">barn</A>. 
+  <DT><STRONG>nuclear-electric rocket engine</STRONG> 
+  <DD>A rocket engine in which a <A   href="n.html#nuclear reactor">nuclear 
+  reactor</A> is used to generate electricity which is used in an electric 
+  propulsion system or as a heat source for the working fluid. <A   name="nuclear emulsion"></A>
+  <DT><STRONG>nuclear emulsion</STRONG> 
+  <DD>A very thick photographic emulsion used in the study of <A   href="c.html#cosmic rays">cosmic rays</A> 
+  and other energetic particles. The path of the particle through the thick 
+  emulsion is recorded in three dimensions. <A name="nuclear fuel"></A><A   name="nuclear fuels"></A>
+  <DT><STRONG>nuclear fuel</STRONG> 
+  <DD><A   href="f.html#fissionable">Fissionable</A> 
+  material of reasonable long life, used or usable in producing energy in a <A   href="n.html#nuclear reactor">nuclear 
+  reactor</A>. <A name="nuclear magneton"></A>
+  <DT><STRONG>nuclear magneton (symbol M<sub>N</sub>)</STRONG> 
+  <DD>A unit of magnetic moment of the proton equal to 5.0505 X 10<sup> -24</sup> erg per 
+  gauss. <A name=nuclear></A><A name="nuclear radiation"></A>
+  <DT><STRONG>nuclear radiation</STRONG> 
+  <DD>Corpuscular emissions, such as <A   href="a.html#alpha">alpha</A> and <A   href="b.html#beta particles">beta 
+  particles,</A> or <A   href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>, such as <A   href="g.html#gamma rays">gamma rays</A>, 
+  originating in the nucleus of an atom. <A name="nuclear reactor"></A>
+  <DT><STRONG>nuclear reactor</STRONG> 
+  <DD>An apparatus in which nuclear <A   href="f.html#fission">fission</A> may be 
+  sustained in a self supporting <A   href="c.html#chain reaction">chain 
+  reaction</A>. Commonly called <I>reactor. </I>Formerly called <I>pile. </I>
+  <DT><STRONG>nuclear rocket engine</STRONG> 
+  <DD>A rocket engine in which a <A   href="n.html#nuclear reactor">nuclear 
+  reactor</A> is used as a power source or as a source of thermal energy. <A   name=nucleon></A>
+  <DT><STRONG>nucleon</STRONG> 
+  <DD>In the classification of <A   href="s.html#subatomic particles">subatomic 
+  particles</A> according to mass, the second heaviest type of particle; its 
+  mass is intermediate between that of the <A   href="m.html#meson">meson</A> and the <A   href="h.html#hyperon">hyperon</A>. 
+  <DD><I>Examples of the nucleon are the proton and neutron. </I><A   name=nucleus></A>
+  <DT><STRONG>nucleus</STRONG> 
+  <DD>1. The positively charged core of an <A   href="a.html#atom">atom</A> with which is 
+  associated practically the whole mass of the atom but only a minute part of 
+  its volume. 
+  <DD><I>A nucleus is composed of one or more protons and an approximately equal 
+  number of neutrons. The atomic number Z of the element indicates the number of 
+  protons in the nucleus. The mass number A of the element is the sum of the 
+  protons and neutrons. </I>
+  <DD>2. In biology, a definitely delineated body within a cell containing the 
+  chromosomes. <A name=nuclide></A><A name=nuclides></A>
+  <DT><STRONG>nuclide</STRONG> 
+  <DD>An individual <A   href="a.html#atom">atom</A> of given <A   href="a.html#atomic number">atomic 
+  number</A> Z and <A   href="m.html#mass number">mass number</A> 
+  A, for example, <MATH class=CHEM><SUB>92</SUB>U<SUP>235</SUP></MATH>. 
+  <DD><I>A nuclide is any species of atom that exist for a measurable length of 
+  time and has a nuclear structure distinct from that of any other species of 
+  atom. </I><A name=null></A><A name=nulls></A>
+  <DT><STRONG>null</STRONG> 
+  <DD>In direction-finding systems wherein the output amplitude is a function of 
+  the direction of arrival of the signal, the minimum output amplitude (ideally 
+  zero). 
+  <DD><I>The null is frequently employed as a means of determining bearing. The 
+  term minimum is often used to indicate an imperfect null. </I><A   name=number></A>
+  <DT><STRONG>number</STRONG> 
+  <DD>In computer operations, (a) amount of units by count, (b) a magnitude or 
+  quantity represented by group of <A   href="d.html#digits">digits</A>. 
+  <DD><I>The term quantity is preferred to number in sense (b). </I><A   name="number system"></A>
+  <DT><STRONG>number system</STRONG> 
+  <DD>A scheme for representing magnitudes or quantities by a group of <A   href="d.html#digits">digits</A>. See <A   href="n.html#numeric coding">numeric 
+  coding</A>, <A   href="p.html#positional notation">positional 
+  notation</A>. <A name=numeric></A>
+  <DT><STRONG>numeric</STRONG> 
+  <DD>Composed wholly or partly of <A   href="d.html#digits">digits</A>. See <A   href="a.html#alphanumeric">alphanumeric</A>, 
+  <A href="n.html#number">number</A>. 
+  <DT><STRONG>numerical aperture</STRONG> 
+  <DD>The quantity n sin &theta;, the product of the <A   href="i.html#index of refraction">index 
+  of refraction</A> of the object medium, usually air, multiplied by the sine of 
+  the slope angle of the outermost ray from an axial point on the object. <A   name="numeric coding"></A>
+  <DT><STRONG>numeric coding</STRONG> 
+  <DD>A system of coding in which information is represented by <A   href="d.html#digits">digits</A>. See 
+  alphabetic coding, <A   href="a.html#alphanumeric">alphanumeric</A>. 
+  <A name=n-unit></A>
+  <DT><STRONG>N-unit</STRONG> 
+  <DD>A unit of <A   href="i.html#index of refraction">index 
+  of refraction</A> in the atmosphere; a mathematical simplification designed to 
+  replace rather awkward numbers involved in the values of the index of 
+  refraction n for the atmosphere. It is defined by the relation N = (n - 1) 
+  10E6 
+  <DD><I>Thus, if n = 1.000326, then N = 326. Correspondingly, M-units are used 
+  for modified index of refraction, and B-units for potential index of 
+  refraction. </I><A name="nusselt number"></A>
+  <DT><STRONG>Nusselt number (symbol N<sub>Nu</sub>)</STRONG> 
+  <DD>(After Wilhelm Nusselt, 1882- , German engineer). A number expressing the 
+  ratio of convective to conductive <A   href="h.html#heat transfer">heat 
+  transfer</A> between a solid boundary and a moving fluid, defined as <I>hl/k 
+  </I>where <I>h </I>is the heat-transfer coefficient, <I>l </I>is the 
+  characteristic length, and <I>k </I>is the thermal conductivity of the fluid. 
+  <DT><STRONG>nutating feed</STRONG> 
+  <DD>In a <A   href="t.html#tracking radar">tracking 
+  radar</A> an oscillating antenna <A   href="f.html#feed">feed</A> for producing 
+  an oscillating deflection of the <A   href="b.html#beam">beam</A> in which the 
+  plane of <A   href="p.html#polarization">polarization</A> 
+  remains fixed. <A name=nutation></A>
+  <DT><STRONG>nutation</STRONG> 
+  <DD>1. The <A   href="o.html#oscillation">oscillation</A> 
+  of the axis of any rotating body, as a gyroscope rotor. 
+  <DD>2. Specifically, in astronomy, irregularities in the precessional motion 
+  of the <A   href="e.html#equinoxes">equinoxes</A> 
+  because of varying positions of the moon and, to a lesser extent, of other 
+  celestial bodies with respect to the <A   href="e.html#ecliptic">ecliptic</A>. 
+  <DT><I></I>
+  <DD>Because of nutation, the earth's axis nods like a top, describing a 
+  slightly wavy circle about the ecliptic pole. The maximum displacement is 
+  about 9.21 seconds (constant of nutation) and the period of a complete cycle 
+  is 18.60 tropical years (period of moon's node, nutation period). 
+  <DT><STRONG>nutation period</STRONG> 
+  <DD>See <A   href="n.html#nutation">nutation</A>, 
+  note. 
+  <DT><STRONG>nutator</STRONG> 
+  <DD>A mechanical device for gyrating the antenna feed horn or dipole or a <A   href="r.html#radar">radar</A> about the 
+  axis of the reflector without changing its <A   href="p.html#polarization">polarization</A>. 
+
+  <DT><STRONG>Nyquist frequency</STRONG> 
+  <DD>The highest frequency which can be determined in a <A   href="f.html#fourier analysis">Fourier 
+  analysis</A> of a discrete sampling of data. If a time series is sampled at 
+  interval <i>&Delta;t</i>, this frequency is 1/2 <i>&Delta;t</i> cycles per second. Also called <I>turnover 
+  frequency. </I>
+  <DT><STRONG>nystagmus</STRONG> 
+  <DD>An involuntary oscillation of the eyeballs, especially occurring as a 
+  result of eye fixations and stimulations of the inner ear during rotation of 
+  the body. </DD>

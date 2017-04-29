@@ -1,0 +1,87 @@
+<DT><STRONG>q </STRONG>= dynamic pressure, 
+  <DD>as the <I>vehicle encountered maximum q 40 seconds after lift-off. </I>
+  <DT><STRONG>Q-band</STRONG> 
+  <DD>A <A 
+  href="f.html#frequency band">frequency 
+  band</A> used in <A 
+  href="r.html#radar">radar</A> extending 
+  approximately from 36 to 46 kilomegacycles. See <A 
+  href="f.html#frequency band">frequency 
+  band</A>. 
+  <DT><STRONG>quadrant</STRONG> 
+  <DD>See <A 
+  href="s.html#sextant">sextant</A>. <A 
+  name=quadrature></A>
+  <DT><STRONG>quadrature</STRONG> 
+  <DD>1. An <A 
+  href="e.html#elongation">elongation</A> 
+  of 90 degrees, usually specified as east or west in accordance with the 
+  direction of the body from the sun. The moon is at quadrature at first and 
+  last quarters. Compare <A 
+  href="c.html#conjunction">conjunction</A>. 
+
+  <DD>2. The situation of two <A 
+  href="p.html#periodic quantities">periodic 
+  quantities</A> differing by a quarter of a cycle. 
+  <DT><STRONG>quality factor (symbol Q)</STRONG> 
+  <DD>A measure of the sharpness of <A 
+  href="r.html#resonance">resonance</A> or 
+  frequency selectivity of a resonant vibratory <A 
+  href="s.html#system">system</A> having a 
+  single degree of freedom, either mechanical or electrical. See <A 
+  href="v.html#vibration">vibration</A>. 
+  <DD><I>In a mechanical system, this quantity is very nearly equal to one-half 
+  the reciprocal of the damping ratio. When used with reference to a lightly 
+  damped system, it is also approximately equal to the following: (1) 
+  transmissibility at resonance; (2) &pi;/&delta; where &delta; is the logarithmic decrement; (3) 
+  2&pi;W/&Delta;W where W is the stored energy and &Delta;W the energy dissipation per cycle; and (4) 
+  <i>f<sub>r</sub>/&Delta;f</i> where <i>f<sub>r</sub></i> is the resonance frequency and &Delta;f is the bandwidth between the half-power points. 
+  Historically the letter Q was an arbitrarily chosen symbol to designate the 
+  ratio of reactance to resistance of a circuit element. The name quality factor 
+  was introduced later. </I>
+  <DT><STRONG>quanta</STRONG> 
+  <DD>See <A 
+  href="q.html#quantum theory">quantum 
+  theory</A>. <A name=quantity></A>
+  <DT><STRONG>quantity</STRONG> 
+  <DD>See <A 
+  href="n.html#number">number</A>. 
+  <DT><STRONG>quantization</STRONG> 
+  <DD>The process of converting from continuous values of information to a 
+  finite number of <A 
+  href="d.html#discrete">discrete</A> 
+  values. <A name=quantum></A><A name="quantum theory"></A>
+  <DT><STRONG>quantum theory</STRONG> 
+  <DD>The theory first stated by Max Planck (before the Physical Society of 
+  Berlin on December 14, 1900) that all <A 
+  href="e.html#electromagnetic">electromagnetic</A> 
+  <A href="r.html#radiation">radiation</A> 
+  is emitted and absorbed in <I>quanta </I>, each of magnitude <I>hv </I>, <I>h </I>being the <A 
+  href="p.html#planck constant">Planck 
+  constant</A> and <I>v </I>the <A 
+  href="f.html#frequency">frequency</A> of 
+  the radiation. See <A 
+  href="r.html#radiation laws">radiation 
+  laws</A>. <A name="quasigeostrophic equilibrium"></A>
+  <DT><STRONG>quasi-geostrophic equilibrium</STRONG> 
+  <DD>See <A 
+  href="e.html#equivalent barotropic model">equivalent 
+  barotropic model</A>. 
+  <DT><STRONG>quasi-Lagrangian coordinates</STRONG> 
+  <DD>A system of mixed <A 
+  href="e.html#eulerian">Eulerian</A> and 
+  <A 
+  href="l.html#lagrangian coordinates">Lagrangian 
+  coordinates</A>. At least one coordinate of each <A 
+  href="f.html#fluid parcel">fluid 
+  parcel</A> must therefore by unvarying with time. <A name="quiet sun"></A>
+  <DT><STRONG>quiet sun</STRONG> 
+  <DD>The sun when it is free from unusual radio wave or thermal <A 
+  href="r.html#radiation">radiation</A> 
+  such as that associated with <A 
+  href="s.html#sunspots">sun spots</A>. See 
+  <A href="i.html#iqsy">IQSY</A>. 
+  <DT><STRONG>quintant</STRONG> 
+  <DD>See <A 
+  href="s.html#sextant">sextant</A>. 
+</DD>

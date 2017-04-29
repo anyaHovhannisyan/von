@@ -1,0 +1,1744 @@
+
+  <DT><STRONG>facsimile</STRONG> 
+  <DD>In electrical communications, the process, or the result of the process, 
+  by which fixed graphic material including pictures or images is scanned and 
+  the information converted into signals which are used either locally or 
+  remotely to produce in record form a likeness (facsimile) of the subject copy. 
+  <A name=faculae></A>
+  <DT><STRONG>faculae</STRONG> 
+  <DD>Large patches of bright material forming a veined network in the vicinity 
+  of <A 
+  href="s.html#sunspots">sunspots</A>. They 
+  appear to be more permanent than sunspots and are probably due to elevated 
+  clouds of luminous gas. 
+  <DT><STRONG>fade</STRONG> 
+  <DD>Of a radiant energy signal, to decrease, often temporarily, in received <A 
+  href="s.html#signal strength">signal 
+  strength</A> without a change of receiver controls. The opposite is <I>build. 
+  </I><A name=fadeout></A><A name=fadeouts></A>
+  <DT><STRONG>fadeout</STRONG> 
+  <DD>A type of <A 
+  href="f.html#fading">fading</A> in which 
+  the received signal strength is reduced to a value below the <A 
+  href="n.html#noise level">noise level</A> 
+  of the receiver. The most common cause of fadeout is a disturbed <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  Also called <I>radio fadeout, Dellinger effect, Mögel-Dellinger effect. 
+  </I>See <A 
+  href="b.html#blackout">blackout</A>. <A 
+  name=fading></A>
+  <DT><STRONG>fading</STRONG> 
+  <DD>The variation of radio <A 
+  href="f.html#field strength">field 
+  strength</A> caused by changes in the transmission medium with time. <A 
+  name="fahrenheit temperature scale"></A>
+  <DT><STRONG>Fahrenheit temperature scale (abbr F)</STRONG> 
+  <DD>A temperature scale with the <A 
+  href="i.html#ice point">ice point</A> at 
+  32° and the <A 
+  href="b.html#boiling point">boiling 
+  point</A> of water at 212°. 
+  <DD><I>Conversion with the Celsius (<A 
+  href="c.html#centigrade">centigrade</A>) 
+  temperature scale (abbr C) is by the formula 
+  <CENTER>F = 9/5 C + 32 </I></CENTER>
+  <DT><STRONG>fail safe system</STRONG> 
+  <DD>A system used to minimize risk in case of a malfunction. 
+  <DT><STRONG>fall</STRONG> 
+  <DD>Of a spacecraft or spatial body, to drop toward another spatial body under 
+  the influence of the latter's <A 
+  href="g.html#gravity">gravity</A>. <A 
+  name="fallaway section"></A>
+  <DT><STRONG>fallaway section</STRONG> 
+  <DD>A section of a <A 
+  href="r.html#rocket">rocket</A> vehicle 
+  that is cast off and separates from the vehicle during flight, especially such 
+  a section that falls back to the earth. 
+  <DT><STRONG>false horizon</STRONG> 
+  <DD>See <A 
+  href="h.html#horizon">horizon</A>, note. 
+  <A name=fan></A>
+  <DT><STRONG>fan</STRONG> 
+  <DD>1. (a) Any vaned rotary device for producing a current or stream of air. 
+  (b) Specifically, a multivaned wheel or rotor used to take in air in a bypass 
+  engine or <A 
+  href="d.html#ducted-fan engine">ducted-fan 
+  engine</A>. It may be either a mere blower of a low-pressure compressor. See 
+  <A href="d.html#ducted fan">ducted 
+  fan</A>. 
+  <DD>2. A propeller, especially when the emphasis is upon its function of 
+  moving air rather than propelling. 
+  <DT><STRONG>fanned-beam antenna</STRONG> 
+  <DD>A <A 
+  href="u.html#unidirectional antenna">unidirectional 
+  antenna</A> so designed that transverse cross sections of the major <A 
+  href="l.html#lobe">lobe</A> are 
+  approximately elliptical. 
+  <DT><STRONG>fanning beam</STRONG> 
+  <DD>A radiant energy beam, as a <A 
+  href="r.html#radar">radar</A> beam, which 
+  sweeps back and forth over a limited arc. <A name=farad></A>
+  <DT><STRONG>farad (abbr f)</STRONG> 
+  <DD>The unit of electrical capacitance, the capacitance of a condenser between 
+  the plates of which there is a difference of potential of 1 volt when it is 
+  charged by a quantity of electricity equal to 1 <A 
+  href="c.html#coulomb">coulomb</A>. 
+  <DT><STRONG>Faraday constant </STRONG>(<I>symbol F</I>) 
+  <DD>The product of the Avogadro constant <MATH><I>N<SUB>A</SUB></I></MATH> and 
+  the elementary charge, <I>e, F =<MATH>N<SUB>A</SUB>e</MATH></STRONG> = 9.64870 
+  coulombs per mol. See <A 
+  href="p.html#physical constants">physical 
+  constants</A>, tables. 
+  <DT><STRONG>fast ion</STRONG> = <A 
+  href="s.html#small ion">small ion</A>. <A 
+  name="fast neutrons"></A>
+  <DT><STRONG>fast neutron</STRONG> 
+  <DD>A neutron of 100,000 electronvolts or greater energy. 
+  <DT><STRONG>fast reactor</STRONG> 
+  <DD>A <A 
+  href="r.html#reactor">reactor</A> 
+  containing no <A 
+  href="m.html#moderator">moderator</A>, so 
+  that all the <A 
+  href="f.html#fissions">fissions</A> take 
+  place at energies on the order of 100,000 electron-volts or higher. <A 
+  name=fatigue></A>
+  <DT><STRONG>fatigue</STRONG> 
+  <DD>1. A weakening or deterioration of metal or other material occurring under 
+  load, especially under repeated cyclic, or continued loading. 
+  <DD><I>Self-explanatory compounds include: </I>fatigue crack, fatigue failure, 
+  fatigue load, fatigue resistance, fatigue test. 
+  <DD>2. State of the human organism after exposure to any type of physical or 
+  psychological stress (e.g., pilot fatigue). 
+  <DT><STRONG>fatigue strength</STRONG> 
+  <DD>The maximum <A 
+  href="s.html#stress">stress</A> that can 
+  be sustained for a specified number of cycles without failure, the stress 
+  being completely reversed within each cycle unless otherwise stated. Also 
+  called <I>fatigue limit. </I>
+  <DT><STRONG>F-corona</STRONG> = <A 
+  href="f.html#fraunhofer corona">Fraunhofer 
+  corona</A>. <A name=f-display></A>
+  <DT><STRONG>F-display</STRONG> 
+  <DD>In radar, a rectangular <A 
+  href="d.html#display">display</A> in 
+  which a target appears as a centralized <A 
+  href="b.html#blip">blip</A> when the 
+  radar antenna is aimed at it. Horizontal and vertical aiming errors are 
+  respectively indicated by the horizontal and vertical displacement of the 
+  blip. Also called <I>F-scan, F-scope, F-indicator. </I><A name=feed></A>
+  <DT><STRONG>feed</STRONG> 
+  <DD>1. To provide a <A 
+  href="s.html#signal">signal</A>. 
+  <DD>2. The point at which a signal enters a circuit or device, as <I>antenna 
+  feed. </I>
+  <DD>3. The signal entering a circuit or device; <A 
+  href="i.html#input">input</A>. <A 
+  name=feedback></A>
+  <DT><STRONG>feedback</STRONG> 
+  <DD>1. The return of a portion of the output of a device to the <A 
+  href="i.html#input">input</A>; positive 
+  feedback adds to the input, negative feedback subtracts for the input. 
+  <DD>2. Information, as to progress, results, etc., returned to an originating 
+  source. 
+  <DD>3. In aeronautics, the transmittal of forces initiated by aerodynamic 
+  action on control surfaces or rotor blades to the cockpit <A 
+  href="c.html#controls">controls</A>; the 
+  forces so transmitted. <A name="feedback control loop"></A><A 
+  name="feedback control loops"></A>
+  <DT><STRONG>feedback control loop</STRONG> 
+  <DD>A closed transmission path (loop), which includes an active <A 
+  href="t.html#transducer">transducer</A> 
+  and which consists of a forward path, a feedback path, and one or more mixing 
+  points arranged to maintain a prescribed relationship between the loop <A 
+  href="i.html#input">input</A> signal and 
+  the loop <A 
+  href="o.html#output">output</A> signal. 
+  <DT><STRONG>feedback control system</STRONG> 
+  <DD>A <A 
+  href="c.html#control">control</A> system, 
+  comprising one or more <A 
+  href="f.html#feedback control loops">feedback 
+  control loops</A>, which combines functions of the controlled signals with 
+  functions of the <A 
+  href="c.html#commands">commands</A> to 
+  tend to maintain prescribed relationships between the commands and the 
+  controlled signals. 
+  <DT><STRONG>feedback path</STRONG> 
+  <DD>In a <A 
+  href="f.html#feedback control loop">feedback 
+  control loop</A> the transmission path from the loop <A 
+  href="o.html#output">output</A> signal to 
+  the loop <A 
+  href="f.html#feedback">feedback</A> 
+  signal. <A name=feel></A>
+  <DT><STRONG>feel</STRONG> 
+  <DD>The sensation or impression that a pilot has or receives as to his, or his 
+  craft's, attitude, orientation, speed, direction of movement or acceleration, 
+  or proximity to nearby objects, or, as most often used, as to the aircraft's 
+  stability and responsiveness to control. See <A 
+  href="c.html#control feel">control 
+  feel</A>. 
+  <DT><STRONG>femto (abbr f)</STRONG> 
+  <DD>A prefix meaning multiplied by 10<SUP>-15</SUP>. 
+  <DT><STRONG>fence</STRONG> 
+  <DD>1. A line of <A 
+  href="r.html#readout">readout</A> or <A 
+  href="t.html#tracking">tracking</A> 
+  stations for pickup of signals from an orbiting <A 
+  href="s.html#satellite">satellite</A>. 
+  <DD>2. A line or network of radar or radio stations for detection of a 
+  satellite in orbit. 
+  <DD>3. A stationary plate or vane projecting from the upper surface of an 
+  airfoil, substantially parallel to the airflow, used to prevent spanwise flow. 
+
+  <DT><STRONG>Fermat principle</STRONG> 
+  <DD>The principle which states that the path along which <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> travels between any two points will be that path for which the 
+  elapsed time for the travel is a minimum. See <A 
+  href="m.html#multipath transmission">multipath 
+  transmission</A>. 
+  <DT><STRONG>fermi (abbr f)</STRONG> 
+  <DD>A unit of length equal to 10<SUP>-13</SUP> centimeters. <A 
+  name=fictitious></A>
+  <DT><STRONG>fictitious</STRONG> 
+  <DD>In cartography, pertaining to or measured from an arbitrary reference line 
+  as in <I>fictitious equator, fictitious latitude, fictitious longitude. </I>
+  <DD><I>Transverse, oblique, and grid map projections are examples of 
+  fictitious projections. </I><A name="fictitious year"></A>
+  <DT><STRONG>fictitious year</STRONG> 
+  <DD>The period between successive returns of the sun to a <A 
+  href="s.html#sidereal hour angle">sidereal 
+  hour angle</A> of 80° (about January 1). Also called <I>Besselian </I><I>year, 
+  Bessel fictitious year. </I>
+  <DD><I>The length of the fictitious year is the same as that of the tropical 
+  year, since both are based upon the position of the sun with respect to the 
+  vernal equinox. </I>
+  <DT><STRONG>fidelity</STRONG> 
+  <DD>The accuracy to which an electrical system, such as a radio, reproduces at 
+  its <A href="o.html#output">output</A> 
+  the essential characteristics of its <A 
+  href="i.html#input signal">input 
+  signal</A>. 
+  <DT><STRONG>fiducial mark</STRONG> 
+  <DD>An internally generated identification mark on a film; two or more of 
+  these are generally used for orienting a film for reading, and for determining 
+  the geometric center of the film. 
+  <DD><I>The L-shaped corner marks and the + mark near the picture center, which 
+  are on the focal plane of the Tiros vidicon camera are fiducial marks. Their 
+  appearance on the image permits various calibrations such as determination of 
+  the degree of enlargement needed to fit the picture to the rectification 
+  grids, etc. </I><A name=field></A><A name=fields></A>
+  <DT><STRONG>field</STRONG> 
+  <DD>A region of space within which each point has a definite value of a given 
+  physical or mathematical quantity has some definite value. 
+  <DD><I>One may speak of a </I>gravitation field, magnetic field, electric 
+  field, pressure field, temperature field<I>, etc. If the quantity specified at 
+  each point is a vector quantity, the field is said to be a</I> vector field. 
+  <DT><STRONG>field brightness</STRONG> = <A 
+  href="a.html#adaptation luminance">adaptation 
+  luminance</A>. <A name="field intensity"></A>
+  <DT><STRONG>field intensity</STRONG> = <A 
+  href="f.html#field strength">field 
+  strength</A>. 
+  <DT><STRONG>field luminance </STRONG>= <A 
+  href="a.html#adaptation luminance">adaptation 
+  luminance</A>. <A name="field strength"></A>
+  <DT><STRONG>field strength</STRONG> 
+  <DD>1. For any physical <A 
+  href="f.html#field">field</A>, the <A 
+  href="f.html#flux density">flux 
+  density</A>, <A 
+  href="i.html#intensity">intensity</A>, or 
+  <A href="g.html#gradient">gradient</A> of 
+  the field at the point in question. Also called <I>field intensity. </I>
+  <DD><I>Although field </I>intensity<I> is commonly used, it should be noted 
+  that this does not follow the strict radiometric definition of intensity, 
+  i.e., flux per unit solid angle. </I>
+  <DD>2. = <A 
+  href="s.html#signal strength">signal 
+  strength</A>, in radar. 
+  <DD>3. = <A 
+  href="e.html#electric field strength">electric 
+  field strength</A>. 
+  <DT><STRONG>filamentary structure</STRONG> 
+  <DD>A shell or membrane structure constructed of woven or layered filaments 
+  embedded in a suitable matrix. <A name="film cooling"></A>
+  <DT><STRONG>film cooling</STRONG> 
+  <DD>The cooling of a body or surface, such as the inner surface of a rocket <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A>, by maintaining a thin fluid layer over the affected area. Compare 
+  <A 
+  href="t.html#transpiration cooling">transpiration 
+  cooling</A>. 
+  <DT><STRONG>filter</STRONG> = <A 
+  href="w.html#wave filter">wave 
+  filter</A>. 
+  <DT><STRONG>filtering</STRONG> 
+  <DD>1. The decomposition of a <A 
+  href="s.html#signal">signal</A> into its 
+  <A href="h.html#harmonic">harmonic</A> 
+  components. 
+  <DD>2. The separation of a wanted component of a <A 
+  href="t.html#time series">time series</A> 
+  from any unwanted residue (noise). <A name=fin></A>
+  <DT><STRONG>fin</STRONG> 
+  <DD>1. A fixed or adjustable <A 
+  href="a.html#airfoil">airfoil</A> or <A 
+  href="v.html#vane">vane</A> attached 
+  longitudinally to an aircraft, rocket, or similar body to provide a 
+  stabilizing effect. 
+  <DD>2. A projecting flat plate or structure, as a <I>cooling fin. </I>
+  <DT><STRONG>final mass</STRONG> 
+  <DD>The mass of a <A 
+  href="r.html#rocket">rocket</A> after its 
+  <A 
+  href="p.html#propellants">propellants</A> 
+  are consumed. 
+  <DT><STRONG>F-indicator </STRONG>= <A 
+  href="f.html#f-display">F-display</A>. 
+  <DT><STRONG>fine data channel</STRONG> 
+  <DD>The <A 
+  href="c.html#channel">channel</A> of a <A 
+  href="t.html#trajectory measuring system">trajectory-measuring 
+  system</A> delivering accurate but ambiguous data as opposed to the coarse 
+  channel needed to resolve the ambiguity. 
+  <DT><STRONG>fine pressure</STRONG> = <A 
+  href="i.html#inlet pressure">inlet 
+  pressure</A>. 
+  <DT><STRONG>fineness ratio</STRONG> 
+  <DD>The ratio of the length of a body to its maximum diameter, or, sometimes, 
+  to some equivalent dimension - said especially of a body such as an airship 
+  hull or rocket. 
+  <DT><STRONG>fire</STRONG> 
+  <DD>1. To ignite a <A 
+  href="r.html#rocket engine">rocket 
+  engine</A>. 
+  <DD><I>Usage is sometimes restricted to period of main chamber burning when 
+  small igniter chambers are used, especially with igniter idle provisions where 
+  the igniter may burn for some significant period prior to main chamber fire. 
+  </I>
+  <DD>2. To <A 
+  href="l.html#launch">launch</A> a rocket. 
+  <A name=fireball></A>
+  <DT><STRONG>fireball</STRONG> 
+  <DD>A bright <A 
+  href="m.html#meteor">meteor</A> with <A 
+  href="l.html#luminosity">luminosity</A> 
+  which equals or exceeds that of the brightest planets. <A 
+  name="fire point"></A>
+  <DT><STRONG>fire point</STRONG> 
+  <DD>The temperature at which a substance, as lubricating oil, will give off a 
+  vapor that will burn continuously after ignition. Compare <A 
+  href="f.html#flashpoint">flashpoint.</A> 
+  <A name=firing></A>
+  <DT><STRONG>firing</STRONG> 
+  <DD>1. The action or event of igniting a <A 
+  href="r.html#rocket engine">rocket 
+  engine</A>. 
+  <DD>2. The action or event of launching a rocket. <A 
+name="firing chamber"></A>
+  <DT><STRONG>firing chamber</STRONG> = <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A>. <A name="first law of thermodynamics"></A>
+  <DT><STRONG>first law of thermodynamics</STRONG> 
+  <DD>A statement of the conservation of energy for <A 
+  href="t.html#thermodynamic">thermodynamic</A> 
+  systems (not necessarily in equilibrium). The fundamental form requires that 
+  the heat absorbed by the system serve either to raise the internal energy of 
+  the system or to do work on the environment: 
+  <CENTER><I>dq </I>= <I>du </I>+ <I>dw </I></CENTER>where <I>dq </I>is the heat 
+  added per unit mass; <I>du </I>is the increment of specific internal energy; 
+  and <I>dw </I>is the specific work done by the system on the environment. 
+  Although <I>dq </I>and <I>dw </I>are not perfect differentials, their 
+  difference, <I>du</I>, is always a perfect differential. Example of the 
+  application of this equation: in an adiabatic free expansion of gas into a 
+  vacuum, all three terms are zero. 
+  <DD><I>For reversible processes the mechanical work is equal to the expansion 
+  against the pressure forces, i.e., 
+  <CENTER>dw = pdv </CENTER>where p is the pressure and v is the specific 
+  volume. For a perfect gas, the internal energy change is proportional to the 
+  temperature change, 
+  <CENTER>du = c<SUB>v</SUB>dT</CENTER>where c<SUB>v</SUB> is the specific heat 
+  at constant volume and T is the Kelvin temperature. Therefore, the form of the 
+  first law usually used in meteorological applications is 
+  <CENTER>dq = c<SUB>v</SUB>dT + pdv</CENTER>Use of the equation of state yields 
+  an alternative form, 
+  <CENTER>dq = c<SUB>p</SUB>dT - dp</CENTER>where c<SUB>p</SUB> is the specific 
+  heat at constant pressure. <BR>For open systems the variation of total rather 
+  than specific quantities is important: 
+  <CENTER>dQ = dU + pdV - hdm</CENTER>where Q is the total heat; U is the total 
+  internal energy; V is the volume; m is the mass of the system; and h is the 
+  specific enthalpy. <BR>If a system contains the possibility of nonmechanical 
+  work, such as work done against an electric field, this work must be included 
+  in the first law. <BR>See <A 
+  href="s.html#second law of thermodynamics">second 
+  law of thermodynamics</A>, <A 
+  href="t.html#third law of thermodynamics">third 
+  law of thermodynamics</A>, <A 
+  href="e.html#energy equations">energy 
+  equations</A>. </I>
+  <DT><STRONG>first point of Aries</STRONG> = <A 
+  href="v.html#vernal equinox">vernal 
+  equinox</A>. 
+  <DT><STRONG>first point of Cancer</STRONG> = <A 
+  href="s.html#summer solstice">summer 
+  solstice</A>. 
+  <DT><STRONG>first point of Capricornus </STRONG>= <A 
+  href="w.html#winter solstice">winter 
+  solstice</A>. 
+  <DT><STRONG>first point of Libra</STRONG> = <A 
+  href="a.html#autumnal equinox">autumnal 
+  equinox</A>. 
+  <DT><STRONG>first quarter</STRONG> 
+  <DD>The <A href="p.html#phase">phase</A> 
+  of the moon when it is near east <A 
+  href="q.html#quadrature">quadrature</A>, 
+  when the western half of it is visible to an observer on the earth. See <A 
+  href="p.html#phases of the moon">phases 
+  of the moon</A>. 
+  <DT><STRONG>fishbone antenna</STRONG> 
+  <DD>An <A 
+  href="a.html#antenna">antenna</A> 
+  consisting of a series of coplanar elements arranged in colinear pairs, 
+  loosely coupled to a balanced transmission line. <A name=fission></A><A 
+  name=fissions></A>
+  <DT><STRONG>fission</STRONG> 
+  <DD>The splitting of an atomic <A 
+  href="n.html#nucleus">nucleus</A> into 
+  two more-or-less equal fragments. 
+  <DD><I>Fission may occur spontaneously or may be induced by capture of 
+  bombarding particles. In addition to the fission fragments, neutrons and gamma 
+  rays are usually produced during fission. </I><A name=fissionable></A>
+  <DT><STRONG>fissionable</STRONG> 
+  <DD>Having the property of certain atomic nuclei, such as some <A 
+  href="i.html#isotopes">isotopes</A> of 
+  uranium and plutonium, of capturing neutrons and thereupon splitting into two 
+  particles with great kinetic energy. 
+  <DD><I>The term properly is applicable to nuclei that undergo fission by 
+  neutrons of thermal energies; but it sometimes is applied loosely to cases 
+  where the neutron must be of high energy, an in</I> U<SUP>238</SUP> is 
+  fissionable by fast neutrons. <A name="fitzgerald-lorentz contraction"></A>
+  <DT><STRONG>Fitzgerald-Lorentz contraction</STRONG> 
+  <DD>A hypothesis that all measuring rods contract in the direction of motion 
+  in the ratio 
+  <CENTER><IMG src="109fitz.gif"></CENTER>where <I>u </I>is the speed of 
+  motion and <I>c </I>is the speed of light. <A name=fix></A>
+  <DT><STRONG>fix</STRONG> 
+  <DD>In navigation, a relatively accurate <A 
+  href="p.html#position">position</A> 
+  determined without reference to any former position. It may be classed as 
+  visual, sonic, celestial, electronic, radio, hyperbolic, loran, radar, etc., 
+  depending upon the means of establishing it. <A 
+  name="fixed-area exhaust nozzle"></A>
+  <DT><STRONG>fixed-area exhaust nozzle</STRONG> 
+  <DD>On a jet engine, an exhaust nozzle exit opening which remains constant in 
+  area. Compare <A 
+  href="v.html#variable-area exhaust nozzle">variable-area 
+  exhaust nozzle</A>. <A name="fixed point"></A>
+  <DT><STRONG>fixed point</STRONG> 
+  <DD>1. <A 
+  href="p.html#positional notation">Positional 
+  notation</A> in which corresponding places in different quantities are 
+  occupied by coefficients of the same power of the base. Contrast to <A 
+  href="f.html#floating point">floating 
+  point</A>. 
+  <DD>2. A notation in which the <A 
+  href="b.html#base point">base point</A> 
+  is assumed to remain fixed with respect to one end of the numeric expressions. 
+
+  <DT><STRONG>fixed satellite</STRONG> 
+  <DD>A <A 
+  href="s.html#satellite">satellite</A> 
+  that orbits the earth from west to east at such a speed as to remain fixed 
+  over a given place on the earth's equator at approximately 35,900 kilometers 
+  altitude. See <A 
+  href="s.html#stationary orbit">stationary 
+  orbit</A>, <A 
+  href="t.html#twenty-four hour satellite">24-hour 
+  satellite</A>, <A 
+  href="s.html#synchronous satellite">synchronous 
+  satellite</A>. 
+  <DT><STRONG>flame attenuation</STRONG> 
+  <DD><A 
+  href="a.html#attenuation">Attenuation</A> 
+  of a radio <A 
+  href="s.html#signal">signal</A> by the <A 
+  href="i.html#ionization">ionization</A> 
+  produced in the rocket exhaust. <A name="flame bucket"></A>
+  <DT><STRONG>flame bucket</STRONG> 
+  <DD>A deep cavelike construction built beneath a <A 
+  href="l.html#launcher">launcher</A>, open 
+  at the top to receive the hot gases of the rocket positioned above it, and 
+  open on one or three sides below, with a thick metal fourth side bent toward 
+  the open sides so as to deflect the exhausting gases. See <A 
+  href="f.html#flame deflector">flame 
+  deflector</A>. <A name="flame deflector"></A>
+  <DT><STRONG>flame deflector</STRONG> 
+  <DD>1. In a vertical <A 
+  href="l.html#launch">launch</A>, any of 
+  variously designed obstructions that intercept the hot gases of the <A 
+  href="r.html#rocket engine">rocket 
+  engine</A> so as to deflect them away from the ground or from a structure. 
+  <DD><I>The flame deflector may be a relatively small device fixed to the top 
+  surface of the pad surrounded by the framework of the launcher, or it may be a 
+  heavily constructed piece of metal mounted as a side and bottom of a flame 
+  bucket. In the latter case, the deflector may be perforated with numerous 
+  holes connected with a source of water, bending at an angle of about 45° into 
+  the line of the exhaust stream. During thrust buildup and the beginning of the 
+  launch, a deluge of water pours from the holes in such a deflector to keep it 
+  from melting. See <A 
+  href="d.html#deluge collection pond">deluge 
+  collection pond</A>. </I>
+  <DD>2. In a captive test, an elbow in the exhaust conduit or <A 
+  href="f.html#flame bucket">flame 
+  bucket</A> that deflects the flame into the open. 
+  <DT><STRONG>flame tube</STRONG> = <A 
+  href="i.html#inner liner">inner 
+  liner</A>. <A name="flamsteed number"></A>
+  <DT><STRONG>Flamsteed number</STRONG> 
+  <DD>A number sometimes used with the possessive form of the Latin name of the 
+  <A 
+  href="c.html#constellation">constellation</A> 
+  to identify a star, as <I>72 Ophiuchi. </I>
+  <DD><I>The Flamsteed number is used for stars numbered in Flamsteed's British 
+  Catalogue of 1725. For stars which do not appear in Flamsteed's catalog, 
+  numbers from other catalogs are used. See <A 
+  href="b.html#bayer letter">Bayer 
+  letter</A>. </I><A name=flare></A><A name=flares></A>
+  <DT><STRONG>flare</STRONG> 
+  <DD>1. A bright eruption form the sun's chromosphere. Compare <A 
+  href="p.html#prominence">prominence</A>. 
+  <DD><I>Flares may appear within minutes and fade within an hour. They cover a 
+  wide range of intensity and size, and they tend to occur between <A 
+  href="s.html#sunspots">sunspots</A> or 
+  over their penumbrae. 
+  <DD>Flares are related to radio <A 
+  href="f.html#fadeouts">fadeouts</A> and 
+  terrestrial magnetic disturbances. 
+  <DD>Flares eject high energy <A 
+  href="p.html#protons">protons</A> which 
+  present a serious hazard to men in unshielded spacecraft. </I>
+  <DD>2. Pyrotechnic devices used for signaling or to provide illumination. 
+  <DD>3. An expansion at the end of a cylindrical body as at the base of a 
+  rocket. 
+  <DT><STRONG>flashback</STRONG> 
+  <DD>A reversal of flame in a system, counter to the usual flow of the 
+  combustible mixture. <A name=flashpoint></A>
+  <DT><STRONG>flashpoint</STRONG> 
+  <DD>The temperature at which a substance, as fuel oil, will give off a vapor 
+  that will flash or burn momentarily when ignited. Compare <A 
+  href="f.html#fire point">fire point</A>. 
+  <A name=flattening></A>
+  <DT><STRONG>flattening</STRONG> 
+  <DD>Of the earth, the ratio of the difference between the equatorial radius 
+  (major semiaxis) and the polar radius (minor semiaxis) of the earth to the 
+  equatorial radius. Also called <I>compression. </I>See <A 
+  href="a.html#astronomical constants">astronomical 
+  constants</A>. 
+  <DD><I>The flattening of the earth is the ellipticity of the spheroid and 
+  equals the ellipticity of the ellipse forming a meridional section the 
+  spheroid. If a and b represent the major and minor semiaxes of the spheroid, 
+  and f is the flattening of the earth, 
+  <CENTER>f = (a - b) / a </CENTER>The magnitude of the flattening is sometimes 
+  expressed by stating the numerical value of the reciprocal of the flattening, 
+  a/(a - b). </I>
+  <DT><STRONG>F-layer</STRONG> 
+  <DD>See <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  <A name="Flicker control"></A><A name="flicker control"></A>
+  <DT><STRONG>flicker control</STRONG> 
+  <DD><A href="c.html#control">Control</A> 
+  of an aircraft, rocket, etc. in which the control surfaces are deflected to 
+  their fullest degree with any motion of the remote control. Compare <A 
+  href="p.html#proportional control">proportional 
+  control</A>. See <A 
+  href="b.html#bang-bang control">bang-bang 
+  control</A>. <A name=flight></A>
+  <DT><STRONG>flight</STRONG> 
+  <DD>1. The movement of an object through the atmosphere or through space, 
+  sustained by aerodynamic, aerostatic, or reaction forces, or by orbital speed; 
+  especially, the movement of a man-operated or man-controlled device, such as a 
+  rocket, a space probe, a space vehicle, or aircraft. 
+  <DD>2. An instance of such a movement. 
+  <DT><STRONG>flight attitude</STRONG> 
+  <DD>The attitude of an aircraft, rocket, etc., in flight; specifically, the 
+  attitude of an aircraft with respect to the relative wind. 
+  <DT><STRONG>flight characteristic</STRONG> 
+  <DD>A <A 
+  href="c.html#characteristic">characteristic</A> 
+  exhibited by an aircraft, rocket, or the like in flight, such as a tendency to 
+  stall or to yaw, an ability to remain stable at certain speeds, etc. 
+  <DT><STRONG>flight control system</STRONG> = <A 
+  href="v.html#vehicle control system">vehicle 
+  control system</A>. 
+  <DT><STRONG>flight Mach number</STRONG> 
+  <DD>A <A 
+  href="f.html#free stream">free-stream</A> 
+  Mach number measured in flight as distinguished from one measured in a <A 
+  href="w.html#wind tunnel">wind 
+  tunnel</A>. <A name="flight path"></A><A name=flightpath></A>
+  <DT><STRONG>flightpath</STRONG> 
+  <DD>The path made or followed in the air or in space by an aircraft, rocket, 
+  etc.; the continuous series of positions occupied by a flying body; more 
+  strictly, the path of the center of gravity of the flying body, referred to 
+  the earth or other fixed reference. 
+  <DT><STRONG>flightpath angle</STRONG> 
+  <DD>The angle between the <A 
+  href="h.html#horizontal">horizontal</A> 
+  and a tangent to the <A 
+  href="f.html#flightpath">flightpath</A> 
+  at a point. 
+  <DT><STRONG>flight profile</STRONG> 
+  <DD>A graphic portrayal or plot of the flight path of an aeronautical vehicle 
+  in the vertical plane. 
+  <DT><STRONG>flight simulator</STRONG> 
+  <DD>A training device or apparatus that simulates certain conditions of actual 
+  flight or of flight operations. 
+  <DT><STRONG>flight space</STRONG> 
+  <DD>The space above and beyond the earth's surface now used, or potentially to 
+  be used, for <A 
+  href="f.html#flight">flight</A> of 
+  aircraft, spacecraft, or rockets. <A name="flight tests"></A>
+  <DT><STRONG>flight test</STRONG> 
+  <DD>1. A test by means of actual or attempted flight to see how an aircraft, 
+  spacecraft, space-air vehicle, or missile flies. 
+  <DD>2. A test of a component part of a flying vehicle, or of an object carried 
+  in such a vehicle, to determine its suitability or reliability in terms of its 
+  intended function by making it endure actual <A 
+  href="f.html#flight">flight</A>. 
+  <DT><STRONG>flight test vehicle</STRONG> 
+  <DD>A test vehicle for the conduct of <A 
+  href="f.html#flight tests">flight 
+  tests</A>, either to test its own capabilities or to carry equipment requiring 
+  flight test. <A name=flip-flop></A>
+  <DT><STRONG>flip-flop</STRONG> 
+  <DD>1. A device having two stable states and two input terminals (or types of 
+  input signals) each of which corresponds with one of the two states. The <A 
+  href="c.html#circuit">circuit</A> remains 
+  in either state until caused to change to the other state by application of 
+  the corresponding signal. 
+  <DD>2. A similar bistable device with an input which allows it to act as a 
+  single-stage <A 
+  href="b.html#binary counter">binary 
+  counter</A>. <A name="floating point"></A>
+  <DT><STRONG>floating point</STRONG> 
+  <DD>In computer operations, a <A 
+  href="p.html#positional notation">positional 
+  notation</A> in which corresponding places in different quantities are not 
+  necessarily occupied by coefficient of the same power of the base. Compare <A 
+  href="f.html#fixed point">fixed 
+  point</A>. 
+  <DD><I>Floating point corresponds to multiplication using powers of 10; for 
+  example, 186,000 can be represented as 1.86 * 10<SUP>5</SUP>. By shifting the 
+  point so that the number of significant digits in any quantity does not exceed 
+  machine capacity, widely varying quantities can be handled. The scale factor 
+  may be fixed for each problem, or indicated along with the digits and sign for 
+  each quantity. </I><A name=flocculi></A>
+  <DT><STRONG>flocculi</STRONG> 
+  <DD>Patches of relatively dense, dark or bright clouds in the sun's 
+  atmosphere. They appear in photographs taken with the <A 
+  href="s.html#spectroheliograph">spectroheliograph</A>. 
+
+  <DD><I>The emission spectra usually studied are those of calcium and hydrogen; 
+  e.g., bright calcium flocculi, and dark or bright hydrogen flocculi. Measures 
+  of the extent of these three kinds of flocculi are tabulated in the 
+  </I>quarterly Bulletin of Character Figures of Solar Phenomena, <I>Zurich, 
+  Int. Astron. Union. </I>
+  <DT><STRONG>flotation gear</STRONG> 
+  <DD>1. Gear or apparatus, commonly inflatable bags, vest, rafts, and the like, 
+  carried aboard a vehicle to support the vehicle or persons if downed in water. 
+
+  <DD>2. A buoyant landing gear, usually called <I>floats. </I><A name=flow></A>
+  <DT><STRONG>flow</STRONG> 
+  <DD>A stream or movement of air or other <A 
+  href="f.html#fluid">fluid</A>, or the 
+  rate of fluid movement, in the open or in a duct, pipe, or passage; 
+  specifically, an <A 
+  href="a.html#airflow">airflow</A>. 
+  <DT><STRONG>flow chart</STRONG> 
+  <DD>A graphical representation of a sequence of operations using symbols to 
+  represent the operations. 
+  <DD><I>A flow chart is a more detailed representation than a diagram. </I>
+  <DT><STRONG>fluctuation velocity</STRONG> = <A 
+  href="e.html#eddy velocity">eddy 
+  velocity</A>. <A name=fluid></A><A name=fluids></A>
+  <DT><STRONG>fluid</STRONG> 
+  <DD>A substance which, when in static equilibrium, cannot sustain a <A 
+  href="s.html#shear">shear</A> stress; a 
+  liquid or a gas. 
+  <DD><I>This concept is only approximated by actual liquids and gases. </I>
+  <DT><STRONG>fluidity</STRONG> 
+  <DD>Reciprocal of <A 
+  href="v.html#viscosity">viscosity</A>. <A 
+  name="fluid parcel"></A><A name="fluid parcels"></A>
+  <DT><STRONG>fluid parcel</STRONG> 
+  <DD>In any <A 
+  href="f.html#fluid">fluid</A>, an 
+  imaginary portion of that fluid which for theoretical studies may be 
+  considered to have all the basic dynamic and thermodynamic properties of the 
+  fluid but which is small enough so that its motion with respect to the 
+  surrounding fluid does not induce marked compensatory movements. Also called 
+  <I>parcel. 
+  <DD>The size of the fluid parcel cannot be given precise numerical definition 
+  but it must be large enough to contain a great number of molecules and small 
+  enough so that the properties assigned to it are approximately uniform within 
+  it. </I><A name=fluorescence></A>
+  <DT><STRONG>fluorescence</STRONG> 
+  <DD><A 
+  href="e.html#emission">Emission</A> of 
+  light or other radiant energy as a result of and only during <A 
+  href="a.html#absorption">absorption</A> 
+  of <A 
+  href="r.html#radiation">radiation</A> of 
+  a different wavelength from some other source. Also called 
+  <I>photoluminescence. </I>See <A 
+  href="l.html#luminescence">luminescence</A>. 
+  Compare <A 
+  href="p.html#phosphorescence">phosphorescence</A>. 
+
+  <DT><STRONG>flutter</STRONG> 
+  <DD>An <A 
+  href="a.html#aeroelastic">aeroelastic</A> 
+  self-excited vibration in which the external source of energy is the <A 
+  href="a.html#airstream">airstream</A> and 
+  which depends on the elastic, inertial and dissipative forces of the system in 
+  addition to the <A 
+  href="a.html#aerodynamic forces">aerodynamic 
+  forces</A>. <A name=flux></A>
+  <DT><STRONG>flux</STRONG> 
+  <DD>1. The rate of <A 
+  href="f.html#flow">flow</A> of some 
+  quantity, often used in reference to the flow of some form of <A 
+  href="e.html#energy">energy</A>. Also 
+  called <I>transport. </I>See <A 
+  href="p.html#power">power</A>. 
+  <DD>2. In nuclear physics generally, the number of <A 
+  href="r.html#radioactive">radioactive</A> 
+  particles per unit volume times their mean velocity. <A 
+  name="flux density"></A>
+  <DT><STRONG>flux density</STRONG> 
+  <DD>The <A href="f.html#flux">flux</A> 
+  (rate of flow) of any quantity, usually a form of <A 
+  href="e.html#energy">energy</A>, through 
+  a unit area of specified surface. (Note that this is not a volumetric density 
+  like <A 
+  href="r.html#radiant density">radiant 
+  density</A>.) Compare <A 
+  href="l.html#luminous density">luminous 
+  density</A>. 
+  <DD><I>In radar, flux density commonly is referred to as </I>power density<I>. 
+  It is essential to understand that the flux density of radiation is in no 
+  sense a vector quantity, because it is the sum of the flux corresponding to 
+  all ray directions incident upon one </I>side<I> of the unit area. </I>
+  <DT><STRONG>flux-density threshold</STRONG> = <A 
+  href="t.html#threshold illuminance">threshold 
+  illuminance</A>. 
+  <DT><STRONG>flyby</STRONG> 
+  <DD>An interplanetary mission in which the vehicle passes close to the target 
+  planet but does not impact it or go into orbit around it. 
+  <DT><STRONG>flying spot</STRONG> 
+  <DD>A rapidly moving spot of light, usually generated by a <A 
+  href="c.html#cathode-ray tube">cathode-ray 
+  tube</A> and used to <A 
+  href="s.html#scan">scan</A> a surface 
+  containing visual information. 
+  <DT><STRONG>flying test bed</STRONG> 
+  <DD>An aircraft, rocket, or other flying <A 
+  href="v.html#vehicle">vehicle</A> used to 
+  carry objects or devices being flight tested. 
+  <DT><STRONG>FM (abbr) </STRONG>= <A 
+  href="f.html#frequency modulation"><I>f</I>requency 
+  <I>m</I>odulation</A>. 
+  <DT><STRONG>FM/AM (abbr)</STRONG> 
+  <DD>1. <A 
+  href="a.html#amplitude modulation">Amplitude 
+  modulation</A> of a <A 
+  href="c.html#carrier">carrier</A> by 
+  subcarrier(s) which is (are) frequency modulated by information. 
+  <DD>2. Alternate FM or AM operations. 
+  <DT><STRONG>FM/FM (abbr)</STRONG> 
+  <DD><A 
+  href="f.html#frequency modulation">Frequency 
+  modulation</A> of a <A 
+  href="c.html#carrier">carrier</A> by 
+  subcarrier(s) which is (are) frequency modulated by information. 
+  <DT><STRONG>FM/PM (abbr)</STRONG> 
+  <DD><A 
+  href="p.html#phase modulation">Phase 
+  modulation</A> of a <A 
+  href="c.html#carrier">carrier</A> by 
+  subcarrier(s) which is (are) frequency modulated by information. 
+  <DT><STRONG>foamed plastics</STRONG> 
+  <DD>Plastic materials, used primarily for insulation, in which a foaming agent 
+  is used to provide minute voids to improve insulating qualities-often foamed 
+  in place within the structure. 
+  <DT><STRONG>focal length</STRONG> 
+  <DD>The distance between the optical center of a lens, or the surface of a 
+  mirror, and its <A 
+  href="f.html#focus">focus</A>. 
+  <DT><STRONG>focal plane</STRONG> 
+  <DD>A plane parallel to the plane of a lens or mirror and passing through the 
+  <A href="f.html#focus">focus</A>. 
+  <DT><STRONG>focal point</STRONG> = <A 
+  href="f.html#focus">focus</A>, in optics. 
+  <A name=focus></A>
+  <DT><STRONG>focus (plural focuses)</STRONG> 
+  <DD>1. That point at which parallel rays of light meet after being refracted 
+  by a lens or reflected by a mirror. Also called <I>focal </I><I>point. </I>
+  <DD>2. A point having specific significance relative to a geometrical figure. 
+  See <A href="e.html#ellipse">ellipse</A>, 
+  <A href="h.html#hyperbola">hyperbola</A>, 
+  <A href="p.html#parabola">parabola</A>. 
+  <DT><STRONG>folded dipole antenna</STRONG> 
+  <DD>An <A 
+  href="a.html#antenna">antenna</A> 
+  composed of two parallel, closely space <A 
+  href="d.html#dipole antennas">dipole 
+  antennas</A> connected at their ends with one of the dipole antennas fed at 
+  its center. 
+  <DT><STRONG>folding fin</STRONG> 
+  <DD>A <A href="f.html#fin">fin</A> hinged 
+  as its base to lie flat, especially a fin on a <A 
+  href="r.html#rocket">rocket</A> that lies 
+  flat until the rocket is in flight. 
+  <DT><STRONG>follow-on</STRONG> 
+  <DD>Any object, group of objects, technique, or procedure considered to be a 
+  second or subsequent generation in the development of the object, group of 
+  objects, technique, or procedure. See <A 
+  href="g.html#generation">generation</A>. 
+  <DT><STRONG>foot (abbr ft)</STRONG> 
+  <DD>The foot (international) is exactly 0.3048 meter. 
+  <DD><I>The American Survey foot is 0.3048006 meter. 
+  <DD>The old U.S. foot, used prior to July 1, 1959, was 0.3048006 meter. </I><A 
+  name=foot-candle></A>
+  <DT><STRONG>foot-candle (abbr ft-c)</STRONG> 
+  <DD>A unit of <A 
+  href="i.html#illuminance">illuminance</A>, 
+  incident light, or <A 
+  href="i.html#illumination">illumination</A> 
+  equal to 1 lumen per square foot. This is the illuminance provided by a light 
+  source of one candle at a distance of 1 foot, hence the name. Compare <A 
+  href="l.html#lux">lux</A>, <A 
+  href="p.html#phot">phot</A>. 
+  <DD><I>Full sunlight with zenith sun produces an illuminance of the order of 
+  10,000 foot-candles on a horizontal surface at the earth's surface. Full 
+  moonlight provides an illuminance of only about 0.02 foot-candle also at 
+  earth's surface. Adequate illumination for steady reading is taken to be about 
+  10 foot-candles; that for close machine work is about 30 to 40 foot-candles. 
+  </I><A name=foot-lambert></A>
+  <DT><STRONG>foot-lambert (abbr ft-l)</STRONG> 
+  <DD>A unit of <A 
+  href="l.html#luminance">luminance</A> (or 
+  brightness) equal to 1 /<IMG src="pism.gif"> candle per square foot, 
+  or 1 lumen per square foot. 
+  <DD><I>In Great Britain this is also called the </I>equivalent foot-candle. 
+  <DT><STRONG>foot-to-head acceleration</STRONG> 
+  <DD>See <A 
+  href="p.html#physiological acceleration">physiological 
+  acceleration</A>. 
+  <DT><STRONG>footward acceleration</STRONG> 
+  <DD>See <A 
+  href="p.html#physiological acceleration">physiological 
+  acceleration</A>. 
+  <DT><STRONG>For, Forn</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Fornax. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name="forbidden line"></A>
+  <DT><STRONG>forbidden line</STRONG> 
+  <DD>A line in a <A 
+  href="s.html#spectrum">spectrum</A> 
+  resulting from a transition from a <A 
+  href="m.html#metastable">metastable</A> 
+  state within an atom. Forbidden lines are not found in ordinary sources, but 
+  may be conspicuous in very large bodies of rarefied gas where the time 
+  interval between collisions of atoms is long. 
+  <DD><I>Forbidden lines of oxygen appear, for example, in the aurora. </I>
+  <DT><STRONG>Forbush decrease</STRONG> 
+  <DD>The observed decrease in <A 
+  href="c.html#cosmic ray">cosmic ray</A> 
+  activity in the earth's atmosphere about a day after a <A 
+  href="s.html#solar flare">solar 
+  flare</A>. 
+  <DD><I>The Forbush decrease is believed to be caused by a shielding effect of 
+  the magnetic fields contained in the plasma cloud emitted from the sun at the 
+  time of the flare. </I><A name=force></A><A name=forces></A>
+  <DT><STRONG>force </STRONG>(<I>symbol F</I>) 
+  <DD>The cause of the <A 
+  href="a.html#acceleration">acceleration</A> 
+  of material bodies measured by the rate of change of <A 
+  href="m.html#momentum">momentum</A> 
+  produced on a free body. 
+  <DT><STRONG>force balance transducer</STRONG> 
+  <DD>A <A 
+  href="t.html#transducer">transducer</A> 
+  in which the output from the sensing member is amplified and fed back to an 
+  element which causes the force-summing member to return to its rest position. 
+  <A name="forced oscillation"></A>
+  <DT><STRONG>forced oscillation</STRONG> 
+  <DD>An <A 
+  href="o.html#oscillation">oscillation</A> 
+  of a system in which the response is imposed by the <A 
+  href="e.html#excitation">excitation</A>. 
+  If the excitation is periodic and continuing, the oscillation is steady state. 
+  Also called <I>force vibration. </I>
+  <DT><STRONG>forced vibration</STRONG> = <A 
+  href="f.html#forced oscillation">forced 
+  oscillation</A>. <A name="forced wave"></A>
+  <DT><STRONG>forced wave</STRONG> 
+  <DD>See <A 
+  href="r.html#resonance">resonance</A>. <A 
+  name="force function"></A>
+  <DT><STRONG>force function</STRONG> 
+  <DD>The negative of <A 
+  href="p.html#potential">potential</A>, 
+  sense 1. <A name=formers></A>
+  <DT><STRONG>formability</STRONG> 
+  <DD>The relative ease with which a metal can be shaped through plastic 
+  deformation. 
+  <DT><STRONG>Forn</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Fornax. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Fornax (abbr For, Forn)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>forward acceleration</STRONG> 
+  <DD>See <A 
+  href="p.html#physiological acceleration">physiological 
+  acceleration</A>. <A name="forward scatter"></A>
+  <DT><STRONG>forward scatter</STRONG> 
+  <DD>The <A 
+  href="s.html#scattering">scattering</A> 
+  of <A 
+  href="r.html#radiant energy">radiant 
+  energy</A> into the hemisphere of space bounded by a plane normal to the 
+  direction of the incident radiation and lying on the side toward which the 
+  incident radiation was advancing; the opposite of <A 
+  href="b.html#backward scatter">backward 
+  scatter</A>. 
+  <DD><I>In <A 
+  href="r.html#rayleigh scattering">Rayleigh 
+  scattering</A>, forward scatter accounts for half of the total. As the 
+  particle size increases above the Rayleigh limit, an increasing fraction of 
+  the total scattering is forward scattering. </I><A 
+name="fourier analysis"></A>
+  <DT><STRONG>Fourier analysis</STRONG> 
+  <DD>The representation of physical or mathematical data by the use of the <A 
+  href="f.html#fourier series">Fourier 
+  series</A> or <A 
+  href="f.html#fourier integral">Fourier 
+  integral</A>. <A name="fourier coefficient"></A>
+  <DT><STRONG>Fourier coefficients</STRONG> 
+  <DD>See <A 
+  href="f.html#fourier series">Fourier 
+  series</A>. <A name="fourier integral"></A>
+  <DT><STRONG>Fourier integral</STRONG> 
+  <DD>The representation of a function f(x) for all values of x in terms of 
+  infinite integrals in the form 
+  <CENTER><IMG height=38 src="113Fint.gif" WITDH="294"></CENTER>See <A 
+  href="f.html#fourier transform">Fourier 
+  transform</A>, <A 
+  href="f.html#fourier series">Fourier 
+  series</A>. <A name="fourier series"></A>
+  <DT><STRONG>Fourier series</STRONG> 
+  <DD>The representation of a function <I>f</I>(<I>x</I>) in an interval 
+  (-<I>L</I>, <I>L</I>) by a series consisting of sines and cosines with a 
+  common period <I>2L</I>, in the form, 
+  <CENTER><IMG height=74 src="113Fser1.gif" width=304></CENTER>where the 
+  Fourier coefficients are defined as 
+  <CENTER><IMG height=37 src="113Fser2.gif" width=137></CENTER>
+  <P>
+  <CENTER><IMG height=38 src="113Fser3.gif" width=192></CENTER>
+  <P>and 
+  <CENTER><IMG height=37 src="113Fser4.gif" width=188></CENTER>
+  <P></P>
+  <DD><I>When f(x) is an even function, only the cosine terms appear; when f(x) 
+  is odd, only the sine terms appear. 
+  <DD>The conditions on f(x) guaranteeing convergence of the series are quite 
+  general, and the series may serve as a root-mean-square approximation even 
+  when it does not converge. 
+  <DD>If the function is defined on an infinite interval and is not periodic, it 
+  is represented by the Fourier integral. By either representation, the function 
+  is decomposed into periodic components whose frequencies constitute the 
+  spectrum of the function. The Fourier series employs a discrete spectrum of 
+  wavelengths 2 L / n</I>(<I>n</I> = 1,2,...)<I>; the Fourier integral requires 
+  a continuous spectrum. 
+  <DD>See <A 
+  href="f.html#fourier transform">Fourier 
+  transform</A>. </I><A name="fourier transform"></A>
+  <DT><STRONG>Fourier transform</STRONG> 
+  <DD>An analytical transformation of a function <I>f(x) </I>obtained (if it 
+  exists) by multiplying the function by <I>e<SUP>-iux</SUP></I> and integrating 
+  over all <I>x</I>, 
+  <CENTER><IMG src="113Ftran1.gif"></CENTER>where <I>u</I> is the new 
+  variable of the transform <I>F(u) </I>and <I>i<SUP>2</SUP></I> = -1. If the 
+  Fourier transform of a function is known, the function itself may be recovered 
+  by use of the inversion formula: 
+  <CENTER><IMG src="113Ftran2.gif"> </CENTER>
+  <DD><I>The Fourier transform has the same uses as the <A 
+  href="f.html#fourier series">Fourier 
+  series</A>: for example, the integrand F(u) </I>exp <I>(iux) is a solution of 
+  a given linear differential equation, so that the integral sum of these 
+  solutions is the most general solution of the equation. 
+  <DD>When the variable u is complex, the Fourier transform is equivalent to the 
+  <A 
+  href="l.html#laplace transform">Laplace 
+  transform</A>. 
+  <DD>See <A 
+  href="f.html#fourier integral">Fourier 
+  integral</A>, <A 
+  href="s.html#spectral function">spectral 
+  function</A>. </I>
+  <DT><STRONG>fourth state of matter</STRONG> = <A 
+  href="p.html#plasma">plasma</A>. <A 
+  name=fovea></A>
+  <DT><STRONG>fovea</STRONG> 
+  <DD>The central part of the retina, which contains a high concentration of 
+  color-sensitive receptors known as <I>cones. </I>See <A 
+  href="f.html#foveal vision">foveal 
+  vision</A>. <A name="foveal vision"></A>
+  <DT><STRONG>foveal vision</STRONG> 
+  <DD>Vision in which the eye is so oriented toward the pertinent light source 
+  as to have the light fall upon that central portion of the retina called the 
+  <I>fovea. </I>Also called <I>photopic vision. </I>
+  <DD><I>Foveal vision permits much higher resolution than does parafoveal 
+  vision and is the normal mode of seeing under daytime conditions. </I><A 
+  name=frames></A><A name="fraunhofer corona"></A>
+  <DT><STRONG>Fraunhofer corona</STRONG> 
+  <DD>That portion of the radiation from the <A 
+  href="c.html#corona">corona</A> 
+  consisting of the <A 
+  href="f.html#fraunhofer spectrum">Fraunhofer 
+  spectrum</A> scattered by interplanetary particles. Compare <A 
+  href="k.html#k-corona">K-corona</A>, <A 
+  href="l.html#l-corona">L-corona</A>. <A 
+  name="fraunhofer lines"></A>
+  <DT><STRONG>Fraunhofer lines</STRONG> 
+  <DD>Dark lines in the <A 
+  href="a.html#absorption spectrum">absorption 
+  spectrum</A> of <A 
+  href="s.html#solar radiation">solar 
+  radiation</A> due to absorption by gases in the outer portions of the sun and 
+  in the earth's atmosphere. 
+  <DD><I>Fraunhofer lines are designated by letters, as the </I>K-line<I>, or by 
+  wavelength, as the </I>4046-angstrom line of iron. 
+  <DD><I>The major Fraunhofer lines are: </I>
+  <TABLE width=300>
+    <TBODY>
+    <TR>
+      <TD width=100>
+      <TD width=100><I>angstroms (nm)</I> 
+      <TD width=100><I>Line due to</I> 
+    <TR>
+      <TD>A 
+      <TD>7594 
+      <TD>Telluric oxygen 
+    <TR>
+      <TD>B 
+      <TD>6867 
+      <TD>Telluric oxygen 
+    <TR>
+      <TD>C 
+      <TD>6563 
+      <TD>hydrogen, H<SUB><IMG src="alphasm.gif"></SUB> 
+    <TR>
+      <TD>D<SUB>1</SUB> 
+      <TD>5896 
+      <TD>sodium 
+    <TR>
+      <TD>D<SUB>2</SUB> 
+      <TD>5890 
+      <TD>sodium 
+    <TR>
+      <TD>D<SUB>3</SUB> 
+      <TD>5876 
+      <TD>helium 
+    <TR>
+      <TD>E 
+      <TD>5270 
+      <TD>iron and calcium 
+    <TR>
+      <TD>b<SUB>1</SUB> 
+      <TD>5184 
+      <TD>magnesium 
+    <TR>
+      <TD>F 
+      <TD>4861 
+      <TD>hydrogen, H<SUB><IMG src="betasm.gif"></SUB> 
+    <TR>
+      <TD>G 
+      <TD>4308 
+      <TD>iron (and calcium) 
+    <TR>
+      <TD>H 
+      <TD>3968 
+      <TD>calcium 
+    <TR>
+      <TD>K 
+      <TD>3934 
+      <TD>calcium </TR></TBODY></TABLE><A name="fraunhofer region"></A>
+  <DT><STRONG>Fraunhofer region</STRONG> 
+  <DD>That region of the <A 
+  href="f.html#field">field</A> in which 
+  the energy flow from an <A 
+  href="a.html#antenna">antenna</A> 
+  proceeds essentially as though coming from a point source located in the 
+  vicinity of the antenna. 
+  <DD><I>If the antenna has a well-defined aperture a in a given aspect, the 
+  Fraunhofer region in that aspect is commonly taken to exist at distances 
+  greater than 2a<SUP>2</SUP> /<IMG src="lambdasm.gif"> from the 
+  aperture, <IMG src="lambdasm.gif"> being the wavelength. </I><A 
+  name="fraunhofer spectrum"></A>
+  <DT><STRONG>Fraunhofer spectrum</STRONG> 
+  <DD>The visible solar spectrum. 
+  <DT><STRONG>free air </STRONG>= <A 
+  href="f.html#free atmosphere">free 
+  atmosphere</A>. <A name="free atmosphere"></A>
+  <DT><STRONG>free atmosphere</STRONG> 
+  <DD>That portion of the earth's <A 
+  href="a.html#atmosphere">atmosphere</A>, 
+  above the <A 
+  href="p.html#planetary boundary layer">planetary 
+  boundary layer</A>, in which the effect of the earth's surface friction on the 
+  air motion is negligible, and in which the air is usually treated 
+  (dynamically) as an ideal fluid. The base of the free atmosphere is usually 
+  taken as the <A 
+  href="g.html#geostrophic wind">geostrophic 
+  wind</A> level. Also called <I>free air. </I><A name="free electron"></A><A 
+  name="free electrons"></A>
+  <DT><STRONG>free electron</STRONG> 
+  <DD>An <A 
+  href="e.html#electron">electron</A> which 
+  is not bound to an atom. 
+  <DT><STRONG>free fall</STRONG> 
+  <DD>1. The fall or drop of a body, such as a rocket, not guided, not under 
+  thrust, and not retarded by a parachute or other braking device. 
+  <DD>2. The free and unhampered motion of a body along a Keplerian <A 
+  href="t.html#trajectory">trajectory</A>, 
+  in which the force of <A 
+  href="g.html#gravity">gravity</A> is 
+  counterbalanced by the force of <A 
+  href="i.html#inertia">inertia</A>. See <A 
+  href="w.html#weightlessness">weightlessness</A>. 
+  <A name="free field"></A>
+  <DT><STRONG>free field</STRONG> 
+  <DD>An <A 
+  href="i.html#isotropic">isotropic</A>, 
+  homogeneous, sound field free from bounding surfaces. Also called <I>free 
+  sound field. </I><A name="free flight"></A>
+  <DT><STRONG>free flight</STRONG> 
+  <DD>Unconstrained or unassisted <A 
+  href="f.html#flight">flight</A>, as: (a) 
+  the flight of a rocket after consumption of its propellant or after motor 
+  shutoff; (b) the flight of an unguided projectile; (c) the flight in certain 
+  kinds of wind tunnel of an unmounted model. 
+  <DT><STRONG>free-flight angle</STRONG> 
+  <DD>The angle between the <A 
+  href="h.html#horizontal">horizontal</A> 
+  and a line in the direction of motion of a flying body, especially a <A 
+  href="r.html#rocket">rocket</A>, at the 
+  beginning of <A 
+  href="f.html#free flight">free 
+  flight</A>. 
+  <DT><STRONG>free-flight trajectory</STRONG> 
+  <DD>The path of a body in free fall. 
+  <DT><STRONG>free-flow area</STRONG> = <A 
+  href="v.html#void fraction">void 
+  fraction</A>. 
+  <DT><STRONG>free gyro</STRONG> 
+  <DD>1. A two-degree-of-freedom <A 
+  href="g.html#gyro">gyro</A> whose spin 
+  axis may be oriented in any specified attitude. 
+  <DD><I>In a free gyro, output signals are produced by gimbal angular 
+  displacements which correspond to components of the angular displacement of 
+  the base. </I>
+  <DD>2. A <A href="g.html#gyro">gyro</A> 
+  not provided with an erection system, i.e., a gyro free to move about its 
+  axes. <A name="free jet"></A>
+  <DT><STRONG>free jet</STRONG> 
+  <DD>A fluid <A href="j.html#jet">jet</A> 
+  without solid boundaries, such as a jet discharging into the open. 
+  <DT><STRONG>free molecule flow</STRONG> 
+  <DD>1. A <A href="f.html#flow">flow</A> 
+  regime in aerodynamics in which molecules emitted from an object, as it passes 
+  through a resistive medium, do not affect the flow of oncoming molecules by 
+  scattering interactions, i.e., the <A 
+  href="m.html#mean free path">mean free 
+  path</A> of the emitted molecules in much longer than a characteristic linear 
+  dimension of an object. 
+  <DD>2. <A href="f.html#flow">Flow</A> 
+  about a body in which the number of <A 
+  href="c.html#collisions">collisions</A> 
+  between the molecules of the fluid is negligible compared with the collisions 
+  between these molecules and the body. Also called <I>free molecular flow. 
+  </I>See <A 
+  href="r.html#rarefied gas dynamics">rarefied 
+  gas dynamics</A>, note. <A name="free oscillation"></A>
+  <DT><STRONG>free oscillation</STRONG> 
+  <DD><A 
+  href="o.html#oscillation">Oscillation</A> 
+  of a system in the absence of external forces. <A 
+  name="free progressive wave"></A>
+  <DT><STRONG>free progressive wave</STRONG> 
+  <DD>A <A href="w.html#wave">wave</A> in a 
+  medium free from boundary effects. A free wave in a steady state can only be 
+  approximated in practice. Also called <I>free wave. </I>
+  <DT><STRONG>free radical</STRONG> 
+  <DD>An atom or group of atoms broken away from a stable compound by 
+  application of external energy, and, although containing unpaired electrons, 
+  remaining free for transitory or longer periods. 
+  <DD><I>Interest centers on three radicals, atomic hydrogen (H), atomic 
+  nitrogen (N), and the amine radical (NH). In their free state, they are highly 
+  active, combining with each other or with other substances to form other 
+  stable molecules, and yielding in the process energies well in excess of those 
+  available from conventional chemical fuels. Their use in propulsive systems, 
+  depends upon their being isolated and available in bulk, either in pure form 
+  or dissolved in a desired concentration in another fuel. See <A 
+  href="a.html#aeroduct">aeroduct</A>. </I>
+  <DT><STRONG>free sound field</STRONG> = <A 
+  href="f.html#free field">free field</A>. 
+  <A name="free space"></A>
+  <DT><STRONG>free space</STRONG> 
+  <DD>An ideal, perfectly homogeneous medium possessing a <A 
+  href="d.html#dielectric constant">dielectric 
+  constant</A> of unity and in which there is nothing to reflect, refract or 
+  absorb energy. A perfect vacuum possesses these qualities. Compare <A 
+  href="h.html#homogeneous atmosphere">homogeneous 
+  atmosphere</A>. 
+  <DD><I>Radio signal strength measurements are often expressed in terms of 
+  decibels above or below free-space values at a given distance from the 
+  transmitter. A free-space radiation pattern would show only the minor and 
+  major lobes of the antenna and not the interference pattern normally produced 
+  by reflection from the earth's surface. </I><A name="free stream"></A>
+  <DT><STRONG>free stream</STRONG> 
+  <DD>1. The stream of <A 
+  href="f.html#fluid">fluid</A> outside the 
+  region affected by a body in the fluid. 
+  <DD>2. Pertaining to the free stream, sense 1, as in <I>free-stream dynamic 
+  pressure, free-stream flow, free-stream Mach number, free-stream static 
+  pressure, free-stream temperature, free-stream turbulence, free-stream 
+  velocity. </I>See <A 
+  href="r.html#remote velocity">remote 
+  velocity</A>. 
+  <DT><STRONG>free-stream capture area</STRONG> 
+  <DD>The cross-sectional area of a column of air swallowed by a <A 
+  href="r.html#ramjet">ramjet</A> engine. 
+  <A name="free streamline"></A>
+  <DT><STRONG>free streamline</STRONG> 
+  <DD>A <A 
+  href="s.html#streamline">streamline</A> 
+  separating fluid in motion from fluid at rest. 
+  <DD><I>Both pressure and speed are constant along a free streamline.</I> <A 
+  name="free turbine"></A>
+  <DT><STRONG>free turbine</STRONG> 
+  <DD>In a turbine engine, a <A 
+  href="t.html#turbine wheel">turbine 
+  wheel</A> that drives the output shaft and is not connected to the shaft 
+  driving the <A 
+  href="c.html#compressor">compressor</A>. 
+  <A name=free-vortex></A>
+  <DT><STRONG>free-vortex compressor</STRONG> 
+  <DD>An <A 
+  href="a.html#axial flow compressor">axial-flow 
+  compressor</A> designed so as to impart to the fluid tangential velocities 
+  that are inversely proportional to the distance from the axis of rotation, as 
+  in a <A href="v.html#vortex">vortex</A>. 
+  <A name="free wave"></A>
+  <DT><STRONG>free wave</STRONG> 
+  <DD>1. Any <A href="w.html#wave">wave</A> 
+  not acted upon by any external force except for the initial force that created 
+  it. 
+  <DD>2. = <A 
+  href="f.html#free progressive wave">free 
+  progressive wave</A>. 
+  <DT><STRONG>freezeout method</STRONG> 
+  <DD>A method for controlling humidity by passing moist air over a cold 
+  surface, thus condensing and freezing out water vapor and possibly carbon 
+  dioxide. 
+  <DT><STRONG>F-region</STRONG> 
+  <DD>The general region of the ionosphere in which the F<SUB>1</SUB>-layer and 
+  F<SUB>2</SUB>-layer tend to form. See <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  <A name=frequency></A><A name=frequencies></A>
+  <DT><STRONG>frequency </STRONG>(<I>symbol f</I>) 
+  <DD>Of a function periodic in time, the reciprocal of the primitive <A 
+  href="p.html#period">period</A>. The unit 
+  is the <A href="c.html#cycle">cycle</A> 
+  per unit time and must be specified. 
+  <DD><I>In the International System the cycle per second is called the hertz 
+  (Hz). </I>
+  <DT><STRONG>frequency assignment</STRONG> 
+  <DD>The specific <A 
+  href="f.html#frequency">frequency</A> or 
+  frequencies authorized by competent authority; expressed for each radio 
+  channel by: (a) the authorized <A 
+  href="c.html#carrier frequency">carrier 
+  frequency</A>, the <A 
+  href="f.html#frequency tolerance">frequency 
+  tolerance</A>, and the authorized emission-bandwidth, (b) the authorized 
+  emission-bandwidth in reference to a specific assigned frequency (when a 
+  carrier does exist), or (c) the authorized <A 
+  href="f.html#frequency band">frequency 
+  band</A> (when a carrier does not exist). <A name="frequency bands"></A>
+  <DT><STRONG>frequency band</STRONG> <A name="frequency band"></A>
+  <DD>A continuous range of frequencies extending between two limiting 
+  frequencies. 
+  <DD><I>Specific frequency bands used in radio and radar are often designated 
+  by names, numbers, or letters. The band designations as decided upon by the 
+  Atlantic City Radio Convention of 1947 and later modified by Comite 
+  Consultatif International Radio (CCIR) Recommendation No. 142 in 1953 were: 
+  <TABLE border=1>
+    <TBODY>
+    <TR>
+      <TH width=55>Band number 
+      <TH colSpan=2>Frequency range 
+      <TH>Metric subdivision waves 
+      <TH colSpan=2>Atlanctic City frequency subdivision 
+    <TR>
+      <TD>
+      <TD align=middle colSpan=2><I>kc</I> 
+    <TR>
+      <TD>4 
+      <TD>3- 
+      <TD>30 
+      <TD>Myriametric 
+      <TD>Very-low 
+      <TD>VLF 
+    <TR>
+      <TD>5 
+      <TD>30- 
+      <TD>300 
+      <TD>Kilometric 
+      <TD>Low 
+      <TD>LF 
+    <TR>
+      <TD>6 
+      <TD>300- 
+      <TD>3,000 
+      <TD>Hectometric 
+      <TD>Medium 
+      <TD>MF 
+    <TR>
+      <TD>7 
+      <TD>3,000- 
+      <TD>30,000 
+      <TD>Decametric 
+      <TD>High 
+      <TD>HF 
+    <TR>
+      <TD>
+      <TD align=middle colSpan=2><I>mc</I> 
+    <TR>
+      <TD>8 
+      <TD>30- 
+      <TD>300 
+      <TD>Metric 
+      <TD>Very-high 
+      <TD>VHF 
+    <TR>
+      <TD>9 
+      <TD>300- 
+      <TD>3,000 
+      <TD>Decimetric 
+      <TD>Ultra-high 
+      <TD>UHF 
+    <TR>
+      <TD>10 
+      <TD>3,000- 
+      <TD>30,000 
+      <TD>Centimetric 
+      <TD>Super-high 
+      <TD>SHF 
+    <TR>
+      <TD>11 
+      <TD>30,000- 
+      <TD>300,000 
+      <TD>Millimetric 
+      <TD>Extremely high 
+      <TD>EHF 
+    <TR>
+      <TD>12 
+      <TD>300,000- 
+      <TD>3,000,000 
+      <TD>Decimillimetric 
+      <TD>-- 
+      <TD>-- </TR></TBODY></TABLE>Note that band N extends from 
+  0.3*10<MATH><SUP>N</SUP></MATH> to 3*10<MATH><SUP>N</SUP></MATH> cycles; thus 
+  band 4 designates the frequency range 0.3*10<SUP>4</SUP> to 3*10<SUP>4</SUP> 
+  cycles. The upper limit is included in each band; the lower limit is excluded. 
+
+  <DD>Description of bands by means of adjectives is arbitrary and the CCIR 
+  recommend that it be discontinued. 
+  <DD>The designation ELF, extremely low frequency, has recently been proposed 
+  for the band extending from 3 kilocycles down to 1 cycle per second. These 
+  frequencies have been used for years in the study of lightning and associated 
+  phenomena and may be useful in communicating with spacecraft. 
+  <DD>The frequency bands used by <A 
+  href="r.html#radar">radar </A>(radar 
+  frequency bands) were first designated by letters for military secrecy. Those 
+  designations were: 
+  <TABLE border=1 width=330>
+    <TBODY>
+    <TR>
+      <TD width=80>
+        <CENTER><B>Frequency band</B></CENTER>
+      <TD width=125>
+        <CENTER><B>Approximate frequency range, gigacycles</B></CENTER>
+      <TD width=125>
+        <CENTER><B>Approximate wavelength range, centimeters</B></CENTER>
+    <TR>
+      <TD>P-band 
+      <TD>0.225 to 0.39 
+      <TD>140 to 76.9 
+    <TR>
+      <TD>L-band 
+      <TD>0.39 to 1.55 
+      <TD>76.9 to 19.3 
+    <TR>
+      <TD>S-band 
+      <TD>1.55 to 5.20 
+      <TD>19.3 to 5.77 
+    <TR>
+      <TD>X-band 
+      <TD>5.20 to 10.90 
+      <TD>5.77 to 2.75 
+    <TR>
+      <TD>K-band 
+      <TD>10.90 to 36.00 
+      <TD>2.75 to 0.834 
+    <TR>
+      <TD>Q-band 
+      <TD>36.00 to 46.00 
+      <TD>0.834 to 0.652 
+    <TR>
+      <TD>V-band 
+      <TD>46.00 to 56.00 
+      <TD>0.652 to 0.536 </TR></TBODY></TABLE>The C-band, 3.9 to 6.2 gigacycles, 
+  overlaps the S- and X-bands. These letter designations have no official 
+  sanction. </I>
+  <DT><STRONG>frequency bias</STRONG> 
+  <DD>A constant <A 
+  href="f.html#frequency">frequency</A> 
+  purposely added to the frequency of a signal to prevent the signal frequency 
+  from going to zero. 
+  <DT><STRONG>frequency channel</STRONG> 
+  <DD>1. The band of <A 
+  href="f.html#frequencies">frequencies</A> 
+  which must be handled by a <A 
+  href="c.html#carrier">carrier</A> system 
+  to transmit a specific quantity of information. 
+  <DD>2. A band of radio frequencies within which a station must maintain its 
+  modulated <A 
+  href="c.html#carrier frequency">carrier 
+  frequency</A> to prevent interference with stations on adjacent channels. 
+  <DD>3. Any <A 
+  href="c.html#circuit">circuit</A> over 
+  which telephone, telegraph, or other signals may be sent by an electric 
+  current. <A name="frequency departure"></A>
+  <DT><STRONG>frequency departure</STRONG> 
+  <DD>The amount of variation of a <A 
+  href="c.html#carrier frequency">carrier 
+  frequency</A> or center frequency from its assigned value. 
+  <DD><I>The use of the term </I>frequency deviation <I>in this sense should be 
+  discouraged. </I><A name="frequency deviation"></A>
+  <DT><STRONG>frequency deviation</STRONG> 
+  <DD>See <A 
+  href="f.html#frequency departure">frequency 
+  departure</A>, note. <A name="frequency equation"></A>
+  <DT><STRONG>frequency equation</STRONG> 
+  <DD>An equation relating <A 
+  href="p.html#phase speed">phase speed</A> 
+  to <A 
+  href="w.html#wavelength">wavelength</A> 
+  and to the physical parameters of the system in a linear oscillation. Also 
+  called <I>dispersion equation. </I>
+  <DD><I>Mathematically, the frequency equation is the result of substituting a 
+  simple harmonic solution in the homogeneous differential equations of motion 
+  and the homogeneous boundary conditions. The frequency equation thus describes 
+  the <A href="f.html#free wave">free 
+  waves</A> of the system. See <A 
+  href="g.html#group velocity">group 
+  velocity</A>. </I><A name="frequency modulation"></A><A 
+  name="frequency modulated"></A>
+  <DT><STRONG>frequency modulation (abbr FM)</STRONG> 
+  <DD><A 
+  href="a.html#angle modulation">Angle 
+  modulation</A> of a sine-wave <A 
+  href="c.html#carrier">carrier</A> in 
+  which the instantaneous frequency of the modulated wave differs from the 
+  carrier frequency by an amount proportional to the instantaneous value of the 
+  modulating wave. Compare <A 
+  href="p.html#pulse modulation">pulse 
+  modulation</A>, <A 
+  href="a.html#amplitude modulation">amplitude 
+  modulation</A>, <A 
+  href="p.html#phase modulation">phase 
+  modulation</A>, <A 
+  href="i.html#intensity modulation">intensity 
+  modulation</A>. 
+  <DD><I>Combinations of phase and frequency modulation are commonly referred to 
+  as </I>frequency modulation. 
+  <DT><STRONG>frequency offset transponder</STRONG> 
+  <DD>A <A 
+  href="t.html#transponder">transponder</A> 
+  which changes the signal <A 
+  href="f.html#frequency">frequency</A> by 
+  a fixed amount before retransmission. <A name="frequency response"></A>
+  <DT><STRONG>frequency response</STRONG> 
+  <DD>1. The portion of the frequency <A 
+  href="s.html#spectrum">spectrum</A> which 
+  can be sensed by a device within specified limits of amplitude error. 
+  <DD>2. Response of a system as a function of the frequency of <A 
+  href="e.html#excitation">excitation</A>. 
+  <A name="frequency-shift keying"></A>
+  <DT><STRONG>frequency-shift keying (abbr FSK)</STRONG> 
+  <DD>That form of <A 
+  href="f.html#frequency modulation">frequency 
+  modulation</A> in which the modulating wave shifts the output frequency 
+  between predetermined values, and the output wave is <A 
+  href="c.html#coherent">coherent</A> with 
+  no phase discontinuity. 
+  <DT><STRONG>frequency swing</STRONG> 
+  <DD>In frequency modulation, the peak difference between the maximum and 
+  minimum values of the instantaneous <A 
+  href="f.html#frequency">frequency</A>. <A 
+  name="frequency tolerance"></A>
+  <DT><STRONG>frequency tolerance</STRONG> 
+  <DD>The extent to which a <A 
+  href="c.html#carrier frequency">carrier 
+  frequency</A> (or when a carrier is not present, a frequency coinciding with 
+  the center of an emission <A 
+  href="b.html#bandwidth">bandwidth</A>) is 
+  permitted to depart, solely because of frequency instability, from the 
+  authorized carrier frequency (or when a carrier is not present from the 
+  assigned frequency). 
+  <DT><STRONG>Fresnel region</STRONG> 
+  <DD>The region between the <A 
+  href="a.html#antenna">antenna</A> and the 
+  <A 
+  href="f.html#fraunhofer region">Fraunhofer 
+  region</A>. 
+  <DD><I>If the antenna has a well-defined aperture a in a given aspect, the 
+  Fresnel region is that aspect is commonly taken to extend a distance 
+  2a<SUP>a</SUP> /<IMG src="lambdasm.gif"> in that aspect, <IMG 
+  src="lambdasm.gif"> being the wavelength. </I><A 
+  name="fresnel zone"></A>
+  <DT><STRONG>Fresnel zone</STRONG> 
+  <DD>Any one of the array of concentric surfaces in space between transmitter 
+  and receiver (or between radar <A 
+  href="a.html#antenna">antenna</A> and <A 
+  href="t.html#target">target</A>) over 
+  which the increase in distance over the straight line path is equal to some 
+  multiple of one-half wavelength. Also called <I>half-period zone. </I>See <A 
+  href="i.html#interference region">interference 
+  region.</A> 
+  <DD><I>Outside of rather unusual multipath transmission of radio energy in the 
+  free atmosphere, Fresnel zones are of importance primarily in studying the 
+  interference lobes produced by the interaction of a direct and a 
+  surface-reflected wave. Thus, for a given path, reflected radio energy 
+  arriving at the receiver from any point along any of the surface Fresnel zones 
+  will be some multiple of 180° out of phase with the direct wave, thereby 
+  producing destructive or constructive interference as the multiple is odd or 
+  even, respectively. </I>
+  <DT><STRONG>friction layer </STRONG>= <A 
+  href="p.html#planetary boundary layer">planetary 
+  boundary layer</A>. <A name="fringe region"></A>
+  <DT><STRONG>fringe region</STRONG> 
+  <DD>The upper portion of the <A 
+  href="e.html#exosphere">exosphere</A>, 
+  where the <A 
+  href="c.html#cone of escape">cone of 
+  escape</A> equals or exceeds 180°. In this region the individual atoms have so 
+  little chance of collision that they essentially travel in free <A 
+  href="o.html#orbits">orbits</A>, subject 
+  to the earth's gravitation, at speeds imparted by the last collision. Also 
+  called <I>spray region. </I>See <A 
+  href="e.html#escape velocity">escape 
+  velocity</A>. <A name=frit></A>
+  <DT><STRONG>frit</STRONG> 
+  <DD>A powdered ceramic prepared by fusing a physical mixture of oxides into a 
+  uniform melt, which is then quenched and milled into a fine, homogeneous 
+  powder. 
+  <DT><STRONG>frost point</STRONG> 
+  <DD>See <A href="d.html#dewpoint">dew 
+  point</A>, note. <A name="froude number"></A>
+  <DT><STRONG>Froude number </STRONG>(<I>symbol N<SUB>Fr</SUB></I>) 
+  <DD>The nondimensional ratio of the inertial <A 
+  href="f.html#force">force</A> to the 
+  force of <A 
+  href="g.html#gravity">gravity</A> for a 
+  given fluid flow; the reciprocal of the <A 
+  href="r.html#reech number">Reech 
+  number</A>. It may be given as 
+  <CENTER><I>N<SUB>Fr</SUB> = v<SUP>2</SUP> / lg</I></CENTER>where <I>v </I>is a 
+  characteristic velocity; <I>l </I>a characteristic length; and <I>g </I>is the 
+  acceleration of gravity, or it may be given as the square root of this number. 
+
+  <DT><STRONG>frozen flow</STRONG> 
+  <DD>Flow in which gas composition is invariant throughout the flow field. 
+  <DT><STRONG>frozen-in field</STRONG> 
+  <DD>1. A <A 
+  href="m.html#magnetohydrodynamic">magnetohydrodynamic</A> 
+  field in a medium of negligible electrical resistance, in which the motion of 
+  the material is along the lines of magnetic force, which are thereby constant 
+  or <I>frozen. </I>
+  <DD>2. The entrapment of <A 
+  href="m.html#magnetic field">magnetic 
+  field</A> lines by a perfectly conducting fluid. 
+  <DD><I>If a magnetic field is somehow established in a fluid with infinite 
+  conductivity, a motion of the fluid will carry the field lines and hence the 
+  field energy with it. If the fluid is compressed, the field will be compressed 
+  and if turbulence occurs in the fluid, the field will become badly twisted. 
+  </I>
+  <DT><STRONG>frustration threshold</STRONG> 
+  <DD>The point at which an individual feels or shows frustration over inability 
+  to achieve an objective. 
+  <DT><STRONG>F-scan </STRONG>= <A 
+  href="f.html#f-display">F-display</A>. 
+  <DT><STRONG>F-scope</STRONG> = <A 
+  href="f.html#f-display">F-display</A>. 
+  <DT><STRONG>FSK (abbr) </STRONG>= <A 
+  href="f.html#frequency-shift keying"><I>f</I>requency-<I>s</I>hift 
+  <I>k</I>eying </A>. <A name=f2-layer></A>
+  <DT><STRONG>F<SUB>2</SUB>-layer</STRONG> 
+  <DD>Also called <I>Appleton layer. </I>See <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  <A name=fuel></A>
+  <DT><STRONG>fuel</STRONG> 
+  <DD>Any substance used to produce heat, either by chemical or <A 
+  href="n.html#nuclear reactor">nuclear</A> 
+  reaction, as used, e.g., in a <A 
+  href="h.html#heat engine">heat 
+  engine</A>. See <A 
+  href="r.html#rocket propellant">rocket 
+  propellant</A>. 
+  <DD><I>With a liquid-propellant rocket engine, </I>fuel <I>is ordinarily 
+  distinguished from </I>oxidizer <I>where these are separate. </I>
+  <DT><STRONG>fuel cell</STRONG> 
+  <DD>1. A fuel tank, especially one of a number of fuel tanks, as in airplane's 
+  wing; also, a compartment within a fuel tank. 
+  <DD>2. A device which converts chemical energy directly into electrical energy 
+  but differing from a storage battery in that the reacting chemicals are 
+  supplied continuously as needed to meet output requirements. 
+  <DT><STRONG>fuel consumption</STRONG> 
+  <DD>The using of <A 
+  href="f.html#fuel">fuel</A> by an engine 
+  or power plant; the rate of this consumption, measured, e.g., in gallons or 
+  pounds per minute. 
+  <DT><STRONG>fuel cooled</STRONG> 
+  <DD>Cooled by <A 
+  href="f.html#fuel">fuel</A>. Said of a 
+  rocket engine, an oil cooler, etc. See <A 
+  href="r.html#regenerative cooling">regenerative 
+  cooling</A>. <A name="fuel shutoff"></A>
+  <DT><STRONG>fuel shutoff</STRONG> 
+  <DD>The action of shutting off the flow of liquid <A 
+  href="f.html#fuel">fuel</A> into a <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A> or of stopping the combustion of a solid fuel; the event or time 
+  marking this action. Compare <A 
+  href="c.html#cutoff">cutoff</A>. 
+  <DT><STRONG>fugacity </STRONG>(<I>symbol f</I>) 
+  <DD>In thermodynamics, a measure of the tendency of a substance to escape by 
+  some chemical process from the phase in which it exists. 
+  <DT><STRONG>full moon</STRONG> 
+  <DD>The moon at <A 
+  href="o.html#opposition">opposition</A>, 
+  with a <A href="p.html#phase angle">phase 
+  angle</A> of 0°, when it appears as a round disk to an observer on the earth 
+  because the illuminated side is toward him. See <A 
+  href="p.html#phases of the moon">phases 
+  of the moon</A>. 
+  <DT><STRONG>full pressure suit</STRONG> 
+  <DD>A suit which completely encloses the body and in which a gas pressure 
+  sufficiently above <A 
+  href="a.html#ambient">ambient</A> 
+  pressure for maintenance of function, may be sustained. 
+  <DT><STRONG>fully ionized plasma</STRONG> 
+  <DD>The state of a <A 
+  href="p.html#plasma">plasma</A> where all 
+  the neutral particles have lost at least one <A 
+  href="e.html#electron">electron</A>. 
+  <DD><I>In the case of hydrogen atoms which have only one electron, no further 
+  ionization or excitation is possible when the plasma is fully ionized. For 
+  helium and all the heavier gas atoms, there are many bound electrons, each 
+  succeeding one requiring more energy to be stripped away from its atom. 
+  Therefore, in a fully ionized plasma of these gases, the ions can be further 
+  excited and multiply in an ionized state. </I><A name=function></A><A 
+  name=functions></A>
+  <DT><STRONG>function</STRONG> 
+  <DD>A <A 
+  href="m.html#magnitude">magnitude</A> so 
+  related to another magnitude that for any value of one there is corresponding 
+  value of the other. 
+  <DD><I>For instance, the area of a circle is a function of its radius. The 
+  radius is also a function of the area. </I>
+  <DT><STRONG>functional reserves</STRONG> 
+  <DD>The ability of the body to accomplish additional muscular or other 
+  activity and useful work beyond the normal level of activity of an individual. 
+
+  <DT><STRONG>function table</STRONG> 
+  <DD>1. A mathematical chart which lists the values of a dependent quantity in 
+  relation to <A 
+  href="i.html#independent variables">independent 
+  variables</A>. 
+  <DD>2. A routine by which a computer can determine the value of a dependent 
+  quantity from the values of independent variables. 
+  <DD>3. A device or circuit which translates information from one 
+  representation to another. <A name=fundamental></A>
+  <DT><STRONG>fundamental circle </STRONG>= <A 
+  href="p.html#primary great circle">primary 
+  great circle</A>. <A name="fundamental frequency"></A>
+  <DT><STRONG>fundamental frequency</STRONG> 
+  <DD>1. Of a periodic quantity, the lowest component <A 
+  href="f.html#frequency">frequency</A> of 
+  a <A 
+  href="s.html#sinusoidal">sinusoidal</A> 
+  quantity which has the same <A 
+  href="p.html#period">period</A> as the 
+  periodic quantity. 
+  <DD>2. Of an oscillating system, the lowest <A 
+  href="n.html#natural frequency">natural 
+  frequency</A>. 
+  <DD><I>The normal mode of vibration associated with this frequency is known as 
+  the</I> fundamental mode. 
+  <DD>3. The reciprocal of the <A 
+  href="p.html#period">period</A> of a <A 
+  href="w.html#wave">wave</A>. 
+  <DT><STRONG>fundamental mode of vibration</STRONG> 
+  <DD>Of a mechanical system, the <A 
+  href="m.html#mode">mode</A> having the 
+  lowest <A 
+  href="n.html#natural frequency">natural 
+  frequency</A>. 
+  <DT><STRONG>fundamental star places</STRONG> 
+  <DD>The apparent <A 
+  href="r.html#right ascensions">right 
+  ascensions</A> and <A 
+  href="d.html#declinations">declinations</A> 
+  of 1535 standard comparison stars obtained by leading observatories and 
+  published annually under the auspices of the International Astronomical Union. 
+
+  <DT><STRONG>fused ceramic</STRONG> 
+  <DD>A <A 
+  href="c.html#ceramic">ceramic</A> body or 
+  coating prepared by heating ceramic powders above the melting point, then 
+  cooling to form a coherent mass or film. 
+  <DT><STRONG>fusee</STRONG> 
+  <DD>An <A 
+  href="i.html#igniter">igniter</A> squib 
+  for a rocket. 
+  <DT><STRONG>fusion</STRONG> 
+  <DD>The combining of atoms and consequent release of energy. 
+  <DT><STRONG>fusion power density</STRONG> 
+  <DD>The <A href="p.html#power">power</A> 
+  generated per unit volume in a controlled <A 
+  href="t.html#thermonuclear">thermonuclear</A> 
+  <A href="p.html#plasma">plasma</A>. 
+  <DD><I>Using a deuterium reaction at a density of 10<SUP>16</SUP> particles 
+  per cubic centimeter and a temperature of 60,000 volts, the power density is 
+  about 1000 watts per cubic centimeter. The energy comes off as kinetic energy 
+  of the reaction products. </I></DD>

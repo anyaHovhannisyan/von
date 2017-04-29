@@ -1,0 +1,1985 @@
+<A name=babble></A>
+  <DT><STRONG>babble</STRONG> 
+  <DD>The aggregate <A 
+  href="c.html#crosstalk">crosstalk</A> 
+  from a large number of communications channels. <A name="babinet point"></A>
+  <DT><STRONG>Babinet point</STRONG> 
+  <DD>One of the three commonly detectable points of zero <A 
+  href="p.html#polarization">polarization</A> 
+  of <A 
+  href="d.html#diffuse sky radiation">diffuse 
+  sky radiation</A>, neutral points, lying along the <A 
+  href="v.html#vertical circle">vertical 
+  circle</A> through the sun; the other two are the <A 
+  href="a.html#arago point">Arago point</A> 
+  and <A 
+  href="b.html#Brewster point">Brewster 
+  point</A>. 
+  <DD><I>The Babinet point typically lies only 15° to 20° above the sun, and 
+  hence is difficult to observe because of solar glare. The existence of this 
+  neutral point was discovered by Babinet in 1840. </I>
+  <DT><STRONG>background</STRONG> 
+  <DD>Any effect in a sensor or other apparatus or system above which the 
+  phenomenon of interest must manifest itself before it can be observed. See <A 
+  href="b.html#background counts">background 
+  counts</A>, <A 
+  href="b.html#background noise">background 
+  noise</A>. <A name="background counts"></A>
+  <DT><STRONG>background counts</STRONG> 
+  <DD>In radiation counters, responses of the counting system caused by <A 
+  href="r.html#radiation">radiation</A> 
+  coming from sources other than that to be measured. <A 
+  name="background luminance"></A>
+  <DT><STRONG>background luminance</STRONG> 
+  <DD>In visual-range theory, the <A 
+  href="l.html#luminance">luminance</A> 
+  (brightness) of the background against which a target is viewed. Compare <A 
+  href="a.html#adaptation luminance">adaptation 
+  luminance</A>. <A name="background noise"></A>
+  <DT><STRONG>background noise</STRONG> 
+  <DD>1. In recording and reproducing, the total system <A 
+  href="n.html#noise">noise</A> independent 
+  of whether or not a signal is present. The signal is not to be included as 
+  part of the noise. 
+  <DD>2. In receivers, the noise in the absence of signal modulation on the 
+  carrier. 
+  <DD><I><A 
+  href="a.html#Ambient noise">Ambient 
+  noise</A> detected, measured, or recorded with the signal part of the 
+  background noise. Included in this definition is the interference resulting 
+  from primary power supplies, that separately is commonly described as <A 
+  href="h.html#hum">hum</A>. </I>
+  <DT><STRONG>background return</STRONG> 
+  <DD>See <A 
+  href="c.html#clutter">clutter</A>. 
+  <DT><STRONG>backlash</STRONG> 
+  <DD>Dead space or unwanted movement in a <A 
+  href="c.html#control system">control 
+  system</A>. 
+  <DT><STRONG>backout</STRONG> 
+  <DD>An undoing of things already done during a <A 
+  href="c.html#countdown">countdown</A>, 
+  usually in reverse order. 
+  <DT><STRONG>back pressure</STRONG> 
+  <DD>Pressure exerted backward; in a field of fluid flow, a pressure exerted 
+  contrary to the pressure producing the main flow. 
+  <DT><STRONG>back radiation</STRONG> = <A 
+  href="c.html#counterradiation">counterradiation</A>. 
+
+  <DT><STRONG>back scatter </STRONG>= <A 
+  href="b.html#backward scatter">backward 
+  scatter</A>. 
+  <DT><STRONG>back scattering </STRONG>= <A 
+  href="b.html#backward scatter">backward 
+  scatter</A>. 
+  <DT><STRONG>back-scattering cross section</STRONG> 
+  <DD>See <A 
+  href="s.html#scattering cross section">scattering 
+  cross section</A>. 
+  <DT><STRONG>back-to-chest acceleration</STRONG> 
+  <DD>See <A 
+  href="p.html#physiological acceleration">physiological 
+  acceleration</A>, table. 
+  <DT><STRONG>backup</STRONG> 
+  <DD>1. An item kept available to replace an item which fails to perform 
+  satisfactorily. 
+  <DD>2. A redundant component in a system which is not the normally active (or 
+  prime, primary) component. Also known as second-string. <A 
+  name="backward scatter"></A>
+  <DT><STRONG>backward scatter</STRONG> 
+  <DD>The <A 
+  href="s.html#scattering">scattering</A> 
+  of radiant energy into the hemisphere of space bounded by a plane normal to 
+  the direction of the incident <A 
+  href="r.html#radiation">radiation</A> and 
+  lying on the same side as the incident ray; the opposite of <A 
+  href="f.html#forward scatter">forward 
+  scatter</A>. Also called <I>back scattering </I>. 
+  <DD><I>Atmospheric backward scatter depletes 6 to 9 percent of the incident 
+  solar beam before it reaches the earth's surface. <BR>In radar usage, 
+  </I>backward scatter <I>refers only to that radiation scattered at 180° to the 
+  direction of the incident wave. </I>
+  <DT><STRONG>backward wave</STRONG> 
+  <DD>In <A 
+  href="t.html#traveling-wave tube">traveling-wave 
+  tubes</A>, a wave whose <A 
+  href="g.html#group velocity">group 
+  velocity </A>is opposite to the direction of electron-stream motion. <A 
+  name=baffle></A>
+  <DT><STRONG>baffle</STRONG> 
+  <DD>A plate, grating, or the like used especially to block, hinder, or divert 
+  a flow or to hinder the passage of something, as: (a) A plate used to conduct, 
+  or help to conduct, a flow of cooling air around an engine cylinder. (b) A 
+  plate, wall, or the like in a fuel tank or other liquid container, used 
+  especially to prevent sloshing of the contents. (c) A ridge or wall on the top 
+  of a piston in a two-stroke-cycle engine, used to deflect the incoming mixture 
+  upward and divert it from the exhaust port. (d) A plate in the forward section 
+  of a pitot tube, used to reduce turbulence in the tube and to prevent dirt, 
+  moisture, etc., from entering the system. <A name="bailout bottle"></A>
+  <DT><STRONG>bailout bottle</STRONG> 
+  <DD>A personal supply of oxygen usually contained in a cylinder under pressure 
+  and utilized when the individual has left the central oxygen system as in a 
+  parachute jump. 
+  <DT><STRONG>bakeout</STRONG> 
+  <DD>The <A 
+  href="d.html#degassing">degassing</A> of 
+  surfaces of a vacuum system by heating during the pumping process. 
+  <DT><STRONG>balance</STRONG> 
+  <DD>1. The equilibrium attained by an aircraft, rocket, or the like when 
+  forces and <A 
+  href="m.html#moment">moments</A> are 
+  acting upon it so as to produce steady flight, especially without rotation 
+  about its axes; also used with reference to equilibrium about any specified <A 
+  href="a.html#axis">axis</A>, as, <I>an 
+  airplane in balance about its longitudinal axis </I>. 
+  <DD>2. A weight that counterbalances something, especially on an aircraft 
+  control surface, a weight installed forward of the hinge axis to 
+  counterbalance the surface aft of the hinge axis. <A 
+  name="balanced amplifier"></A>
+  <DT><STRONG>balanced amplifier</STRONG> 
+  <DD>An amplifier circuit in which there are two identical signal branches 
+  connected so as to operate in phase opposition and with input and output 
+  connections each balanced to ground. Also called <I>push-pull amplifier </I>. 
+  <A name="balanced circuit"></A>
+  <DT><STRONG>balanced circuit</STRONG> 
+  <DD>A <A 
+  href="c.html#circuit">circuit</A>, the 
+  two sides of which are electrically alike and symmetrical with respect to a 
+  common reference point, usually ground. 
+  <DT><STRONG>balanced detector</STRONG> 
+  <DD>A <A 
+  href="d.html#demodulator">demodulator</A> 
+  for frequency-modulation systems. In one form the output consists of the 
+  rectified difference of the two voltages produced across two resonant 
+  circuits, one circuit being tuned slightly above the <A 
+  href="c.html#carrier frequency">carrier 
+  frequency </A>and the other slightly below. 
+  <DT><STRONG>balanced modulator</STRONG> 
+  <DD>A device in which the <A 
+  href="c.html#carrier">carrier</A> and 
+  modulating signal are so introduced that, after modulation takes place, the 
+  output contains the two <A 
+  href="s.html#sideband">sidebands</A> 
+  without the carrier. <A name=ballistic></A>
+  <DT><STRONG>ballistic body</STRONG> 
+  <DD>A body free to move, behave, and be modified in appearance, contour, or 
+  texture by ambient conditions, substances, or forces, as by the pressure of 
+  gases in a gun, by rifling in a barrel, by gravity, by temperature, or by air 
+  particles. 
+  <DD><I>A rocket with a self-contained propulsion unit is not considered a 
+  ballistic body during the period of its guidance or propulsion. </I>
+  <DT><STRONG>ballistic camera</STRONG> 
+  <DD>A ground-based camera using multiple exposures on the same plate to record 
+  the <A 
+  href="t.html#trajectory">trajectory</A> 
+  of a rocket. <A name="ballistic condition"></A>
+  <DT><STRONG>ballistic condition</STRONG> 
+  <DD>A condition affecting the behavior of a vehicle in flight. 
+  <DD><I>Ballistic conditions include the velocity, weight, shape, and size of 
+  the vehicle; likewise the density and temperature of the ambient element, the 
+  magnetic field, etc. </I>
+  <DT><STRONG>ballistic density</STRONG> 
+  <DD>A representation of the atmospheric density actually encountered by a 
+  projectile in flight, expressed as a percentage of the density according to 
+  the <A 
+  href="s.html#standard artillery atmosphere">standard 
+  artillery atmosphere</A>. 
+  <DD><I>Thus, if the actual density distribution produced the same effect upon 
+  a projectile as the standard density distribution, the ballistic density would 
+  be 100 percent </I>. <A name="ballistic missile"></A>
+  <DT><STRONG>ballistic missile</STRONG> 
+  <DD>A missile designed to operate primarily in accordance with the laws of <A 
+  href="b.html#ballistics">ballistics</A>. 
+  <DD><I>A ballistic missile is guided during a portion of its flight, usually 
+  the upward portion, and is under no thrust from its propelling system during 
+  the latter portion of its flight; it describes a trajectory similar to that of 
+  an artillery shell. </I>
+  <DT><STRONG>ballistic recovery</STRONG> 
+  <DD>Nonlifting <A 
+  href="r.html#reentry">reentry</A>. <A 
+  name=ballistics></A>
+  <DT><STRONG>ballistics</STRONG> 
+  <DD>The science that deals with the motion, behavior, and effects of 
+  projectiles, especially bullets, aerial bombs, rockets, or the like; the 
+  science or art of designing and hurling projectiles so as to achieve a desired 
+  performance. 
+  <DT><STRONG>ballistic temperature</STRONG> 
+  <DD>That temperature (in° F) which, when regarded as a surface temperature and 
+  used in conjunction with the lapse rate of the <A 
+  href="s.html#standard artillery atmosphere">standard 
+  artillery atmosphere</A>, would produce the same effect on a projectile as the 
+  actual temperature distribution encountered by the projectile in flight. <A 
+  name="ballistic trajectory"></A>
+  <DT><STRONG>ballistic trajectory</STRONG> 
+  <DD>The <A 
+  href="t.html#trajectory">trajectory</A> 
+  followed by a body being acted upon only be gravitational forces and the 
+  resistance of the medium through which it passes. 
+  <DD><I>A rocket without lifting surfaces is in a </I>ballistic trajectory<I> 
+  after its engines cease operating. </I>
+  <DT><STRONG>ballistic vehicle</STRONG> 
+  <DD>A nonlifting vehicle; a vehicle that follows a <A 
+  href="b.html#ballistic trajectory">ballistic 
+  trajectory</A>. 
+  <DT><STRONG>ballistic wind</STRONG> 
+  <DD>That constant wind which would produce the same effect upon the <A 
+  href="t.html#trajectory">trajectory</A> 
+  of a projectile as the actual wind encountered in flight. Ballistic winds can 
+  be regarded as made up of <A 
+  href="r.html#range wind">range wind 
+  </A>and <A 
+  href="c.html#crosswind">crosswind</A> 
+  components. See <A 
+  href="z.html#zone wind">zone wind</A>. 
+  <DT><STRONG>ball lightning</STRONG> 
+  <DD>A relatively rare form of lightning, consisting of a reddish, luminous 
+  ball, of the order of 1 foot in diameter, which may move rapidly along solid 
+  objects or remain floating in midair. Hissing noises emanate from such balls, 
+  and they sometimes explode nosily but may also disappear noiselessly. Also 
+  called <I>globe lightning </I>. 
+  <DD><I>It has been suggested that ball lightning is a temporarily stable 
+  plasma. </I>
+  <DT><STRONG>balloon-type rocket</STRONG> 
+  <DD>A liquid-fuel <A 
+  href="r.html#rocket">rocket</A>, such as 
+  Atlas, that requires the pressure of its <A 
+  href="p.html#propellant">propellants</A> 
+  (or other gases) within it to give it structural integrity. 
+  <DT><STRONG>ballute</STRONG> 
+  <DD>A cross between a balloon and a parachute, used to brake the free fall of 
+  sounding rockets. <A name=band></A>
+  <DT><STRONG>band</STRONG> 
+  <DD>1. = <A 
+  href="f.html#frequency band">frequency 
+  band</A>. 
+  <DD>2. = <A 
+  href="a.html#absorption band">absorption 
+  band</A>. 
+  <DD>3. A group of tracks on a <A 
+  href="m.html#magnetic drum">magnetic 
+  drum</A>. 
+  <DD>4. = <A 
+  href="a.html#auroral zone">auroral 
+  band</A>. See <A 
+  href="a.html#aurora">aurora</A>. 
+  <DT><STRONG>band-elimination filter</STRONG> 
+  <DD>A <A href="w.html#wave filter">wave 
+  filter</A> that attenuates one <A 
+  href="f.html#frequency band">frequency 
+  band</A>, neither the critical nor cutoff frequencies being zero or infinite. 
+  <A name="band of position"></A>
+  <DT><STRONG>band of position</STRONG> 
+  <DD>An area extending to either side of a <A 
+  href="l.html#line of position">line of 
+  position</A> of imperfect accuracy, within which a craft is considered to be 
+  located. 
+  <DT><STRONG>band-pass filter</STRONG> 
+  <DD>A <A href="w.html#wave filter">wave 
+  filter</A> that has a single transmission band extending from a lower cutoff 
+  frequency greater than zero to a finite upper cutoff frequency. 
+  <DT><STRONG>bands with ray structure (abbr R.B.)</STRONG> 
+  <DD>See <A 
+  href="a.html#aurora">aurora</A>. <A 
+  name=bandwidth></A>
+  <DT><STRONG>bandwidth</STRONG> 
+  <DD>1. In an <A 
+  href="a.html#antenna">antenna</A>, the 
+  range of <A 
+  href="f.html#frequency">frequencies</A> 
+  within which its performance, in respect to some characteristic, conforms to a 
+  specified standard. 
+  <DD>2. In a <A 
+  href="w.html#wave">wave</A>, the least 
+  frequency interval outside of which the <A 
+  href="p.html#power spectrum">power 
+  spectrum</A> of a time-varying quantity is everywhere less than some specified 
+  fraction of its value at a reference frequency. 
+  <DD>3. The number of cycles per second between the limits of a <A 
+  href="f.html#frequency band">frequency 
+  band</A>. 
+  <DD><I>Sense 2 permits the spectrum to be less than the specified fraction 
+  within the interval. Unless otherwise stated, the reference frequency is that 
+  at which the spectrum has its maximum value. </I>
+  <DD>4. In information theory, the information-carrying capacity of a 
+  communications channel. <A name="bang-bang control"></A>
+  <DT><STRONG>bang-bang control</STRONG> 
+  <DD><A 
+  href="f.html#flicker control">Flicker 
+  control</A>, especially as applied to rockets. 
+  <DD><I>Bang-bang in this term is imitative, arising from the noise made by 
+  control mechanisms slamming first to one side, then to the other, in this sort 
+  of control. </I>
+  <DT><STRONG>bar</STRONG> 
+  <DD>A unit of <A 
+  href="p.html#pressure">pressure</A> equal 
+  to<MATH> 10<SUP>6</SUP> dyne per square centimeter (10<SUP>6</SUP> 
+  barye)</MATH>, 1000 millibars, 29.53 inches of mercury. See <A 
+  href="t.html#torr">torr</A>. 
+  <DD><I>Some writers have used bar as equivalent to barye (1 dyne per square 
+  centimeter). </I>
+  <DT><STRONG>baralyme</STRONG> 
+  <DD>A commercial trade name for a type of carbon dioxide absorber, a mixture 
+  of calcium hydroxide and barium hydroxide. 
+  <DT><STRONG>Bárány chair</STRONG> 
+  <DD>(After Robert Bárány, 1876-1936, Swedish physician). A kind of chair in 
+  which a person is revolved to test his susceptibility to <A 
+  href="v.html#vertigo">vertigo</A>. 
+  <DT><STRONG>bare core</STRONG> 
+  <DD>A <A 
+  href="r.html#reactor core">reactor 
+  core</A> without a <A 
+  href="r.html#reflector">reflector</A>. <A 
+  name=barn></A>
+  <DT><STRONG>barn (Abbr b)</STRONG> 
+  <DD>A unit of area for measuring a <A 
+  href="n.html#nuclear cross section">nuclear 
+  cross section</A>. One barn equals<MATH> 10<SUP>-24</SUP> </MATH>square 
+  centimeter. 
+  <DT><STRONG>barocline</STRONG> = <A 
+  href="b.html#baroclinic">baroclinic</A>. 
+  <A name=baroclinic></A>
+  <DT><STRONG>baroclinic</STRONG> 
+  <DD>Of, pertaining to, or characterized by <A 
+  href="b.html#baroclinity">baroclinity</A>. 
+  Sometimes called <I>barocline</I>. 
+  <DT><STRONG>baroclinicity</STRONG> = <A 
+  href="b.html#baroclinity">baroclinity</A>. 
+  <A name=baroclinity></A>
+  <DT><STRONG>baroclinity</STRONG> 
+  <DD>The state of stratification in a fluid in which surfaces of constant 
+  pressure (isobaric) intersect surfaces of constant density (isosteric). The 
+  number, per unit area, of isobaric-isosteric <A 
+  href="s.html#solenoids">solenoids</A> 
+  intersecting a given surface is a measure of the baroclinity. Also called 
+  <I>baroclinicity, barocliny </I>. 
+  <DD><I><A 
+  href="b.html#barotropy">Barotropy</A> is 
+  the state of zero baroclinity. Since the presence of solenoids (baroclinity) 
+  complicates the dynamics of the fluid, there has been much investigation of 
+  the extent to which an <A 
+  href="a.html#atmosphere">atmosphere</A>, 
+  though obviously a baroclinic fluid, can be dynamically treated as barotropic. 
+  See <A 
+  href="e.html#equivalent barotropic model">equivalent-barotropic 
+  model</A>. </I>
+  <DT><STRONG>barocliny </STRONG>= <A 
+  href="b.html#baroclinity">baroclinity</A>. 
+
+  <DT><STRONG>barometer</STRONG> 
+  <DD>An instrument used to measure <A 
+  href="a.html#atmospheric pressure">atmospheric 
+  pressure</A>. 
+  <DT><STRONG>barometric altimeter</STRONG> = <A 
+  href="p.html#pressure altimeter">pressure 
+  altimeter</A>. 
+  <DT><STRONG>barometric pressure</STRONG> = <A 
+  href="a.html#atmospheric pressure">atmospheric 
+  pressure</A>. <A name="barometric wave"></A>
+  <DT><STRONG>barometric wave</STRONG> 
+  <DD>Any <A href="w.html#wave">wave</A> in 
+  the atmospheric pressure field. The term is usually reserved for short-period 
+  variations not associated wit cyclonic-scale motions or with atmospheric 
+  tides. See <A 
+  href="p.html#pressure wave">pressure 
+  wave</A>, sense 2. 
+  <DT><STRONG>barosphere</STRONG> 
+  <DD>The atmosphere below the <A 
+  href="c.html#critical level of escape">critical 
+  level of escape</A>. 
+  <DT><STRONG>baroswitch</STRONG> 
+  <DD>(From barometric switch). 1. Specifically, a pressure-operated switching 
+  device used in a <A 
+  href="r.html#radiosonde">radiosonde</A>. 
+  In operation, the expansion of an aneroid capsule causes an electrical contact 
+  to scan a radiosonde commutator composed of conductors separated by 
+  insulators. Each switching operation corresponds to a particular pressure 
+  level. The contact of an insulator or a conductor determines whether 
+  temperature, humidity, or reference signals will be transmitted. 2. Any switch 
+  operated by a change in <A 
+  href="a.html#atmospheric pressure">atmospheric 
+  pressure</A>. <A name=barotrophy></A>
+  <DT><STRONG>barotropic</STRONG> 
+  <DD>Of, pertaining to, or characterized by a condition of <A 
+  href="b.html#barotropy">barotropy</A>. <A 
+  name="barotropic disturbance"></A>
+  <DT><STRONG>barotropic disturbance</STRONG> 
+  <DD>1. An atmospheric wave in a two-dimensional nondivergent flow, the driving 
+  mechanism for which lies in the variation of <A 
+  href="v.html#vorticity">vorticity</A> of 
+  the basic current and/or in the variation of the vorticity of the earth about 
+  the local vertical. When the basic current is uniform, the wave is a <I>Rossby 
+  wave </I>. Also called <I>barotropic wave </I>. 
+  <DD>2. An atmospheric wave of cyclonic scale in which troughs and ridges are 
+  approximately vertical. <A name="barotropic model"></A>
+  <DT><STRONG>barotropic model</STRONG> 
+  <DD>Any of a number of <A 
+  href="m.html#model atmosphere">model 
+  atmospheres</A> in which some of the following conditions exist throughout the 
+  motion: coincidence of pressure and temperature surfaces; absence of vertical 
+  <A href="w.html#wind shear">wind 
+  shear</A>; absence of vertical motions; absence of horizontal velocity 
+  divergence; and conservation of the vertical component of <A 
+  href="a.html#absolute vorticity">absolute 
+  vorticity</A>. <A name="barotropic vorticity equation"></A>
+  <DT><STRONG>barotropic vorticity equation</STRONG> 
+  <DD>The vorticity equation in the absence of horizontal divergence and 
+  vertical motion, so that the <A 
+  href="a.html#absolute vorticity">absolute 
+  vorticity</A> of a parcel is conserved: 
+  <CENTER><IMG height=44 
+  src="33.gif" 
+  width=105></CENTER>where <IMG height=20 
+  src="zetasm.gif" 
+  width=12> is the <A 
+  href="a.html#absolute vorticity">relative 
+  vorticity</A> and <I>f</I> is the <A 
+  href="c.html#coriolis parameter">coriolis 
+  parameter</A>. 
+  <DD><I>This equation may also be interpreted as governing vertically averaged 
+  flow in which divergence is present but wind direction is constant with 
+  height. See <A 
+  href="e.html#equivalent barotropic model">equivalent 
+  barotropic model</A>. </I>
+  <DT><STRONG>barotropic wave </STRONG>= <A 
+  href="b.html#barotropic disturbance">barotropic 
+  disturbance</A>. <A name=barotropy></A>
+  <DT><STRONG>barotropy</STRONG> 
+  <DD>The state of a fluid in which surfaces of constant density (or 
+  temperature) are coincident with surfaces of constant pressure; it is the 
+  state of zero <A 
+  href="b.html#baroclinity">baroclinity</A>. 
+  Mathematically, the equation of barotropy states that the gradients of the 
+  density and pressure fields are proportional: 
+  <CENTER><IMG 
+  src="34bar.gif"></CENTER>where 
+  <IMG height=13 
+  src="rhosm.gif" 
+  width=11> is the density; <I>p</I> is the pressure; and <I>B</I> is a function 
+  of thermodynamic variables, called the coefficient of barotropy. 
+  <DD><I>With the <A 
+  href="e.html#equation of state">equation 
+  of state</A>, this relation determines the spatial distribution of all state 
+  parameters once these are specified on any surface. For a <A 
+  href="h.html#homogeneous atmosphere">homogeneous 
+  atmosphere</A>, B=0; for an <A 
+  href="a.html#adiabatic atmosphere">adiabatic 
+  atmosphere</A>, 
+  <CENTER><I>B = c <SUB>v</SUB> / c<SUB>p</SUB> RT</I></CENTER>where 
+  </I>c<SUB>v</SUB><I> and </I>c<SUB>p</SUB><I> are the specific heats at 
+  constant volume and pressure, respectively; </I>R<I> is the gas constant; and 
+  </I>T<I> is the Kelvin temperature; for an <A 
+  href="i.html#isothermal atmosphere">isothermal 
+  atmosphere</A>, </I>B = 1/RT. <A name=barycenter></A>
+  <DT><STRONG>barycenter</STRONG> 
+  <DD>The center of mass of a system of masses, as the <I>barycenter of the 
+  earth-moon system </I>. 
+  <DT><STRONG>barycentric elements</STRONG> 
+  <DD><A 
+  href="o.html#orbital elements">Orbital 
+  elements</A> referred to the <A 
+  href="c.html#center of mass">center of 
+  mass</A> of the solar system. 
+  <DT><STRONG>barye</STRONG> 
+  <DD>The pressure unit of the <A 
+  href="c.html#centimeter-gram-second system">centimeter-gram-second 
+  system </A>of physical units; equal to one dyne per square centimeter (0.001 
+  millibar). Sometimes called <I>bar </I>or <I>microbar. </I><A name=base></A>
+  <DT><STRONG>base</STRONG> 
+  <DD>A quantity, the powers of which are assigned as the unit value of columns 
+  in a <A href="n.html#numeric">numeric</A> 
+  system; for example, <I>two </I>is the base in <A 
+  href="b.html#binary">binary</A> <A 
+  href="n.html#notation">notation</A>, and 
+  <I>ten </I>in <A 
+  href="d.html#decimal notation">decimal 
+  notation</A>. Also called <I>radix </I>. See <A 
+  href="l.html#logarithm">logarithm</A>, <A 
+  href="b.html#binary notation">binary 
+  notation</A>. 
+  <DT><STRONG>base drag</STRONG> 
+  <DD><A href="d.html#drag">Drag</A> owing 
+  to a <A href="b.html#base pressure">base 
+  pressure</A> lower than the ambient pressure. It is a part of the pressure 
+  drag. <A name=baselines></A><A name=baseline></A><A name="base line"></A>
+  <DT><STRONG>base line</STRONG> 
+  <DD>1. Any line which serves as the basis for measurement of other lines, as 
+  in a surveying triangulation, measurement of auroral heights, etc. 
+  <DD>2. The <A 
+  href="g.html#geodesic line">geodesic 
+  line</A> between two stations operating in conjunction for the determination 
+  of a line of position, as the two stations constituting a loran rate. 
+  <DD>3. In radar, the line traced on <A 
+  href="a.html#amplitude-modulated indicator">amplitude-modulated 
+  indicators</A> which corresponds to the power level of the weakest echo 
+  detected by the radar. It is retraced with every pulse transmitted by the 
+  radar, but appears as a nearly continuos display on the scope. 
+  <DD><I>Target signals show up as perpendicular deviations from the base line; 
+  range is measured along the base line; signal strength is indicated by the 
+  magnitude of the deviations; and the type of target usually can be determined 
+  by the appearance of the deviations. </I><A name="base point"></A>
+  <DT><STRONG>base point</STRONG> 
+  <DD>In computer terminology, the character, or the location of an implied 
+  symbol, which separates the integral part of an expression in <A 
+  href="p.html#positional notation">positional 
+  notation</A> from the fractional part; the point which marks the place between 
+  the zero and negative powers of the base. Also called <I>radix point </I>. See 
+  <A href="b.html#binary point">binary 
+  point</A>, <A 
+  href="d.html#decimal point">decimal 
+  point</A>, <A 
+  href="f.html#fixed point">fixed 
+  point</A>, <A 
+  href="f.html#floating point">floating 
+  point</A>. <A name="base pressure"></A>
+  <DT><STRONG>base pressure</STRONG> 
+  <DD>In aerodynamics, the <A 
+  href="p.html#pressure">pressure</A> 
+  exerted on the base, or extreme aft end, of a body, as of a cylindrical or 
+  boattailed body or of a blunt-trailing-edge wing, in a fluid flow. 
+  <DT><STRONG>base-timing sequencing</STRONG> 
+  <DT><STRONG>(abbr BT sequencing)</STRONG> 
+  <DD>The control of the time sharing of a single <A 
+  href="t.html#transponder">transponder</A> 
+  between several ground transmitters through the use of suitable coded timing 
+  signals. 
+  <DT><STRONG>basic thermal radiation</STRONG> 
+  <DD>Thermal radiation from a <A 
+  href="q.html#quiet sun">quiet sun</A>. 
+  <DT><STRONG>baud</STRONG> 
+  <DD>A unit of signaling speed. The speed in bauds is the number of <A 
+  href="c.html#code">code</A> elements per 
+  second. 
+  <DT><STRONG>Baumé scale (abbr Be)</STRONG> 
+  <DD>Either of two scales sometimes used to graduate <A 
+  href="h.html#hydrometers">hydrometers</A>; 
+  one scale is for liquids heavier than water, the other for liquids lighter 
+  than water. 
+  <DT><STRONG>Bayard-Alpert ionization gage</STRONG> 
+  <DD>A type of <A 
+  href="i.html#ionization gage">ionization 
+  vacuum gage</A> using a tube with an electrode structure designed to minimize 
+  X-ray induced electron emission from the ion collector. <A 
+  name="bayer letter"></A>
+  <DT><STRONG>Bayer letter</STRONG> 
+  <DD>The Greek (or Roman) letter used in a <A 
+  href="b.html#bayer name">Bayer name</A>. 
+  <A name="bayer name"></A>
+  <DT><STRONG>Bayer name</STRONG> 
+  <DD>The Greek (or Roman) letter and the possessive form of the Latin name of a 
+  <A 
+  href="c.html#constellation">constellation</A>, 
+  used as a star name. Examples are <IMG height=11 
+  src="alphasm.gif" 
+  width=14> <I>Cygni </I>(Deneb), <IMG height=18 
+  src="betasm.gif" 
+  width=14> <I>Orionis </I>(Rigel), and <IMG height=15 
+  src="etasm.gif" 
+  width=8> <I>Ursae Majoris </I>(Alkaid). See <A 
+  href="n.html#navigational stars">navigational 
+  stars,</A> table. <A name=b-display></A>
+  <DT><STRONG>B-display</STRONG> 
+  <DD>In radar, a rectangular <A 
+  href="d.html#display">display</A> in 
+  which <A 
+  href="t.html#targets">targets</A> appear 
+  as <A href="b.html#blips">blips</A> with 
+  <A href="b.html#bearing">bearing</A> 
+  indicated by the horizontal coordinate and distance by the vertical 
+  coordinate. Also called <I>B-scan </I>or <I>B-scope </I>. <A name=beacon></A>
+  <DT><STRONG>beacon</STRONG> 
+  <DD>1. A light, group of lights, electronic apparatus, or other device that 
+  guides, orients, or warns aircraft, spacecraft, etc. in flight. 
+  <DD>2. A structure, building, or station where such a device is mounted or 
+  located. See <A 
+  href="r.html#radar beacon">radar 
+  beacon</A>, <A 
+  href="r.html#radio beacon">radio 
+  beacon</A>. 
+  <DT><STRONG>beacon delay</STRONG> 
+  <DD>The amount of inherent delay within a <A 
+  href="b.html#beacon">beacon</A>, i.e., 
+  the time between the arrival of a signal and the response of the beacon. 
+  <DT><STRONG>beacon skipping</STRONG> 
+  <DD>A condition where <A 
+  href="t.html#transponder">transponder</A> 
+  return pulses from a <A 
+  href="b.html#beacon">beacon</A> are 
+  missing at the interrogating <A 
+  href="r.html#radar">radar</A>. 
+  <DD><I>Beacon skipping can be caused by interference, overinterrogation of 
+  beacon, <A 
+  href="a.html#antenna nulls">antenna 
+  nulls</A>, or pattern minimums. </I>
+  <DT><STRONG>beacon stealing</STRONG> 
+  <DD>Loss of <A 
+  href="b.html#beacon tracking">beacon 
+  tracking</A> by one radar due to (interfering) <A 
+  href="i.html#interrogation">interrogation</A> 
+  signals from another radar. <A name="beacon tracking"></A>
+  <DT><STRONG>beacon tracking</STRONG> 
+  <DD>The <A 
+  href="t.html#tracking">tracking</A> of a 
+  moving object by means of signals emitted from a transmitter or <A 
+  href="t.html#transponder">transponder</A> 
+  within or attached to the object. 
+  <DT><STRONG>bead</STRONG> 
+  <DD>See <A 
+  href="l.html#lunar crater">lunar 
+  crater</A>, note. <A name=beam></A>
+  <DT><STRONG>beam</STRONG> 
+  <DD>1. A ray or collection of focused rays of radiated energy. See <A 
+  href="b.html#beam width">beam width</A>, 
+  <A 
+  href="r.html#radiation pattern">radiation 
+  pattern</A>. 
+  <DD>2. A beam (sense 1) of radio waves used as a navigation aid. 
+  <DD>3. =<A 
+  href="e.html#electron beam">electron 
+  beam</A>. 
+  <DD>4. A body, one of whose dimensions is large compared with the others, 
+  whose function is to carry lateral loads (perpendicular to the long dimension) 
+  and bending movements. 
+  <DT><STRONG>beam angle</STRONG>= <A 
+  href="b.html#beam width">beam width</A>. 
+  <DT><STRONG>beam-climber guidance</STRONG>= <A 
+  href="b.html#beam-rider guidance">beam-rider 
+  guidance</A>. 
+  <DT><STRONG>beam rider</STRONG> 
+  <DD>A craft following a <A 
+  href="b.html#beam">beam</A>, particularly 
+  one which does so automatically, the beam providing the <A 
+  href="g.html#guidance">guidance</A>. 
+  <DT><STRONG>beam-rider guidance</STRONG> <A name="beam-rider guidance"></A>
+  <DD>A system for guiding aircraft or spacecraft in which a craft follows a 
+  radar beam, light beam, or other kind of <A 
+  href="b.html#beam">beam</A> along the 
+  desired path. Also called <I>beam-climber guidance </I>. See <A 
+  href="g.html#guidance">guidance</A>. <A 
+  name="beam splitter"></A>
+  <DT><STRONG>beam splitter</STRONG> 
+  <DD>A partially reflecting mirror which permits some <A 
+  href="i.html#incident">incident</A> light 
+  to pass through and reflects the remainder. <A name="beam-switching tube"></A>
+  <DT><STRONG>beam-switching tube</STRONG> 
+  <DD>A <A 
+  href="t.html#trochotron">trochotron</A> 
+  in which an <A 
+  href="e.html#electron beam">electron 
+  beam</A> can be formed and switched to any one of several (usually 10) 
+  positions. <A name="beam width"></A><A name=beamwidth></A>
+  <DT><STRONG>beam width</STRONG> 
+  <DD>A measure of the concentration of power of a <A 
+  href="d.html#directional antenna">directional 
+  antenna</A>. It is the angle in degrees subtended at the antenna by arbitrary 
+  power-level points across the axis of the <A 
+  href="b.html#beam">beam</A>. This power 
+  level is usually the point where the <A 
+  href="p.html#power density">power 
+  density</A> is one-half that which is present in the axis of the beam at the 
+  same distance from the antenna (half-power points). Also called <I>beam angle 
+  </I>. 
+  <DD><I>The beam width of a radar determines the minimum angular separation 
+  which two targets can have and still be resolved. Roughly speaking, two 
+  targets at the same range whose angular separations at the radar antenna 
+  exceeds one-half of the beam width between half-power points will be resolved 
+  or distinguishable as two individual targets. The smaller the beam width, the 
+  greater the annular resolving power. Beam width may be at different locations 
+  through the axis depending upon the shape of the antenna reflector. </I><A 
+  name=bearing></A>
+  <DT><STRONG>bearing</STRONG> 
+  <DD>The horizontal direction of an object or point, usually measured clockwise 
+  from a reference line or direction through 360°. 
+  <DD><I>A bearing is often designated as </I>true, magnetic, compass, grid,<I> 
+  or </I>relative<I> as the reference direction is true, magnetic, compass, or 
+  grid north, or heading, respectively. <BR>At one time </I>bearing <I>was 
+  restricted to reference to the direction of a terrestrial object or point as 
+  distinguished from </I>azimuth<I> which referred to the direction of a 
+  celestial body. This distinction has been blurred by usage. </I>
+  <DT><STRONG>bearing angle</STRONG> 
+  <DD>Horizontal direction measured from 0° at the reference direction clockwise 
+  or counterclockwise through 90° or 180°. Compare <A 
+  href="b.html#bearing">bearing</A>. 
+  <DD><I>Bearing angle is labeled with the reference direction as a prefix and 
+  the direction of measurement from the reference direction as a suffix. Thus, 
+  bearing angle N 37° W is 37° west of north, or bearing 323°. </I>
+  <DT><STRONG>beat</STRONG> 
+  <DD>1. One complete <A 
+  href="c.html#cycle">cycle</A> of the 
+  variations in the <A 
+  href="a.html#amplitude">amplitude</A> of 
+  two or more periodic phenomena of different frequency which mutually react. 
+  See <A href="b.html#beat frequency">beat 
+  frequency</A>. 2. To produce <A 
+  href="b.html#beating">beating</A>. 
+  <DT><STRONG>beat-beat Dovap </STRONG>= <A 
+  href="d.html#dovap elsse">Dovap 
+  elsse</A>. <A name="beat frequency"></A>
+  <DT><STRONG>beat frequency</STRONG> 
+  <DD>The <A 
+  href="f.html#frequency">frequency</A> 
+  obtained when two simple <A 
+  href="h.html#harmonic">harmonic</A> 
+  quantities of different frequencies <MATH><I>f<SUB>1</SUB> </I>and 
+  <I>f<SUB>2</SUB> </I>are superimposed. The <I>beat frequency </I>equals 
+  <I>f<SUB>1</SUB>- f<SUB>2</SUB> </I></MATH>. <A name=beating></A>
+  <DT><STRONG>beating</STRONG> 
+  <DD>A <A href="w.html#wave">wave</A> 
+  phenomenon in which two or more periodic quantities of different <A 
+  href="f.html#frequency">frequencies</A> 
+  produce a resultant having pulsations of <A 
+  href="a.html#amplitude">amplitude</A>. 
+  <DD><I>This process may be controlled to produce a desired <A 
+  href="b.html#beat frequency">beat 
+  frequency</A>. See <A 
+  href="h.html#heterodyne">heterodyne</A> 
+  </I>. 
+  <DT><STRONG>beavertail antenna </STRONG>
+  <DD>A type of radar <A 
+  href="a.html#antenna">antenna</A> which 
+  forms a beam having a greater <A 
+  href="b.html#beam width">beam width</A> 
+  in azimuth than in elevation, or vice versa. In physical dimensions, its long 
+  axis lies in the plane of smaller beam width. 
+  <DT><STRONG>bediasite</STRONG> 
+  <DD>See <A 
+  href="t.html#tektite">tektite</A>. 
+  <DT><STRONG>Beer law</STRONG> = <A 
+  href="b.html#bouguer law">Bouguer 
+  law</A>. 
+  <DT><STRONG>behavior</STRONG> 
+  <DD>The way in which an organism, organ, body, or substance acts in an <A 
+  href="e.html#environment">environment</A> 
+  or responds to excitation, as<I> the behavior of steel under stress </I>, or 
+  <I>the behavior of an animal in a test </I>. <A name=bel></A>
+  <DT><STRONG>bel</STRONG> 
+  <DD>The fundamental division of a <A 
+  href="l.html#logarithmic scale">logarithmic 
+  scale</A> for expressing the ratio of two amounts of power, the number of bels 
+  denoting such a ratio being the logarithm to the base 10 of this ratio. 
+  <DD><I>With <MATH>P<SUB>1</SUB> and P<SUB>2</SUB> designating two amounts of 
+  power and N the number of bels denoting their ratio, N = log<SUB>10</SUB> 
+  (P<SUB>1</SUB>/P<SUB>2</SUB>) bels.<MATH> </I><A name="bemporad formula"></A>
+  <DT><STRONG>Bemporad formula</STRONG> 
+  <DD>A formula for the optical air mass <I>m</I> in terms of the <A 
+  href="z.html#zenith distance">zenith 
+  distance</A> <I>z</I> of the sun or other celestial body: 
+  <CENTER><I>m = R/58.36 sec sin z</I></CENTER>where <I>R</I> is <A 
+  href="a.html#astronomical refraction">astronomical 
+  refraction</A>, seconds of arc. 
+  <DD><I>For values of </I>z<I> less than about 70°, the Bemporad formula can be 
+  replaced by the simpler approximate formula, 
+  <CENTER>m = sec z </I></CENTER><A name=bends></A>
+  <DT><STRONG>bends</STRONG> 
+  <DD>1. Pains in the extremities, abdomen, and chest caused by <A 
+  href="a.html#aeroemphysema">aeroemphysema</A> 
+  and in some instances by <A 
+  href="a.html#aeroembolism">aeroembolism</A> 
+  resulting from the reduction of ambient air pressure. 
+  <DD>2. Popularly used as synonymous with <I>aeroembolism </I>(sense 2). 
+  <DT><STRONG>Bernoulli law or Bernoulli theorem</STRONG> 
+  <DD>(After Daniel Bernoulli, 1700-1782, Swiss scientist). 
+  <DD>1. In aeronautics, a law or theorem stating that in a flow of 
+  incompressible fluid the sum of the <A 
+  href="s.html#static pressure">static 
+  pressure</A> and the <A 
+  href="d.html#dynamic pressure">dynamic 
+  pressure</A> along a <A 
+  href="s.html#streamline">streamline</A> 
+  is constant if gravity and frictional effects are disregarded. 
+  <DD><I>From this law it follows that where there is a velocity increase in a 
+  fluid flow there must be a corresponding pressure decrease. Thus an airfoil, 
+  by increasing the velocity of the flow over its upper surface, derives lift 
+  from the decreased pressure. </I>
+  <DD>2. As originally formulated, a statement of the <A 
+  href="c.html#conservation of energy">conservation 
+  of energy</A> (per unit mass) for a nonviscous fluid in steady motion. The 
+  specific energy is composed of the kinetic energy <I>u<SUB>2</SUB>/2</I>, 
+  where <I>u</I> is the speed of the fluid; the potential energy <I>gz</I>, 
+  where <I>g</I> is the acceleration of gravity and <I>z</I> is the height above 
+  an arbitrary reference level; and the work done by the pressure forces of a 
+  compressible fluid <IMG height=18 
+  src="integral.gif" 
+  width=7> <I>v dp</I>, where <I>p</I> is the pressure, <I>v</I> is the specific 
+  volume, and the integration is always with respect to values of <I>p</I> and 
+  <I>v</I> on the same parcel. Thus, the relationship 
+  <CENTER><IMG align=center height=40 
+  src="36bern.gif" 
+  width=108> = Constant along a streamline </CENTER><BR clear=all>is valid for a 
+  compressible fluid in steady motion, since the streamline is also the path. If 
+  the motion is also irrotational, the same constant holds for the entire fluid. 
+  <A name="besselian star numbers"></A>
+  <DT><STRONG>Besselian star numbers</STRONG> 
+  <DD>Constants used in the reduction of a <A 
+  href="m.html#mean position">mean 
+  position</A> of a star to an <A 
+  href="a.html#apparent position">apparent 
+  position</A> (used to account for short-term variations in the <A 
+  href="p.html#precession">precession</A>, 
+  <A href="n.html#nutation">nutation</A>, 
+  <A 
+  href="a.html#aberration">aberration</A>, 
+  and <A 
+  href="p.html#parallax">parallax</A>). 
+  <DT><STRONG>Besselian year</STRONG> = <A 
+  href="f.html#fictitious year">fictitious 
+  year</A>. 
+  <DT><STRONG>Bessel fictitious year</STRONG> = <A 
+  href="f.html#fictitious year">fictitious 
+  year</A>. <A name="beta decay"></A>
+  <DT><STRONG>beta decay</STRONG> 
+  <DD>Radioactive transformation of a <A 
+  href="n.html#nuclide">nuclide</A> in 
+  which the <A 
+  href="a.html#atomic number">atomic 
+  number</A> changes by ±1 with the emission of a <A 
+  href="b.html#beta particles">beta 
+  particle</A> and the <A 
+  href="m.html#mass number">mass number</A> 
+  remains unchanged. Also called <I>beta disintegration </I>. 
+  <DD><I>Increase of atomic number occurs with negative beta particle emission, 
+  decrease with positive beta particle (positron) emission or upon electron 
+  capture. </I>
+  <DT><STRONG>beta disintegration</STRONG> = <A 
+  href="b.html#beta decay">beta decay</A>. 
+  <A name="beta factor"></A>
+  <DT><STRONG>beta factor, <IMG height=17 
+  src="betasm.gif" 
+  width=13>-factor</STRONG> 
+  <DD>In <A 
+  href="p.html#plasma physics">plasma 
+  physics</A>, the ratio of the plasma kinetic pressure to the <A 
+  href="m.html#magnetic pressure">magnetic 
+  pressure</A>. 
+  <DD><I>If <IMG height=17 
+  src="betasm.gif" 
+  width=13> is less than 1, the magnetic field has a chance to contain the 
+  plasma providing there are no instabilities. If <IMG height=17 
+  src="betasm.gif" 
+  width=13> is larger than 1, there is no possible chance of containment. </I><A 
+  name="beta particle"></A><A name="beta particles"></A>
+  <DT><STRONG>beta particles</STRONG> 
+  <DD>See <A 
+  href="b.html#betatron">betatron</A>, 
+  note. 
+  <DT><STRONG>beta ray, <IMG height=17 
+  src="betasm.gif" 
+  width=13>-ray</STRONG> 
+  <DD>A stream of <A 
+  href="b.html#beta particles">beta 
+  particles</A>. <A name=betatron></A>
+  <DT><STRONG>betatron</STRONG> 
+  <DD>A <A 
+  href="p.html#particle accelerator">particle 
+  accelerator</A> in which magnetic induction is used to accelerate <A 
+  href="e.html#electrons">electrons</A>. 
+  <DD><I>Betatron refers to the accelerated particles, electrons, which are 
+  identical with <A 
+  href="b.html#beta particles">beta 
+  particles</A>. </I>
+  <DT><STRONG>bias error</STRONG> 
+  <DD>A measurement error that remains constant in magnitude for all 
+  observations. A kind of <A 
+  href="s.html#systematic error">systematic 
+  error</A>. 
+  <DD><I>An example is an incorrectly set <A 
+  href="z.html#zero">zero</A> adjustment. 
+  </I>
+  <DT><STRONG>bidirectional transducer</STRONG> 
+  <DD>A <A 
+  href="t.html#transducer">transducer</A> 
+  device capable of measuring input in both a positive and a negative direction 
+  from a reference zero or rest position. 
+  <DT><STRONG>bilateral transducer</STRONG> 
+  <DD>A <A 
+  href="t.html#transducer">transducer</A> 
+  capable of transmission simultaneously in both directions. 
+  <DT><STRONG>billiard-ball collision</STRONG> = <A 
+  href="e.html#elastic collision">elastic 
+  collision</A>. 
+  <DT><STRONG>billitonite</STRONG> 
+  <DD>See <A 
+  href="t.html#tektite">tektite</A>. 
+  <DT><STRONG>bimetallic strip gage</STRONG> 
+  <DD>A thermal conductivity <A 
+  href="v.html#vacuum gage">vacuum gage</A> 
+  in which deflection of a bimetallic strip with changing temperature indicates 
+  the changes in pressure. <A name=binary></A>
+  <DT><STRONG>binary</STRONG> 
+  <DD>1. Involving the integer two (2). See <A 
+  href="b.html#binary notation">binary 
+  notation</A>. 
+  <DD>2. =<A 
+  href="b.html#binary cell">binary 
+  cell</A>. 
+  <DD>3. =<A 
+  href="b.html#binary star">binary 
+  star</A>. <A name="binary cell"></A>
+  <DT><STRONG>binary cell</STRONG> 
+  <DD>Any device or circuit that can be placed in either of two stable states to 
+  store a <A href="b.html#bit">bit</A> of 
+  binary information. Often called a <I>binary </I>. <A name="binary chain"></A>
+  <DT><STRONG>binary chain</STRONG> 
+  <DD>A cascaded series of <A 
+  href="b.html#binary cell">binary 
+  cells</A>. <A name="binary code"></A>
+  <DT><STRONG>binary code</STRONG> 
+  <DD>A code composed of a combination of entities each of which can assume one 
+  of two possible states. Each entity must be identifiable in time or space. <A 
+  name="binary counter"></A>
+  <DT><STRONG>binary counter</STRONG> 
+  <DD>A <A 
+  href="c.html#counter">counter</A> with 
+  two distinguishable states. 
+  <DT><STRONG>binary device</STRONG> = <A 
+  href="b.html#binary cell">binary 
+  cell</A>. <A name="binary digit"></A>
+  <DT><STRONG>binary digit</STRONG> 
+  <DD>A <A href="d.html#digit">digit</A> (0 
+  or 1) in <A 
+  href="b.html#binary notation">binary 
+  notation</A>. See <A 
+  href="b.html#bit">bit</A>. <A 
+  name="binary magnetic core"></A>
+  <DT><STRONG>binary magnetic core</STRONG> 
+  <DD>A ferromagnetic material which can be caused to assume either of two 
+  stable magnetic states and thus can be used in a <A 
+  href="b.html#binary cell">binary 
+  cell.</A> <A name="binary notation"></A>
+  <DT><STRONG>binary notation</STRONG> 
+  <DD>A system of <A 
+  href="p.html#positional notation">positional 
+  notation</A> in which the <A 
+  href="d.html#digits">digits</A> are 
+  coefficients of power of the base 2 in same way as the digits in the 
+  conventional decimal system are coefficients of power of the base 10. 
+  <DD><I>Binary notation employs only two digits, 1 and 0, therefore is used 
+  extensively in computers where the on and off positions of a switch or storage 
+  device can represent the two digits. In decimal notation <MATH>111 = (1 X 
+  10<SUP>2</SUP>) + (1 X 10<SUP>1</SUP>) + (1 x 10<SUP>0</SUP>) = 100 + 10 + 1 = 
+  one hundred and eleven. In binary notation 111 = (1 x 2<SUP>2</SUP>) + (1 x 
+  2<SUP>1</SUP>) + (1 x 2<SUP>0</SUP>) = 4 + 2 + 1 = seven.</MATH> </I>
+  <DT><STRONG>binary number system</STRONG> 
+  <DD>See <A 
+  href="b.html#binary notation">binary 
+  notation</A>. <A name="binary point"></A>
+  <DT><STRONG>binary point</STRONG> 
+  <DD>The <A href="b.html#base point">base 
+  point</A> in <A 
+  href="b.html#binary notation">binary 
+  notation</A>. <A name="binary star"></A>
+  <DT><STRONG>binary star</STRONG> 
+  <DD>A system of two stars revolving about their <A 
+  href="b.html#barycenter">barycenter</A>. 
+  <DD><I>The smaller star of the system is referred to as the </I>companion 
+  <I>or </I>comes.<BR>Visible binaries <I>are those which can be resolved into 
+  two stars by a telescope. <BR></I>Spectroscopic binaries <I>are those which 
+  cannot be resolved by a telescope by show temporary displacement and doubling 
+  of the lines in their spectra. </I><A name="binding energy"></A>
+  <DT><STRONG>binding energy</STRONG> 
+  <DD>1. The force which holds molecules, atoms, or atomic particles together; 
+  specifically, the force which holds an atomic <A 
+  href="n.html#nucleus">nucleus</A> 
+  together. 
+  <DD>2. The energy required to break chemical, atomic, or molecular bonds. 
+  <DT><STRONG>bioastronautics</STRONG> 
+  <DD>The study of biological, behavioral, and medical problems pertaining to <A 
+  href="a.html#astronautics">astronautics</A>. 
+  This includes systems functioning in the <A 
+  href="e.html#environment">environments</A> 
+  expected to be found in space, vehicles designed to travel in space, and the 
+  conditions on celestial bodies other than on earth. 
+  <DT><STRONG>biochemistry</STRONG> 
+  <DD>Chemistry dealing with the chemical processes and compounds of living 
+  organisms. 
+  <DT><STRONG>bioclimatology</STRONG> 
+  <DD>The study of the relations of climate and life, especially the effects of 
+  climate on the health and activity of human beings (human bioclimatology) and 
+  on animals and plants. 
+  <DT><STRONG>biodynamics</STRONG> 
+  <DD>The study of the effects of dynamic processes (motion, <A 
+  href="a.html#acceleration">acceleration</A>, 
+  <A 
+  href="w.html#weightlessness">weightlessness</A>, 
+  etc.) on living organisms. 
+  <DT><STRONG>bionics</STRONG> 
+  <DD>The study of systems, particularly <A 
+  href="e.html#electronic">electronic</A> 
+  systems, which function after the manner of, or in a manner characteristic of, 
+  or resembling, living systems. 
+  <DT><STRONG>biopak</STRONG> 
+  <DD>A container for housing a living organism in a habitable <A 
+  href="e.html#environment">environment</A> 
+  and for recording biological functions during space flight. 
+  <DT><STRONG>biosatellite</STRONG> 
+  <DD>An artificial <A 
+  href="s.html#satellite">satellite</A> 
+  which is specifically designed to contain and support man, animals, or other 
+  living material in a reasonably normal manner for an adequate period of time 
+  and which, particularly for man and animals, possesses the proper means for 
+  safe return to the earth. See <A 
+  href="e.html#ecological system">ecological 
+  system</A>. 
+  <DT><STRONG>biosensor</STRONG> 
+  <DD>A <A href="s.html#sensor">sensor</A> 
+  used to provide information about a life process. <A name=biosphere></A>
+  <DT><STRONG>biosphere</STRONG> 
+  <DD>That transition zone between earth and <A 
+  href="a.html#atmosphere">atmosphere</A> 
+  within which most forms of terrestrial life are commonly found; the outer 
+  portion of the <A 
+  href="g.html#geosphere">geosphere</A> and 
+  inner or lower portion of the atmosphere. See <A 
+  href="h.html#hydrosphere">hydrosphere</A>. 
+
+  <DT><STRONG>biotechnology</STRONG> 
+  <DD>The application of engineering and technological principles to the life 
+  sciences. 
+  <DT><STRONG>biotelemetry</STRONG> 
+  <DD>The remote measuring and evaluation of life functions, as, e.g. in <A 
+  href="s.html#spacecraft">spacecraft</A> 
+  and artificial <A 
+  href="s.html#satellites">satellites</A>. 
+  <A name=biotron></A>
+  <DT><STRONG>biotron</STRONG> 
+  <DD>A <A href="t.html#test chamber">test 
+  chamber</A> used for biological research within which the environmental 
+  conditions can be completely controlled, thus allowing observations of the 
+  effect of variations in <A 
+  href="e.html#environment">environment</A> 
+  on living organisms. <A name=bipropellant></A>
+  <DT><STRONG>bipropellant</STRONG> 
+  <DD>A rocket <A 
+  href="p.html#propellant">propellant</A> 
+  consisting of two unmixed or uncombined chemicals (<A 
+  href="f.html#fuel">fuel</A> and <A 
+  href="o.html#oxidizer">oxidizer</A>) fed 
+  to the combustion chamber separately. 
+  <DT><STRONG>bipropellant rocket</STRONG> 
+  <DD>A <A href="r.html#rocket">rocket</A> 
+  using two separate <A 
+  href="p.html#propellants">propellants</A> 
+  which are kept separate until mixing in the <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A>. <A name="biquinary notation"></A>
+  <DT><STRONG>biquinary notation</STRONG> 
+  <DD>A numerical system in which each <A 
+  href="d.html#decimal digit">decimal 
+  digit</A> is represented by a pair of digits consisting of a coefficient of 
+  five followed by a coefficient of one. 
+  <DD><I>For example, the decimal digit 7 is represented in biquinary notation 
+  by 12 [(1 x 5) + (2 x 1)], and the decimal quantity 3648 is represented by 03 
+  11 04 13. <BR>The abacus is based on biquinary notation. </I>
+  <DT><STRONG>bird</STRONG> 
+  <DD>A colloquial term for a <A 
+  href="r.html#rocket">rocket</A>, <A 
+  href="s.html#satellite">satellite</A>, or 
+  <A 
+  href="s.html#spacecraft">spacecraft</A>. 
+  <A name="bistable elements"></A>
+  <DT><STRONG>bistable elements</STRONG> 
+  <DD>In computer terminology, a device which can remain indefinitely in either 
+  of two stable states. <A name="bistable multivibrator"></A>
+  <DT><STRONG>bistable multivibrator</STRONG> 
+  <DD>A multivibrator which can exist indefinitely in either of two stable 
+  states. Also called <I>flip-flop </I>. <A name="bistatic reflectivity"></A>
+  <DT><STRONG>bistatic reflectivity</STRONG> 
+  <DD>The characteristic of a <A 
+  href="r.html#reflector">reflector</A> 
+  which reflects energy along a line, or lines, different from, or in addition 
+  to, that of the <A 
+  href="i.html#incident ray">incident 
+  ray</A>. 
+  <DD><I>For example, any reflector that <A 
+  href="s.html#scatters">scatters</A> the 
+  incident energy. </I><A name=bit></A><A name=bits></A>
+  <DT><STRONG>bit</STRONG> 
+  <DD>1. An abbreviation of <A 
+  href="b.html#binary digit"><I>binary 
+  digit</I></A>. 
+  <DD>2. A single character of a language employing only two distinct kinds of 
+  characters. 
+  <DD>3. A quantity of intelligence which is carried by an identifiable entity 
+  and which can exist in either of two states. 
+  <DD>4. A unit of <A 
+  href="s.html#storage capacity">storage 
+  capacity</A>; the capacity in bits of a storage device is the logarithm to the 
+  base two of the number of possible states of the device. 
+  <DD>5. A <A 
+  href="q.html#quantum">quantum</A> of 
+  information. 
+  <DD>6. Loosely, a mark. <A name="bit rate"></A>
+  <DT><STRONG>bit rate</STRONG> 
+  <DD>The frequency derived from the period of time required to transmit one <A 
+  href="b.html#bit">bit</A>. <A 
+  name=blackbody></A><A name="black body"></A>
+  <DT><STRONG>black body, blackbody</STRONG> (<I>symbol b</I> used as a 
+  subscript) 
+  <DD>1. An ideal emitter which radiates energy at the maximum possible rate per 
+  unit area at each wavelength for any given temperature. A black body also 
+  absorbs all the radiant energy in the near visible spectrum incident upon it. 
+  <DD><I>No actual substance behaves as a true black body, although platinum 
+  black and other soots rather closely approximate this ideal. However, one does 
+  speak of a black body with respect to a particular wavelength interval. This 
+  concept is fundamental to all the <A 
+  href="r.html#radiation laws">radiation 
+  laws</A>, and is to be compared with the similarly idealized concepts of the 
+  <A href="w.html#white body">white 
+  body</A> and the <A 
+  href="g.html#gray body">gray body</A>. In 
+  accordance with the <A 
+  href="k.html#kirchhoff law">Kirchhoff 
+  law</A>, a black body not only absorbs all wavelengths, but emits at all 
+  wavelengths and does so with maximum possible intensity for any given 
+  temperature. </I>
+  <DD>2. A laboratory device which simulates the characteristics of a <A 
+  href="b.html#black body">black body</A> 
+  (sense 1). See <A 
+  href="h.html#hohlraum">hohlraum</A>. 
+  <DT><STRONG>black-body emission</STRONG>= <A 
+  href="b.html#black-body radiation">black-body 
+  radiation</A>. <A name="black-body radiation"></A><A 
+  name="black body radiation"></A>
+  <DT><STRONG>black-body radiation</STRONG> 
+  <DD>The <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> emitted by an ideal <A 
+  href="b.html#black body">black body</A>; 
+  it is the theoretical maximum amount of radiant energy of all wavelengths 
+  which can be emitted by a body at a given temperature. 
+  <DD><I>The spectral distribution of black-body radiation is described by <A 
+  href="p.html#planck law">Planck law</A> 
+  and the related <A 
+  href="r.html#radiation laws">radiation 
+  laws</A>. If a very tiny opening is made into an otherwise completely enclosed 
+  space (<A 
+  href="h.html#hohlraum">hohlraum</A>), the 
+  radiation passing out through this hole when the walls of the enclosure have 
+  come to thermal equilibrium at some temperature will closely approximate ideal 
+  black-body radiation for that temperature. </I><A name="black box"></A>
+  <DT><STRONG>black box</STRONG> 
+  <DD>1. In engineering design, a unit whose <A 
+  href="o.html#output">output</A> is a 
+  specified function of the <A 
+  href="i.html#input">input</A>, but for 
+  which the method of converting input to output is not necessarily specified. 
+  <DD>2. Colloquially, any unit, usually an electronic device such as an 
+  amplifier, which can be mounted in, or removed from, a rocket, spacecraft, or 
+  the like as a single package. <A name=blackout></A>
+  <DT><STRONG>blackout</STRONG> 
+  <DD>1. A <A 
+  href="f.html#fadeout">fadeout</A> of 
+  radio communications due to ionospheric disturbances. 
+  <DD><I>Blackouts are most common in, but are not restricted to, the arctic. An 
+  arctic blackout may last for days or even weeks during periods of intense 
+  auroral activity. Past experiments with high-altitude nuclear detonations have 
+  produced blackouts and artificial auroras over the subtropics </I>. 
+  <DD>2. A fadeout of radio and telemetry transmission between ground stations 
+  and vehicles traveling at high speeds in the atmosphere caused by signal 
+  attenuation in passing through ionized boundary layer (<A 
+  href="p.html#plasma sheath">plasma 
+  sheath</A>) and shock wave regions generated by the vehicle. 
+  <DD>3. A vacuum tube characteristic which results from the formation of a <A 
+  href="d.html#dielectric">dielectric</A> 
+  film on the surface of the control grid. 
+  <DD><I>A negative charge, accumulated on the film when the grid is driven 
+  positive with respect to the cathode, affects the operating characteristics of 
+  the tube. </I>
+  <DD>4. A condition in which vision is temporarily obscured by a blackness, 
+  accompanied by a dullness of certain of the other senses, brought on by 
+  decreased blood pressure in the eye and a consequent lack of oxygen, as may 
+  occur, e.g., in pulling out of a high-speed dive in an airplane. Compare <A 
+  href="g.html#grayout">grayout</A>, <A 
+  href="r.html#redout">redout</A>. <A 
+  name=blades></A>
+  <DT><STRONG>blade</STRONG> 
+  <DD>1. (a) An arm of a propeller; a rotating wing. (b) Specifically, 
+  restrictive, that part of a propeller arm or of a rotating wing from the shank 
+  outward, i.e., that part having an efficient airfoil shape and that cleaves 
+  the air. See blade shank. 
+  <DD>2. A vane (in sense 2), such as a rotating vane or stationary vane in a 
+  rotary air compressor, or a vane of a turbine wheel. 
+  <DT><STRONG>blanket</STRONG> 
+  <DD>To blank out or obscure weak radio signals by a stronger signal. 
+  <DT><STRONG>blank-off pressure</STRONG> 
+  <DD>See <A 
+  href="u.html#ultimate pressure">ultimate 
+  pressure</A>. 
+  <DT><STRONG>blast</STRONG> 
+  <DD>1. The brief and rapid movement of air or other fluid away from a center 
+  of outward <A 
+  href="p.html#pressure">pressure</A>, as 
+  in an explosion. 
+  <DD>2. The characteristic instantaneous rise in pressure, followed by a sudden 
+  decrease, that results from this movement, differentiated from less rapid 
+  pressure changes. 
+  <DD>3. To <A href="t.html#take-off">take 
+  off</A> from a launching pad or stand. Said of a rocket in reference to the 
+  blast effects caused by rapid combustion of fuel as the rocket starts to move 
+  upward. (Popular). 
+  <DD><I>This term is commonly used for explosion, but the two terms should be 
+  distinguished. In space, an explosion could take place, but no blast would 
+  follow. </I>
+  <DT><STRONG>blast chamber</STRONG> 
+  <DD>A <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A>, especially a combustion chamber in a gas-turbine engine, jet 
+  engine, or rocket engine. 
+  <DT><STRONG>blast deflector</STRONG> 
+  <DD>A device used to divert the exhaust of a <A 
+  href="r.html#rocket">rocket</A> fired 
+  from a vertical position. 
+  <DT><STRONG>blastoff</STRONG> 
+  <DD>A missile <A 
+  href="l.html#launch">launch</A> (Slang). 
+  <DT><STRONG>blast vane</STRONG> = <A 
+  href="j.html#jet vane">jet vane</A>. 
+  <DT><STRONG>Blaton formula </STRONG>
+  <DD>In meteorology, an expression relating the curvature of the <A 
+  href="t.html#trajectory">trajectory</A> 
+  <I>K<SUB>i</SUB></I> of a <A 
+  href="f.html#fluid parcel">fluid parcel 
+  </A>to the <A 
+  href="s.html#streamline">streamline</A> 
+  <I>K<SUB>s</SUB></I> 
+  <CENTER><IMG height=19 
+  src="39blat.gif" 
+  width=209> </CENTER>where <I>v</I> is the parcel speed, <IMG height=17 
+  src="39blat2.gif" 
+  width=54> is the local change of wind direction, <IMG height=14 
+  src="psism.gif" 
+  width=14> is the wind angle, and <I>t</I> is time. The curvatures and change 
+  of wind direction are positive for <A 
+  href="c.html#cyclonic">cyclonic</A> flow. 
+
+  <DT><STRONG>bleed</STRONG> 
+  <DD>To let a fluid, such as air or liquid oxygen, escape from a pipe, tank, or 
+  the like. 
+  <DT><STRONG>bleed off</STRONG> 
+  <DD>To take off a part or all of a fluid from a tank or line, normally through 
+  an escape valve or outlet, as in to <I>bleed off excess oxygen from a tank 
+  </I>. <A name=blips></A><A name=blip></A>
+  <DT><STRONG>blip</STRONG> 
+  <DD>A spot of light or deflection of the <A 
+  href="t.html#trace">trace</A> on a 
+  radarscope, loran indicator, or the like, caused by the received signal, as 
+  from a reflecting object. Also called a <I>pip </I>or <I>echo </I>. <A 
+  name=blob></A>
+  <DT><STRONG>blob</STRONG> 
+  <DD>A fairly small-scale temperature and moisture inhomogeneity produced by <A 
+  href="t.html#turbulence">turbulence</A> 
+  within the atmosphere. 
+  <DD><I>The abnormal gradient of the <A 
+  href="i.html#index of refraction">index 
+  of refraction</A> resulting from a </I>blob<I> can produce a radar echo of the 
+  type known as</I> angels. 
+  <DT><STRONG>block</STRONG> 
+  <DD>In computer operations, a group of <A 
+  href="m.html#machine word">machine 
+  words</A> considered as a unit. <A name=blockhouse></A><A 
+  name="block house"></A>
+  <DT><STRONG>blockhouse, block house</STRONG> 
+  <DD>1. A reinforced concrete structure, often built underground or half 
+  underground, and sometimes dome shaped, to provide protection against blast, 
+  heat, or explosion during rocket launchings or related activities; 
+  specifically, such a structure at a <A 
+  href="l.html#launch site">launch site</A> 
+  that houses electronic control instruments used in launching a rocket. 
+  <DD>2. The activity that works in such a structure. 
+  <DT><STRONG>blocking oscillator</STRONG> 
+  <DD>A regenerative circuit which generates <A 
+  href="p.html#pulse">pulses</A> of short 
+  duration. 
+  <DD><I>Blocking oscillators are used in <A 
+  href="d.html#digital computer">digital 
+  computers</A>. </I>
+  <DT><STRONG>blowdown tunnel</STRONG> 
+  <DD>A type of <A 
+  href="w.html#wind tunnel">wind tunnel</A> 
+  in which stored compressed gas is allowed to expand through a test section to 
+  provide a stream of gas or air for model testing. 
+  <DD><I>The downstream side may or may not be reduced in pressure to provide 
+  greater expansion potential. </I><A name="blowdown turbine"></A>
+  <DT><STRONG>blowdown turbine</STRONG> 
+  <DD>A <A 
+  href="t.html#turbine">turbine</A> 
+  attached to a <A 
+  href="r.html#reciprocating engine">reciprocating 
+  engine</A> which receives exhaust gases separately from each cylinder, 
+  utilizing the kinetic energy of the gases. <A name=blowoff></A>
+  <DT><STRONG>blowoff</STRONG> 
+  <DD>The action of applying an explosive force and separating a package section 
+  away from the remaining part of a <A 
+  href="r.html#rocket vehicle">rocket 
+  vehicle</A> or <A 
+  href="r.html#reentry body">reentry 
+  body</A>, usually to retrieve an instrument or to obtain a record made during 
+  early flight. See <A 
+  href="f.html#fallaway section">fallaway 
+  section</A>. 
+  <DT><STRONG>blue-sky scale</STRONG> = <A 
+  href="l.html#linke scale">Linke 
+  scale</A>. 
+  <DT><STRONG>bluff body</STRONG> 
+  <DD>A body having a broad, flattened front, as in some <A 
+  href="r.html#reentry vehicles">reentry 
+  vehicles</A>. 
+  <DT><STRONG>bluntness (<I>symbol B</I>)</STRONG> 
+  <DD>A parameter of a <A 
+  href="c.html#conic">conic</A> related to 
+  the <A 
+  href="e.html#eccentricity">eccentricity</A>, 
+  e, of the conic in the following way: 
+  <UL><BR>For hyperbolas and prolate ellipses, </UL>
+  <CENTER><MATH><I>B = 1- e<SUP>2</SUP> </I></CENTER>
+  <UL>For oblate ellipses,</UL>
+  <CENTER><I>B = 1/(1-e<SUP>2</SUP>) </MATH></I></CENTER>
+  <DT><STRONG>boattail</STRONG> 
+  <DD>The rear portion of an elongated body, as a rocket, having decreasing 
+  cross-sectional area toward the rear. 
+  <DT><STRONG>bobbing</STRONG> 
+  <DD>Fluctuation of the strength of a radar <A 
+  href="e.html#echo">echo</A>, or its 
+  indication on a <A 
+  href="r.html#radarscope">radarscope</A>, 
+  due to alternate interference and reinforcement of returning reflected waves. 
+  <DT><STRONG>body</STRONG> 
+  <DD>1. The main part or main central portion of an airplane, airship, rocket, 
+  or the like; a fuselage or hull. 
+  <DD>2. In a general sense, any fabrication, structure, or other material form, 
+  especially one aerodynamically or ballistically designed, as, <I>an airfoil is 
+  a body designed to produce an aerodynamic reaction. </I>
+  <DT><STRONG>body angle</STRONG> 
+  <DD>The angle which the <A 
+  href="l.html#longitudinal axis">longitudinal 
+  axis</A> of the <A 
+  href="a.html#airframe">airframe</A> makes 
+  with some selected line. <A name="body axis"></A>
+  <DT><STRONG>body axis</STRONG> 
+  <DD>Any one of a system of mutually perpendicular reference axes fixed in an 
+  aircraft or similar body and moving with it. See <A 
+  href="a.html#axis">axis</A>. 
+  <DT><STRONG>body of revolution</STRONG> 
+  <DD>A symmetrical body having the form described by rotating a plane curve 
+  about an <A href="a.html#axis">axis</A> 
+  in its plane. 
+  <DT><STRONG>bogie</STRONG> 
+  <DD>1. A supporting and aligning wheel or roller on the inside of an endless 
+  track, used, e.g., in certain types of <A 
+  href="l.html#landing gear">landing 
+  gear</A>. 
+  <DD>2. A type of landing-gear unit consisting of two sets of wheels in tandem 
+  with a central strut. <A name="bohr magnetons"></A><A 
+name="bohr magneton"></A>
+  <DT><STRONG>Bohr magneton, electronic Bohr magneton</STRONG> (<I>symbol 
+  µ<SUB>B</SUB></I>) 
+  <DD>A constant equivalent to the magnetic moment of an electron, <MATH>9.27372 
+  x 10<SUP>-21</SUP> </MATH>erg/gauss. See <A 
+  href="p.html#physical constants">physical 
+  constants</A>, tables. 
+  <DD><I>Bohr magneton is sometimes used as a synonym for <A 
+  href="n.html#nuclear magneton">nuclear 
+  magneton</A>. </I>
+  <DT><STRONG>Bohr radius</STRONG> (<I>symbol a<SUB>0</SUB></I>) 
+  <DD>The smallest possible radius of an electron orbit in the Bohr model of the 
+  atom,<MATH> 5.29167 x 10<SUP>-9</SUP></MATH> centimeters. 
+  <DT><STRONG>boilerplate model</STRONG> 
+  <DD>A metal copy of a flight vehicle, the structure or components of which are 
+  heavier than the flight model. <A name="boiling point"></A>
+  <DT><STRONG>boiling point (abbr bp)</STRONG> 
+  <DD>The temperature at which the <A 
+  href="e.html#equilibrium vapor pressure">equilibrium 
+  vapor pressure</A> between a liquid and its vapor is equal to the external 
+  pressure on the liquid. Compare <A 
+  href="i.html#ice point">ice point</A>. 
+  <DT><STRONG>boiloff</STRONG> 
+  <DD>The vaporization of a liquid, such as liquid oxygen or liquid hydrogen, as 
+  its temperature reaches its <A 
+  href="b.html#boiling point">boiling 
+  point</A> under conditions of exposure, as in the tank of rocket being readied 
+  for launch. 
+  <DT><STRONG>bolide</STRONG> 
+  <DD>A brilliant <A 
+  href="m.html#meteor">meteor</A>, 
+  especially one which explodes; a detonating <A 
+  href="f.html#fireball">fireball</A>. 
+  <DT><STRONG>bologram</STRONG> 
+  <DD>The record obtained from a <A 
+  href="b.html#bolometer">bolometer</A>. <A 
+  name=bolometer></A>
+  <DT><STRONG>bolometer</STRONG> 
+  <DD>An instrument which measures the intensity of radiant energy by employing 
+  a thermally sensitive electrical resistor; a type of <A 
+  href="a.html#actinometer">actinometer</A>. 
+  Also called <I>actinic balance </I>. Compare <A 
+  href="r.html#radiometer">radiometer</A>. 
+  <DD><I>Two identical, blackened, thermally sensitive electrical resistors are 
+  used in a Wheatstone bridge circuit. Radiation is allowed to fall on one of 
+  the elements, causing a change in its resistance. The change is a measure of 
+  the intensity of the radiation. </I>
+  <DT><STRONG>bolometric magnitude</STRONG> 
+  <DD>1. The <A 
+  href="m.html#magnitude">magnitude</A> of 
+  a star for the entire <A 
+  href="e.html#electromagnetic spectrum">electromagnetic 
+  spectrum</A> without atmospheric absorption. 
+  <DD><I>The magnitude measured within the earth's atmosphere by a bolometer is 
+  the radiometric magnitude. </I>
+  <DD>2. Loosely = <A 
+  href="r.html#radiometric magnitude">radiometric 
+  magnitude</A>. <A name=boltzmann></A><A name="boltzmann constant"></A>
+  <DT><STRONG>Boltzmann constant (symbol <I>k</I>)</STRONG> 
+  <DD>The ratio of the <A 
+  href="u.html#universal gas constant">universal 
+  gas constant</A> to <A 
+  href="a.html#avogadro number">Avogadro 
+  number</A>; equal to <MATH>1.38054 x 10<SUP>-16</SUP> erg/°K. Sometimes</MATH> 
+  called <I>gas constant per molecule, Boltzmann universal conversion factor 
+  </I>. 
+  <DT><STRONG>Boltzmann universal conversion factor</STRONG> = <A 
+  href="b.html#boltzmann constant">Boltzmann 
+  constant</A>. <A name="bond albedo"></A>
+  <DT><STRONG>Bond albedo</STRONG> 
+  <DD>The ratio of the amount of light reflected from a sphere exposed to 
+  parallel light to the amount of light incident upon it. Sometimes shortened to 
+  <A 
+  href="a.html#albedo"><I>albedo</I></A>. 
+  <DD><I>The Bond albedo is used in planetary astronomy. </I><A 
+name=bonding></A>
+  <DT><STRONG>bonding</STRONG> 
+  <DD>1. Specifically, a system of connections between all metal parts of an 
+  aircraft or other structure forming a continuos electrical unit and preventing 
+  jumping or arcing of static electricity. 
+  <DD>2. Gluing or cementing together for structural strength. 
+  <DT><STRONG>Boo, Boot</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Bootes</I>. See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name="boolean algebra"></A>
+  <DT><STRONG>Boolean algebra</STRONG> 
+  <DD>The study of the manipulation of symbols representing operations according 
+  to the rules of logic. 
+  <DD><I>Boolean algebra corresponds to an algebra using only the numbers 0 and 
+  1, therefore can be used in programming digital computers which operate on the 
+  binary principle. </I>
+  <DT><STRONG>boost</STRONG> 
+  <DD>1. Additional power, pressure, or force supplied by a <A 
+  href="b.html#booster">booster</A>, as, 
+  hydraulic boost, or extra propulsion given a flying vehicle during lift-off, 
+  climb, or other part of its flight as with a booster engine. 
+  <DD>2. <A 
+  href="b.html#boost pressure">Boost 
+  pressure</A>. 
+  <DD>3. To supercharge. 
+  <DD>4. To <A 
+  href="l.html#launch">launch</A> or to 
+  push along during a portion of flight, as <I>to boost a ramjet to flight speed 
+  by means of a rocket, or a rocket boosted to altitude with another rocket 
+  </I>. <A name=booster></A>
+  <DT><STRONG>booster</STRONG> 
+  <DD>1. Short for <A 
+  href="b.html#booster engine">booster 
+  engine</A> or <A 
+  href="b.html#booster rocket">booster 
+  rocket</A>. 
+  <DD>2. = <A 
+  href="l.html#launch vehicle">launch 
+  vehicle</A>. <A name="booster engine"></A><A name="booster engines"></A>
+  <DT><STRONG>booster engine</STRONG> 
+  <DD>An engine, especially a <A 
+  href="b.html#booster rocket">booster 
+  rocket</A>, that adds its thrust to the thrust of the <A 
+  href="s.html#sustainer engine">sustainer 
+  engine</A>. 
+  <DT><STRONG>booster pump</STRONG> 
+  <DD>A pump in a fuel system, oil system, or the like, used to provide 
+  additional or auxiliary pressure when needed or to provide an initial pressure 
+  differential before entering a main pump, as in pumping hydrogen near the 
+  boiling point. <A name="booster rocket"></A><A name="booster rockets"></A>
+  <DT><STRONG>booster rocket</STRONG> 
+  <DD>1. A <A 
+  href="r.html#rocket motor">rocket 
+  motor</A>, either solid or liquid, that assists the normal propulsive system 
+  or <A 
+  href="s.html#sustainer engine">sustainer 
+  engine</A> of a rocket or aeronautical vehicle in some phase of its flight. 
+  <DD>2. A rocket used to set a vehicle in motion before another engine takes 
+  over. 
+  <DD><I>In sense 2 the term launch vehicle is preferred. </I>
+  <DT><STRONG>booster vehicle</STRONG> = <A 
+  href="l.html#launch vehicle">launch 
+  vehicle</A>. <A name="boostglide vehicles"></A>
+  <DT><STRONG>boostglide vehicle</STRONG> 
+  <DD>A <A 
+  href="v.html#vehicle">vehicle</A> 
+  designed to glide in the atmosphere following a rocket-powered phase. Portions 
+  of the flight may be <A 
+  href="b.html#ballistic condition">ballistic</A>, 
+  out of the atmosphere. <A name="boost pressure"></A>
+  <DT><STRONG>boost pressure</STRONG> 
+  <DD>Manifold pressure greater than the ambient <A 
+  href="a.html#atmospherics">atmospheric</A> 
+  pressure, obtained by supercharging. Often called <I>boost</I>. 
+  <DT><STRONG>Bootes (abbr Boo, Boot)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>bootstrap</STRONG> 
+  <DD>1. Referring to a self-generating or self-sustaining process; 
+  specifically, the operation of liquid-propellant rocket engines in which, 
+  during main-stage operation, the gas generator is fed by the main propellants 
+  pumped by the turbopump, and the turbopump in turn is driven by hot gases from 
+  the gas generator system. 
+  <DD><I>Such a system must be started in its operation by outside power or 
+  propellants. When its operation is no longer dependent on outside power or 
+  propellant the system is said to be in </I>bootstrap<I> operation. </I>
+  <DD>2. In computer operations, the coded instructions at the beginning of an 
+  input tape which together with manually inserted instructions, initiate a <A 
+  href="r.html#routine">routine</A>. 
+  <DD>3. = <A 
+  href="l.html#leap-frog">leap-frog</A>. 
+  See, <A 
+  href="l.html#leapfrog test">leapfrog 
+  test</A>. 
+  <DT><STRONG>boresight camera</STRONG> 
+  <DD>A camera mounted in the optical axis of a <A 
+  href="t.html#tracking radar">tracking 
+  radar</A> to photograph rockets being tracked while in camera range and thus 
+  provide a correction for the alignment of the radar. 
+  <DT><STRONG>boresight error</STRONG> 
+  <DD>The linear displacement between two parallel lines of sight. 
+  <DT><STRONG>boresighting</STRONG> 
+  <DD>In radio the process of aligning a <A 
+  href="d.html#directional antenna">directional 
+  antenna</A> system by an optical procedure. 
+  <DT><STRONG>Bose-Einstein statistics</STRONG> 
+  <DD>Formulas relating to <A 
+  href="e.html#equation of state">equations 
+  of state</A> and partition of <A 
+  href="k.html#kinetic energy">kinetic 
+  energy</A> when the wave functions are symmetric. <A name="bouguer law"></A>
+  <DT><STRONG>Bouguer law</STRONG> 
+  <DD>A relationship describing the rate of decrease of flux density of a 
+  plane-parallel beam of <A 
+  href="m.html#monochromatic">monochromatic</A> 
+  radiation as it penetrates a medium which both scatters and absorbs at that 
+  wavelength. This law may be expressed 
+  <CENTER><IMG height=35 
+  src="41bou.gif" 
+  width=207> </CENTER>or 
+  <CENTER><IMG height=36 
+  src="41bou2.gif" 
+  width=173></CENTER>where <I>I</I> is the flux density of the radiation; <IMG 
+  alt="alpha sub lambda" height=15 
+  src="alfsbla.gif" 
+  width=17> is the <A 
+  href="a.html#attenuation coefficient">attenuation 
+  coefficient</A> (or extinction coefficient) of the medium at wavelength <IMG 
+  alt=lambda height=16 
+  src="lambdasm.gif" 
+  width=13>; <IMG alt="I sub lambda 0" height=19 
+  src="41ilam0.gif" 
+  width=24> is the flux density at the source; and <I>x</I> is the distance from 
+  the source. Sometimes called <I>Beer law, Lambert law of absorption </I>. See 
+  <A 
+  href="a.html#absorption coefficient">absorption 
+  coefficient</A>, <A 
+  href="s.html#scattering coefficient">scattering 
+  coefficient</A>. 
+  <DT><STRONG>bounce table</STRONG> 
+  <DD>A testing device which subjects devices and <A 
+  href="c.html#components">components</A> 
+  to impacts such as might be encountered in accidental dropping. <A 
+  name="boundary condition"></A><A name="boundary conditions"></A>
+  <DT><STRONG>boundary conditions</STRONG> 
+  <DD>A set of mathematical conditions to be satisfied, in the solution of a 
+  differential equation, at the edges or physical boundaries (including fluid 
+  boundaries) of the region in which the solution is sought. The nature of these 
+  conditions usually is determined by the physical nature of the problem. See <A 
+  href="b.html#boundary-value problem">boundary-value 
+  problem</A>. <A name="boundary layer"></A>
+  <DT><STRONG>boundary layer</STRONG> 
+  <DD>The layer of <A 
+  href="f.html#fluid">fluid</A> in the 
+  immediate vicinity of a bounding surface; in fluid mechanics, the layer 
+  affected by viscosity of the fluid, referring ambiguously to the <I>laminar 
+  boundary layer, turbulent boundary layer, planetary boundary layer, or surface 
+  boundary layer </I>. 
+  <DD><I>In aerodynamics the boundary-layer thickness is measured from the 
+  surface to an arbitrarily chosen point, e.g., where the velocity is 99 percent 
+  of the stream velocity. Thus, in aerodynamics, boundary layer by selection of 
+  the reference point, can include only the laminar boundary layer or the 
+  laminar boundary layer plus all, or a portion of, the turbulent boundary 
+  layer. </I><A name="boundary-value problem"></A>
+  <DT><STRONG>boundary-value problem</STRONG> 
+  <DD>A physical problem completely specified by a differential equation in an 
+  unknown, valid in a certain region of space, and certain information (<A 
+  href="b.html#boundary condition">boundary 
+  condition</A>) about the unknown, given on the boundaries of that region. The 
+  information required to determine the solution depends completely and uniquely 
+  on the particular problem. See <A 
+  href="i.html#initial-value problem">initial-value 
+  problem</A>. <A name=boussinesq></A>
+  <DT><STRONG>Boussinesq approximation</STRONG> 
+  <DD>The assumption (frequently used in the theory of <A 
+  href="c.html#convection">convection</A>) 
+  that the fluid is incompressible except insofar as the thermal expansion 
+  produces a buoyancy, represented by a term <I>gaT</I> (a is equivalent to 
+  alpha), where <I>g</I> is the <A 
+  href="a.html#acceleration of gravity">acceleration 
+  of gravity</A>; a is the coefficient of thermal expansion; and <I>T</I> is the 
+  <A 
+  href="p.html#perturbation">perturbation</A>temperature. 
+  <A name="bow wave"></A>
+  <DT><STRONG>bow wave</STRONG> 
+  <DD>A <A href="s.html#shock wave">shock 
+  wave</A> in front of a body, such as an airfoil, or apparently attached to the 
+  forward tip of the body. <A name="boyle law"></A>
+  <DT><STRONG>Boyle law </STRONG>= <A 
+  href="b.html#boyle-mariotte law">Boyle-Mariotte 
+  law</A>. <A name="boyle-mariotte law"></A>
+  <DT><STRONG>Boyle-Mariotte law</STRONG> 
+  <DD>The empirical generalization that for many so-called perfect gases, the 
+  product of pressure <I>p</I> and volume <I>V</I> is constant in an isothermal 
+  process: <I>pV = F(T)</I> where the function <I>F</I> the temperature <I>T</I> 
+  cannot be specified without reference to other laws (e.g., <A 
+  href="c.html#charles-gay-lussac law">Charles-Gay-Lussac 
+  law</A>). Also called <I>Boyle law, Mariotte law </I>. 
+  <DT><STRONG>brake parachute</STRONG> = <A 
+  href="d.html#deceleration parachute">deceleration 
+  parachute</A>. 
+  <DT><STRONG>braking ellipses</STRONG> 
+  <DD>A series of ellipses, decreasing in size due to aerodynamic <A 
+  href="d.html#drag">drag</A>, followed by 
+  a <A 
+  href="s.html#spacecraft">spacecraft</A> 
+  in entering a planetary atmosphere. 
+  <DD><I>In theory, this maneuver will allow a spacecraft to dissipate the heat 
+  generated in entry without burning up. </I>
+  <DT><STRONG>braking rocket</STRONG> = <A 
+  href="r.html#retrorocket">retrorocket</A>. 
+  <A name=branches></A>
+  <DT><STRONG>branch</STRONG> 
+  <DD>1. In an electrical circuit, a portion of a <A 
+  href="n.html#network">network</A> 
+  consisting of one or more two-terminal elements in series. 
+  <DD>2. The point in a <A 
+  href="c.html#computer">computer</A> 
+  program at which the machine will proceed with one of two or more possible <A 
+  href="r.html#routines">routines</A> 
+  according to existing conditions and instructions. 
+  <DT><STRONG>branch point</STRONG> = <A 
+  href="n.html#node">node</A>. 
+  <DT><STRONG>Brayton cycle</STRONG> 
+  <DD>(After George B. Brayton, American engineer). Same as <A 
+  href="j.html#joule cycle">Joule 
+  cycle</A>. <A name=brazing></A>
+  <DT><STRONG>brazing</STRONG> 
+  <DD>Joining metals by flowing a thin-layer capillary thickness of nonferrous 
+  filler metal into the space between them. 
+  <DD><I><A 
+  href="b.html#bonding">Bonding</A> results 
+  from the intimate contact produced by the dissolution of a small amount of 
+  base metal in the molten filler metal, without fusion of the base metal. 
+  Sometimes, the filler metal is put in place as a thin solid sheet or as 
+  </I>cladding<I> and the composite is heated as in </I>furnace brazing<I>. 
+  <BR>The term </I>brazing<I> is used where the temperature exceeds some 
+  arbitrary value, such as 800°F; the term </I>soldering<I> is used for 
+  temperatures lower than the arbitrary value. </I>
+  <DT><STRONG>breadboard</STRONG> 
+  <DD>1. An assembly of preliminary circuits or parts used to prove the 
+  feasibility of a device, circuit, system, or principle without regard to the 
+  final configuration or packaging of the parts. 
+  <DD>2. To prepare a <I>breadboard </I>, sense 1. 
+  <DT><STRONG>breakaway</STRONG> 
+  <DD>The action of a <A 
+  href="b.html#boundary layer">boundary 
+  layer</A> separating from a surface. 
+  <DT><STRONG>breakaway phenomenon</STRONG> 
+  <DD>See <A 
+  href="b.html#breakoff phenomenon">breakoff 
+  phenomenon</A>. 
+  <DT><STRONG>breakdown potential</STRONG> = <A 
+  href="d.html#dielectric strength">dielectric 
+  strength</A>. 
+  <DT><STRONG>breakoff</STRONG> = <A 
+  href="b.html#breakoff phenomenon">breakoff 
+  phenomenon</A>. <A name="breakoff phenomenon"></A>
+  <DT><STRONG>breakoff phenomenon</STRONG> 
+  <DD>The feeling which sometimes occurs during high-altitude flight of being 
+  totally separated and detached from the earth and human society. Also called 
+  the <I>breakaway phonomonon</I>. 
+  <DT><STRONG>break point</STRONG> 
+  <DD>In computer operations, a point at which a <A 
+  href="b.html#break-point instruction">break-point 
+  instruction</A> inserted in the <A 
+  href="r.html#routine">routine</A> will 
+  cause the machine to stop, upon a command from the operator, for a check of 
+  progress. <A name="break-point instruction"></A>
+  <DT><STRONG>break-point instruction</STRONG> 
+  <DD>In computer operations, an instruction which, in conjunction with a 
+  manually operated control, causes the machine to stop. <A 
+  name=bremsstrahlung></A>
+  <DT><STRONG>bremsstrahlung </STRONG>(German, braking radiation). 
+  <DD><A 
+  href="e.html#electromagnetic radiation">Electromagnetic 
+  radiation</A> produced by the rapid change in the velocity of an electron or 
+  another fast, charged <A 
+  href="p.html#particle">particle</A> as it 
+  approaches an atomic <A 
+  href="n.html#nucleus">nucleus</A> and is 
+  deflected by it. See <A 
+  href="b.html#bremsstrahlung effect">bremsstrahlung 
+  effect</A>. <A name="bremsstrahlung effect"></A>
+  <DT><STRONG>bremsstrahlung effect</STRONG> 
+  <DD>The <A 
+  href="e.html#emission">emission</A> of <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> as a consequence of the acceleration of charged elementary <A 
+  href="p.html#particles">particles</A>, 
+  such as electrons, under the influence of the attractive or repulsive force 
+  fields of atomic nuclei near which the charged particle moves. 
+  <DD><I>In cosmic-ray shower production, bremsstrahlung effects give rise to 
+  emission of gamma rays as electrons encounter atmospheric nuclei. The emission 
+  of radiation in the bremsstrahlung effect is merely one instance of the 
+  general rule that electromagnetic radiation is emitted only when electric 
+  charges undergo acceleration. </I>
+  <DT><STRONG>brennschluss</STRONG> (German, <I>combustion termination </I>). 
+  <DD>The cessation of burning in a <A 
+  href="r.html#rocket">rocket</A>, 
+  resulting from consumption of the propellants, from deliberate shutoff, or 
+  from other cause; the time at which this cessation occurs. See <A 
+  href="b.html#burnout">burnout</A>, <A 
+  href="c.html#cutoff">cutoff</A>. <A 
+  name="Brewster point"></A>
+  <DT><STRONG>Brewster point</STRONG> 
+  <DD>One of the three commonly detectable points of zero polarization of <A 
+  href="d.html#diffuse sky radiation">diffuse 
+  sky radiation</A>, neutral points, along the vertical circle through the sun; 
+  the other two are the <A 
+  href="a.html#arago point">Arago point</A> 
+  and <A 
+  href="b.html#babinet point">Babinet 
+  point</A>. 
+  <DD><I>This neutral point, discovered by Brewster in 1840, is located about 
+  15° to 20° directly below the sun; hence it is difficult to observe because of 
+  the glare of the sun. </I><A name=brightness></A>
+  <DT><STRONG>brightness</STRONG> 
+  <DD>1. The attribute of visual perception in accordance with which an area 
+  appears to emit more or less light. 
+  <DD>2. = <A 
+  href="l.html#luminance">luminance</A>. 
+  <DD><I>In sense 2 luminance is preferred. </I>
+  <DT><STRONG>brightness level</STRONG> = <A 
+  href="a.html#adaptation luminance">adaptation 
+  luminance</A>. <A name="brightness temperature"></A>
+  <DT><STRONG>brightness temperature</STRONG> 
+  <DD>1. In astrophysics, the <A 
+  href="t.html#temperature">temperature</A> 
+  of a <A href="b.html#blackbody">black 
+  body</A> radiating the same amount of energy per unit area at the wavelengths 
+  under consideration as the observed body. Compare <A 
+  href="e.html#effective temperature">effective 
+  temperature</A>, <A 
+  href="a.html#antenna temperature">antenna 
+  temperature</A>. 
+  <DD>2. The temperature of a nonblack body determined by measurement with an 
+  optical <A 
+  href="p.html#pyrometer">pyrometer</A>. 
+  <DT><STRONG>Brinell hardness number</STRONG> (abbr Bhn) 
+  <DD>A parameter describing the hardness of a material as the ratio of pressure 
+  on a standard sphere used to indent the material to be tested to the area of 
+  the indentation produced. 
+  <DT><STRONG>British candle </STRONG>= <A 
+  href="i.html#international candle">international 
+  candle</A>. <A name="british thermal unit"></A>
+  <DT><STRONG>British thermal unit</STRONG> (abbr Btu) 
+  <DD>The amount of heat required to raise 1 pound of water at 60 degrees F, 1° 
+  F. 
+  <DD><I>This unit is defined for various temperatures, but the general usage 
+  seems to be to take the Btu as equal to 252 15° gram-calories or 1055 joules. 
+  </I>
+  <DT><STRONG>broadside array</STRONG> 
+  <DD>An <A 
+  href="a.html#antenna array">antenna 
+  array</A> whose direction of maximum radiation is perpendicular to the line or 
+  plane of the array according as the elements lie on a line or plane. A uniform 
+  broadside array is a <A 
+  href="l.html#linear array">linear 
+  array</A> whose elements contribute fields of equal <A 
+  href="a.html#amplitude">amplitude</A> and 
+  <A href="p.html#phase">phase</A>. 
+  <DT><STRONG>brush discharge</STRONG> = <A 
+  href="c.html#corona discharge">corona 
+  discharge</A>. 
+  <DT><STRONG>B-scan </STRONG>= <A 
+  href="b.html#b-display">B-display</A>. 
+  <DT><STRONG>B-scope</STRONG> 
+  <DD>A cathode-ray indicator in which a signal appears as a spot with bearing 
+  as the horizontal coordinate and distance as the vertical coordinate. Also 
+  called <I>B-display </I>. 
+  <DT><STRONG>B-station</STRONG> 
+  <DD>In <A href="l.html#loran">loran</A>, 
+  the designation applied to the transmitting station of a pair, the signal of 
+  which always occurs more than half a repetition period after the next 
+  succeeding signal and less than half a repetition period before the next 
+  preceding signal from the other station of the pair, designated an <A 
+  href="a.html#a-station">A- station</A>. 
+  <DT><STRONG>B-trace</STRONG> 
+  <DD>The second trace of an <A 
+  href="o.html#oscilloscope">oscilloscope</A> 
+  having more than one, as the lower trace of a loran indicator. <A 
+name=btu></A>
+  <DT><STRONG>Btu (abbr)</STRONG> 
+  <DD><A 
+  href="b.html#british thermal unit"><I>B</I>ritish 
+  <I>t</I>hermal <I>u</I>nit.</A> 
+  <DT><STRONG>buckling</STRONG> 
+  <DD>1. An unstable state of equilibrium of a thin-walled body stemming from 
+  compressive stresses in the walls. 
+  <DD>2. The lateral deflection of a thin-walled body resulting from such 
+  instability. 
+  <DT><STRONG>buffer</STRONG> 
+  <DD>In computers: 1. An isolating <A 
+  href="c.html#circuit">circuit</A> used to 
+  avoid reaction of a driven circuit on the corresponding driving circuit. 
+  <DD>2. A <A 
+  href="s.html#storage">storage</A> device 
+  used to compensate for a difference in rate of flow of information or time or 
+  occurrence of events when transmitting information from one device to another. 
+
+  <DT><STRONG>buffer storage</STRONG> 
+  <DD>In computer operations, <A 
+  href="s.html#storage">storage</A> used to 
+  compensate for a difference in rate of flow or time of occurrence when 
+  transferring information from one device to another. 
+  <DT><STRONG>buffeting</STRONG> 
+  <DD>The beating of an aerodynamic structure or surfaces by unsteady flow, 
+  gusts, etc.; the irregular shaking or oscillation of a vehicle component owing 
+  to turbulent air or separated flow. 
+  <DT><STRONG>build</STRONG> 
+  <DD>Of a radiant energy signal, to increase, often temporarily, in received <A 
+  href="s.html#signal strength">signal 
+  strength</A> without a change of receiver controls. 
+  <DD><I>The opposite is fade. </I>
+  <DT><STRONG>bulkhead</STRONG> 
+  <DD>A wall, partition, or similar member in a rocket, spacecraft, airplane 
+  fuselage, or similar structure, at right angles to the <A 
+  href="l.html#longitudinal axis">longitudinal 
+  axis</A> of the structure, and serving to strengthen, divide, or help give 
+  shape to the structure. <A name="bulk modulus"></A>
+  <DT><STRONG>bulk modulus</STRONG> 
+  <DD>The reciprocal of the <A 
+  href="c.html#coefficient of compressibility">coefficient 
+  of compressibility</A>. <A name=b-units></A>
+  <DT><STRONG>B-units</STRONG> 
+  <DD>See <A 
+  href="p.html#potential index of refraction">potential 
+  index of refraction</A>. <A name=burble></A>
+  <DT><STRONG>burble</STRONG> 
+  <DD>A separation or breakdown of the <A 
+  href="l.html#laminar flow">laminar 
+  flow</A> past a body; the eddying or <A 
+  href="t.html#turbulent flow">turbulent 
+  flow</A> resulting from this. 
+  <DD><I>Burble occurs over an airfoil operating at an angle of attack greater 
+  than the angle of maximum lift, resulting in a loss of lift and an increase of 
+  drag. See <A 
+  href="c.html#compressibility burble">compressibility 
+  burble</A>. </I>
+  <DT><STRONG>burble angle</STRONG> = <A 
+  href="b.html#burble point">burble 
+  point</A>. <A name="burble point"></A>
+  <DT><STRONG>burble point</STRONG> 
+  <DD>A point reached in an increasing <A 
+  href="a.html#angle of attack">angle of 
+  attack</A> at which <A 
+  href="b.html#burble">burble</A> begins. 
+  Also called <I>burble angle</I>. 
+  <DT><STRONG>burner</STRONG> = <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A>. 
+  <DT><STRONG>burn-in</STRONG> = <A 
+  href="d.html#debug">debug</A>. <A 
+  name="burning rate"></A>
+  <DT><STRONG>burning rate</STRONG> (<I>symbol r</I>) 
+  <DD>The velocity at which a <A 
+  href="s.html#solid propellant">solid 
+  propellant</A> in a <A 
+  href="r.html#rocket">rocket</A> is 
+  consumed. 
+  <DD><I>Burning rate is measured in a direction normal to the propellant 
+  surface and is usually expressed in inches per second. </I>
+  <DT><STRONG>burning rate constant </STRONG>(<I>symbol a </I>) 
+  <DD>A constant, related to initial grain temperature, used in calculating the 
+  <A href="b.html#burning rate">burning 
+  rate</A> of a rocket propellant <A 
+  href="g.html#grain">grain</A>. 
+  <DT><STRONG>burning-rate exponent </STRONG>(<I>symbol n</I>) 
+  <DD>The exponent <I>n</I> in the equation 
+  <CENTER><I>r = ap <MATH><SUB>c</SUB><SUP>n</SUP></MATH> </I></CENTER>where 
+  <I>r</I> is <A 
+  href="b.html#burning rate">burning 
+  rate</A>, <I>p<MATH><SUB>c</SUB></MATH> </I>is <A 
+  href="c.html#chamber pressure;">chamber 
+  pressure;</A> and <I>a</I> and <I>n</I> are constants. 
+  <DD><I>The value of n varies with the propellant. </I><A name=burnout></A>
+  <DT><STRONG>burnout</STRONG> 
+  <DD>1. An act or instance of fuel or oxidant depletion or, ideally, the 
+  simultaneous depletion of both; the time at which this occurs. Compare <A 
+  href="c.html#cutoff">cutoff</A>. 
+  <DD><I>In the United Kingdom all burnt is preferred to burnout. </I>
+  <DD>2. An act or instance of something burning out or of overheating; 
+  specifically, an act or instance of a rocket combustion chamber, nozzle, or 
+  other part overheating so as to result in damage or destruction. <A 
+  name="burnout velocity"></A>
+  <DT><STRONG>burnout velocity</STRONG> 
+  <DD>The velocity of a <A 
+  href="r.html#rocket">rocket</A>, 
+  rocket-powered aircraft, or the like at the time the fuel or oxidant or both 
+  are depleted. Also called <I>burnt velocity. </I>
+  <DT><STRONG>burnt velocity</STRONG> = <A 
+  href="b.html#burnout velocity">burnout 
+  velocity</A>. 
+  <DT><STRONG>burnup</STRONG> 
+  <DD>1. In a <A 
+  href="r.html#reactor">reactor</A>, the 
+  percentage of <A 
+  href="f.html#fissionable">fissionable</A> 
+  atoms that have been fissioned. 2. Depletion of reactor fuel by <A 
+  href="f.html#fission">fission</A>. <A 
+  name=bursts></A>
+  <DT><STRONG>burst</STRONG> 
+  <DD>1. A single <A 
+  href="p.html#pulse">pulse</A> of radio 
+  energy; specifically such a pulse at <A 
+  href="r.html#radar">radar</A> 
+  frequencies. 
+  <DD>2. = <A 
+  href="s.html#solar radio burst">solar 
+  radio burst</A>. 
+  <DD>3. = <A 
+  href="c.html#cosmic ray burst">cosmic ray 
+  burst</A>. 
+  <DT><STRONG>burst disk</STRONG> 
+  <DD>A diaphragm designed to burst at a predetermined pressure differential; 
+  sometimes used as a valve, e.g., in a liquid-propellant line in a rocket. Also 
+  called a <I>rupture disk </I>. 
+  <DT><STRONG>bus</STRONG> 
+  <DD>In computer operations, a main circuit, channel, or part for the transfer 
+  of information. Also called <I>trunk </I>. 
+  <DT><STRONG>Busch lemniscate</STRONG> 
+  <DD>The locus in the sky, of all points at which the plane of polarization of 
+  diffuse sky radiation is inclined 45° to the vertical. Also called <I>neutral 
+  line </I>. 
+  <DT><STRONG>buzz</STRONG> 
+  <DD>1. In <A 
+  href="s.html#supersonic diffuser">supersonic 
+  diffuser</A> aerodynamics, a nonsteady shock motion and airflow associated 
+  with the shock system ahead of the inlet, very rapid pressure pulsations are 
+  produced which can affect downstream operation in the burner, nozzle, etc. 
+  <DD>2. Sustained oscillation of an aerodynamic control surface caused by 
+  intermittent <A 
+  href="f.html#flow">flow</A> separation on 
+  the surface, or by a motion of <A 
+  href="s.html#shock waves">shock waves</A> 
+  across the surface, or by a combination of flow separation and shock-wave 
+  motion on the surface. </DD>

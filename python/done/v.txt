@@ -1,0 +1,870 @@
+<DT><STRONG>vacua</STRONG> 
+  <DD>Sometimes used as the plural of <A 
+  href="v.html#vacuum">vacuum</A>. <A 
+  name=vacuum></A>
+  <DT><STRONG>vacuum</STRONG> 
+  <DD>1. A given space filled with gas at pressures below <A 
+  href="a.html#atmospheric pressure">atmospheric 
+  pressure</A>. Various approximate ranges are: <BR>low vacuum, torr 760 to 25; 
+  <BR>medium vacuum, torr 25 to 10<sup>-3</sup>; <BR>high vacuum, torr 10<sup>-3</sup> to 10<sup>-6</sup>; 
+  <BR>very high vacuum, torr 10<sup>-6</sup> to 10<sup>-9</sup>; <BR>ultrahigh vacuum, torr 10<sup>-9</sup> 
+  and below. 
+  <DD>2. In reference to <A 
+  href="s.html#satellite">satellite</A> 
+  orbital parameters, without consideration of the perturbing effects of an 
+  atmosphere, as in <I>vacuum perigee, vacuum apogee. </I><A 
+  name="vacuum gage"></A>
+  <DT><STRONG>vacuum gage</STRONG> 
+  <DD>An instrument for measuring pressure below <A 
+  href="a.html#atmospheric pressure">atmospheric 
+  pressure</A>. Some of the more common types of vacuum gages listed in order of 
+  descending pressure range of use are: 
+  <DD>(a) <A 
+  href="m.html#manometer">Manometer</A>, 
+  usually consists of a column of liquid supported by the pressure to be 
+  measured, the determination of which is a matter of measuring the column 
+  height. 
+  <DD>(b) <A 
+  href="t.html#thermal conductivity vacuum gage">Thermal 
+  conductivity gage</A>, consisting of a heated surface. The heat transported by 
+  the gas molecules from the surface is related to gas pressure. The heat 
+  transfer is reflected in changes in surface temperature (or in the heating 
+  power required to maintain constant temperature). 
+  <DD><I>Various types of thermal conductivity gages are distinguished according 
+  to the method of indicating the surface temperature. The most common types are 
+  <A href="p.html#pirani gage">Pirani 
+  gage</A> and <A 
+  href="t.html#thermocouple gage">thermocouple 
+  gage</A>. </I>
+  <DD>(c) <A 
+  href="k.html#knudsen gage">Knudsen 
+  gage</A>, which measures pressure in terms of the net rate of transfer of 
+  momentum by molecules between two surface maintained at different temperatures 
+  and separated by a distance smaller than the mean free path of the gas 
+  molecule. Also called <I>radiometer vacuum gage. </I>
+  <DD>(d) <A 
+  href="m.html#mcleod gage">McLeod 
+  gage</A>, in which a known volume of gas, at the pressure to be measured, is 
+  compressed by the movement of a liquid column to a much smaller known volume, 
+  at which the resulting higher pressure is measured. 
+  <DD>(e) <A 
+  href="i.html#ionization gage">Ionization 
+  gage</A>, comprising a means of ionizing the gas molecules and a means of 
+  correlating the number and type of ions produced with the pressure of the gas. 
+
+  <DD><I>Various types of ionization gages are distinguished according to the 
+  method of producing the ionization. The common types are <A 
+  href="h.html#hot-cathode ionization gage">hot-cathode 
+  ionization gage</A>, <A 
+  href="c.html#cold-cathode ionization gage">cold-cathode 
+  ionization gage</A>, <A 
+  href="r.html#radioactive ionization gage">radioactive 
+  ionization gage</A>. </I>
+  <DT><STRONG>vacuum pump</STRONG> 
+  <DD>A device which sets up a flow of gas in a <A 
+  href="v.html#vacuum system">vacuum 
+  system</A>. Some of the more common types are mechanical pump, vapor or 
+  diffusion pump, cryopump. <A name="vacuum system"></A>
+  <DT><STRONG>vacuum system</STRONG> 
+  <DD>A chamber, or chambers, having walls capable of withstanding atmospheric 
+  pressure and having an opening through which the gas can be removed through a 
+  pipe or manifold to a pumping system. The pumping system may or may not be 
+  considered as part of the vacuum system. 
+  <DD><I>A complete vacuum system contains all necessary pumps, gages, valves, 
+  work-holding fixtures, and other components necessary to carry out some 
+  particular process; such a system is referred to in England as vacuum plant. 
+  </I><A name="vacuum tube"></A>
+  <DT><STRONG>vacuum tube</STRONG> 
+  <DD>An <A 
+  href="e.html#electron tube">electron 
+  tube</A> evacuated to such a degree that its electrical characteristics are 
+  essentially unaffected by the presence of residual gas or vapor. 
+  <DT><STRONG>valsalva maneuver</STRONG> 
+  <DD>The procedure of raising the pressure in the naspharynx by forcible 
+  expiration with the mouth closed and nostrils pinched, in order to clear the 
+  eustachian tubes. <A name="van allen belt"></A>
+  <DT><STRONG>Van Allen belt, Van Allen radiation belt</STRONG> 
+  <DD>(For James A. Van Allen, 1915 - .) The zone of high-intensity particulate 
+  radiation surrounding the earth beginning at altitudes of approximately 1000 
+  kilometers. 
+  <DD><I>The radiation of the Van Allen belt is composed of protons and 
+  electrons temporarily trapped in the earth's magnetic field. The intensity of 
+  radiation varies with the distance from the earth. </I><A 
+  name="van allen radiation belts"></A>
+  <DT><STRONG>Van Allen radiation belt</STRONG> = Van Allen belt. 
+  <DT><STRONG>Van de Graaff generator</STRONG> 
+  <DD>An electrostatic generator which employs a system of conveyor belt and 
+  spray points to charge an insulated <A 
+  href="e.html#electrode">electrode</A> to 
+  a high potential. <A name="van der waal"></A>
+  <DT><STRONG>Van der Waal equation</STRONG> 
+  <DD>The best known of the many laws which have been proposed to describe the 
+  <A 
+  href="t.html#thermodynamic">thermodynamic</A> 
+  behavior of real gases and their departures from the ideal <A 
+  href="g.html#gas laws">gas laws</A>. It 
+  states: <i>[p + (a/v<sup>2</sup>)](v - b) = RT</i>,  where <I>a </I>and <I>b </I>are constants 
+  dependent upon the gas; <I>p </I>is the pressure of the gas; <I>v </I>is its 
+  specific volume (measured in units of the specific volume of the gas at normal 
+  temperature and pressure); <I>R </I>is the universal gas constant; and <I>T 
+  </I>is the Kelvin temperature. <A name=vane></A>
+  <DT><STRONG>vane</STRONG> 
+  <DD>1. A thin and more-or-less flat object intended to align itself with a 
+  stream or <A href="f.html#flow">flow</A> 
+  in a manner similar to that of the common weathercock, as: (a) a device that 
+  project ahead of an aircraft to sense gusts or other actions of the air so as 
+  to create impulses or signals that are transmitted to the control system to 
+  stabilize the aircraft; (b) a fixed or movable surface used to control or give 
+  stability to a rocket. See <A 
+  href="c.html#control vane">control 
+  vane</A>. 
+  <DD>2. A blade or paddle-like object, often fashioned like an <A 
+  href="a.html#airfoil">airfoil</A> and 
+  usually one of several, that rotates about an axis, either being moved by a 
+  flow or creating a flow itself, such as the blade of a <A 
+  href="t.html#turbine">turbine</A>, of a 
+  fan, of a rotary pump or air compressor, etc. See <A 
+  href="i.html#impeller vane">impeller 
+  vane</A>. 
+  <DD>3. Any of certain stationary blades, plates, or the like that serve to 
+  guide or direct a flow, or to create a special kind of flow, as: (a) any of 
+  the blades in the <A 
+  href="n.html#nozzle ring">nozzle ring</A> 
+  of a gas-turbine engine; (b) any of the plates or slatlike objects that guide 
+  the flow in a wind tunnel; (c) a plate or fence projecting from a wing to 
+  prevent spanwise flow. See <A 
+  href="c.html#contravane">contravane</A>. 
+  See <A href="a.html#airfoil">airfoil</A>, 
+  note. <A name=vapor></A>
+  <DT><STRONG>vapor</STRONG> 
+  <DD>A gas whose temperature is below its <A 
+  href="c.html#critical temperature">critical 
+  temperature</A>, so that it can be condensed to the liquid or solid state by 
+  increase of pressure alone. <A name="vapor pressure"></A>
+  <DT><STRONG>vapor pressure</STRONG> 
+  <DD>1. The <A 
+  href="p.html#pressure">pressure</A> 
+  exerted by the molecules of a given <A 
+  href="v.html#vapor">vapor</A>. For a pure 
+  confined vapor, it is that vapor's pressure on the walls of its containing 
+  vessel; and for a vapor mixed with other vapors or gases, it is that vapor's 
+  contribution to the total pressure (i.e., its <A 
+  href="p.html#partial pressure">partial 
+  pressure</A>). Also called <I>vapor tension. </I>
+  <DD><I>In meteorology, vapor pressure is used almost exclusively to denote the 
+  partial pressure of water vapor in the atmosphere. See <A 
+  href="s.html#saturation vapor pressure">saturation 
+  vapor pressure</A>, <A 
+  href="e.html#equilibrium vapor pressure">equilibrium 
+  vapor pressure</A>. </I>
+  <DD>2. The sum of the partial pressures of all the vapors in a system. <A 
+  name="vapor tension"></A>
+  <DT><STRONG>vapor tension</STRONG> 
+  <DD>1. The maximum possible vapor pressure that can be exerted, at a given 
+  temperature, by a system composed of a plane surface of a liquid or solid 
+  substance in contact with the substance's <A 
+  href="v.html#vapor">vapor</A>. Compare <A 
+  href="e.html#equilibrium vapor pressure">equilibrium 
+  vapor pressure</A>, <A 
+  href="s.html#saturation vapor pressure">saturation 
+  vapor pressure</A>. 
+  <DD>2. = <A 
+  href="v.html#vapor pressure">vapor 
+  pressure</A> (obsolescent). 
+  <DT><STRONG>vapor thorax</STRONG> 
+  <DD>A condition characterized by the existence of large <A 
+  href="w.html#water-vapor">water-vapor</A> 
+  bubbles in the intrapleural space between the lungs and the chest wall, 
+  occurring when an unprotected person (or animal) is exposed to ambient 
+  pressures less than 47 millimeters of mercury and water at body temperature 
+  vaporizes from the liquid state. 
+  <DT><STRONG>vapor trail </STRONG>= condensation trail. <A 
+  name="variable-area exhaust nozzle"></A>
+  <DT><STRONG>variable-area exhaust nozzle</STRONG> 
+  <DD>On a <A href="j.html#jet engine">jet 
+  engine</A>, an exhaust <A 
+  href="n.html#nozzle">nozzle</A> of which 
+  the exhaust exit opening can be varied in area by means of some mechanical 
+  device, permitting variation in the jet velocity. Compare <A 
+  href="f.html#fixed-area exhaust nozzle">fixed-area 
+  exhaust nozzle</A>. <A name="variable cycle"></A>
+  <DT><STRONG>variable cycle</STRONG> 
+  <DD>Pertaining to a <A 
+  href="c.html#computer">computer</A> in 
+  which succeeding sequences are started by the completion of the previous 
+  sequence rather than at predetermined intervals. See <A 
+  href="a.html#asynchronous computer">asynchronous 
+  computer</A>. 
+  <DT><STRONG>variance (symbol &sigma;<sup>2</sup>)</STRONG> 
+  <DD>In statistics, a measure of variability (or spread); the mean-square 
+  deviation from the <A 
+  href="m.html#mean">mean</A>, that is , 
+  the mean of the squares of the differences between individual values of <I>x 
+  </I>and the mean value &mu;. 
+  <center>&sigma; = E[(x - &mu;)<sup>2</sup>] = E(x<sup>2</sup>) - &mu;<sup>2</sup></center>
+  where <I>E </I>denotes expected value. The 
+  positive square root &sigma; of the variance is called the <I>standard 
+  deviation. </I>
+  <DT><STRONG>variate </STRONG>= random variable. <A name=variation></A>
+  <DT><STRONG>variation</STRONG> 
+  <DD>The angle between the <A 
+  href="m.html#magnetic">magnetic</A> and 
+  geographical <A 
+  href="m.html#meridian">meridians</A> at 
+  any place, expressed in degrees east or west to indicate the direction of 
+  magnetic north from true north. Called <I>magnetic variation </I>when a 
+  specificity is needed to prevent possible ambiguity. Also called <I>magnetic 
+  declination. </I>
+  <DD><I>The angle between the magnetic and <A 
+  href="g.html#grid">grid</A> <A 
+  href="m.html#meridians">meridians</A> is 
+  called grid variation or grivation. </I><A name="variation of latitude"></A>
+  <DT><STRONG>variation of latitude</STRONG> 
+  <DD>A small periodic change in the <A 
+  href="a.html#astronomical latitude">astronomical 
+  latitude</A> of points on the earth, due to wandering of the poles. 
+  <DT><STRONG>variometer</STRONG> 
+  <DD>An instrument for comparing magnetic <A 
+  href="f.html#forces">forces</A>, 
+  especially of the earth's <A 
+  href="m.html#magnetic field">magnetic 
+  field</A>. 
+  <DT><STRONG>varistor</STRONG> 
+  <DD>A two-electrode <A 
+  href="s.html#semiconductor device">semiconductor 
+  device</A> having a voltage- dependent nonlinear resistance. 
+  <DT><STRONG>V-band</STRONG> 
+  <DD>A <A 
+  href="f.html#frequency band">frequency 
+  band</A> used in radar extending approximately from 46 to 56 gigacycles per 
+  second. See <A 
+  href="f.html#frequency bands">frequency 
+  bands</A>. <A name=vector></A><A name=vectors></A>
+  <DT><STRONG>vector</STRONG> 
+  <DD>Any quantity, such as force, velocity, or acceleration, which has both 
+  magnitude and direction at each point in space, as opposed to a <A 
+  href="s.html#scalar">scalar</A> which has 
+  magnitude only. Such a quantity may be represented geometrically by an arrow 
+  of length proportional to its magnitude, pointing in the assigned direction. 
+  <DD><I>A unit vector is a vector of unit length; in particular, the three unit 
+  vectors along the positive X-, Y-, Z-axes of rectangular <A 
+  href="c.html#cartesian coordinates">Cartesian 
+  coordinates</A> are denoted, respectively, by i, j, and k. Any vector A can be 
+  represented in terms of its components, a<sub>1</sub>, a<sub>2</sub>, and 
+  a<sub>3</sub> along the coordinate axes X, Y, and Z, 
+  respectively; e.g., A = a<sub>1</sub> + a<sub>2</sub> + a<sub>3</sub>. A vector drawn from a fixed origin to a given 
+  point (X, Y, Z) is called a position vector and is usually symbolized by r; in 
+  rectangular Cartesian coordinates, 
+  <center>r = xi + yj + zk</center>
+  Equations written in vector form are valid in any coordinate system. 
+  Mathematically, a vector is a single-row or -column <A 
+  href="a.html#array">array</A> of 
+  functions obeying certain laws of transformation. See <A 
+  href="s.html#scalar product">scalar 
+  product</A>, <A 
+  href="v.html#vector product">vector 
+  product</A>, <A 
+  href="t.html#tensor">tensor</A>, <A 
+  href="h.html#helmholtz theorem">Helmholtz 
+  theorem</A>. </P></I><A name="vector product"></A>
+  <DT><STRONG>vector product</STRONG> 
+  <DD>A <A href="v.html#vector">vector</A> 
+  whose <A 
+  href="m.html#magnitude">magnitude</A> is 
+  equal to the product of the magnitudes of any two given vectors and the sine 
+  of the angle between their positive directions. Also called <I>cross product, 
+  outer product. </I>See <A 
+  href="s.html#scalar product">scalar 
+  product</A>. For two vectors A and B, the vector product is often written A X 
+  B (read A cross B), and defines a vector perpendicular to both A and B and so 
+  directed that a right-hand rotation about A X B through an angle of not more 
+  than 180 degrees carries A into B. The magnitude of A X B is equal to twice 
+  the area of the triangle of which A and B are coterminous sides. IF the vector 
+  product is zero, one of the vectors is zero or else the two are parallel. When 
+  A and B are written in terms of their components along the X-, Y-, and Z-axes 
+  of the rectangular Cartesian coordinates, i.e., 
+  <center>A = a<sub>1</sub>i + a<sub>2</sub>j + a<sub>3</sub>k<br>
+          B = b<sub>1</sub>i + b<sub>2</sub>j + b<sub>3</sub>k</center>
+  then the vector product is the determinant 
+  <center><img src="vecprod.gif"></center>. <A name="vector quantity"></A>
+  <DT><STRONG>vector quantity</STRONG> = vector. 
+  <DT><STRONG>vector steering</STRONG> 
+  <DD>A steering method for <A 
+  href="r.html#rockets">rockets</A> and <A 
+  href="s.html#spacecraft">spacecraft</A> 
+  wherein one or more <A 
+  href="t.html#thrust chambers">thrust 
+  chambers</A> are gimbal mounted so that the direction of the thrust force 
+  (thrust vector) may be tilted in relation to the center of gravity of the 
+  vehicle to produce a turning movement. <A name=vehicle></A>
+  <DT><STRONG>vehicle</STRONG> 
+  <DD>Specifically, a structure, machine, or device, such as an aircraft or <A 
+  href="r.html#rocket">rocket</A>, designed 
+  to carry a burden through air or space; more restrictively, a <A 
+  href="r.html#rocket vehicle">rocket 
+  vehicle</A>. 
+  <DD><I>This word has acquired its specific meaning owing to the need for a 
+  term to embrace aircraft, rockets, and all other flying craft, and has more 
+  currency than other words used in this meaning. See <A 
+  href="l.html#launch vehicle">launch 
+  vehicle</A>. </I><A name="vehicle control system"></A>
+  <DT><STRONG>vehicle control system</STRONG> 
+  <DD>A system, incorporating control surfaces or other devices, which adjusts 
+  and maintains the altitude and heading, and sometimes speed, of a <A 
+  href="v.html#vehicle">vehicle</A> in 
+  accordance with signals received from a guidance system. 
+  <DD><I>The essential difference between a control system and a guidance system 
+  is that the control system points the vehicle and the guidance system gives 
+  the commands which tell the control system where to point. However, the 
+  control system maintains theinstantaneous orientation of the vehicle without 
+  specific commands from the guidance system. </I>
+  <DT><STRONG>vehicle mass ratio</STRONG> 
+  <DD>The ratio of the final mass of a vehicle m<sub>f</sub>, after all propellant has been used, to the 
+  initial mass m<sub>o</sub>: vehicle mass ratio = <i>m<sub>f</sub>/m<sub>o</sub></i> 
+  <DD><I>The inverse ratio m<sub>o</sub>/m<sub>f </sub>  , is sometimes called <A 
+  href="m.html#mass ratio">mass ratio</A> 
+  also. </I>
+  <DT><STRONG>Vel, Velr</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Vela. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Vela (abbr Vel, Velr)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>velocimeter</STRONG> 
+  <DD>A continuous-wave reflection Doppler system used to measure the radial 
+  velocity of an object. <A name=velocity></A>
+  <DT><STRONG>velocity (symbol <I>V </I>)</STRONG> 
+  <DD>1. = <A 
+  href="s.html#speed">speed</A>. See note. 
+  <DD>2. A <A 
+  href="v.html#vector">vector</A> quantity 
+  equal to speed in a given direction. 
+  <DD><I>In sense 1, velocity is often used synonymously with speed, as in the 
+  velocity of the airplane, but in such contexts speed is properly the preferred 
+  term; except in the compound airspeed, velocity is preferred to speed in 
+  reference to motion of air or other fluid. </I>
+  <DT><STRONG>velocity head</STRONG> 
+  <DD>1. = <A 
+  href="v.html#velocity pressure">velocity 
+  pressure</A>. 
+  <DD>2. The unit energy of a <A 
+  href="f.html#fluid">fluid</A> stream 
+  owing to its motion. 
+  <DT><STRONG>velocity microphone</STRONG> 
+  <DD>A <A 
+  href="m.html#microphone">microphone</A> 
+  in which the electric output substantially corresponds to the instantaneous 
+  particle velocity in the impressed <A 
+  href="s.html#sound wave">sound wave</A>. 
+  <DT><STRONG>velocity of escape</STRONG> 
+  <DD>The initial speed an object, particularly a molecule of gas, must have at 
+  the surface of a <A 
+  href="c.html#celestial body">celestial 
+  body</A> to overcome the <A 
+  href="g.html#gravitational">gravitational</A> 
+  pull and proceed out into space without returning to the celestial body. Also 
+  called <I>escape velocity, escape speed. </I>
+  <DD><I>The velocity of escape determines a body's ability to retain an 
+  atmosphere. The velocity of escape on the surface of the earth is nearly 7 
+  miles per second, neglecting air resistance. </I>
+  <DT><STRONG>velocity of light (symbol c) </STRONG>= speed of light. <A 
+  name="velocity of propagation"></A>
+  <DT><STRONG>velocity of propagation</STRONG> 
+  <DD>Rate of flow of <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>, including: 
+  <DD>(a) Phase velocity. The velocity of propagation of surfaces of constant 
+  phase. 
+  <DD><I>Strictly, this definition is applicable only to space periodic fields 
+  of infinite length. </I>
+  <DD>(b) Group velocity. The velocity of propagation of electromagnetic radiant 
+  energy in a nondispersive or normally dispersive medium. 
+  <DD><I>For a complex waveform, group velocity refers to the velocity of 
+  propagation of the beats between the component frequencies of the waveform. 
+  </I>
+  <DD>(c) Signal velocity. The velocity of propagation of a signal. 
+  <DD><I>In a nondispersive or normally dispersive medium, signal and group 
+  velocity are the same. For pure CW (continuous-wave) systems, utilizing no 
+  modulation, phase velocity is applicable. For systems utilizing modulated CW, 
+  signal velocity is applicable. </I>
+  <DT><STRONG>velocity of sound</STRONG> = speed of sound. <A 
+  name="velocity pressure"></A>
+  <DT><STRONG>velocity pressure</STRONG> 
+  <DD>The difference between <A 
+  href="d.html#dynamic">dynamic</A> (or 
+  total) <A 
+  href="p.html#pressure">pressure</A> and 
+  <A href="s.html#static pressure">static 
+  pressure</A>. Also called <I>velocity head. </I><A name="velocity space"></A>
+  <DT><STRONG>velocity space</STRONG> 
+  <DD>The subspace of <A 
+  href="p.html#phase space">phase space</A> 
+  whose coordinates are the velocities in each of the three directions of 
+  ordinary space. 
+  <DT><STRONG>velocity transducer</STRONG> 
+  <DD>A <A 
+  href="t.html#transducer">transducer</A> 
+  which generates an output proportional to imparted velocities. 
+  <DT><STRONG>Velr</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Vela. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>ventilation</STRONG> 
+  <DD>Biologically, the aeration of the lungs and blood by breathing; the 
+  inhalation and exhalation of air in the process of respiration. 
+  <DT><STRONG>ventilation garment</STRONG> 
+  <DD>A lightweight, specially designed garment that is integrated with the <A 
+  href="p.html#pressure suit">pressure 
+  suit</A> for providing adequate evaporation and heat dissipation from the 
+  surface of the body, by circulating dry air through the porous material. 
+  <DT><STRONG>ventral</STRONG> 
+  <DD>Pertaining to the belly, or the underside of a vehicle, as <I>ventral 
+  camera. </I>
+  <DT><STRONG>Venturi tube</STRONG> 
+  <DD>A short tube of smaller diameter in the middle than at the ends. When a <A 
+  href="f.html#fluid">fluid</A> flows 
+  through such a tube, the pressure decreases as the diameter becomes smaller, 
+  the amount of the decrease being proportional to the speed of <A 
+  href="f.html#flow">flow</A> and the 
+  amount of restriction. 
+  <DT><STRONG>Venus</STRONG> 
+  <DD>See <A 
+  href="p.html#planet">planet</A>, table. 
+  <A name="vernal equinox"></A>
+  <DT><STRONG>vernal equinox</STRONG> 
+  <DD>1. That point of intersection of the <A 
+  href="e.html#ecliptic">ecliptic</A> and 
+  the <A 
+  href="c.html#celestial equator">celestial 
+  equator</A>, occupied by the sun as it changes from south to north <A 
+  href="d.html#declination">declination</A>, 
+  on or about March 21. Also called <I>March equinox, first point of Aries. </I>
+  <DD>2. Tat instant the sun reaches the point of zero declination when crossing 
+  the celestial equator from south to north. 
+  <DT><STRONG>vernier</STRONG> 
+  <DD>A scale or control used for fine adjustment to obtain a more precise 
+  reading of an instrument or closer adjustment of any equipment. <A 
+  name="vernier engine"></A>
+  <DT><STRONG>vernier engine</STRONG> 
+  <DD>A rocket engine of small thrust used primarily to obtain a fine adjustment 
+  in the <A 
+  href="v.html#velocity">velocity</A> and 
+  <A 
+  href="t.html#trajectory">trajectory</A> 
+  of a <A 
+  href="r.html#rocket vehicle">rocket 
+  vehicle</A> just after the thrust cutoff of the last <A 
+  href="s.html#sustainer">sustainer</A> 
+  engine, and used secondarily to add thrust to a booster or sustainer engine. 
+  Also called <I>vernier rocket. </I>
+  <DT><STRONG>vernier rocket</STRONG> = vernier engine. 
+  <DT><STRONG>versus</STRONG> 
+  <DD>As a function of, as <I>temperature versus time. </I>
+  <DT><STRONG>vertex</STRONG> 
+  <DD>1. The highest point of a <A 
+  href="t.html#trajectory">trajectory</A> 
+  or other curve, as the vertexes of a <A 
+  href="g.html#great circle">great 
+  circle</A>, the points nearest the poles. 
+  <DD>2. = <A href="n.html#node">node</A>, 
+  sense 3. <A name=vertical></A>
+  <DT><STRONG>vertical circle</STRONG> <A name="vertical circle"></A>
+  <DD>A <A href="g.html#great circle">great 
+  circle</A> of the <A 
+  href="c.html#celestial sphere">celestial 
+  sphere</A>, through the <A 
+  href="z.html#zenith">zenith</A> and <A 
+  href="n.html#nadir">nadir</A>. Vertical 
+  circles are perpendicular to the horizon. 
+  <DD><I>The prime vertical circle or prime vertical passes through the east and 
+  west points of the horizon. The principal vertical circle passes through the 
+  north and south points of the horizon and coincides with the celestial 
+  meridian. </I>
+  <DT><STRONG>vertical gyro</STRONG> 
+  <DD>A two-degree-of-freedom <A 
+  href="g.html#gyro">gyro</A> with 
+  provision for maintaining its <A 
+  href="s.html#spin axis">spin axis</A> 
+  vertical. In this gyro, output signals are produced by gimbal angular 
+  displacements which correspond to components of the angular displacements of 
+  the base about two orthogonal axes. 
+  <DT><STRONG>vertical scanning</STRONG> 
+  <DD>See <A 
+  href="s.html#scanning">scanning</A>. <A 
+  name=vertigo></A>
+  <DT><STRONG>vertigo</STRONG> 
+  <DD>The sensation that the outer world is revolving about the patient ( 
+  <I>objective vertigo </I>) or that he himself is moving in space ( 
+  <I>subjective vertigo </I>). 
+  <DD><I>The word frequently is used erroneously as a synonym for dizziness or 
+  giddiness to indicate an unpleasant sensation of disturbed relations to 
+  surrounding objects in space. </I>
+  <DT><STRONG>very high frequency (abbr VHF)</STRONG> 
+  <DD>See <A 
+  href="f.html#frequency bands">frequency 
+  bands</A>. 
+  <DT><STRONG>very-high-speed motion-picture</STRONG> 
+  <STRONG>photography</STRONG> 
+  <DD>Picture taking at a frequency range from 500 to 10,000 pictures per 
+  second. 
+  <DT><STRONG>very low frequency (abbr VLF)</STRONG> 
+  <DD>See <A 
+  href="f.html#frequency bands">frequency 
+  bands</A>. 
+  <DT><STRONG>vestigial sideband (abbr VSB)</STRONG> 
+  <DD>The transmitted portion of the <A 
+  href="s.html#sideband">sideband</A> which 
+  has been largely suppressed by a <A 
+  href="t.html#transducer">transducer</A> 
+  having a gradual cutoff in the neighborhood of the <A 
+  href="c.html#carrier frequency">carrier 
+  frequency</A>, the other sideband being transmitted without much suppression. 
+  <DT><STRONG>VHF (abbr)</STRONG> = very high frequency 
+  <DD>See <A 
+  href="f.html#frequency band">frequency 
+  band</A>. <A name=vibration></A>
+  <DT><STRONG>vibration</STRONG> 
+  <DD>1. Motion due to a continuous change in the magnitude of a given force 
+  which reversed its direction with time. 
+  <DD><I>Vibration is generally interpreted as the cyclical (symmetrical or 
+  nonsymmetrical) fluctuations in the rate at which an object accelerates. In 
+  longitudinal vibration the direction of motion of the particles is the same as 
+  the direction of advance of the vibratory motion; in transverse vibration it 
+  is perpendicular to the direction of advance. </I>
+  <DD>2. The motion of an oscillating body during one complete <A 
+  href="c.html#cycle">cycle</A>; two <A 
+  href="o.html#oscillations">oscillations</A>. 
+
+  <DT><STRONG>vibration isolator</STRONG> 
+  <DD>A resilient support that tends to isolate a system from steady-state 
+  excitation. Also called <I>isolator. </I>
+  <DT><STRONG>video</STRONG> 
+  <DD>Pertaining to the picture signals in a television system or to the 
+  information-carrying signals which are eventually presented on the <A 
+  href="c.html#cathode-ray tubes">cathode-ray 
+  tubes</A> of a <A 
+  href="r.html#radar">radar</A>. 
+  <DT><STRONG>videofrequency</STRONG> 
+  <DD>Any <A 
+  href="f.html#frequency">frequency</A> 
+  used in transmission images, as by television. 
+  <DT><STRONG>video signal </STRONG>= target signal. 
+  <DT><STRONG>Virgo (abbr Vir, Virg)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name=vidicon></A>
+  <DT><STRONG>vidicon</STRONG> 
+  <DD>A television pickup tube utilizing a photoconductor as the sensing 
+  element. In conjunction with a telescope this is known as a <I>vidicon 
+  telescope. </I>
+  <DT><STRONG>view factor</STRONG> 
+  <DD>The fraction of the total energy emitted by one surface that is directly 
+  incident on another surface. Also called <I>geometric factor, configuration 
+  factor, shape factor. </I>
+  <DT><STRONG>Vir, Virg</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Virgo. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name="virtual gravity"></A>
+  <DT><STRONG>virtual gravity</STRONG> 
+  <DD>The force of <A 
+  href="g.html#gravity">gravity</A> on an 
+  atmospheric parcel, reduced by <A 
+  href="c.html#centrifugal force">centrifugal 
+  force</A> due to the motion of the parcel relative to the earth. The virtual 
+  gravity g* is <i>g* = g = V<sup>2</sup>/a - 2&Omega;<sub>n</sub>V</i> , where g is the magnitude of the acceleration of 
+  gravity; V is the parcel speed; a is the earth's radius; and &Omega;<sub>n</sub> is the component of the earth's angular velocity 
+  vector normal to the motion of the parcel. 
+  <DD><I>For reasonable atmospheric values, the correction terms are of the 
+  order of 0.01 percent of the magnitude of gravity. The identity of g* and g is 
+  implied by the assumption of hydrostatic equilibrium. </I><A 
+  name="virtual height"></A>
+  <DT><STRONG>virtual height</STRONG> 
+  <DD>The apparent height of an ionized atmospheric <A 
+  href="l.html#layer">layer</A> determined 
+  from the time interval between the transmitted <A 
+  href="s.html#signal">signal</A> and the 
+  ionospheric <A 
+  href="e.html#echo">echo</A> at vertical 
+  incidence, assuming that the velocity of propagation is the velocity of light 
+  in a vacuum over the entire path. See <A 
+  href="i.html#ionospheric recorder">ionospheric 
+  recorder</A>. Compare <A 
+  href="s.html#scale height">scale 
+  height</A>. 
+  <DT><STRONG>virtual image</STRONG> 
+  <DD>An image that cannot be shown on a surface but is visible, as in a mirror. 
+
+  <DT><STRONG>virtual mass</STRONG> 
+  <DD>The actual mass of a body, plus its <A 
+  href="a.html#apparent additional mass">apparent 
+  additional mass</A>. 
+  <DT><STRONG>virtual stress</STRONG> = Reynolds stresses. <A 
+name=viscosity></A>
+  <DT><STRONG>viscosity</STRONG> 
+  <DD>That molecular property of a <A 
+  href="f.html#fluid">fluid</A> which 
+  enables it to support tangential <A 
+  href="s.html#stresses">stresses</A> for a 
+  finite time and thus to resist deformation; the ratio of shear stress divided 
+  by shearing strain. See <A 
+  href="v.html#viscosity coefficient">viscosity 
+  coefficient</A>. <A name="viscosity coefficient"></A>
+  <DT><STRONG>viscosity coefficient</STRONG> 
+  <DD>The ratio of the shearing component of <A 
+  href="s.html#stress">stress</A> to the 
+  velocity <A 
+  href="g.html#gradient">gradient</A> in a 
+  fluid where the stress acts across a plane perpendicular to the direction of 
+  the velocity gradient. Also called <I>viscosity. </I>See also <A 
+  href="d.html#dynamic viscosity">dynamic 
+  viscosity</A>, <A 
+  href="k.html#kinematic viscosity">kinematic 
+  viscosity</A>, <A 
+  href="e.html#eddy viscosity">eddy 
+  viscosity</A>. 
+  <DT><STRONG>viscosity manometer</STRONG> = decrement gage. <A 
+name=viscous></A>
+  <DT><STRONG>viscous</STRONG> 
+  <DD>Pertaining to <A 
+  href="v.html#viscosity">viscosity</A>, as 
+  a <I>viscous fluid. </I><A name="viscous damping"></A>
+  <DT><STRONG>viscous damping</STRONG> 
+  <DD>The dissipation of energy that occurs when a <A 
+  href="p.html#particle">particle</A> in a 
+  vibrating system is resisted by a <A 
+  href="f.html#force">force</A> that has a 
+  magnitude proportional to the magnitude of the velocity of the particle and 
+  direction opposite to the direction of the particle. <A 
+  name="viscous flow"></A>
+  <DT><STRONG>viscous flow</STRONG> 
+  <DD>The flow of <A 
+  href="f.html#fluid">fluid</A> through a 
+  duct under conditions such that the <A 
+  href="m.html#mean free path">mean free 
+  path</A> is very small in comparison with the smallest dimension of a 
+  transverse section of the duct. 
+  <DD><I>This flow may be either laminar or turbulent. </I><A 
+  name="viscous fluid"></A>
+  <DT><STRONG>viscous fluid</STRONG> 
+  <DD>A fluid whose molecular <A 
+  href="v.html#viscosity">viscosity</A> is 
+  sufficiently large to make the <A 
+  href="v.html#viscous forces">viscous 
+  forces</A> a significant part of the total force field in the fluid. See <A 
+  href="n.html#navier-stokes equations">Navier-Stokes 
+  equations</A>, <A 
+  href="v.html#viscous stresses">viscous 
+  stresses</A>. Compare <A 
+  href="i.html#inviscid fluid">inviscid 
+  fluid</A>. <A name="viscous forces"></A>
+  <DT><STRONG>viscous force</STRONG> 
+  <DD>The force per unit volume or per unit mass arising from the action of 
+  tangential <A 
+  href="s.html#stresses">stresses</A> in a 
+  moving <A 
+  href="v.html#viscous fluid">viscous 
+  fluid</A>. This force may then be introduced as a term in the <A 
+  href="e.html#equations of motion">equations 
+  of motion</A>. <A name="viscous stresses"></A>
+  <DT><STRONG>viscous stresses</STRONG> 
+  <DD>The components of the <A 
+  href="s.html#stress tensor">stress 
+  tensor</A> when the pressure, i.e., the mean of the three normal stresses, has 
+  been subtracted out from each of the normal stresses. See <A 
+  href="r.html#reynolds stresses">Reynolds 
+  stresses</A>. <A name="visibility meter"></A>
+  <DT><STRONG>visibility meter</STRONG> 
+  <DD>The general term for instruments used to make direct measurements of <A 
+  href="v.html#visual range">visual 
+  range</A> in the <A 
+  href="a.html#atmosphere">atmosphere</A> 
+  or of the physical characteristics of the atmosphere which determine the 
+  visual range. 
+  <DD><I>Visibility meters may be classified according to the quantities that 
+  they measure. Telephotometers and transmissometers measure the <A 
+  href="t.html#transmissivity">transmissivity</A> 
+  or alternatively, the <A 
+  href="e.html#extinction coefficient">extinction 
+  coefficient</A> of the atmosphere. Nephelometers measure the <A 
+  href="s.html#scattering function">scattering 
+  function</A> of the atmospheric <A 
+  href="s.html#suspensoids">suspensoids</A>. 
+  A third category of visibility meters makes use of an artificial haze of 
+  variable density which is used to obscure a marker at a fixed distance from 
+  the meter. </I><A name=visible></A>
+  <DT><STRONG>visible binaries</STRONG> 
+  <DD>See <A 
+  href="b.html#binary star">binary 
+  star</A>. 
+  <DT><STRONG>visible horizon</STRONG> 
+  <DD>See <A 
+  href="h.html#horizon">horizon</A>. <A 
+  name="visible radiation"></A>
+  <DT><STRONG>visible radiation</STRONG> 
+  <DD><A 
+  href="e.html#electromagnetic radiation">Electromagnetic 
+  radiation</A> lying within the wavelength interval to which the human eye is 
+  sensitive, the spectral interval from approximately 0.4 to 0.7 micron (4000 to 
+  7000 angstroms). 
+  <DD><I>The term is without reference to the variable response of the human eye 
+  in its reception of radiation. </I><A name="visible spectrum"></A>
+  <DT><STRONG>visible spectrum</STRONG> 
+  <DD>That portion of the <A 
+  href="e.html#electromagnetic spectrum">electromagnetic 
+  spectrum</A> occupied by the wavelengths of <A 
+  href="v.html#visible radiation">visible 
+  radiation</A>, roughly 4000 to 7000 angstroms. This portion of the 
+  electromagnetic spectrum is bounded on the short-wavelength end by ultraviolet 
+  radiation, and on the long-wavelength end by infrared radiation. 
+  <DT><STRONG>visual magnitude (symbol <i>m<sub>v</sub></i>)</STRONG> 
+  <DD>The <A 
+  href="a.html#apparent">apparent</A> 
+  magnitude of a star or other <A 
+  href="c.html#celestial body">celestial 
+  body</A> measured by visual observation. See <A 
+  href="p.html#photovisual magnitude">photovisual 
+  magnitude</A>, <A 
+  href="c.html#color index">color 
+  index</A>. 
+  <DT><STRONG>visual photometer</STRONG> 
+  <DD>See <A 
+  href="p.html#photometer">photometer</A>. 
+  <DT><STRONG>visual photometry</STRONG> 
+  <DD>A subjective approach to the problem of <A 
+  href="p.html#photometry">photometry</A>, 
+  wherein the human eye is used as the sensing element; to be distinguished from 
+  <A 
+  href="p.html#photoelectric photometry">photoelectric 
+  photometry</A>. <A name="visual range"></A>
+  <DT><STRONG>visual range</STRONG> 
+  <DD>The distance, under daylight conditions, at which the apparent contrast 
+  between a specified type of target and its background becomes just equal to 
+  the <A 
+  href="t.html#threshold contrast">threshold 
+  contrast</A> of an observer; to be distinguished from the night visual range. 
+  Also called <I>daytime visual range. </I>
+  <DT><STRONG>vitrifying tendency</STRONG> 
+  <DD>Tendency of the crystalline phase of a <A 
+  href="c.html#ceramic">ceramic</A> to 
+  transform into an amorphous or glassy phase when subjected to aging or 
+  temperature cycling. 
+  <DT><STRONG>VLF (abbr)</STRONG> 
+  <DD>See <A 
+  href="f.html#frequency band">frequency 
+  band</A>. <A name="void fraction"></A>
+  <DT><STRONG>void fraction</STRONG> 
+  <DD>The fraction of the frontal area of a <A 
+  href="r.html#reactor">reactor</A> that is 
+  open to airflow. Also called <I>free-flow area. </I>
+  <DT><STRONG>Vol, Voln</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Volans. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Volans (abbr Vol, Voln)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Voln</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Volans. </I>See <A 
+  href="c.html#constellation">constellation.</A> 
+  <A name=volt></A>
+  <DT><STRONG>volt (abbr V, v)</STRONG> 
+  <DD>The unit of electric potential difference and electromotive force, equal 
+  to the difference of electric potential between two points of a conductor 
+  carrying a constant current of 1 ampere when the power dissipated between 
+  these points equals 1 watt. <A name="volume level"></A>
+  <DT><STRONG>volume level</STRONG> 
+  <DD>In an electric circuit, the <A 
+  href="l.html#level">level</A>, as 
+  measured on a standard volume indicator, of a complex wave such as produced by 
+  speech or music. Often shortened to <I>volume. </I>
+  <DD><I>The term volume is also used loosely to signify the magnitude of a 
+  sound or audiofrequency wave. </I>
+  <DT><STRONG>volume scattering function</STRONG> 
+  <DD>See <A 
+  href="s.html#scattering function">scattering 
+  function</A>. 
+  <DT><STRONG>volume unit</STRONG> 
+  <DD>The unit of <A 
+  href="v.html#volume level">volume 
+  level</A> as measured by a standard volume indicator. The volume level in 
+  volume units is the number of decibels by which the volume level exceeds the 
+  reference volume level. 
+  <DT><STRONG>VOR (abbr)</STRONG> = VHF omnirange. <A name=vortex></A><A 
+  name=vortices></A>
+  <DT><STRONG>vortex</STRONG> 
+  <DD>1. Any <A href="f.html#flow">flow</A> 
+  possessing <A 
+  href="v.html#vorticity">vorticity</A>. 
+  <DD>2. Specifically a flow with closed <A 
+  href="s.html#streamlines">streamlines</A> 
+  or the idealized case in which all vorticity is concentrated in a <A 
+  href="v.html#vortex filament">vortex 
+  filament</A>. <A name="vortex filament"></A>
+  <DT><STRONG>vortex filament</STRONG> 
+  <DD>A line along which an infinite <A 
+  href="v.html#vorticity">vorticity</A> in 
+  a <A href="f.html#fluid">fluid</A> motion 
+  is concentrated, the surrounding fluid being free of vorticity. 
+  <DD><I>In an autobarotropic frictionless fluid, a <A 
+  href="v.html#vortex line">vortex line</A> 
+  always consists of the same fluid particles; the vortex filament is, thus, a 
+  vortex line and is the limiting case of a <A 
+  href="v.html#vortex tube">vortex tube</A> 
+  as the cross-sectional area of the tube shrinks to zero. </I><A 
+  name="vortex line"></A><A name="vortex lines"></A>
+  <DT><STRONG>vortex line</STRONG> 
+  <DD>A curve tangent at every point of a field to the <A 
+  href="v.html#vorticity">vorticity</A> 
+  vector at that point. 
+  <DT><STRONG>vortex ring</STRONG> 
+  <DD>A closed <A 
+  href="v.html#vortex filament">vortex 
+  filament</A>. 
+  <DT><STRONG>vortex street</STRONG> 
+  <DD>Two parallel rows of alternately placed vortexes along the wake of an 
+  obstacle in a fluid of moderate <A 
+  href="r.html#reynolds number">Reynolds 
+  number</A>. Also called <I>Karman vortex street, vortex trail vortex train. 
+  </I>
+  <DD><I>Fluid drag can be calculated from the motion of these vortexes, which 
+  are stable only for a certain radio of the width of the street to the distance 
+  between vortexes along the street. </I>
+  <DT><STRONG>vortex trail </STRONG>= vortex street. 
+  <DT><STRONG>vortex train</STRONG> = vortex street. <A name="vortex tube"></A>
+  <DT><STRONG>vortex tube</STRONG> 
+  <DD>The closed surface or tube consisting of the <A 
+  href="v.html#vortex lines">vortex 
+  lines</A> passing through every point of a given closed curve. <A 
+  name=vorticity></A>
+  <DT><STRONG>vorticity</STRONG> 
+  <DD>A <A href="v.html#vector">vector</A> 
+  measure of local <A 
+  href="r.html#rotation">rotation</A> in a 
+  fluid flow, defined mathematically as the curl of the velocity vector,
+  <center>&Omega; = <img src="del.gif" align=center> X V </center> where
+  &Omega; is the vorticity; V is the velocity; and <img src="del.gif"> is the del-operator. 
+  <DD><I>The vorticity component normal to a small plane element is the lime of 
+  the circulation per unit area as the area of the element approaches zero. The 
+  vorticity of a solid rotation is twice the angular velocity vector. In 
+  meteorology, the vorticity usually refers to the vertical component of the 
+  vorticity as defined above. </I>
+  <DT><STRONG>vorticity equation</STRONG> 
+  <DD>A dynamic equation for the rate of change of the vorticity of a parcel, 
+  obtained by taking the curl of the vector equation of motion. 
+  <DT><STRONG>vorticity of the earth</STRONG> = coriolis parameter. 
+  <DT><STRONG>vorticity-transport hypothesis</STRONG> 
+  <DD>The hypothesis that, owing to the existence of pressure fluctuations, 
+  vorticity and not momentum is conservative in turbulent eddy flux. This would 
+  apply especially if the turbulence were strictly two dimensional. 
+  <DT><STRONG>Vul, Vulp</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Vulpecula. </I>See 
+  <A 
+  href="c.html#constellation">constellation.</A> 
+
+  <DT><STRONG>Vulpecula (abbr Vul, Vulp)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+  </DD>

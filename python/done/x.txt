@@ -1,0 +1,19 @@
+<DT><STRONG>X-band</STRONG> 
+  <DD>A <A 
+  href="f.html#frequency band">frequency 
+  band</A> used in <A 
+  href="r.html#radar">radar</A> extending 
+  approximately from 5.2 to 10.9 kilomegacycles per second. <A name=x-ray></A><A 
+  name=x-rays></A>
+  <DT><STRONG>X-ray</STRONG> 
+  <DD>Nonnuclear <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> of very short <A 
+  href="w.html#wavelength">wavelength</A>, 
+  lying within the interval of 0.1 to 100 angstroms (between gamma rays and 
+  ultraviolet radiation). Also called <I>X-radiation, Roentgen ray </I>. 
+  <DD><I>X-rays penetrate various thickness of all solids and they act upon 
+  photographic plates in the same manner as light. Secondary X-rays are produced 
+  whenever X-rays are absorbed by a substance; in the case of absorption by a 
+  gas, this results in ionization. </I>
+  <DT><STRONG>X-radiation</STRONG> = X-ray. </DT>

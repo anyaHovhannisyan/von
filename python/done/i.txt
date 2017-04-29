@@ -1,0 +1,1667 @@
+<DT><STRONG>Iapetus</STRONG> 
+  <DD>A satellite of Saturn orbiting at a mean distance of 3,562,000 kilometers. 
+
+  <DT><STRONG>ICAO (abbr)</STRONG> = International Civil Aviation Organization. 
+  Usually pronounced as a word. 
+  <DT><STRONG>ICAO Standard Atmosphere</STRONG> 
+  <DD>See <A 
+  href="s.html#standard atmosphere">standard 
+  atmosphere</A>. <A name=ice></A>
+  <DT><STRONG>ice frost</STRONG> 
+  <DD>A thickness of ice that gathers on the outside of a <A 
+  href="r.html#rocket">rocket</A> over 
+  surfaces supercooled as by liquid oxygen inside the vehicle. 
+  <DD><I>This ice frost is quickly shaken loose and falls to the ground once the 
+  rocket begins its ascent. </I><A name="ice point"></A>
+  <DT><STRONG>ice point</STRONG> 
+  <DD>The temperature at which a mixture of air-saturated pure water and pure 
+  ice may exist in equilibrium at a pressure of one standard atmosphere. 
+  <DD><I>By decision of the Tenth General Conference on Weights and Measures, 
+  Paris, October 1954 the ice point was established as 273.15 degrees K. </I>
+  <DT><STRONG>ICW (abbr) </STRONG>= interrupted continuous wave. 
+  <DT><STRONG>ISCU (abbr) </STRONG>= International Council of Scientific Unions. 
+  Usually pronounced as a word. 
+  <DT><STRONG>ideal exhaust velocity</STRONG> 
+  <DD>The exhaust velocity of an <A 
+  href="i.html#ideal rocket">ideal 
+  rocket</A>. 
+  <DT><STRONG>ideal fluid</STRONG> 
+  <DD>1. = <A 
+  href="p.html#perfect fluid">perfect 
+  fluid</A>. 
+  <DD>2. = <A 
+  href="i.html#inviscid fluid">inviscid 
+  fluid</A>. <A name="ideal gas"></A>
+  <DT><STRONG>ideal gas</STRONG> 
+  <DD>A gas which conforms to <A 
+  href="b.html#boyle law">Boyle law</A> and 
+  has zero heat of free expansion (or also obeys <A 
+  href="c.html#charles law">Charles 
+  law</A>). Also called <I>perfect gas. </I><A name="ideal gas laws"></A>
+  <DT><STRONG>ideal gas laws</STRONG> = gas laws. <A name="ideal nozzle"></A>
+  <DT><STRONG>ideal nozzle</STRONG> 
+  <DD>The nozzle of an <A 
+  href="i.html#ideal rocket">ideal 
+  rocket</A>, or a nozzle designed according to the <A 
+  href="i.html#ideal gas laws">ideal gas 
+  laws</A>. <A name="ideal rocket"></A>
+  <DT><STRONG>ideal rocket</STRONG> 
+  <DD>A theoretical <A 
+  href="r.html#rocket">rocket</A> 
+  postulated for parameters that are corrected in practice. 
+  <DD><I>An ideal rocket assumes a homogeneous and invariant propellant, 
+  observance of the <A 
+  href="p.html#perfect gas laws">perfect 
+  gas laws</A>, no friction, no heat transfer across the rocket wall, an axially 
+  directed velocity of all exhaust gases, a uniform gas velocity across every 
+  section normal to the nozzle axis, and chemical equilibrium established in the 
+  combustion chamber and maintained in the nozzle. </I>
+  <DT><STRONG>ideal transducer</STRONG> 
+  <DD>For connecting a specified source to a specified load, a hypothetical 
+  passive transducer that transfers the maximum possible power from the source 
+  to the load. 
+  <DD><I>In linear electric circuits and analogous cases, this is equivalent to 
+  a transducer which (1) dissipates no energy and (2) when connected to the 
+  specified source and load presents to each its conjugate. </I>
+  <DT><STRONG>ideal velocity</STRONG> 
+  <DD>The velocity acquired by an <A 
+  href="i.html#ideal rocket">ideal 
+  rocket</A> in field free <A 
+  href="s.html#space">space</A>, under the 
+  influence of no external forces except the <A 
+  href="t.html#thrust">thrust</A> force. 
+  <DT><STRONG>I-display</STRONG> 
+  <DD>In radar, a display in which a <A 
+  href="t.html#target">target</A> appears 
+  as a complete circle when the radar <A 
+  href="a.html#antenna">antenna</A> is 
+  correctly pointed at it and in which the radius of the circle is proportional 
+  to target distance. When not correctly pointing at the target, the circle 
+  reduces to a segment of a circle, the segment length being inversely 
+  proportional to the magnitude of the pointing error and its angular position 
+  being reciprocal to the direction of pointing error. Also called <I>I-scan, 
+  I-scope, I-indicator. </I>
+  <DT><STRONG>IGC-1959 (abbr) </STRONG>= International Geophysical Cooperation, 
+  1959. 
+  <DT><STRONG>igneous meteor</STRONG> 
+  <DD>In U.S. weather observing practice, a visible electrical discharge in the 
+  atmosphere. Compare <A 
+  href="e.html#electrometeor">electrometeor</A>. 
+
+  <DD><I>Lightning is the most common and important type, but types of <A 
+  href="c.html#corona discharge">corona 
+  discharge</A> are also included. </I><A name=igniter></A>
+  <DT><STRONG>igniter</STRONG> 
+  <DD>A device used to begin combustion, such as a spark plug in the combustion 
+  chamber of a jet engine, or a squib used to ignite the fuel in a rocket. <A 
+  name=ignition></A>
+  <DT><STRONG>ignition delay</STRONG> 
+  <DD>The time lapse occurring between the instance of an igniting action of a 
+  fuel and the onset of a specified burning reaction. Also called <I>ignition 
+  lag. </I>
+  <DT><STRONG>ignition lag</STRONG> = ignition delay. 
+  <DT><STRONG>ignore</STRONG> 
+  <DD>In computer terminology, a <A 
+  href="c.html#code">code</A> group or <A 
+  href="c.html#character">character</A> 
+  which indicates that the associated information is to be disregarded. 
+  <DT><STRONG>Igor (abbr)</STRONG> 
+  <DD>Intercept ground optical recorder. A long-focal-length telescopic camera 
+  used to observe <A 
+  href="a.html#attitude">attitude</A> and 
+  other details of a <A 
+  href="r.html#rocket">rocket</A> in 
+  flight. 
+  <DT><STRONG>IGY (abbr)</STRONG> = International Geophysical Year. 
+  <DT><STRONG>I-indicator </STRONG>= I-display. <A name=illuminance></A>
+  <DT><STRONG>illuminance</STRONG> 
+  <DD>The total luminous flux received on a unit area of a given real or 
+  imaginary surface, expressed in such units as the footcandle, lux, or phot. 
+  Illuminance is analogous to irradiance, but is to be distinguished from the 
+  latter in that illuminance refers only to light and contains the luminous 
+  efficiency weighting factor necessitated by the nonlinear wavelength-response 
+  of the human eye. Compare <A 
+  href="l.html#luminous intensity">luminous 
+  intensity</A>. 
+  <DD><I>The only difference between illuminance and illumination is that the 
+  latter always refers to light incident upon a material surface. A distinction 
+  should be drawn, as well, between illuminance and luminance. The latter is a 
+  measure of the light coming from a surface; thus, for a surface which is not 
+  self-luminance, luminance is entirely dependent upon the illuminance upon that 
+  surface and its reflection properties. </I><A name=illumination></A>
+  <DT><STRONG>illumination</STRONG> 
+  <DD>See <A 
+  href="i.html#illumination">illumination</A>, 
+  note. 
+  <DT><STRONG>illumonometer </STRONG>= photometer. 
+  <DT><STRONG>ILS (abbr) </STRONG>= instrument landing system <A 
+name=impact></A>
+  <DT><STRONG>impact</STRONG> 
+  <DD>1. A single <A 
+  href="c.html#collision">collision</A> of 
+  one mass in motion with a second mass which may be either in motion or at 
+  rest. 
+  <DD>2. Specifically, the action or event of an object, such as a <A 
+  href="r.html#rocket">rocket</A>, striking 
+  the surface of a planet or natural satellite, or striking another object; the 
+  time of this event, as in <I>from launch to impact. </I>
+  <DD>3. To strike a surface or an object. 
+  <DD>4. Of a rocket or fallaway section: To collide with a surface or object, 
+  as in the <I>rocket impacted 10 minutes after launch. </I>
+  <DT><STRONG>impact acceleration</STRONG> 
+  <DD>The <A 
+  href="a.html#acceleration">acceleration</A> 
+  generated by very sudden starts or stops of a vehicle. 
+  <DD><I>The term is usually applied in the context of <A 
+  href="p.html#physiological acceleration">physiological 
+  acceleration</A>. </I>
+  <DT><STRONG>impact area</STRONG> 
+  <DD>The area in which a rocket strikes the surface of the earth or other 
+  celestial body. 
+  <DD><I>Used specifically in reference to the impact area of a rocket range. 
+  </I><A name="impact line"></A>
+  <DT><STRONG>impact line</STRONG> 
+  <DD>An imaginary line on the outside of a <A 
+  href="d.html#destruct line">destruct 
+  line</A> and running parallel to it, which marks the outer limits of <A 
+  href="i.html#impact">impact</A> for a 
+  missile destroyed under destruct procedures. 
+  <DT><STRONG>impact microphone</STRONG> 
+  <DD>An instrument that picks up the vibration of an object impinging upon 
+  another, used especially on space probes to record the impact of small <A 
+  href="m.html#meteoroids">meteoroids</A>. 
+  <A name="impact predictor"></A>
+  <DT><STRONG>impact predictor</STRONG> 
+  <DD>A device which takes information from a <A 
+  href="t.html#trajectory measuring system">trajectory 
+  measuring system</A> and continuously computes the point (in <A 
+  href="r.html#real time">real time</A>) at 
+  which the rocket will strike the earth; based on the assumption that the 
+  rocket power is shut off at that instant and the remaining trajectory is <A 
+  href="b.html#ballistic">ballistic</A> in 
+  nature. <A name="impact pressure"></A>
+  <DT><STRONG>impact pressure</STRONG> 
+  <DD>1. That <A 
+  href="p.html#pressure">pressure</A> of a 
+  moving <A href="f.html#fluid">fluid</A> 
+  brought to rest which is in excess of the pressure the fluid has when it does 
+  not flow, i.e., <A 
+  href="t.html#total pressure">total 
+  pressure</A> less <A 
+  href="s.html#static pressure">static 
+  pressure</A>. 
+  <DD><I>Impact pressure is equal to dynamic pressure in incompressible flow, 
+  but in compressible flow impact pressure includes the pressure change owing to 
+  the compressibility effect. </I>
+  <DD>2. A measured quantity obtained by placing an open-ended tube, known as an 
+  impact tube or <A 
+  href="p.html#pitot tube">pitot tube</A>, 
+  in a gas stream and noting the pressure in the tube on a suitable <A 
+  href="m.html#manometer">manometer</A>. 
+  <DD><I>Since the pressure is exerted at a <A 
+  href="s.html#stagnation point">stagnation 
+  point</A>, the impact pressure is sometimes referred to as the stagnation 
+  pressure or total pressure. </I>
+  <DT><STRONG>impact strength or impact energy</STRONG> 
+  <DD>The amount of energy required to fracture a material. 
+  <DD><I>The type of specimen and the testing conditions affect the values and 
+  therefore should be specified. </I>
+  <DT><STRONG>impact tube</STRONG> 
+  <DD>See <A 
+  href="i.html#impact pressure">impact 
+  pressure</A>, sense 2. <A name=impeller></A>
+  <DT><STRONG>impeller</STRONG> 
+  <DD>1. A device that imparts motion to a fluid; specifically, in a <A 
+  href="c.html#centrifugal compressor">centrifugal 
+  compressor</A>, a rotary disk which, faced on one or both sides with radial 
+  vanes, accelerates the incoming fluid outward into a <A 
+  href="d.html#diffuser">diffuser</A>. Also 
+  called <I>impeller wheel. </I>
+  <DD>2. That part of a centrifugal compressor comprising this disk and its 
+  housing. 
+  <DT><STRONG>impeller blade</STRONG> = impeller vane. <A 
+  name="impeller vane"></A>
+  <DT><STRONG>impeller vane</STRONG> 
+  <DD>Any one of the vanes on the <A 
+  href="i.html#impeller">impeller</A> of a 
+  <A 
+  href="c.html#centrifugal compressor">centrifugal 
+  compressor</A>, serving to take in air and accelerate it radially outward. 
+  Also called <I>impeller blade. </I>Compare <A 
+  href="c.html#compressor blade">compressor 
+  blade</A>. <A name="impeller wheels"></A><A name="impeller wheel"></A>
+  <DT><STRONG>impeller wheel</STRONG> 
+  <DD>The vaned rotary disk in a centrifugal compressor. Usually called the 
+  <I>impeller. </I><A name="impingement rate"></A>
+  <DT><STRONG>impingement rate</STRONG> 
+  <DD>The rate per square centimeter per second at which <A 
+  href="m.html#molecules">molecules</A> 
+  strike a plane surface in a <A 
+  href="g.html#gas">gas</A> at rest. Also 
+  called <I>rate of incidence. </I><A name="impinging-stream injector"></A>
+  <DT><STRONG>impinging-stream injector</STRONG> 
+  <DD>In a <A 
+  href="l.html#liquid-propellant rocket engine">liquid-propellant 
+  rocket engine</A>, a device that injects the fuel and oxidizer into the <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A> in such a manner that the streams of fluid intersect one another. 
+  <DT><STRONG>implosion</STRONG> 
+  <DD>The rapid inward collapsing of the walls of a vacuum system or device as 
+  the result of failure of the walls to sustain the ambient pressure. 
+  <DT><STRONG>impulse</STRONG> 
+  <DD>1. The product of a force and the time during which the force is applied; 
+  more specifically, the impulse is <center><img src="impulse.gif"></center>
+  where the force <I>F </I>is time dependent and 
+  equal to zero before time t<sub>1</sub> and after time t<sub>2</sub>.
+  <DD>2. symbol I<SUB>t</SUB> = <A 
+  href="t.html#total impulse">total 
+  impulse</A>.  Compare <A 
+  href="s.html#specific impulse">specific 
+  impulse</A>. 
+  <DT><STRONG>impulse noise</STRONG> 
+  <DD><A href="n.html#noise">Noise</A> 
+  generated in discrete energy bursts, not of random nature, which has a 
+  characteristic wave shape of its own. <A name="impulse turbine"></A>
+  <DT><STRONG>impulse turbine</STRONG> 
+  <DD>A type of <A 
+  href="t.html#turbine">turbine</A> having 
+  <A href="r.html#rotor">rotor</A> blades 
+  shaped so that the wheel is turned from the impact of the fluid against the 
+  blades, with no pressure drop occurring across the blades. 
+  <DT><STRONG>inactive leg</STRONG> 
+  <DD>An electrical <A 
+  href="e.html#element">element</A> within 
+  a <A 
+  href="t.html#transducer">transducer</A> 
+  which does not change its electrical characteristics as a function of the 
+  applied stimulus. 
+  <DD><I>Specifically applied to elements which are employed to complete a 
+  Wheatstone bridge in certain transducers. </I><A name=incandescence></A>
+  <DT><STRONG>incandescence</STRONG> 
+  <DD><A 
+  href="e.html#emission">Emission</A> of 
+  light due to high temperature of the emitting material. Any other emission of 
+  light is called <I>luminescence. </I>
+  <DT><STRONG>inch (abbr in.)</STRONG> 
+  <DD>Exactly 2.540 centimeters. 
+  <DD><I>Prior to July 1, 1959, the inch was 2.54005 centimeters although the 
+  conversion factor 2.540 has actually been in use in industry in the United 
+  States since 1933. </I><A name=incident></A><A name=incidence></A>
+  <DT><STRONG>incidence</STRONG> 
+  <DD>1. Partial coincidence, as a circle and a tangent line. 
+  <DD>2. The impingement of a ray on a surface. See <A 
+  href="a.html#angle of incidence">angle of 
+  incidence</A>. <A name="incident ray"></A>
+  <DT><STRONG>incident ray</STRONG> 
+  <DD>A <A href="r.html#ray">ray</A> 
+  impinging on a surface. <A name=inclination></A>
+  <DT><STRONG>inclination</STRONG> 
+  <DD>1. = <A 
+  href="m.html#magnetic dip">magnetic 
+  dip</A>. 
+  <DD>2. ( <I>symbol i </I>). The angle between the plane of an <A 
+  href="o.html#orbit">orbit</A> and a 
+  reference plane. 
+  <DD><I>The <A 
+  href="e.html#equator">equator</A> is the 
+  reference plane for geocentric orbits and the <A 
+  href="e.html#ecliptic">ecliptic</A> is 
+  the reference plane for heliocentric orbits. </I>
+  <DT><STRONG>included angle</STRONG> 
+  <DD>In aerodynamics, the angle between <A 
+  href="f.html#free stream">free stream</A> 
+  velocity and the <A 
+  href="l.html#longitudinal axis">longitudinal 
+  axis</A> of the vehicle. 
+  <DT><STRONG>incoming solar radiation</STRONG> 
+  <DD>Full term for <I>insolation. </I>
+  <DT><STRONG>incourse guidance</STRONG> = midcourse guidance. <A 
+  name=increment></A>
+  <DT><STRONG>increment</STRONG> 
+  <DD>A change in the value of a variable. A negative increment is also called 
+  <I>decrement. </I>
+  <DT><STRONG>Ind, Indi</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Indus. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name="independent variables"></A><A name="independent variable"></A>
+  <DT><STRONG>independent variable</STRONG> 
+  <DD>Any of those variables of a problem, chosen according to convenience, 
+  which may arbitrarily be specified, and which then determine the other or 
+  dependent variables of the problem. 
+  <DD><I>The independent variables are often called the coordinates, 
+  particularly in problems involving motion in space. Dependent and independent 
+  variables can be interchanges, e.g., height and pressure. </I>
+  <DT><STRONG>index of absorption</STRONG> = absorptive index. <A 
+  name="index of refraction"></A>
+  <DT><STRONG>index of refraction (symbol n)</STRONG> 
+  <DD>1. A measure of the amount of <A 
+  href="r.html#refraction">refraction</A> 
+  (a property of a <A 
+  href="d.html#dielectric">dielectric</A> 
+  substance). It is the ratio of the wavelength or phase velocity of an <A 
+  href="e.html#electromagnetic wave">electromagnetic 
+  wave</A> in a vacuum to that in the substance. Also called <I>refractive 
+  index, absolute index of refraction, absolute refractive index, refractivity. 
+  </I>See <A 
+  href="m.html#modified index of refraction">modified 
+  index of refraction</A>, <A 
+  href="n.html#n-unit">N-unit</A>, <A 
+  href="p.html#potential index of refraction">potential 
+  index of refraction</A>. 
+  <DD><I>It can be a function of wavelength, temperature, and pressure. If the 
+  substance is nonabsorbing and nonmagnetic at any wavelength, then n<sup>2</sup> is equal to the <A 
+  href="d.html#dielectric constant">dielectric 
+  constant</A> at that wavelength. The complex index of refraction is obtained 
+  when the attenuation of the wave power radian, called the absorptive index k, 
+  is paired with the index of refraction. It is written 
+  <center>n* = n (1 - ik) </center>When the wave passes from one medium n<sub>1</sub> to another n<sub>2</sub>, 
+  the angle of incidence &phi; and the angle of refraction &phi;', both measured with respect to the normal to the 
+  interface, are related by <br>
+  <center> sin &phi; / sin &phi;' = n<sub>1</sub>* / n<sub>2</sub>* = constant </center><br>
+  which becomes, for a nonabsorbing medium, the 
+  ratios of the (noncomplex) indices of refraction. In the particular case that 
+  medium 2 is a vacuum, this ratio is the index of refraction of medium 1. This 
+  is known as Snell law, named after Willebrord Snell who discovered it about 
+  1621. </I>
+  <DD>2. A measure of the amount of <A 
+  href="r.html#refraction">refraction</A> 
+  experienced by a ray as it passes through a refractive interface, i.e., a 
+  surface separating two media of different densities. It is the ratio of the 
+  absolute indices of refraction of the two media (see sense 1 above). Also 
+  called <I>refractive index, relative index of refraction. </I>
+  <DT><STRONG>Indi</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Indus. </I>See <A 
+  href="c.html#constellation">constellation</A>. 
+  <A name=indicator></A><A name=indicators></A>
+  <DT><STRONG>indicator</STRONG> 
+  <DD>A device which makes information available but in which there is no 
+  provision for storage of such information, as a <I>radar indicator. </I>
+  <DT><STRONG>indirect wave</STRONG> 
+  <DD>Any <A href="r.html#radio wave">radio 
+  wave</A> which arrives by an indirect path, having undergone an abrupt change 
+  of direction by <A 
+  href="r.html#refraction">refraction</A> 
+  or reflection. See <A 
+  href="s.html#sky wave">sky wave</A>. 
+  <DT><STRONG>indochinite</STRONG> 
+  <DD>See <A 
+  href="t.html#tektite">tektite</A>. <A 
+  name="induced magnetism"></A>
+  <DT><STRONG>induced magnetism</STRONG> 
+  <DD><A 
+  href="m.html#magnetism">Magnetism</A> 
+  acquired by a piece of magnetic material while it is in a <A 
+  href="m.html#magnetic field">magnetic 
+  field</A>. See <A 
+  href="p.html#permanent magnetism">permanent 
+  magnetism</A>. 
+  <DT><STRONG>Indus (abbr Ind, Indi)</STRONG> 
+  <DD>See <A 
+  href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>inelastic collision</STRONG> 
+  <DD>A collision between two particles in which changes occur both in the 
+  internal energy of one or both of the particles and in the sums, before and 
+  after collision, of their <A 
+  href="k.html#kinetic energies">kinetic 
+  energies</A>. 
+  <DT><STRONG>inert atmosphere</STRONG> 
+  <DD>A gaseous medium that because of its lack of chemical reaction is used to 
+  enclose tests or equipment.. 
+  <DT><STRONG>inert gas</STRONG> 
+  <DD>Any one of six gases, helium, neon, argon, krypton, xenon, and radon, all 
+  of whose shells of planetary electrons contain stable numbers of electrons so 
+  that the atoms are almost completely chemically inactive. Also called <I>rare 
+  gas. </I>
+  <DD><I>All these gases are found in the earth's atmosphere but, with the 
+  exception of argon, are found only in very small amounts. Fluorine compounds 
+  of the rare gases have only recently been discovered. </I><A name=inertia></A>
+  <DT><STRONG>inertia</STRONG> 
+  <DD>Resistance to acceleration. 
+  <DT><STRONG>inertia force</STRONG> = inertial force. 
+  <DT><STRONG>inertial axes</STRONG> 
+  <DD><A href="a.html#axes">Axes</A> that 
+  are not undergoing <A 
+  href="a.html#acceleration">acceleration</A> 
+  or <A 
+  href="r.html#rotation">rotation</A>. <A 
+  name="inertial coordinate system"></A>
+  <DT><STRONG>inertial coordinate system</STRONG> 
+  <DD>A system in which the (vector) <A 
+  href="m.html#momentum">momentum</A> of a 
+  particle is conserved in the absence of external forces. Thus, only in an 
+  inertial system can <A 
+  href="n.html#newton laws of motion">Newton 
+  laws of motion</A> be appropriately applied. 
+  <DD><I>When <A 
+  href="r.html#relative coordinate systems">relative 
+  coordinate systems</A> are used, moving with respect to the inertial system, 
+  apparent forces arise in Newton laws, such as the <A 
+  href="c.html#coriolis force">coriolis 
+  force</A>. </I><A name="inertial force"></A><A name="inertial forces"></A>
+  <DT><STRONG>inertial force</STRONG> 
+  <DD>A <A href="f.html#force">force</A> is 
+  a given coordinate system arising from the inertia of a parcel moving with 
+  respect to another coordinate system. The inertial force is proportional and 
+  directionally opposite to the accelerating force. Also called <I>inertia 
+  force. </I>
+  <DD><I>For example, the <A 
+  href="c.html#coriolis acceleration">coriolis 
+  acceleration</A> on a parcel moving with respect to a coordinate system fixed 
+  in space becomes an inertial force, the <A 
+  href="c.html#coriolis force">coriolis 
+  force,</A> in a coordinate system rotating with the earth. </I><A 
+  name="inertial guidance"></A>
+  <DT><STRONG>inertial guidance</STRONG> 
+  <DD><A 
+  href="g.html#guidance">Guidance</A> by 
+  means of the measurement and integration of acceleration from within the 
+  craft. 
+  <DT><STRONG>inertial navigation</STRONG> 
+  <DD><A href="d.html#dead reckoning">Dead 
+  reckoning</A> performed automatically by a device which gives a continuous 
+  indication of position by integration of acceleration since leaving a starting 
+  point. 
+  <DT><STRONG>inertial orbit</STRONG> 
+  <DD>The type of <A 
+  href="o.html#orbit">orbit</A> described 
+  by all celestial obides, in conformance with <A 
+  href="k.html#kepler laws">Kepler laws</A> 
+  of celestial motion. 
+  <DD><I>This applies to all satellites and spacecraft providing they are not 
+  under any type of propulsive power. </I>
+  <DT><STRONG>inertial space</STRONG> 
+  <DD>A stationary frame of reference, or set of <A 
+  href="c.html#coordinates">coordinates</A>, 
+  for calculating <A 
+  href="t.html#trajectories">trajectories</A>. 
+
+  <DT><STRONG>inertial velocity</STRONG> 
+  <DD>Velocity with respect to a fixed system of <A 
+  href="c.html#coordinates">coordinates</A>. 
+  <A name="inferior conjunction"></A>
+  <DT><STRONG>inferior conjunction</STRONG> 
+  <DD>The <A 
+  href="c.html#conjunction">conjunction</A> 
+  of an <A 
+  href="i.html#inferior planet">inferior 
+  planet</A> and the sun when the planet is between the earth and the sun. <A 
+  name="inferior mirage"></A>
+  <DT><STRONG>inferior mirage</STRONG> 
+  <DD>A spurious image of an object formed below the true position of that 
+  object by abnormal <A 
+  href="r.html#refraction">refraction</A> 
+  conditions along the line of sight; one of the most common of all types of 
+  mirage and the opposite of a <A 
+  href="s.html#superior mirage">superior 
+  mirage</A>. 
+  <DD><I>The requirement for the appearance of an inferior mirage is a very 
+  large lapse rate of temperature in the layer of air containing the line of 
+  sight from observer to object. Compare <A 
+  href="s.html#sinking">sinking</A>, <A 
+  href="s.html#stooping">stooping</A>. 
+  </I><A name="inferior planets"></A><A name="inferior planet"></A>
+  <DT><STRONG>inferior planets</STRONG> 
+  <DD>The planets with <A 
+  href="o.html#orbits">orbits</A> smaller 
+  than that of the earth: Mercury and Venus. 
+  <DT><STRONG>inferior transit </STRONG>= lower transit. 
+  <DT><STRONG>infinity</STRONG> 
+  <DD>1. A point, line, or region, beyond measurable limits. 
+  <DD><I>A source of light is regarded as at infinity if it is at such a great 
+  distance that rays from it can be considered parallel. See <A 
+  href="p.html#parallax">parallax</A>. </I>
+  <DD>2. Any quantity larger than the largest quantity which can be stored in a 
+  register of a specific <A 
+  href="c.html#computer">computer</A>. <A 
+  name=inflection></A>
+  <DT><STRONG>inflection</STRONG> 
+  <DD>Reversal of direction of curvature. 
+  <DD><I>A point at which reversal takes place is called point of inflection or 
+  inflection point. </I>
+  <DT><STRONG>inflection point</STRONG> 
+  <DD>See <A 
+  href="i.html#inflection">inflection</A>. 
+  <A name="in-flight start"></A>
+  <DT><STRONG>in-flight start</STRONG> 
+  <DD>An engine ignition sequence after take-off and during flight. Compare <A 
+  href="a.html#air start">air start</A>, <A 
+  href="g.html#ground start">ground 
+  start</A>. 
+  <DD><I>This term includes starts both within and above the sensible 
+  atmosphere. </I><A name=information></A>
+  <DT><STRONG>information</STRONG> 
+  <DD>Any facts or data which can be used, transferred, or communicated. <A 
+  name="information content"></A>
+  <DT><STRONG>information content</STRONG> 
+  <DD>In a message or a signal from a source, the negative of the logarithm of 
+  the probability that this particular message or symbol will be emitted from 
+  the source. 
+  <DD><I>The choice of logarithmic base determines the unit of information 
+  content. See <A href="b.html#bit">bit</A> 
+  and <A href="h.html#hartley">hartley</A>. 
+  The probability of a given message or symbol being emitted may depend on one 
+  or more preceding messages or symbols. The quantity has been called 
+  self-information. </I>
+  <DT><STRONG>information gate</STRONG> 
+  <DD>In <A 
+  href="t.html#telemetry">telemetry</A>, a 
+  device which, when triggered, allows information <A 
+  href="p.html#pulses">pulses</A> to pass. 
+  <DT><STRONG>infrahuman</STRONG> 
+  <DD>A live animal other than man used as a substitute for a human in 
+  life-science experiments. <A name=infrared></A>
+  <DT><STRONG>infrared (abbr IR)</STRONG> 
+  <DD>1. = <A 
+  href="i.html#infrared radiation">infrared 
+  radiation</A>. 
+  <DD>2. Pertaining to <A 
+  href="i.html#infrared radiation">infrared 
+  radiation</A>, as an <I>infrared absorber. </I><A 
+  name="infrared radiation"></A>
+  <DT><STRONG>infrared radiation (abbr IR)</STRONG> 
+  <DD><A 
+  href="e.html#electromagnetic radiation">Electromagnetic 
+  radiation</A> lying in the wavelength interval from about 75 microns to an 
+  indefinite upper boundary sometimes arbitrarily set at 1000 microns (0.01 
+  centimeter). Also called <I>long-wave radiation. </I>
+  <DD><I>At the lower limit of this interval, the infrared radiation spectrum is 
+  bounded by visible radiation, whereas on its upper limit it is bounded by 
+  microwave radiation of the type important in radar technology. See <A 
+  href="e.html#electromagnetic spectrum">electromagnetic 
+  spectrum</A>. Whereas visible radiation is generated primarily by intra-atomic 
+  processes, infrared radiation is generated almost wholly by larger scale 
+  intramolecular processes, chiefly molecular rotations and internal vibrations 
+  of many types. Electrically symmetric molecules, such as the nitrogen and 
+  oxygen molecules which comprise most of the earth's atmosphere, are not 
+  capable of absorbing or emitting infrared radiation, but several of the 
+  triatomic gases, such as water vapor, carbon dioxide, and ozone, are infrared 
+  active and play important roles in the propagation of infrared radiation in 
+  the atmosphere. Since a black body at terrestrial temperature radiates with 
+  maximum intensity in the infrared spectrum (near 10 microns), there exist a 
+  complex system of infrared radiation currents within the earth's atmosphere. 
+  </I><A name=infrasonic></A>
+  <DT><STRONG>infrasonic frequency</STRONG> 
+  <DD>A frequency below the <A 
+  href="a.html#audiofrequency range">audiofrequency 
+  range</A>. 
+  <DD><I>The word infrasonic may be used as a modifier to indicate a device or 
+  system intended to operate at an infrasonic frequency. The term subsonic was 
+  once used in acoustics synonymously with infrasonic; such usage is now 
+  discourages. </I>
+  <DT><STRONG>infrasonic sound</STRONG> 
+  <DD>Sound whose <A 
+  href="f.html#frequency">frequency</A> is 
+  below the lower pitch limit, below about 15 cycles per second. 
+  <DT><STRONG>inherited error</STRONG> 
+  <DD>The error in initial values used in a computation; especially the error 
+  introduced from the previous steps in a step-by-step integration. <A 
+  name=inhibiter></A><A name=inhibitor></A>
+  <DT><STRONG>inhibitor</STRONG> 
+  <DD>Anything that inhibits; specifically, a substance bonded, taped, or dip 
+  dried onto a <A 
+  href="s.html#solid propellant">solid 
+  propellant</A> to restrict the burning surface and to give direction to the 
+  burning process. See <A 
+  href="r.html#restricted propellant">restricted 
+  propellant</A>. 
+  <DT><STRONG>inhibitor gate</STRONG> 
+  <DD>In <A 
+  href="t.html#telemetry">telemetry</A>, a 
+  device which, when triggered, prevents information <A 
+  href="p.html#pulses">pulses</A> from 
+  passing. 
+  <DT><STRONG>initial mass</STRONG> 
+  <DD>The <A href="m.html#mass">mass</A> of 
+  a <A href="r.html#rocket vehicle">rocket 
+  vehicle</A> at launch. <A name="initial-value problem"></A>
+  <DT><STRONG>initial-value problem</STRONG> 
+  <DD>A dynamical problem whose solution determines the state of a system at all 
+  times subsequent to a given time at which the state of the system is specified 
+  by given initial conditions. Also called <I>transient problem. </I>See 
+  boundary value problem. 
+  <DD><I>The initial-value problem is contrasted with the steady-state problem, 
+  in which the state of the system remains unchanged in time. </I>
+  <DT><STRONG>initial velocity</STRONG> 
+  <DD>The <A 
+  href="v.html#velocity">velocity</A> of 
+  anything at the beginning of a specific phase of its motion. 
+  <DT><STRONG>injection</STRONG> 
+  <DD>1. The introduction of fuel, fuel and air, fuel and oxidizer, water, or 
+  other substance into an engine induction system or <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A>. 
+  <DD>2. The time following launching when nongravitational forces (thrust, 
+  lift, and drag) become negligible in their effort on the <A 
+  href="t.html#trajectory">trajectory</A> 
+  of a rocket or spacecraft. 
+  <DD>3. The process of putting a spacecraft up to <A 
+  href="e.html#escape velocity">escape 
+  velocity</A>. <A name=injector></A>
+  <DT><STRONG>injector</STRONG> 
+  <DD>A device that propels fuel or propellant into a combustion chamber under 
+  pressure other than atmospheric. See <A 
+  href="i.html#impinging-stream injector">impinging-stream 
+  injector</A>. <A name=inlet></A>
+  <DT><STRONG>inlet</STRONG> 
+  <DD>An entrance or orifice for the admission of fluid. 
+  <DD><I>Frequently used in compounds, such as inlet air, inlet air temperature, 
+  inlet casing, inlet duct, inlet guide van, inlet port, inlet valve, etc. 
+  </I><A name="inlet pressure"></A>
+  <DT><STRONG>inlet pressure</STRONG> 
+  <DD>In connection with performance data on pumps, when not otherwise 
+  specified, the total <A 
+  href="s.html#static pressure">static 
+  pressure</A> measured in a standard testing chamber by a <A 
+  href="v.html#vacuum gage">vacuum gage</A> 
+  located near the inlet port. Also called <I>intake pressure, fine pressure, 
+  head pressure. </I><A name="inner ear"></A><A name="inner liner"></A>
+  <DT><STRONG>inner liner</STRONG> 
+  <DD>Specifically, a tube mounted coaxially inside the outer cover or shell of 
+  a <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A>. Also called a <I>flame tube </I>or a <I>combustion-chamber liner. 
+  </I>
+  <DT><STRONG>inner planets</STRONG> 
+  <DD>The four <A 
+  href="p.html#planets">planets</A> nearest 
+  the sun: Mercury, Venus, Earth, and Mars. See <A 
+  href="p.html#planet">planet</A>, table. 
+  <DT><STRONG>inner product </STRONG>= scalar product. <A name="in phase"></A>
+  <DT><STRONG>in phase</STRONG> 
+  <DD>The condition of two or more cyclic motions which are at the same part of 
+  their cycles at the same instant. Also called <I>in step. </I>
+  <DD><I>Two or more cyclic motions which are not at the same part of their 
+  cycles at the same instant are said to be out of phase or out of step. </I><A 
+  name=input></A><A name=inputs></A>
+  <DT><STRONG>input</STRONG> 
+  <DD>1. The path through which <A 
+  href="i.html#information">information</A> 
+  is applied to any device. 
+  <DD>2. The means for supplying information to a machine. See <A 
+  href="i.html#input equipment">input 
+  equipment</A>. 
+  <DD>3. Information or <A 
+  href="e.html#energy">energy</A> entering 
+  into a system. Compare <A 
+  href="o.html#output">output</A>. 
+  <DD>4. The quantity to be measured, or otherwise operated upon, which is 
+  received by an instrument. Also called <I>input signal. </I>
+  <DD><I>For a thermometer, temperature is the input. </I>
+  <DT><STRONG>input axis</STRONG> 
+  <DD>In a <A href="g.html#gyro">gyro</A>, 
+  an <A href="a.html#axis">axis</A> normal 
+  to the <A href="s.html#spin axis">spin 
+  axis</A> about which a rotation of the base causes a maximum output as a 
+  function of this rotation. <A name="input equipment"></A>
+  <DT><STRONG>input equipment</STRONG> 
+  <DD>Specifically, the hardware through which <A 
+  href="i.html#information">information</A> 
+  is fed into a <A 
+  href="c.html#computer">computer</A>. <A 
+  name="input signal"></A>
+  <DT><STRONG>input signal</STRONG> = input. 
+  <DT><STRONG>insertion</STRONG> 
+  <DD>The process of putting an <A 
+  href="a.html#artificial satellite">artificial 
+  satellite</A> or <A 
+  href="s.html#spacecraft">spacecraft</A>into 
+  <A href="o.html#orbit">orbit</A>. <A 
+  name=insolation></A>
+  <DT><STRONG>insolation</STRONG> 
+  <DD>(Contracted from incoming solar radiation) 1. In general, <A 
+  href="s.html#solar radiation">solar 
+  radiation</A> received at the earth's surface. See <A 
+  href="t.html#terrestrial radiation">terrestrial 
+  radiation</A>, <A 
+  href="e.html#extraterrestrial radiation">extraterrestrial 
+  radiation</A>, <A 
+  href="d.html#direct solar radiation">direct 
+  solar radiation</A>, <A 
+  href="g.html#global radiation">global 
+  radiation</A>, <A 
+  href="e.html#effective terrestrial radiation">effective 
+  terrestrial radiation</A>, <A 
+  href="d.html#diffuse sky radiation">diffuse 
+  sky radiation</A>, <A 
+  href="a.html#atmospheric radiation">atmospheric 
+  radiation</A>. 2. The rate at which <A 
+  href="d.html#direct solar radiation">direct 
+  solar radiation</A> is incident upon a unit horizontal surface at any point on 
+  or above the surface of the earth. Compare <A 
+  href="s.html#solar constant">solar 
+  constant</A>. <A name=instability></A>
+  <DT><STRONG>instability</STRONG> 
+  <DD>1. The condition of a body if, when displaced from a state of equilibrium, 
+  it continues, or tends to continue, to depart from the original condition. 
+  Compare <A 
+  href="s.html#stability">stability</A>. 
+  <DD>2. <A 
+  href="c.html#combustion instability">Combustion 
+  instability</A>. <A name="instantaneous readout"></A>
+  <DT><STRONG>instantaneous readout</STRONG> 
+  <DD>Transmission of data by a radio transmitter instantaneous with the 
+  computation of data to be transmitted. See <A 
+  href="r.html#readout station">readout 
+  station</A>, <A 
+  href="r.html#real time">real time</A>. 
+  <DT><STRONG>instantaneous sound pressure</STRONG> 
+  <DD>The total instantaneous <A 
+  href="p.html#pressure">pressure</A> at 
+  the point of observation minus the <A 
+  href="s.html#static pressure">static 
+  pressure</A>. Often called <I>excess pressure. </I>
+  <DT><STRONG>in step</STRONG> = in phase. <A name=instructions></A><A 
+  name=instruction></A>
+  <DT><STRONG>instruction</STRONG> 
+  <DD>1. Information which tells a <A 
+  href="c.html#computer">computer</A> where 
+  to obtain the <A 
+  href="o.html#operands">operands</A>, what 
+  operations to perform, what to do with the result, and, sometimes, where to 
+  obtain the next instruction. 
+  <DD>2. = <A 
+  href="c.html#command">command</A>. 
+  <DT><STRONG>instruction code</STRONG> 
+  <DD>An artificial language for describing or expressing the instructions which 
+  can be carried out by a <A 
+  href="d.html#digital computer">digital 
+  computer</A>. 
+  <DD><I>In automatically sequenced computers, the instruction code is used when 
+  describing or expressing sequences of instructions, and each instruction word 
+  usually contains a part specifying the operation to be performed and one or 
+  more addresses which identify a particular location in storage. Sometimes, an 
+  address part of an instruction is not intended to specify a location in 
+  storage but is used for some other purpose. If more than one address is used, 
+  the code is called a multiple-address code. In a typical instruction of a 
+  four-address code, the addresses specify the location of two operands, the 
+  destination of the result, and the location of the next instruction in the 
+  sequence. In a typical three-address code, the fourth address specifying the 
+  location of the next instruction is dispensed with and the instructions are 
+  taken from storage in a preassigned order. In a typical one-address or 
+  single-address code, the address may specify either the location of an operand 
+  to be taken from storage, the destination of a previously prepared result, or 
+  the location of the next instruction. The arithmetic element usually contains 
+  at least two storage locations, one of which is an accumulator. For example, 
+  operations requiring two operands may obtain one operand from the main storage 
+  and the other from a storage location in the arithmetic element which is 
+  specified by the operation part. </I>
+  <DT><STRONG>instrument</STRONG> 
+  <DD>To provide a <A 
+  href="v.html#vehicle">vehicle</A> or <A 
+  href="c.html#component">component</A> 
+  with <A 
+  href="i.html#instrumentation">instrumentation</A>. 
+  <A name=instrumentation></A>
+  <DT><STRONG>instrumentation</STRONG> 
+  <DD>1. The installation and use of electronic, gyroscopic, and other 
+  instruments for the purpose of detecting, measuring, recording, telemetering, 
+  processing, or analyzing different values or quantities as encountered in the 
+  flight of a rocket or spacecraft. 
+  <DD>2. The assemblage of such instruments in a rocket, spacecraft, or the 
+  like. 
+  <DD>3. A special field of engineering concerned with the design, composition, 
+  and arrangement of such instruments. 
+  <DT><STRONG>instrument landing system </STRONG>
+  <DD>(abbr ILS) A system which provides, in the aircraft, a display of the 
+  lateral, longitudinal, and vertical references necessary for a landing. 
+  <DT><STRONG>intake pressure</STRONG> = inlet pressure. <A name=integer></A>
+  <DT><STRONG>integer</STRONG> 
+  <DD>A whole number; a number that is not a fraction. 
+  <DT><STRONG>integral</STRONG> 
+  <DD>1. Of or pertaining to an <A 
+  href="i.html#integer">integer</A>. 
+  <DD>2. Serving to form a whole or part of a whole, as an <I>integral tank. 
+</I>
+  <DT><STRONG>integrally stiffened</STRONG> 
+  <DD>Of structures, referring to thin-walled components in which increased 
+  section wall stiffeners and wall are formed as a single structural member 
+  rather than as two separate pieces. 
+  <DT><STRONG>integral tank</STRONG> 
+  <DD>A fuel or oxidizer <A 
+  href="t.html#tank">tank</A> built within 
+  the normal contours of an aircraft or rocket vehicle and using the <A 
+  href="s.html#skin">skin</A> of the 
+  vehicle as a wall of the tank. 
+  <DT><STRONG>integrated trajectory system </STRONG>
+  <DD>(abbr ITS) A multiple trajectory measuring system composed of several 
+  angle-measuring-equipment and distance-measuring-equipment sites whereby 
+  in-flight selection of station combination can be made to provide the best 
+  geometrical solution to space position at any given time of rocket flight. 
+  <DT><STRONG>integrating accelerometer</STRONG> 
+  <DD>A <A 
+  href="t.html#transducer">transducer</A> 
+  designed to measure, and capable of measuring, velocity by means of a time 
+  integration of <A 
+  href="a.html#acceleration">acceleration</A>. 
+
+  <DT><STRONG>integrator</STRONG> 
+  <DD>1. In <A 
+  href="d.html#digital computers">digital 
+  computers</A>, a device for accomplishing a <A 
+  href="n.html#numeric">numeric</A> 
+  approximation of the mathematical process of integration. 
+  <DD>2. A device whose output is proportional to the integral of an input 
+  signal. <A name=intensity></A>
+  <DT><STRONG>intensity</STRONG> 
+  <DD>1. In general, the degree or amount, usually expressed by the elemental 
+  time rate or spatial distribution of some condition or physical quantity, such 
+  as electric field, sound, magnetism, etc. 
+  <DD>2. With respect to <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>, a measure of the <A 
+  href="r.html#radiant flux">radiant 
+  flux</A> per unit solid angle emanating for some source. Frequently, it is 
+  desirable to specify this as <I>radiant intensity </I>in order to distinguish 
+  it clearly for <I>luminous intensity. </I>Compare <A 
+  href="e.html#emittance">emittance</A>. 
+  <DD><I>Occasionally, intensity, is used as synonymous to flux density. This 
+  usage does not coincide with accepted photometric and radiometric usage, but 
+  is of long standing in meteorology. See <A 
+  href="s.html#sound intensity">sound 
+  intensity</A>. </I>
+  <DT><STRONG>intensity level</STRONG> 
+  <DD>In <A 
+  href="a.html#acoustics">acoustics</A>, 
+  ten times the logarithm to the base 10 of the ratio of the intensity I of the 
+  sound measured to the reference intensity I<SUB>0</SUB>. The 
+  reference intensity I<SUB>0</SUB> must be stated. 
+  <DD><I>A generally used reference value, especially for air acoustics, is 
+  10<sup>-16</sup> watt per square centimeter. </I><A 
+  name="intensity modulated indicator"></A><A 
+  name="intensity-modulated indicator"></A>
+  <DT><STRONG>intensity-modulated indicator</STRONG> 
+  <DD>One of two general classes of radar <A 
+  href="i.html#indicators">indicators</A>, 
+  in which <A 
+  href="e.html#echoes">echoes</A> from <A 
+  href="t.html#targets">targets</A> are 
+  presented as spots or areas of light whose intensity or brilliance is normally 
+  a function of the power of the echo signal. Compare <A 
+  href="a.html#amplitude-modulated indicator">amplitude-modulated 
+  indicator</A>. See <A 
+  href="r.html#radarscope">radarscope</A>. 
+  <A name="intensity modulation"></A>
+  <DT><STRONG>intensity modulation</STRONG> 
+  <DD>The change of the brilliance (or intensity) of the <A 
+  href="t.html#trace">trace</A> on the 
+  screen of a <A 
+  href="c.html#cathode-ray tube">cathode-ray 
+  tube</A> in accordance with the strength of the applied signal. 
+  <DT><STRONG>interaction parameter</STRONG> 
+  <DD>In plasma physics, a measure of the relative importance of the <A 
+  href="m.html#magnetic field">magnetic 
+  field</A> and the fluid motion when the <A 
+  href="m.html#magnetic lines">magnetic 
+  lines</A> are at least partially frozen into the fluid. It is related to the 
+  ratio of the magnetic energy density and the fluid kinetic energy. 
+  <DD><I>If the interaction parameter is small, the fluid motion is hardly 
+  affected by the field; if it is large, the motion is largely controlled by the 
+  field; if it is the order of unity, the two strongly interact, with the net 
+  flow a compromise between them. </I>
+  <DT><STRONG>intercept</STRONG> = altitude difference. 
+  <DT><STRONG>interchange coefficient</STRONG> = exchange coefficient. 
+  <DT><STRONG>interdigitate</STRONG> 
+  <DD>To aline two or more sets of fins or projections on a rocket so that each 
+  fin or projection of one set lies in a plane between the planes established by 
+  fins or projections of the other set or sets. <A name=interface></A>
+  <DT><STRONG>interface</STRONG> 
+  <DD>1. A common boundary between two parts of a <A 
+  href="s.html#system">system</A>, whether 
+  material or nonmaterial. 
+  <DD>2. Specifically, in a <A 
+  href="r.html#rocket">rocket</A> vehicle 
+  or other mechanical assembly, a common boundary between two components. See <A 
+  href="m.html#mating">mating</A>. 
+  <DD>3. Specifically, in fluid dynamics, a surface separating two fluids across 
+  which there is a discontinuity of some fluid property such as density or 
+  velocity or of some derivative of these properties in a direction normal to 
+  the interface. 
+  <DD><I>The equations of motion do not apply at the interface but are replaced 
+  by the <A 
+  href="b.html#boundary conditions">boundary 
+  conditions</A>. </I><A name=interference></A>
+  <DT><STRONG>interference</STRONG> 
+  <DD>1. Extraneous signals, noises, etc. that hinder proper reception of the 
+  desired <A 
+  href="s.html#signal">signal</A> in 
+  electronic equipment. See <A 
+  href="b.html#babble">babble</A>, <A 
+  href="c.html#clutter">clutter</A>, <A 
+  href="c.html#cosmic noise">cosmic 
+  noise</A>, <A 
+  href="c.html#crosstalk">crosstalk</A>, <A 
+  href="j.html#jitter">jitter</A>, <A 
+  href="s.html#static">static</A>. 
+  <DD>2. The mutual effect of two or more meeting waves or vibrations of any 
+  kind. Sometimes called <I>wave interference. </I><A 
+  name="interference guard bands"></A>
+  <DT><STRONG>interference guard bands</STRONG> 
+  <DD>The two <A 
+  href="f.html#frequency bands">frequency 
+  bands</A> additional to and on either side of the authorized frequency band, 
+  which may be provided to minimize the possibility of <A 
+  href="i.html#interference">interference</A> 
+  between different radio channels. <A name="interference region"></A>
+  <DT><STRONG>interference region</STRONG> 
+  <DD>That region in space in which <A 
+  href="i.html#interference">interference</A> 
+  between <A href="w.html#wave trains">wave 
+  trains</A> occurs. 
+  <DD><I>In microwave propagation, it refers to the region bounded by the ray 
+  path and the surface of the earth which is above the radio horizon. 
+  Interference lobes and height-gain patterns are formed in this region by the 
+  addition of the direct and the surface-reflected wave. In contrast is the 
+  diffraction zone which lies below the radio horizon. </I><A 
+  name=interferometer></A>
+  <DT><STRONG>interferometer</STRONG> 
+  <DD>An apparatus used to produce and measure <A 
+  href="i.html#interference">interference</A> 
+  from two or more <A 
+  href="c.html#coherent">coherent</A> wave 
+  trains from the same source. See <A 
+  href="r.html#radio interferometer">radio 
+  interferometer</A>. 
+  <DD><I>Interferometers are used to measure wavelengths, to measure angular 
+  width of sources, to determine the angular position of sources (as in 
+  satellite tracking), and for many other purposes. </I>
+  <DT><STRONG>interferometric</STRONG> 
+  <DD>Pertaining to or measured by an interferometer. 
+  <DT><STRONG>interior ballistics</STRONG> 
+  <DD>That branch of <A 
+  href="b.html#ballistics">ballistics</A> 
+  that deals with the propulsion of <A 
+  href="p.html#projectiles">projectiles</A>, 
+  i.e., the motion and behavior of projectiles in a gun barrel, the temperatures 
+  and pressures developed inside a gun barrel or rocket, etc. Sometimes called 
+  <I>internal ballistics. </I>
+  <DT><STRONG>intermediate frequency (abbr IF)</STRONG> 
+  <DD>The beat frequency used in heterodyne receivers, usually the difference 
+  between the received radiofrequency signal and a locally generated signal. 
+  <DT><STRONG>intermediate ion</STRONG> 
+  <DD>An <A 
+  href="a.html#atmospheric ion">atmospheric 
+  ion</A> of size and mobility intermediate between the <A 
+  href="s.html#small ion">small ion</A> and 
+  the <A href="l.html#large ion">large 
+  ion</A>. 
+  <DD><I>The mobility of this class of ions lies generally in the interval from 
+  0.01 to 0.1 centimeter per second per volt per centimeter. </I>
+  <DT><STRONG>intermediate orbit</STRONG> 
+  <DD>An orbit tangent to an actual orbit and having the same coordinates but 
+  not the same velocity at the point of tangency. <A 
+  name="intermittent pressure breathing"></A>
+  <DT><STRONG>intermittent pressure breathing</STRONG> 
+  <DD><A 
+  href="p.html#pressure breathing">Pressure 
+  breathing</A> in which different pressures are used at different points in the 
+  respiratory cycle, usually with a high pressure during inspiration and lower 
+  pressure during expiration. 
+  <DT><STRONG>intermodulation</STRONG> 
+  <DD>The <A 
+  href="m.html#modulation">modulation</A> 
+  of the <A 
+  href="c.html#components">components</A> 
+  of a complex wave by each other in a nonlinear system. 
+  <DT><STRONG>internal ballistics </STRONG>= interior ballistics. 
+  <DT><STRONG>internal efficiency</STRONG> 
+  <DD>The <A 
+  href="e.html#efficiency">efficiency</A> 
+  with which a <A 
+  href="r.html#reaction engine">reaction 
+  engine</A>, such as a rocket, converts the available thermal energy of its 
+  combustion gases into <A 
+  href="k.html#kinetic energy">kinetic 
+  energy</A> in the exhaust jet, expressed as a ratio. <A 
+  name="internal energy"></A>
+  <DT><STRONG>internal energy</STRONG> 
+  <DD>A mathematically defined <A 
+  href="t.html#thermodynamic function of state">thermodynamic 
+  function of state</A>, interpretable through statistical mechanics as a 
+  measure of the molecular activity of the system. It appears in the <A 
+  href="f.html#first law of thermodynamics">first 
+  law of thermodynamics</A> as 
+  <center>du = dq - dw </center>where <I>du </I>is the increment of specific 
+  internal energy, <I>dq </I>the increment of heat, and <I>dw </I>the increment 
+  of work done by the system per unit mass. The differential <I>du </I>is a 
+  perfect differential. Its integral therefore introduces a constant of 
+  integration, the <I>zero-point internal energy </I>, so that care must be 
+  taken when absolute values of the internal energy are employed. <A 
+  name="international candle"></A>
+  <DT><STRONG>international candle</STRONG> 
+  <DD>The unit of <A 
+  href="l.html#luminous intensity">luminous 
+  intensity</A> formerly used as the international standard. On January 1, 1948, 
+  it was replaced with the <A 
+  href="c.html#candela">candela</A>, which 
+  is equal to 58.9/60 or 0.98 international satellite. Also called <I>English 
+  candle, British candle. </I>
+  <DT><STRONG>International Geophysical Cooperation, 1959 (abbr 
+  IGC-1959)</STRONG> 
+  <DD>An extension of the <A 
+  href="i.html#international geophysical year">International 
+  Geophysical Year</A>. <A name="international geophysical year"></A>
+  <DT><STRONG>International Geophysical Year (abbr IGY)</STRONG> 
+  <DD>By international agreement, a period during which greatly increased 
+  observation of worldwide geophysical phenomena is undertaken through the 
+  cooperative effort of participating nations. July 1957 to December 1958 was 
+  the first such year; however, precedent was set by the International Polar 
+  Years of 1882 and 1932. 
+  <DT><STRONG>International Gravity Formula</STRONG> 
+  <DD>See <A 
+  href="a.html#acceleration of gravity">acceleration 
+  of gravity</A>. 
+  <DT><STRONG>international nautical mile</STRONG> 
+  <DD>See <A 
+  href="n.html#nautical mile">nautical 
+  mile</A>. <A name="international polar year"></A>
+  <DT><STRONG>International Polar Year</STRONG> 
+  <DD>The years 1882 and 1932, during which participating nations undertook 
+  increased observation of geophysical phenomena in polar (mostly arctic) 
+  regions. The observations were largely meteorological, but included other such 
+  as auroral and magnetic studies. This program was continued and expanded in 
+  both geographic and scientific scope as the <A 
+  href="i.html#international geophysical year">International 
+  Geophysical Year</A>. 
+  <DT><STRONG>international standard atmosphere</STRONG> = ICAO Standard 
+  Atmosphere; see standard atmosphere. 
+  <DT><STRONG>International Steam Table calorie</STRONG> 
+  <DD>(abbr calIT) A unit of heat equal to 4.1868 joules. See <A 
+  href="c.html#calorie">calorie</A>. <A 
+  name="international system"></A>
+  <DT><STRONG>International System of Units</STRONG> 
+  <DD>(abbr SI) The metric system of units based on the <A 
+  href="m.html#meter">meter</A>, <A 
+  href="k.html#kilogram">kilogram</A>, <A 
+  href="s.html#second">second</A>, <A 
+  href="a.html#ampere">ampere</A>, <A 
+  href="k.html#kelvin">kelvin</A>, and <A 
+  href="c.html#candela">candela</A>. Also 
+  called <I>MSKA system. </I>Other SI units are <A 
+  href="h.html#hertz">hertz</A>, <A 
+  href="r.html#radian">radian</A>, <A 
+  href="n.html#newton">newton</A>, <A 
+  href="j.html#joule">joule</A>, <A 
+  href="w.html#watt">watt</A>, <A 
+  href="c.html#coulomb">coulomb</A>, <A 
+  href="v.html#volt">volt</A>, <A 
+  href="o.html#ohm">ohm</A>, <A 
+  href="f.html#farad">farad</A>, <A 
+  href="w.html#weber">weber</A>, and <A 
+  href="t.html#tesla">tesla</A>. 
+  <DT><STRONG>International Year of the Quiet Sun</STRONG> 
+  <DD>(abbr IQSY) By international agreement, a period, July 1963 to December 
+  1964, during which intensive observations of the sun and related geophysical 
+  phenomena are being made. Compare <A 
+  href="i.html#international geophysical year">International 
+  Geophysical Year</A>. 
+  <DT><STRONG>interpleural</STRONG> 
+  <DD>Between the lungs and the chest wall. 
+  <DT><STRONG>interpreter</STRONG> 
+  <DD>In computer terminology, a <A 
+  href="c.html#circuit">circuit</A> or 
+  device which translates an instruction from <A 
+  href="p.html#pseudocode">pseudocode</A> 
+  into an <A 
+  href="i.html#instruction">instruction</A> 
+  or series of instructions which the <A 
+  href="c.html#computer">computer</A> can 
+  understand and obey. 
+  <DT><STRONG>interpreter code </STRONG>= pseudocode. <A 
+  name=interrogation></A><A name=interrogate></A><A name=interrogations></A>
+  <DT><STRONG>interrogation</STRONG> 
+  <DD><A 
+  href="t.html#transmission">Transmission</A> 
+  of a radio <A 
+  href="s.html#signal">signal</A> or 
+  combination of signals intended to trigger a <A 
+  href="t.html#transponder">transponder</A> 
+  or group of transponders. <A name=interrogator></A>
+  <DT><STRONG>interrogator</STRONG> 
+  <DD>1. A radar set or other electronic device that transmits an <A 
+  href="i.html#interrogation">interrogation</A>. 
+
+  <DD>2. An <A 
+  href="i.html#interrogator-responsor">interrogator-responsor</A> 
+  or the transmitting component of an interrogator-responsor. <A 
+  name=interrogator-responsor></A>
+  <DT><STRONG>interrogator-responsor</STRONG> 
+  <DD>A radio transmitter and receiver combined to <A 
+  href="i.html#interrogate">interrogate</A> 
+  a <A 
+  href="t.html#transponder">transponder</A> 
+  and display the resulting replies. Often shortened to <I>interrogator </I>and 
+  sometimes called <I>challenger. </I><A name=intersection></A>
+  <DT><STRONG>intersection</STRONG> 
+  <DD>In <A 
+  href="b.html#boolean algebra">Boolean 
+  algebra</A>, the operation in which concepts are described by stating that 
+  they have all the characteristics of the classes involved. <I>Intersection 
+  </I>is expressed as <A 
+  href="a.html#and">AND</A>. 
+  <DT><STRONG>intersector </STRONG>= AND gate. 
+  <DT><STRONG>interval of convergence</STRONG> 
+  <DD>See <A 
+  href="p.html#power series">power 
+  series</A>. 
+  <DT><STRONG>intervalometer</STRONG> 
+  <DD>Any device that may be set so as to accomplish automatically a series of 
+  like actions, such as the taking of photographs, or the closure of electrical 
+  circuits, at constant predetermined intervals. 
+  <DT><STRONG>inverse</STRONG> 
+  <DD>In cartography, same as <A 
+  href="t.html#transverse">transverse</A>. 
+  <DT><STRONG>inverse-square law</STRONG> 
+  <DD>A relation between physical quantities of the form: <I>x </I>proportional 
+  to <I>1/y<SUP>2</SUP></I> where <I>y </I>is usually a distance; and <I>x 
+  </I>terms are of two kinds, forces and fluxes. 
+  <DT><STRONG>inversion</STRONG> 
+  <DD>In meteorology, a departure from the usual decrease or increase with 
+  altitude of the value of an atmospheric property; also, the layer through 
+  which this departure occurs (the <I>inversion layer </I>), or the lowest 
+  altitude at which the departure is found (the <I>base of the inversion </I>). 
+  <DD><I>This term almost always means a temperature inversion. </I>
+  <DT><STRONG>inversion temperature</STRONG> 
+  <DD>1. In the atmosphere, the temperature at the base of an inversion. 
+  <DD>2. Of a gas, a temperature above which the gas gains heat in expansion. 
+  See <A 
+  href="j.html#joule-thomson effect">Joule-Thomson 
+  effect</A>, note. <A name=inverter></A>
+  <DT><STRONG>inverter</STRONG> 
+  <DD>1. A device for changing direct current to alternating current. 
+  <DD>2. In computers, a device or circuit which inverts the <A 
+  href="p.html#polarity">polarity</A> of a 
+  <A href="p.html#pulse">pulse</A>. Also 
+  called <I>NOT circuit. </I><A name="inviscid fluid"></A>
+  <DT><STRONG>inviscid</STRONG> 
+  <DD>Not viscous, not clinging or sticky; frictionless, as in <I>inviscid flow. 
+  </I>
+  <DT><STRONG>inviscid fluid </STRONG>= perfect fluid. 
+  <DT><STRONG>Io</STRONG> 
+  <DD>A <A 
+  href="s.html#satellite">satellite</A> of 
+  Jupiter orbiting at a mean distance of 421,800 kilometers. Also called 
+  <I>Jupiter I. </I><A name=ion></A><A name=ions></A>
+  <DT><STRONG>ion</STRONG> 
+  <DD>1. A charged <A 
+  href="a.html#atom">atom</A> or 
+  molecularly bound group of atoms; sometimes also a free electron or other 
+  charged <A 
+  href="s.html#subatomic particle">subatomic 
+  particle</A>. 
+  <DD><I>An ion pair consists of a positive ion and a negative ion (usually an 
+  electron) having charges of the same magnitude and formed from a neutral atom 
+  or molecule by the action of radiation. In spectroscopy, the degree of 
+  ionization of an atom is indicated by a Roman numeral following the symbol for 
+  the element. An un-ionized atom is indicated by the Roman numeral I, a singly 
+  ionized atom, one which has lost one electron, is indicated by II, and so on. 
+  Thus Fe IX indicates the spectrum of an iron atom which has lost eight 
+  electrons. </I>
+  <DD>2. In atmospheric electricity, any of several types of electrically charge 
+  submicroscopic particles normally found in the atmosphere. Atmospheric ions 
+  are of two principle types, <A 
+  href="s.html#small ions">small ions</A> 
+  and <A href="l.html#large ions">large 
+  ions</A>, although a class of intermediate ions has occasionally been 
+  reported. 
+  <DD><I>The ionization process which forms small ions depends upon two distinct 
+  agencies, cosmic rays and radioactive emanations. Each of these consists of 
+  very energetic particles which ionize neutral air molecules by knocking out 
+  one or more planetary electrons. The resulting free electron and positively 
+  charged molecule (or atom) very quickly attach themselves to one or, at most, 
+  a small number of neutral air molecules, thereby forming new small ions. In 
+  the presence of Aitken nuclei, some the small ions will in turn attach 
+  themselves to these nuclei, thereby creating new large ions. The two main 
+  classes of ions differ widely in mobility. Only the highly mobile small ions 
+  contribute significantly to the electrical conductivity of the air under most 
+  conditions. The intermediate ions and large ions are important in certain 
+  space charge effects, but are too sluggish to contribute much to conductivity. 
+  The processes of formation of ions are offset by certain processes of 
+  destruction of the ions (see <A 
+  href="r.html#recombination">recombination</A>). 
+  </I>
+  <DD>3. In chemistry, <A 
+  href="a.html#atoms">atoms</A> or specific 
+  groupings of atoms which have gained or lost one or more electrons, as the 
+  <I>chloride ion </I>or <I>ammonium ion. </I>Such ions exist in aqueous 
+  solutions and in certain crystal structures. <A name="ion column"></A>
+  <DT><STRONG>ion column</STRONG> 
+  <DD>The trail of ionized gases in the trajectory of a <A 
+  href="m.html#meteoroid">meteoroid</A> 
+  entering the upper atmosphere; a part of the composite phenomenon known as a 
+  <A href="m.html#meteor">meteor</A>. A 
+  type of <A 
+  href="m.html#meteor train">meteor 
+  train</A>. See <A 
+  href="m.html#meteor">meteor</A>. Compare 
+  <A href="g.html#gas cap">gas cap</A>. 
+  <DT><STRONG>ion concentration </STRONG>= <A 
+  href="i.html#ion density">ion 
+  density</A>. <A name="ion counter"></A>
+  <DT><STRONG>ion counter</STRONG> 
+  <DD>An apparatus which counts the number of unit charges of electricity which 
+  are contained in a sampled volume of the atmosphere. See <A 
+  href="a.html#aspiration condenser">aspiration 
+  condenser</A>, <A 
+  href="e.html#ebert ion counter">Ebert ion 
+  counter</A>. Compare <A 
+  href="i.html#ionization chamber">ionization 
+  chamber</A>. 
+  <DD><I>The design of the ion counter depends upon the mobility of the ions 
+  under investigation. The general procedure is to pass a sample of the 
+  atmosphere through a charged cylindrical condenser. The type of ions collected 
+  will depend upon the capacity of the condenser and the polarizing potential. 
+  The change in the potential drop across the condenser is a measure of the 
+  ionic charge collected. </I><A name="ion density"></A>
+  <DT><STRONG>ion density</STRONG> 
+  <DD>In atmospheric electricity, the number of <A 
+  href="i.html#ions">ions</A> per unit 
+  volume of a given sample of air; more particularly, the number of ions of a 
+  given type (positive <A 
+  href="s.html#small ion">small ion</A>, 
+  negative small ion, positive <A 
+  href="l.html#large ion">large ion</A>, 
+  etc.) per unit volume of air. Also called <I>ion concentration. </I>
+  <DD><I>Measurement of ion density is used in determining efficiency of 
+  ionizers in <A 
+  href="i.html#ion engines">ion 
+  engines</A>. </I><A name="ion engine"></A><A name="ion engines"></A>
+  <DT><STRONG>ion engine</STRONG> 
+  <DD>A <A 
+  href="r.html#reaction engine">reaction 
+  engine</A> in which <A 
+  href="i.html#ions">ions</A>, accelerated 
+  in an <A 
+  href="e.html#electrostatic">electrostatic</A> 
+  field, are used as propellant. Also called <I>electrostatic engine. </I>See <A 
+  href="e.html#electric propulsion">electric 
+  propulsion</A>. 
+  <DT><STRONG>ion gage</STRONG> = hot-cathode ionization gage. 
+  <DT><STRONG>ionic conduction</STRONG> 
+  <DD>Any electrical conduction where the current is sustained by the motion of 
+  <A href="i.html#ions">ions</A> (as 
+  opposed to <A 
+  href="e.html#electrons">electrons</A>) 
+  within the conductor. All electrical conduction in the atmosphere is of this 
+  type. 
+  <DT><STRONG>ionic mobility </STRONG>= ion mobility. <A name=ionization></A><A 
+  name=ionize></A><A name=ionized></A>
+  <DT><STRONG>ionization</STRONG> 
+  <DD>The process by which neutral <A 
+  href="a.html#atoms">atoms</A> or groups 
+  of atoms become electrically charged, either positively or negatively, by the 
+  loss or gain of <A 
+  href="e.html#electrons">electrons</A>; or 
+  the state of a substance whose atoms or groups of atoms have become thus 
+  charged. 
+  <DD><I>Ionization is a necessary process to produce propellant ions in <A 
+  href="i.html#ion engines">ion 
+  engines</A>. </I>
+  <DT><STRONG>ionization by collision</STRONG> 
+  <DD>The removal of an orbital <A 
+  href="e.html#electron">electron</A> from 
+  an <A href="a.html#atom">atom</A> or <A 
+  href="m.html#molecule">molecule</A> by an 
+  impacting particle (often, by the absorption of a <A 
+  href="p.html#photon">photon</A>). The 
+  atom or molecule is then left with an excess positive charge, i.e., it is 
+  positively ionized. <A name="ionization chamber"></A>
+  <DT><STRONG>ionization chamber</STRONG> 
+  <DD>An apparatus used to study the production of <A 
+  href="s.html#small ions">small ions</A> 
+  in the atmosphere by <A 
+  href="c.html#cosmic ray">cosmic ray</A> 
+  and radioactive bombardment of air molecules. 
+  <DD><I>The chamber is an airtight container usually cylindrical in shape and 
+  25 to 50 liters in volume. An insulated electrode is centrally located in the 
+  chamber. In operation a potential is applied between the electrode and the 
+  chamber wall. The ions produced in the chamber are collected by the electrode 
+  system and measured by an electrometer. </I><A name="ionization gage"></A>
+  <DT><STRONG>ionization gage</STRONG> 
+  <DD>A <A href="v.html#vacuum gage">vacuum 
+  gage</A> with a means of ionizing the gas molecules and a means of correlating 
+  the number and type of <A 
+  href="i.html#ions">ions</A> produced with 
+  the pressure of the gas. Various types of ionization gage are distinguished 
+  according to the method of producing the ionization. Some common types are: <A 
+  href="h.html#hot-cathode ionization gage">hot-cathode 
+  ionization gage</A>, <A 
+  href="c.html#cold-cathode ionization gage">cold-cathode 
+  ionization gage</A>, <A 
+  href="r.html#radioactive ionization gage">radioactive 
+  ionization gage</A>. <A name="ionization potential"></A>
+  <DT><STRONG>ionization potential</STRONG> 
+  <DD>The energy required to ionize an atom or molecule. The energy is usually 
+  given in terms of electron volts. See <A 
+  href="w.html#work function">work 
+  function</A>, note. <A name=ionizer></A>
+  <DT><STRONG>ionizer</STRONG> 
+  <DD>A filament, grid, or porous body in an ion engine or other device which 
+  strips an electron from the outer shell of a neutral atom to form a positively 
+  charged ion. <A name="ionizer efficiency"></A>
+  <DT><STRONG>ionizer efficiency</STRONG> 
+  <DD>The ratio of the number of <A 
+  href="i.html#ions">ions</A> emitted from 
+  an <A href="i.html#ionizer">ionizer</A> 
+  to the number of neutral atoms entering the ionizer. <A name=ionizing></A>
+  <DT><STRONG>ionizing efficiency</STRONG> 
+  <DD>See <A href="i.html#ion pair">ion 
+  pair</A>, <A 
+  href="i.html#ionizer efficiency">ionizer 
+  efficiency</A>. <A name="ionizing events"></A>
+  <DT><STRONG>ionizing event</STRONG> 
+  <DD>Any interaction by which one or more ions are produced. <A 
+  name="ionizing particles"></A><A name="ionizing radiation"></A><A 
+  name="ionizing radiations"></A>
+  <DT><STRONG>ionizing radiation</STRONG> 
+  <DD>Any electromagnetic or particulate <A 
+  href="r.html#radiation">radiation</A> 
+  capable of producing ions, directly or indirectly, in its passage through 
+  matter. 
+  <DT><STRONG>ion mobility</STRONG> 
+  <DD>In gaseous electric conduction, the average velocity with which a given 
+  ion drifts through a specified gas under the influence of an <A 
+  href="e.html#electric field">electric 
+  field</A> of unit strength. Mobility's are commonly expressed in units of 
+  centimeters per second per volt per centimeter. Also called <I>ionic mobility. 
+  </I>
+  <DD><I>In a vacuum, a single gaseous ion subjected to any nonzero potential 
+  gradient would accelerate indefinitely; but in the midst of a gas the ion 
+  continually experiences collisions with gas molecules. These encounters tend 
+  to break up its trajectory into a series of short intervals of acceleration 
+  punctuated by deflections. The net result is that the ion's gross motion 
+  resembles drift at a uniform velocity. The mobility depends not only upon the 
+  nature of the ion and gas but also upon the density of the gas, for the latter 
+  controls the mean free path of the ion. </I>
+  <DT><STRONG>ionophone</STRONG> 
+  <DD>A <A 
+  href="u.html#unilateral transducer">unilateral 
+  transducer</A> in which the <A 
+  href="s.html#sound">sound</A> output 
+  results from the interaction between an ionic <A 
+  href="p.html#plasma">plasma</A> and the 
+  surrounding sound transmitting medium. <A name=ionosphere></A>
+  <DT><STRONG>ionosphere</STRONG> 
+  <DD>The <A 
+  href="a.html#atmospheric shell">atmospheric 
+  shell</A> characterized by a high ion density. Its base is at about 70 or 80 
+  kilometers and it extends to an indefinite height. 
+  <DD><I>The ionosphere is classically subdivided into layers. Each layer, 
+  except the D-layer, is supposedly characterized by a more or less regular 
+  maximum of electron density. The D-layer exists only in the daytime. It is not 
+  strictly a layer at all, since it does not exhibit a peak of electron or ion 
+  density, starting at about 70 to 80 kilometers and merging with the bottom of 
+  the E-layer. The lowest clearly defined layer is the E-layer, occurring 
+  between 100 and 120 kilometers. The F1-layer and F2-layer occur in the general 
+  region between 150 and 300 kilometers, the F2-layer being always present and 
+  having the higher electron density. The existence of a G-layer has been 
+  suggested, but is questionable. The portions of the ionosphere in which these 
+  layers tend to form are known as ionosphere in which these layers tend to form 
+  are known as ionospheric regions, as in D-region, E-region, F-region, 
+  G-region. Sudden increases in ionization are referred to as sporadic, as in 
+  sporadic E or sporadic D. The above assumption that the ionosphere is 
+  stratified in the vertical into discrete layers is currently under serious 
+  question. Some evidence supports a belief that ion clouds are the basic 
+  elements of the ionosphere. Other investigations appear to reveal the 
+  ionosphere as a generally ionized region characterized by more or less random 
+  fluctuations of electron density. </I><A name=ionospheric></A>
+  <DT><STRONG>ionospheric layer</STRONG> 
+  <DD>See <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  <A name="ionospheric recorder"></A>
+  <DT><STRONG>ionospheric recorder</STRONG> 
+  <DD>A radio device for determining the distribution of <A 
+  href="v.html#virtual height">virtual 
+  height</A> with <A 
+  href="f.html#frequency">frequency</A>, 
+  and the <A 
+  href="c.html#critical frequencies">critical 
+  frequencies</A> of the various <I>layers </I>of the <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  <DD><I>A pulse at a certain frequency is transmitted vertically, and the time 
+  for its return is recorded on an oscilloscope; another pulse at a different 
+  frequency is then transmitted and timed. The process is thus repeated until 
+  the entire frequency range of interest, usually from 1 to 20 megacycles, has 
+  been explored. </I>
+  <DT><STRONG>ionospheric region</STRONG> 
+  <DD>See <A 
+  href="i.html#ionosphere">ionosphere</A>. 
+  <DT><STRONG>ionospheric storm</STRONG> 
+  <DD>Disturbance of the <A 
+  href="i.html#ionosphere">ionosphere</A>, 
+  resulting in anomalous variations in its characteristics and effects on radio 
+  communication. See <A 
+  href="s.html#sudden ionospheric disturbance">sudden 
+  ionospheric disturbance</A>. 
+  <DT><STRONG>ionospheric wave</STRONG> = sky wave. <A name="ion pair"></A>
+  <DT><STRONG>ion pair</STRONG> 
+  <DD>The pair of <A 
+  href="i.html#ions">ions</A>, one 
+  positively and the other negatively charged, formed by the <A 
+  href="i.html#ionization">ionization</A> 
+  of an initially neutral gas atom when it collides with a high-energy <A 
+  href="p.html#particle">particle</A>. 
+  <DD><I>It is customary to measure the ionizing efficiency of cosmic rays and 
+  radioactive materials in terms of the number of ion pairs they produce each 
+  second in 1 cubic centimeter of air. The symbol I is usually employed to 
+  designate the formation of one ion pair per cubic centimeter per second. Thus, 
+  cosmic rays are said to yield about 21 at sea level, and alpha particles from 
+  the radioactive gases contribute about 51 over land areas at the surface. 
+  </I><A name="ion rocket"></A>
+  <DT><STRONG>ion rocket</STRONG> 
+  <DD>See <A href="i.html#ion engine">ion 
+  engine</A>. <A name=iqsy></A>
+  <DT><STRONG>IQSY (abbr) </STRONG>= International Year of the Quiet Sun. 
+  <DT><STRONG>IR (abbr)</STRONG> = infrared or infrared radiation. 
+  <DT><STRONG>iraser</STRONG> 
+  <DD>(Infrared amplification by stimulated emission of radiation). A device 
+  which amplifies in the <A 
+  href="i.html#infrared">infrared</A> band. 
+  See <A href="m.html#maser">maser</A>. <A 
+  name=irradiance></A>
+  <DT><STRONG>irradiance</STRONG> = radiant flux density. 
+  <DT><STRONG>I-scan </STRONG>= I-display. 
+  <DT><STRONG>I-scope </STRONG>= I-display. 
+  <DT><STRONG>isentrope</STRONG> 
+  <DD>A line of equal or constant <A 
+  href="e.html#entropy">entropy</A>. See <A 
+  href="p.html#poisson equation">Poisson 
+  equation</A>. 
+  <DD><I>In meteorology, it may be considered an isopleth of potential 
+  temperature, i.e., the same as a <A 
+  href="d.html#dry adiabat">dry 
+  adiabat</A>. </I><A name=isentropic></A>
+  <DT><STRONG>isentropic</STRONG> 
+  <DD>Of equal or constant <A 
+  href="e.html#entropy">entropy</A> with 
+  respect to either space or time. 
+  <DT><STRONG>isobar</STRONG> 
+  <DD>A line of equal or constant pressure, specifically, such a line in a 
+  weather map. <A name=isobaric></A>
+  <DT><STRONG>isobaric</STRONG> 
+  <DD>Of equal or constant <A 
+  href="p.html#pressure">pressure</A>, with 
+  respect to either space or time. 
+  <DD><I>Because isobar is a common meteorological term, isobaric can be taken 
+  to mean of isobars, therefore leading to some ambiguity. This use should be 
+  avoided. </I><A name="isobaric equivalent temperature"></A>
+  <DT><STRONG>isobaric equivalent temperature</STRONG> 
+  <DD>See <A 
+  href="e.html#equivalent temperature">equivalent 
+  temperature</A>, sense 1. <A name=isochoric></A>
+  <DT><STRONG>isochoric</STRONG> 
+  <DD>Of equal or constant volume, usually applied to a <A 
+  href="t.html#thermodynamic">thermodynamic</A> 
+  process during which the volume of the system remains unchanged. Compare <A 
+  href="i.html#isosteric">isosteric</A>. <A 
+  name="isoclinic line"></A>
+  <DT><STRONG>isoclinic line</STRONG> 
+  <DD>A line through points on the earth's surface having the same <A 
+  href="m.html#magnetic dip">magnetic 
+  dip</A>. See <A 
+  href="a.html#aclinic line">aclinic 
+  line</A>. Compare <A 
+  href="i.html#isogonic line">isogonic 
+  line</A>. <A name="isogonic line"></A>
+  <DT><STRONG>isogonic line</STRONG> 
+  <DD>A line through points on the earth's surface having the same <A 
+  href="m.html#magnetic variation">magnetic 
+  variation</A>. See <A 
+  href="a.html#agonic line">agonic 
+  line</A>. Compare <A 
+  href="i.html#isoclinic line">isoclinic 
+  line</A>. 
+  <DT><STRONG>isogram </STRONG>= isopleth. 
+  <DT><STRONG>isolation</STRONG> 
+  <DD>In <A 
+  href="v.html#vibration">vibration</A> 
+  studies, a reduction in the capacity of a <A 
+  href="s.html#system">system</A> to 
+  respond to an <A 
+  href="e.html#excitation">excitation</A>, 
+  attained by the use of a resilient support. 
+  <DT><STRONG>isolator = vibration isolator.</STRONG> <A name=isomer></A>
+  <DT><STRONG>isomer</STRONG> 
+  <DD>1. One of two or more <A 
+  href="n.html#nuclides">nuclides</A> 
+  having the same <A 
+  href="m.html#mass number">mass number</A> 
+  A and <A 
+  href="a.html#atomic number">atomic 
+  number</A> Z, but existing for measurable times in different <A 
+  href="q.html#quantum">quantum</A> states 
+  with different energies and radioactive properties. 
+  <DD><I>The state of lowest energy is the ground state. Those of higher 
+  energies are metastable states. To indicate the metastable isomer, the letter 
+  m is added to the mass number in the symbol for the nuclide; thus Br<sup>80m</sup>Commonly, the isomer of higher energy decays to 
+  one with lower energy by the process of <A 
+  href="i.html#isometric transition">isometric 
+  transition</A>. </I>
+  <DD>2. One of two or more <A 
+  href="m.html#molecules">molecules</A> 
+  having the same atomic composition and molecular weight, but differing in 
+  geometrical configuration. <A name="isometric transition"></A>
+  <DT><STRONG>isometric transition</STRONG> 
+  <DD>A radioactive transition from one nuclear <A 
+  href="i.html#isomer">isomer</A> to 
+  another of lower energy. 
+  <DD><I>The deexcitation of the nuclei in the metastable state may occur by 
+  gamma emission or by internal conversion followed by emission of X-rays and 
+  Auger electrons, or both. It is a type of forbidden transition. </I>
+  <DT><STRONG>isopleth</STRONG> 
+  <DD>On a chart or graph, a line of constant value of a given quantity with 
+  respect to either space or time. Also called <I>isogram. </I><A 
+  name=isopycnic></A>
+  <DT><STRONG>isopycnic</STRONG> 
+  <DD>Of equal or constant density with respect to either space or time; 
+  equivalent to <A 
+  href="i.html#isosteric">isosteric</A>. 
+  <DT><STRONG>isostasy</STRONG> 
+  <DD>A supposed equality existing in vertical sections of the earth, whereby 
+  the weight of any column from the surface of the earth to a constant depth is 
+  approximately the same as that of any other column of equal area, the 
+  equilibrium being maintained by plastic flow of material from one part of the 
+  earth to another. <A name=isosteric></A>
+  <DT><STRONG>isosteric</STRONG> 
+  <DD>Of equal of constant specific volume with respect to either time or space; 
+  equivalent to <A 
+  href="i.html#isopycnic">isopycnic</A>. 
+  Compare <A 
+  href="i.html#isochoric">isochoric</A>. 
+  <DT><STRONG>isotensoid structure</STRONG> 
+  <DD>A filamentary structure in which the filaments are uniformly stressed 
+  throughout for the design loading condition. <A name=isotherm></A><A 
+  name=isotherms></A>
+  <DT><STRONG>isotherm</STRONG> 
+  <DD>A line of equal or constant <A 
+  href="t.html#temperature">temperature</A>. 
+
+  <DD><I>A distinction is made, infrequently, between a line representing equal 
+  temperature in space, choroisotherm, and one representing constant temperature 
+  in time, chronoisotherm. </I><A name="isothermal atmosphere"></A><A 
+  name=isothermal></A>
+  <DT><STRONG>isothermal atmosphere</STRONG> 
+  <DD>An atmosphere in hydrostatic equilibrium in which the temperature is 
+  constant with height and in which, therefore, the pressure decreases 
+  exponentially upward. In such an atmosphere the thickness between any two 
+  levels is given by 
+  <center>Z<SUB>B</SUB> - Z<SUB>A</SUB> = (R<SUB>d</SUB>T<SUB>v</SUB> /g) ln 
+  (p<SUB>A</SUB>/p<SUB>B</SUB>)</center> where R<SUB>d</SUB> is the gas 
+  constant for dry air; T<SUB>v</SUB> is the virtual temperature 
+  (K); <I>g </I>is the acceleration of gravity, and p<SUB>A</SUB> 
+  and p<SUB>B</SUB> are the pressures at the heights 
+  Z<SUB>A</SUB> and Z<SUB>B</SUB> respectively. In the isothermal atmosphere there 
+  is no finite level at which the pressure vanishes. Also called <I>exponential 
+  atmosphere. </I>See <A 
+  href="b.html#barotropy">barotropy</A>. <A 
+  name="isothermal equilibrium"></A></P>
+  <DT><STRONG>isothermal equilibrium</STRONG> 
+  <DD>The state of an <A 
+  href="a.html#atmosphere">atmosphere</A> 
+  at rest, uninfluenced by any external agency, in which the conduction of heat 
+  from one part to another has, after a sufficient length of time, produced a 
+  uniform temperature throughout its entire mass. Also called <I>conductive 
+  equilibrium. </I>See <A 
+  href="d.html#diffusive equilibrium">diffusive 
+  equilibrium</A>, <A 
+  href="i.html#isothermal atmosphere">isothermal 
+  atmosphere</A>. <A name="isothermal process"></A>
+  <DT><STRONG>isothermal process</STRONG> 
+  <DD>Any <A 
+  href="t.html#thermodynamic">thermodynamic</A> 
+  change of state of a system that takes place at constant temperature. <A 
+  name=isotimic></A>
+  <DT><STRONG>isotimic</STRONG> 
+  <DD>Pertaining to a quality which has equal value in space at a particular 
+  time.
+  <DT><STRONG>isotope</STRONG> 
+  <DD>1. On of several <A 
+  href="n.html#nuclides">nuclides</A> 
+  having the same number of protons in their nuclei, and hence belonging to the 
+  same <A 
+  href="e.html#element">element</A>, but 
+  differing in the number of neutrons and therefore in mass number A, or in 
+  energy content (isomers). For example, <sub>6</sub>C<sub>6</sub><sup>12</sup>,
+  <sub>6</sub>C<sub>7</sub><sup>13</sup>, and <sub>6</sub>C<sub>8</sub><sup>14</sup>
+  are carbon isotopes. Small quantitative 
+  differences in chemical properties exist between isotopes. 
+  <DD>2. A <A 
+  href="r.html#radionuclide">radionuclide</A> 
+  or a preparation of an element with special isotopic composition (allobar) as 
+  an article of commerce, so called because of the principal use of such 
+  materials as radioactive tracers. 
+  <DD>3. In common usage, a synonym for <A 
+  href="n.html#nuclide">nuclide</A> (not 
+  recommended). <A name=isotropic></A>
+  <DT><STRONG>isotropic</STRONG> 
+  <DD>In general, pertaining to a state in which a quantity or spatial 
+  derivatives thereof are independent of direction. Also called <I>isotropous. 
+  </I>
+  <DT><STRONG>isotropic antenna </STRONG>= unipole. <A 
+  name="isotropic radiation"></A>
+  <DT><STRONG>isotropic radiation</STRONG> 
+  <DD><A 
+  href="d.html#diffuse radiation">Diffuse 
+  radiation</A> which has exactly the same intensity in all directions. 
+  <DD><I>This should not be called perfectly diffuse radiation because of the 
+  likelihood of confusion with the concept of a <A 
+  href="p.html#perfectly diffuse radiator">perfectly 
+  diffuse radiator</A>. </I><A name="isotropic radiator"></A>
+  <DT><STRONG>isotropic radiator</STRONG> 
+  <DD>An energy source that radiates uniformly in all directions. Compare <A 
+  href="p.html#perfectly diffuse radiator">perfectly 
+  diffuse radiator.</A> <A name="isotropic turbulence"></A>
+  <DT><STRONG>isotropic turbulence</STRONG> 
+  <DD><A 
+  href="t.html#turbulence">Turbulence</A> 
+  in which the products and squares of the velocity components and their 
+  derivatives are independent of direction, or, more precisely, invariant with 
+  respect to rotation and reflection of the coordinate axes in a coordinate 
+  system moving with the mean motion of the fluid. Then all the normal stresses 
+  are equal and the tangential stresses are zero. 
+  <DD><I>Atmospheric turbulence is generally nonisotropic, although isotropic 
+  turbulence is that most easily produced in wind tunnel experiments and forms 
+  the basis of much of the theoretical analysis of turbulent flow. A related but 
+  less restricted type of turbulence is known as homologous turbulence, in which 
+  the fluctuations differ only in scale at every point in the flow. </I>
+  <DT><STRONG>isotropous = isotropic.</STRONG> </DT>

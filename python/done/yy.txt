@@ -1,0 +1,49 @@
+<DT><STRONG>yagi antenna</STRONG> 
+  <DD>A type of <A   href="d.html#directional antenna">directional 
+  antenna</A> used on some types of radar and radio equipment consisting of an 
+  <A href="a.html#array">array</A> of 
+  elemental, single-wire <A   href="d.html#dipole">dipole</A> antennas 
+  and reflectors. 
+  <DT><STRONG>yard (International)</STRONG> 
+  <DD>Exactly 0.9144 <A   href="m.html#meter">meter</A>. 
+  <DD><I>The U.S. yard before 1 July 1959 was 0.91440183 meter.</I> <A   name=yaw></A>
+  <DT><STRONG>yaw</STRONG> 
+  <DD>1. The rotational or oscillatory movement of an aircraft, rocket, or the 
+  like about a vertical axis. 
+  <DD>2. The amount of this movement, i.e., the angle of yaw. 
+  <DD>3. To cause to <A   href="r.html#rotate">rotate</A> about a 
+  vertical axis. 
+  <DD>4. To <A   href="r.html#rotate">rotate</A> or <A   href="o.html#oscillation">oscillate</A> 
+  about a vertical axis. 
+  <DT><STRONG>yaw angle</STRONG> = angle of yaw. 
+  <DT><STRONG>yaw axis</STRONG> 
+  <DD>A vertical <A   href="a.html#axis">axis</A> through an 
+  aircraft, rocket, or similar body, about which the body <A   href="y.html#yaw">yaws</A>. It may be a 
+  body, wind, or stability axis. Also called a <I>yawing axis</I>. 
+  <DT><STRONG>yawing axis </STRONG>= yaw axis. 
+  <DT><STRONG>yawing moment</STRONG> 
+  <DD>A <A href="m.html#moment">moment</A> 
+  that tends to <A   href="r.html#rotate">rotate</A> an 
+  aircraft, an airfoil, a rocket, etc., about a vertical <A   href="a.html#axis">axis</A>. 
+  <DD><I>The moment is considered positive when it rotates clockwise.</I> <A   name=year></A>
+  <DT><STRONG>year</STRONG> 
+  <DD>A period of one revolution of the earth around the sun. 
+  <DD><I>The period of one revolution with respect to the vernal equinox, 
+  averaging 365 days 5 hours 48 minutes 45.68 seconds in 1955, is called a 
+  tropical, astronomical, equinoctial, natural, or solar year. The period with 
+  respect to the stars, averaging 365 days 6 hours 9 minutes 9.55 seconds in 
+  1955, is called a sidereal year. The period of revolution from perihelion to 
+  perihelion, averaging 365 days 6 hours 13 minutes 53.16 seconds in 1955, is an 
+  anomalistic year. The period between successive returns of the sun to a 
+  sidereal hour angle of 80 degrees is called a fictitious or Besselian year. A 
+  civil year is the calendar year of 365 days in common years, or 366 days in 
+  leap years. A light year is a unit of length equal to the distance light 
+  travels in one year, 9.460 X 10E12 kilometers. The term year is occasionally 
+  applied to other intervals such as an eclipse year, the interval between two 
+  successive conjunctions of the sun with the same node of the moon's orbit, a 
+  period averaging 346 days 14 hours 52 minutes 52.23 seconds in 1955, or a 
+  great or Platonic year, the period of one complete cycle of the equinoxes 
+  around the ecliptic, about 25,800 years.</I> 
+  <DT><STRONG>Young modulus (symbol <I>E </I>)</STRONG> 
+  <DD>The ratio of normal <A   href="s.html#stress">stress</A> within 
+  the proportional limit to the corresponding normal <A   href="s.html#strain">strain</A>. </DD>

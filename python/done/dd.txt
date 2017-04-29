@@ -1,0 +1,1771 @@
+<DT><STRONG>dabble</STRONG> 
+  <DD>See <A   href="d.html#double-dabble">double-dabble</A>. 
+
+  <DT><STRONG>Dalton</STRONG> = <A   href="a.html#atomic mass unit">atomic 
+  mass unit</A>. <A name="dalton law"></A>
+  <DT><STRONG>Dalton law</STRONG> 
+  <DD>The empirical generalization that for many so-called <A   href="p.html#perfect gases">perfect 
+  gases</A>, a mixture of these gases will have a pressure equal to the sum of 
+  the partial pressures that each of the gases would have as sole component with 
+  the same volume and temperature, provided there is no chemical interaction. <A   name="dalton law of partial pressures"></A>
+  <DT><STRONG>Dalton law of partial pressure</STRONG> = <A   href="d.html#dalton law">Dalton law</A>. 
+  <A name=damp></A>
+  <DT><STRONG>damp</STRONG> 
+  <DD>To suppress <A   href="o.html#oscillations">oscillations</A> 
+  or disturbances. 
+  <DT><STRONG>damped natural frequency</STRONG> 
+  <DD>The frequency of free <A   href="v.html#vibration">vibration</A> of 
+  a damped linear system. 
+  <DD><I>The oscillation of a damped system may be considered periodic in the 
+  limited sense that the time interval between zero crossings in the same 
+  direction is constant if the system is linear, even though successive 
+  amplitudes decrease progressively. The frequency of the oscillation is the 
+  reciprocal of this time interval. The damped natural frequency decreases as 
+  the damping increases, and approaches zero as the damping approaches 
+  </I>critical damping. <A name=damped></A><A name="damped wave"></A>
+  <DT><STRONG>damped wave</STRONG> 
+  <DD>Any <A href="w.html#wave">wave</A> 
+  whose <A   href="a.html#amplitude">amplitude</A> 
+  decreases with time or whose total energy decreases by transfer to other 
+  portions of the wave spectrum. <A name=damping></A>
+  <DT><STRONG>damping</STRONG> 
+  <DD>The suppression of <A   href="o.html#oscillations">oscillations</A> 
+  or disturbances; the dissipation of <A   href="e.html#energy">energy</A> with 
+  time. See <A   href="v.html#viscous damping">viscous 
+  damping</A>. 
+  <DT><STRONG>damping factor</STRONG> 
+  <DD>The ratio of the <A   href="a.html#amplitude">amplitude</A> of 
+  any one of a series of damped <A   href="o.html#oscillations">oscillations</A> 
+  to that of the following one at the same phase. 
+  <DT><STRONG>damping ratio</STRONG> 
+  <DD>The ratio of actual <A   href="d.html#damping">damping</A> to <A   href="c.html#critical damping">critical 
+  damping</A>. 
+  <DD><I>It may be expressed as the ratio of output under static conditions to 
+  twice the output at the lowest frequency where a 90° phase shift is observed. 
+  </I><A name="dark adaptation"></A>
+  <DT><STRONG>dark adaptation</STRONG> 
+  <DD>The process by which the iris and retina of the eye adjust to allow 
+  maximum vision in dim illumination, following exposure of the eye to a 
+  relatively brighter illumination. 
+  <DT><STRONG>dark blips</STRONG> 
+  <DD>See <A   href="d.html#dark trace tube">dark trace 
+  tube</A>. <A name="dark trace tube"></A>
+  <DT><STRONG>dark trace tube</STRONG> 
+  <DD>A <A   href="c.html#cathode-ray tube">cathode-ray 
+  tube</A>, on which the face is bright, and signals are displayed as dark <A   href="t.html#traces">traces</A> or dark 
+  <A href="b.html#blips">blips</A>. 
+  <DT><STRONG>dart configuration</STRONG> 
+  <DD>A <A   href="c.html#configuration">configuration</A> 
+  of an <A   href="a.html#aerodynamic vehicle">aerodynamic 
+  vehicle</A> in which the control surfaces are at the tail of the vehicle. 
+  Contrast <I>canard. </I><A name="data-acquisition station"></A><A   name="data-acquisition station"></A>
+  <DT><STRONG>data-acquisition station</STRONG> 
+  <DD>A ground station at which various functions to <A   href="c.html#control">control</A> 
+  satellite operations and to obtain data from the <A   href="s.html#satellite">satellite</A> are 
+  performed. 
+  <DT><STRONG>data link</STRONG> 
+  <DD>Any communications <A   href="c.html#channel">channel</A> or 
+  circuit used to transmit data from a <A   href="s.html#sensor">sensor</A> to a <A   href="c.html#computer">computer</A>, a <A   href="r.html#readout">readout</A> device, 
+  or a <A href="s.html#storage">storage</A> 
+  device. 
+  <DT><STRONG>data point</STRONG> 
+  <DD>A unit of fundamental information obtained through the processing of raw 
+  data. <A name="data processing"></A>
+  <DT><STRONG>data processing</STRONG> 
+  <DD>Application of procedures, mechanical, electrical, computational, or 
+  other, whereby data are changed from one form into another. 
+  <DT><STRONG>data processor</STRONG> 
+  <DD>A machine for handling information in a sequence of reasonable operations. 
+
+  <DT><STRONG>data reduction</STRONG> 
+  <DD>Transformation of observed values into useful, ordered, or simplified 
+  information. 
+  <DT><STRONG>data smoothing</STRONG> 
+  <DD>The mathematical process of fitting a smooth curve to dispersed data 
+  points. <A name=datum></A>
+  <DT><STRONG>datum</STRONG> 
+  <DD>Any numerical or geometrical quantity or set of such quantities which can 
+  serve as a reference or a base for measurement of other quantities. 
+  <DD><I>For a group of statistical references, the plural form is </I>data<I>; 
+  as </I>geographic data<I> for a list of latitudes and longitudes. Where the 
+  concept is geometrical the plural form is datums; as in </I>two geodetic 
+  datums have been used. <A name="datum line"></A>
+  <DT><STRONG>datum line</STRONG> 
+  <DD>Any line which can serve as a reference or <A   href="b.html#base">base</A> for the 
+  measurement of other quantities. 
+  <DT><STRONG>datum plane</STRONG> 
+  <DD>A plane from which angular or linear measurements are reckoned. Also 
+  called <I>reference plane. </I>
+  <DT><STRONG>datum point</STRONG> 
+  <DD>Any point which can serve as a reference or <A   href="b.html#base">base</A> for the 
+  measurement of other quantities. 
+  <DT><STRONG>daughter, daughter element </STRONG>= <A   href="d.html#decay product">decay 
+  product</A>. <A name=day></A>
+  <DT><STRONG>day</STRONG> 
+  <DD>1. The duration of one <A   href="r.html#rotation">rotation</A> of 
+  the earth, or another celestial body, on its axis. 
+  <DD><I>A day is measured by successive transits of a reference point on the 
+  celestial sphere over the meridian, and each type takes its name from the 
+  reference used. Thus, for a </I>solar day<I> the reference is the sun; a 
+  </I>mean solar day<I> if the mean sun; and an </I>apparent solar day<I> if the 
+  apparent sun. For a </I>lunar day<I> the reference is the moon; for 
+  </I>sidereal day<I> the vernal equinox; for a </I>constituent day<I> an astre 
+  fictif or fictitious star. The expression </I>lunar day <I>refers also to the 
+  duration of one rotation of the moon with respect to the sun. A </I>Julian day 
+  <I>is the consecutive number of each day, beginning with January 1, 4713 BC. 
+  </I>
+  <DD>2. A period of 24 hours beginning at a specified time, as the civil day 
+  beginning at midnight, or the astronomical day beginning at noon. 
+  <DT><STRONG>daylight saving time</STRONG> 
+  <DD>See <A href="t.html#time">time</A>. 
+  <DT><STRONG>daytime visual range</STRONG> = <A   href="v.html#visual range">visual 
+  range</A>. <A name="d display"></A><A name=d-display></A>
+  <DT><STRONG>D-display</STRONG> 
+  <DD>In radar, a <A   href="c.html#c-display">C-display</A> in 
+  which the <A   href="b.html#blips">blips</A> extend 
+  vertically to give a rough estimate of distance. Also called <I>D-indicator, 
+  D-scan, D-scope. </I>
+  <DT><STRONG>dead band</STRONG> 
+  <DD>An arrangement incorporated in a <A   href="g.html#guidance">guidance</A> 
+  system which prevents an error from being corrected until that error exceeds a 
+  specified magnitude. <A name="dead reckoning"></A>
+  <DT><STRONG>dead reckoning (abbr DR)</STRONG> 
+  <DD>In navigation, determination of <A   href="p.html#position">position</A> by 
+  advancing a previous known position for <A   href="c.html#courses">courses</A> and 
+  distances. 
+  <DT><STRONG>dead spot</STRONG> 
+  <DD>In a <A   href="c.html#control">control</A> system, 
+  a region centered about the neutral control position where small movements of 
+  the actuator do not produce any response in the system. 
+  <DT><STRONG>dead time</STRONG> 
+  <DD>In a radiation counter, the time interval, after the start of a count, 
+  during which the <A   href="c.html#counter">counter</A> is 
+  insensitive to further <A   href="i.html#ionizing events">ionizing 
+  events</A>. 
+  <DT><STRONG>De Broglie wavelength</STRONG> 
+  <DD>For a particle of mass <I>m </I>and velocity <I>v </I>, the De Broglie <A   href="w.html#wavelength">wavelength</A>, 
+  <IMG src="lambdasm.gif"> = <I>h/mv</I>, where <I>h </I>is <A   href="p.html#planck constant">Planck 
+  constant</A>. <A name=debug></A>
+  <DT><STRONG>debug</STRONG> 
+  <DD>1. To isolate and remove malfunctions from a device, or mistakes from a <A   href="r.html#routine">routine</A> or <A   href="p.html#program">program</A>. 
+  <DD>2. Specifically, in electronic manufacturing, to operate equipment under 
+  specified environmental and test conditions in order to eliminate early 
+  failures and to stabilize equipment prior to actual use. Also called 
+  <I>burn-in. </I><A name="debye length"></A>
+  <DT><STRONG>Debye length</STRONG> 
+  <DD>A theoretical length which describes the maximum separation at which a 
+  given <A   href="e.html#electron">electron</A> will 
+  be influenced by the electric field of a given positive <A   href="i.html#ion">ion</A>. Sometimes 
+  referred to as the <I>Debye shielding distance </I>or <I>plasma length. </I>
+  <DD><I>It is well known that charged particles interact through their own 
+  electric fields. In addition, Debye has shown that the attractive force 
+  between an electron and ion which would otherwise exist for very large 
+  separations is indeed cut off for a critical separation due to the presence of 
+  other positive and negative charges in between. This critical separation or 
+  Debye length decreases for increased plasma density. </I>
+  <DT><STRONG>Debye shielding distance </STRONG>= <A   href="d.html#debye length">Debye 
+  length</A>. 
+  <DT><STRONG>deca</STRONG> = <A   href="d.html#deka">deka</A>. 
+  <DT><STRONG>decade</STRONG> 
+  <DD>1. The interval between any two quantities having the ratio of 10:1. 
+  <DD>2. A group of series of 10. 
+  <DT><STRONG>decade counter</STRONG> 
+  <DD>A <A   href="c.html#counter">counter</A> that 
+  counts to 10 in one column of decimal notation; a <A   href="s.html#scale of 10 counter">scale 
+  of 10 counter</A>. 
+  <DT><STRONG>decametric wave</STRONG> 
+  <DD>See <A   href="f.html#frequency bands">frequency 
+  bands</A>. <A name=decay></A>
+  <DT><STRONG>decay</STRONG> 
+  <DD>Decrease of a <A   href="r.html#radioactive">radioactive</A> 
+  substance because of <A   href="n.html#nuclear">nuclear</A> 
+  emission of alpha or beta particles, positrons, or gamma rays. See <A   href="r.html#radioactivity">radioactivity</A>. 
+  In beta decay, for example, the emission of a <IMG 
+  src="betasm.gif">-particle, i.e., an electron, causes radioactive 
+  change into a daughter element of the same atomic weight as the parent element 
+  but of atomic number higher by 1. 
+  <DT><STRONG>decay constant</STRONG> 
+  <DD>1. = <A   href="a.html#attenuation constant">attenuation 
+  constant</A>. 
+  <DD>2. (<I>symbol <IMG src="lambdasm.gif"></I>) A constant relating 
+  the instant rate of radioactive decay of a <A   href="r.html#radioactive">radioactive</A> 
+  species to the number of atoms <I>N </I>present at a given time <I>t. 
+  </I>Thus, 
+  <P>
+  <CENTER><I>-(<IMG src="partderiv.gif">N / <IMG 
+  src="partderiv.gif">t) = <IMG src="lambdasm.gif">N </I>
+  <P><SUB>If <I>N<SUB>o</SUB> </I>is the number of atoms present at time zero 
+  then</SUB>
+  <P><IMG height=20 src="76deconst.gif" width=79></CENTER><A   name="decay product"></A></P>
+  <DT><STRONG>decay product</STRONG> 
+  <DD>A <A   href="n.html#nuclide">nuclide</A> 
+  resulting from the radioactive disintegration of a <A   href="r.html#radionuclide">radionuclide</A>, 
+  being formed either directly or as the result of successive transformations in 
+  a radioactive series. Also called <I>daughter, daughter element. </I>
+  <DD><I>A decay product may be either radioactive or stable. </I><A   name="decay time"></A>
+  <DT><STRONG>decay time</STRONG> 
+  <DD>1. In computer operations, the time required for a pulse to fall to 
+  one-tenth of its peak value. See <A   href="r.html#rise time">rise time</A>. 
+  <DD>2. In charge-storage tubes, the time interval during which the magnitude 
+  of the stored charge decreases to a stated fraction of its initial value. 
+  <DD><I>The fraction is usually 1/e where e is the base of natural logarithms. 
+  </I>
+  <DD>3. Approximately the lifetime of an orbiting object in a nonstable orbit. 
+  <DD><I><A href="d.html#decay time">Decay 
+  time</A> is usually applied only to objects with short orbit lifetimes caused 
+  by atmospheric drag. </I>
+  <DT><STRONG>decayed object</STRONG> 
+  <DD>An object once, but no longer, in orbit. 
+  <DT><STRONG>Decca</STRONG> 
+  <DD>A long-range, ambiguous, two-dimensional navigation system using 
+  continuous-wave transmission to provide <A   href="h.html#hyperbolic line of position">hyperbolic 
+  lines of position</A> through the radio frequency phase comparison techniques 
+  from four transmitters. 
+  <DD><I>Frequency band, 68 to 150 kilocycles. </I>
+  <DT><STRONG>decelerate</STRONG> 
+  <DD>To cause to move slower; to decrease speed. 
+  <DT><STRONG>deceleration</STRONG> 
+  <DD>The act or process of moving, or of causing to move, with decreasing 
+  speed. Sometimes called <I>negative acceleration. </I><A   name="deceleration parachute"></A>
+  <DT><STRONG>deceleration parachute</STRONG> 
+  <DD>A parachute attached to a craft and deployed to slow the craft, especially 
+  during landing. Also called a <I>brake parachute </I>, <I>drogue parachute, 
+  parabrake. </I>
+  <DT><STRONG>December solstice</STRONG> = <A   href="w.html#winter solstice">winter 
+  solstice</A>. 
+  <DT><STRONG>deci (abbr d)</STRONG> 
+  <DD>A prefix meaning multiplied by 10<SUP>-1</SUP>; one-tenth. <A   name=decibels></A>
+  <DT><STRONG>decibel (abbr db)</STRONG> 
+  <DD>1. A dimensionless measure of the ratio of two <A   href="p.html#power">powers</A>, equal to 
+  10 times the logarithm to the base 10 of the ratio of two powers 
+  P<SUB>1</SUB>/P<SUB>2</SUB>. 
+  <DD>2. One-tenth of a <A   href="b.html#bel">bel</A>. 
+  <DD><I>The power P<SUB>2</SUB> may be some reference power; in electricity, 
+  the reference power is sometimes taken as 1 milliwatt (abbr dbm); in 
+  acoustics, the decibel is often taken as 20 times the common logarithm of the 
+  sound pressure ratio, with the reference pressure as 0.0002 dyne per square 
+  centimeter. </I>
+  <DT><STRONG>decibel per second</STRONG> 
+  <DD>A unit used to measure the <A   href="r.html#rate of decay">rate of 
+  decay</A> of a sound. 
+  <DT><STRONG>decimal coefficient of absorption</STRONG> 
+  <DD>See <A   href="a.html#absorption coefficient">absorption 
+  coefficient</A>. <A name="decimal digit"></A>
+  <DT><STRONG>decimal digit</STRONG> 
+  <DD>1. One of the digits used in decimal notation, i.e., 1,2,3,4,5,6,7,8,9, or 
+  0. 
+  <DD>2. One of 10 possible conditions. <A name="decimal notation"></A>
+  <DT><STRONG>decimal notation</STRONG> 
+  <DD>A mathematical system in which each <A   href="d.html#digit">digit</A> is the 
+  coefficient of some power of 10. <A name="decimal point"></A>
+  <DT><STRONG>decimal point</STRONG> 
+  <DD>The <A href="b.html#base point">base 
+  point</A> in decimal notation. 
+  <DT><STRONG>decimal-to-binary conversion</STRONG> 
+  <DD>The mathematical process of converting a quantity from <A   href="d.html#decimal notation">decimal 
+  notation</A> to the equivalent <A   href="b.html#binary notation">binary 
+  notation</A>. For example: 1 = 1; 7 = 111; 23 = 10111, etc. See <A   href="b.html#binary notation">binary 
+  notation</A>. 
+  <DT><STRONG>decimetric wave</STRONG> 
+  <DD>See <A   href="f.html#frequency bands">frequency 
+  bands</A>. 
+  <DT><STRONG>decimillimetric waves</STRONG> 
+  <DD>See <A   href="f.html#frequency bands">frequency 
+  bands.</A> 
+  <DT><STRONG>decision element</STRONG> 
+  <DD>In computer operations, any device which as the result of the <A   href="i.html#input">input</A> of data 
+  issues one of two or more possible <A   href="i.html#instructions">instructions</A>. 
+  <A name=declination></A><A name=declinations></A>
+  <DT><STRONG>declination</STRONG> 
+  <DD>1. (<I>symbol </I><IMG src="deltasm.gif">) Angular distance north 
+  or south of the <A   href="c.html#celestial equator">celestial 
+  equator</A>; the arc of an <A   href="h.html#hour circle">hour circle</A> 
+  between the celestial equator and a point on the <A   href="c.html#celestial sphere">celestial 
+  sphere</A>, measured northward or southward from the celestial equator through 
+  90 degrees, and labeled N or S to indicate the direction of measurement. 
+  <DD>2. (<I>symbol D</I>) Magnetic declination. See <A   href="e.html#equatorial system">equatorial 
+  system</A>. <A name=decoder></A>
+  <DT><STRONG>decoder</STRONG> 
+  <DD>1. A device for translating electrical <A   href="s.html#signal">signals</A> into 
+  predetermined functions. 
+  <DD>2. In computer operation, a <A   href="n.html#network">network</A> or 
+  device in which one of two or more possible outputs results from a prescribed 
+  combination of inputs. Also called <I>many-to-few matrix. </I>
+  <DT><STRONG>decommutator</STRONG> 
+  <DD>Equipment for separation, <A   href="d.html#demodulation">demodulation</A>, 
+  or demultiplexing commutated signals. See <A   href="c.html#commutator">commutator</A>. 
+  <DT><STRONG>decompression</STRONG> 
+  <DD>The reduction of atmospheric pressure; particularly, various techniques 
+  for preventing <A   href="c.html#caisson disease">caisson 
+  disease</A>. 
+  <DT><STRONG>decompression sickness</STRONG> 
+  <DD>A disorder experienced by deep sea divers and aviators caused by reduced 
+  atmospheric pressure and evolved gas bubbles in the body, marked by pain in 
+  the extremities, pain in the chest (chokes), occasionally leading to serve 
+  central nervous symptoms and neurocirculatory collapse. See <A   href="b.html#bends">bends</A>, <A   href="d.html#dysbarism">dysbarism</A>. 
+  <DT><STRONG>decontamination</STRONG> 
+  <DD>The act of removing chemical, biological, or radiological contamination 
+  from, or neutralizing it on, a person, item, or area. 
+  <DT><STRONG>decoupled</STRONG> 
+  <DD>Of circuits or devices, interconnected through any means which passes only 
+  the static characteristics of a <A   href="s.html#signal">signal</A>. 
+  <DT><STRONG>decrement</STRONG> 
+  <DD>A decrease in the value of a variable. See <A   href="i.html#increment">increment</A>. <A   name="decrement gage"></A>
+  <DT><STRONG>decrement gage</STRONG> 
+  <DD>A gage in which pressure is measured by the rate of decay in amplitude of 
+  the <A   href="o.html#oscillations">oscillations</A> 
+  of an element suspended in the gas and set into motion by external controls. 
+  Also known as <I>decrement viscosity gage </I>or <I>viscosity manometer. </I>
+  <DD><I>Various types of decrement gage are distinguished according to the 
+  design of the oscillating element. </I>
+  <DT><STRONG>decrement viscosity gage</STRONG> = <A   href="d.html#decrement gage">decrement 
+  gage</A>. 
+  <DT><STRONG>definition</STRONG> 
+  <DD>The clarity, fidelity, sharpness, resolution and brilliancy of an image, 
+  as a photographic image. 
+  <DT><STRONG>deflagration</STRONG> 
+  <DD>A sudden or rapid burning, as opposed to a <A   href="d.html#detonation">detonation</A> 
+  or <A   href="e.html#explosion">explosion</A>. 
+  <DT><STRONG>deflecting force</STRONG> = <A   href="c.html#coriolis force">coriolis 
+  force</A>. 
+  <DT><STRONG>deflection-modulated indicator</STRONG> = <A   href="a.html#amplitude-modulated indicator">amplitude-modulated 
+  indicator</A>. <A name="deflection of the vertical"></A>
+  <DT><STRONG>deflection of the vertical</STRONG> 
+  <DD>The angular difference, at any place, between the direction of plumb line 
+  (the <A   href="v.html#vertical">vertical</A>) and 
+  the perpendicular (the normal) to the <A   href="r.html#reference ellipsoid">reference 
+  spheroid</A>. This difference seldom exceeds 30 seconds of arc. Also called 
+  <I>station error. </I>
+  <DD><I>When measured at the earth's surface the deflection of the vertical is 
+  equal to the angle between the <A   href="g.html#geoid">geoid</A> and the 
+  reference spheroid. </I><A name=deflector></A>
+  <DT><STRONG>deflector</STRONG> 
+  <DD>A plate, baffle, or the like that diverts something in its movement or 
+  flow; as: (a) a plate that projects into the airstream on the underside of an 
+  airfoil to divert the airflow, as into a slot-sometimes distinguished from a 
+  <A href="s.html#spoiler">spoiler</A>; (b) 
+  a conelike device placed or fastened beneath a rocket launched from the 
+  vertical position, to deflect the exhaust gases to the sides; (c) any of 
+  several different devices used on jet engines to reverse or divert the exhaust 
+  gases; (d) a <A   href="b.html#baffle">baffle</A> or the 
+  like to deflect and mingle fluids prior to combustion, as in certain jet 
+  engines. 
+  <DT><STRONG>degas</STRONG> 
+  <DD>To remove gas from a material, usually by heating under <A   href="h.html#high vacuum">high 
+  vacuum</A>. Compare <A   href="g.html#get">get</A>. <A   name=degassing></A>
+  <DT><STRONG>degassing</STRONG> 
+  <DD>The deliberate removal of gas from a material, usually by application of 
+  heat under <A   href="h.html#high vacuum">high 
+  vacuum</A>. 
+  <DT><STRONG>degauss</STRONG> 
+  <DD>Slang for <I>demagnetize. </I>
+  <DT><STRONG>degradation</STRONG> 
+  <DD>Gradual deterioration in performance. <A name="degree of freedom"></A>
+  <DT><STRONG>degree of freedom</STRONG> 
+  <DD>1. A mode of motion, either angular or linear, with respect to a <A   href="c.html#coordinate system">coordinate 
+  system</A>, independent of any other mode. 
+  <DD><I>A body in motion has six possible degrees of freedom, three linear and 
+  three angular. </I>
+  <DD>2. Specifically, of a gyro the number of <A   href="o.html#orthogonal axes">orthogonal 
+  axes</A> about which the spin axis is free to rotate. 
+  <DD>3. In an unconstrained dynamic or other system, the number of independent 
+  variables required to specify completely the state of the system at a given 
+  moment. 
+  <DD><I>If the system has constraints, i.e., kinematic or geometric relations 
+  between the variables, each such relation reduces by one the number of degrees 
+  of freedom of the system. In a continuous medium with given boundary 
+  conditions, the number of degrees of freedom is the number of normal modes of 
+  <A   href="o.html#oscillation">oscillation</A>. 
+  </I>
+  <DD>4. Of a mechanical system, the minimum number of independent generalized 
+  <A   href="c.html#coordinates">coordinates</A> 
+  required to define completely the positions of all parts of the system at any 
+  instant of time. 
+  <DD><I>In general, the number of degrees of freedom equals the number of 
+  independent generalized displacements that are possible. </I>
+  <DT><STRONG>Deimos</STRONG> 
+  <DD>A satellite of Mars orbiting at a mean distance of 23,500 kilometers. <A   name=deka></A>
+  <DT><STRONG>deka (abbr da)</STRONG> 
+  <DD>A prefix meaning multiplied by 10. Sometimes spelled deca. 
+  <DT><STRONG>Del, Dlph</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Delphinus. </I>See 
+  <A   href="c.html#constellation">constellation</A>. 
+  <A name="de laval nozzle"></A>
+  <DT><STRONG>de Laval nozzle</STRONG> 
+  <DD>[After Dr. Carl Gustaf Patrik de Laval (1845-1913), Swedish engineer.] A 
+  converging-diverging <A   href="n.html#nozzle">nozzle</A> used in 
+  certain rockets. Also called <I>Laval nozzle. </I>
+  <DT><STRONG>delay</STRONG> 
+  <DD>The time (or equivalent distance) displacement of some characteristic of a 
+  <A href="w.html#wave">wave</A> relative 
+  to the same characteristic of a reference wave; that is, the difference in <A   href="p.html#phase">phase</A> between the 
+  two waves. Compare <A   href="l.html#lag">lag</A>. 
+  <DD><I>In one-way radio propagation, for instance, the phase delay of the 
+  reflected wave over the direct wave is a measure of the extra distance 
+  traveled by the reflected wave in reaching the same receiver. </I>
+  <DT><STRONG>delayed neutrons</STRONG> 
+  <DD><A   href="n.html#neutrons">Neutrons</A> 
+  emitted by excited nuclei in a radioactive process, so called because they are 
+  emitted an appreciable time after the <A   href="f.html#fission">fission</A>. 
+  Compare <A   href="p.html#prompt neutrons">prompt 
+  neutrons</A>. 
+  <DT><STRONG>delayed plan position indicator</STRONG> 
+  <DD>See <A   href="p.html#plan position indicator">plan 
+  position indicator</A>. 
+  <DT><STRONG>delay element</STRONG> 
+  <DD>A device for causing time delay of a <A   href="s.html#signal">signal</A>. See <A   href="d.html#delay line">delay line</A>. 
+  <DT><STRONG>delayer</STRONG> 
+  <DD>A substance mixed in with <A   href="s.html#solid rocket">solid 
+  rocket</A> propellants to decrease the rate of combustion. <A   name="delay line"></A>
+  <DT><STRONG>delay line</STRONG> 
+  <DD>In electronic computers, any device for producing a time delay of a <A   href="s.html#signal">signal</A>. <A   name="delay-line storage"></A>
+  <DT><STRONG>delay-line storage</STRONG> 
+  <DD>A <A   href="s.html#storage">storage</A> or 
+  memory device consisting of a <A   href="d.html#delay line">delay line</A> 
+  and means for regenerating and reinserting information into the delay line. 
+  <DT><STRONG>Dellinger effect </STRONG>= <A   href="f.html#fadeout">fadeout</A>. <A   name=del-operator></A>
+  <DT><STRONG>del-operator </STRONG>(<I>symbol <IMG src="del.gif"> </I>) 
+
+  <DD>The operator used in vector calculus and defined in Cartesian coordinates 
+  as 
+  <CENTER><IMG src="78del.gif"></CENTER>
+  <DT><STRONG>Delphinus (abbr Del, Dlph)</STRONG> 
+  <DD>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>delta ray</STRONG> 
+  <DD>1. An <A   href="e.html#electron">electron</A> 
+  ejected by recoil when a rapidly moving <A   href="a.html#alpha particle">alpha 
+  particle</A> or other charged particle passes through matter. 
+  <DD>2. By extension any secondary ionizing <A   href="p.html#particle">particle</A> 
+  ejected by recoil when a primary particle passes through matter. 
+  <DT><STRONG>delta wing</STRONG> 
+  <DD>A triangularly shaped wing of an aircraft. <A   name="deluge collection pond"></A>
+  <DT><STRONG>deluge collection pond</STRONG> 
+  <DD>A facility at a <A   href="l.html#launch site">launch site</A> 
+  into which used to cool the <A   href="f.html#flame deflector">flame 
+  deflector</A> is flushed as the <A   href="r.html#rocket">rocket</A> begins 
+  its ascent. Also called a <I>skimmer basin. </I><A   name="demand oxygen system"></A>
+  <DT><STRONG>demand oxygen system</STRONG> = <A   href="d.html#demand system">demand 
+  system</A>. <A name="demand system"></A>
+  <DT><STRONG>demand system</STRONG> 
+  <DD>An oxygen system in which oxygen flows to the user during inspiration 
+  only. <A name=demodulation></A>
+  <DT><STRONG>demodulation</STRONG> 
+  <DD>The process of recovering the <A   href="m.html#modulating wave">modulating 
+  wave</A> from a modulated carrier. <A name=demodulator></A>
+  <DT><STRONG>demodulator</STRONG> 
+  <DD>An electronic device which operates on an input of a modulated <A   href="c.html#carrier">carrier</A> to 
+  recover the <A   href="m.html#modulating wave">modulating 
+  wave</A> as an output. 
+  <DT><STRONG>denitrogenation</STRONG> 
+  <DD>The removal of nitrogen dissolved in the blood and body tissues, usually 
+  by breathing of pure oxygen for an extended period of time in order to prevent 
+  <A   href="a.html#aeroembolism">aeroembolism</A> 
+  at high altitudes. 
+  <DT><STRONG>densitometer</STRONG> 
+  <DD>An instrument for the measurement of <A   href="o.html#optical density">optical 
+  density</A> (photographic transmission, photographic reflection, visual 
+  transmission, etc.) of a material, generally of a photographic image. <A   name="density function"></A>
+  <DT><STRONG>density function</STRONG> 
+  <DD>The number of particles per unit volume. See <A   href="d.html#distribution function">distribution 
+  function</A>. 
+  <DT><STRONG>density specific impulse</STRONG> 
+  <DD>The product of the <A   href="s.html#specific impulse">specific 
+  impulse</A> of a <A   href="p.html#propellant">propellant</A> 
+  combination and the average specific gravity of the propellants. 
+  <DT><STRONG>departure </STRONG>= <A   href="d.html#deviation">deviation</A>, 
+  sense 1. 
+  <DT><STRONG>dependent variable</STRONG> 
+  <DD>Any <A   href="v.html#variable">variable</A> 
+  considered as a function of other variables, the latter being called 
+  <I>independent. </I>Compare <A   href="p.html#parameter">parameter</A>. 
+  <DD><I>Whether a given quantity is best treated as a dependent or independent 
+  variable depends upon the particular problem. </I>
+  <DT><STRONG>depletion layer</STRONG> 
+  <DD>In a semiconductor, a region in which the mobile carrier charge density is 
+  insufficient to neutralize the net fixed charge density of <A   href="d.html#donors">donors</A> and <A   href="a.html#acceptors">acceptors</A>. 
+  Also called <I>barrier. </I>
+  <DT><STRONG>deploy</STRONG> 
+  <DD>Of a parachute, to release so as to let it fill out or to unfold and fill 
+  out. <A name="depressed pole"></A>
+  <DT><STRONG>depressed pole</STRONG> 
+  <DD>The <A   href="c.html#celestial pole">celestial 
+  pole</A> below the horizon, of opposite name to the <A   href="l.html#latitude">latitude</A>. 
+  <DD><I>The celestial pole above the horizon is called the elevated pole. </I>
+  <DT><STRONG>depression angle</STRONG> = <A   href="a.html#angle of depression">angle 
+  of depression</A>. 
+  <DT><STRONG>depth perception</STRONG> 
+  <DD>The ability to estimate depth or distance between points in the field of 
+  vision. <A name=derivative></A>
+  <DT><STRONG>derivative data</STRONG> 
+  <DD>Data which have been derived from other data by mathematical techniques. 
+  <DT><STRONG>descending node</STRONG> 
+  <DD>That point at which a planet, planetoid, or comet crosses to the south 
+  side of the <A   href="e.html#ecliptic">ecliptic</A>; that 
+  point at which a <A   href="s.html#satellite">satellite</A> 
+  crosses to the south side of the equatorial plane of its primary. Also called 
+  <I>southbound node. </I>The opposite is <I>ascending node </I>or <I>northbound 
+  node. </I><A name="design gross weight"></A>
+  <DT><STRONG>design gross weight</STRONG> 
+  <DD>The <A   href="g.html#gross weight">gross 
+  weight</A> at take-off that an aircraft, rocket, etc., is expected to have, 
+  used in design calculations. <A name=desorption></A>
+  <DT><STRONG>desorption</STRONG> 
+  <DD>The process of removing <A   href="s.html#sorption">sorbed</A> gas. 
+  <DT><STRONG>destruct</STRONG> 
+  <DD>The deliberate action of destroying a <A   href="r.html#rocket">rocket</A> vehicle 
+  after it has been launched, but before it has completed its course. 
+  <DD><I>Destructs are executed when the rocket gets off its plotted course or 
+  functions in a way so as to become a hazard. </I><A name="destruct line"></A>
+  <DT><STRONG>destruct line</STRONG> 
+  <DD>On a rocket test range, a boundary line on each side of the downrange 
+  course beyond which a rocket cannot fly without being destroyed under destruct 
+  procedures, or a line beyond which the impact point cannot pass. See <A   href="i.html#impact line">impact 
+  line</A>, <A   href="c.html#command destruct">command 
+  destruct</A>. 
+  <DT><STRONG>detached shock </STRONG>= <A   href="d.html#detached shock wave">detached 
+  shock wave</A>. <A name="detached shock wave"></A>
+  <DT><STRONG>detached shock wave</STRONG> 
+  <DD>A <A href="s.html#shock wave">shock 
+  wave</A> not in contact with the body which originates it. See <A   href="b.html#bow wave">bow wave</A>. Also 
+  called <I>detached shock. </I>
+  <DT><STRONG>detachment</STRONG> 
+  <DD>A particular state of isolation in which man is separated or detached from 
+  his accustomed behavioral <A   href="e.html#environment">environment</A> 
+  by inordinate physical and psychological distances. This condition may 
+  compromise his performance. <A name=detection></A>
+  <DT><STRONG>detection</STRONG> 
+  <DD>See <A   href="r.html#recognition">recognition</A>, 
+  note. 
+  <DT><STRONG>detector</STRONG> 
+  <DD>1. = <A   href="s.html#sensor">sensor</A>, sense 1. 
+
+  <DD>2. An instrument employing a sensor, sense 1, to detect the pressure of 
+  something in the surrounding environment. <A name=detonation></A>
+  <DT><STRONG>detonation</STRONG> 
+  <DD>A rapid chemical reaction which propagates at a <A   href="s.html#supersonic">supersonic</A> 
+  velocity. 
+  <DT><STRONG>detonation wave</STRONG> 
+  <DD>A <A href="s.html#shock wave">shock 
+  wave</A> in a combustible mixture, which originates as a <A   href="c.html#combustion wave">combustion 
+  wave.</A> <A name=deuterium></A>
+  <DT><STRONG>deuterium </STRONG>(<I>symbol D, d</I>) 
+  <DD>A heavy isotope of hydrogen having one proton and one neutron in the 
+  nucleus. 
+  <DD><I>The symbol D is often used to designate deuterium in compounds, as HDO 
+  for molecules of that composition. Official chemical nomenclature uses the 
+  designation d with a number which designates the carbon atom to which 
+  deuterium is bound; e.g. 2-d propane designates 
+  CH<MATH><SUB>3</SUB></MATH>CHDCH<MATH><SUB>3</SUB></MATH>. </I><A   name=deuterons></A><A name=deuteron></A>
+  <DT><STRONG>deuteron</STRONG> 
+  <DD>The <A   href="n.html#nucleus">nucleus</A> of a <A   href="d.html#deuterium">deuterium</A> 
+  atom. 
+  <DT><STRONG>deviation</STRONG> 
+  <DD>1. In statistics, the difference between two numbers. Also called 
+  <I>departure. </I>
+  <DD><I>It is commonly applied to the difference of a variable from its mean, 
+  or to the difference of an observed value from a theoretical value. </I>
+  <DD>2. = <A   href="m.html#magnetic deviation">magnetic 
+  deviation</A>. 
+  <DD>3. In radio transmission, the apparent variation of frequency above and 
+  below the unmodulated or center frequency. <A name=dewpoint></A><A   name="dew point"></A>
+  <DT><STRONG>dew point</STRONG> 
+  <DD>The <A   href="t.html#temperature">temperature</A> 
+  to which a given parcel of air must be cooled at constant pressure and 
+  constant water-vapor content in order for saturation to occur; the temperature 
+  at which the saturation <A   href="v.html#vapor pressure">vapor 
+  pressure</A> of the parcel is equal to the actual vapor pressure of the 
+  contained water vapor. Any further cooling usually results in the formation of 
+  dew or frost. Also called <I>dewpoint temperature. </I>
+  <DD><I>When this temperature is below 0° C, it is sometimes called the frost 
+  point. </I>
+  <DT><STRONG>dewpoint temperature</STRONG> = <A   href="d.html#dewpoint">dewpoint</A>. 
+  <DT><STRONG>DF (abbr) </STRONG>= <A   href="d.html#direction finder">direction 
+  finder</A>. 
+  <DD>See <A   href="r.html#radio direction finder">radio 
+  direction finder</A>. <A name="diabatic process"></A>
+  <DT><STRONG>diabatic process</STRONG> 
+  <DD>A process in a <A   href="t.html#thermodynamic">thermodynamic</A> 
+  system in which there is a transfer of heat across the boundaries of the <A   href="s.html#system">system</A>. 
+  <DD>Diabatic process <I>is preferred to </I>nonadiabatic process. 
+  <DT><STRONG>diamonds</STRONG> 
+  <DD>The pattern of <A   href="s.html#shock waves">shock waves</A> 
+  often visible in a <A   href="r.html#rocket">rocket</A> exhaust 
+  which resembles a series of diamond shapes placed end to end. 
+  <DT><STRONG>diaphragm manometer</STRONG> 
+  <DD>A <A   href="d.html#displacement manometer">displacement 
+  manometer</A> employing a flexible diaphragm as the movable partition. 
+  <DT><STRONG>diastolic blood pressure</STRONG> 
+  <DD>The pressure exerted by the blood during periods between cardiac 
+  contraction. 
+  <DT><STRONG>dichotomy</STRONG> 
+  <DD>In astronomy, a <A   href="c.html#configuration">configuration</A> 
+  of three bodies so that they form a right triangle; specifically, such a 
+  configuration in the <A   href="s.html#solar system">solar 
+  system</A> with the sun at the apex of the 90° angle. <A name=dielectric></A>
+  <DT><STRONG>dielectric</STRONG> 
+  <DD>A substance that contains few or no free charges and which can support 
+  electrostatic stresses. 
+  <DD><I>In an electromagnetic field, the centers of the nonpolar molecules of a 
+  dielectric are displaced, and the polar molecules become oriented close to the 
+  field. The net effect is the appearance of charges at the boundaries of the 
+  dielectric. The frictional work done in orientation absorbs energy from the 
+  field which appears as heat. When the field is removed the orientation is lost 
+  by thermal agitation and so the energy is not regained. If free-charge 
+  carriers are present they too can absorb energy. <BR>A good dielectric is one 
+  in which the absorption is a minimum. A vacuum is the only perfect dielectric. 
+  The quality of an imperfect dielectric is its </I>dielectric strength<I>; and 
+  the accumulation of charges within an imperfect dielectric is termed 
+  </I>dielectric absorption. 
+  <DT><STRONG>dielectric absorption</STRONG> 
+  <DD>See <A   href="d.html#dielectric">dielectric</A>. 
+  <A name="dielectric constant"></A>
+  <DT><STRONG>dielectric constant </STRONG>(<I>symbol <IMG 
+  src="epsilonsm.gif"> </I>) 
+  <DD>For a given substance, the ratio of the capacity of a condenser with that 
+  substance as dielectric to the capacity of the same condenser with a vacuum 
+  for dielectric. It is a measure, therefore, of the amount of electrical charge 
+  a given substance can withstand at a given <A   href="e.html#electric field strength">electric 
+  field strength</A>; it should not be confused with <A   href="d.html#dielectric strength">dielectric 
+  strength</A>. 
+  <DD><I>The dielectric constant <IMG src="epsilonsm.gif"> is a function 
+  of temperature and frequency and is written as a complex quantity 
+  <CENTER><IMG height=15 src="80dies.gif" width=69> </CENTER>where <IMG 
+  src="epsilonsm.gif">' is the part that determines the displacement 
+  current and <IMG src="epsilonsm.gif">'' the dielectric absorption (see 
+  <A   href="d.html#dielectric">dielectric</A>). 
+  For a nonabsorbing, nonmagnetic material <IMG src="epsilonsm.gif">' is 
+  equal to the square of the <A   href="i.html#index of refraction">index 
+  of refraction</A> and the relation holds only at the particular frequency 
+  where these conditions apply. </I>
+  <DT><STRONG>dielectric gradient</STRONG> 
+  <DD>The spatial variation of the <A   href="d.html#dielectric constant">dielectric 
+  constant</A> in a substance or medium. 
+  <DD><I>This term is used frequently in reference to the propagation of radio 
+  energy. The magnitude of these gradients and the distance over which they 
+  occur, relative to the wavelength of the incident radiation, determine the 
+  extent to which targets will reflect radar energy. Sufficiently intense 
+  dielectric gradients (or index of refraction gradients) are believed to be the 
+  cause of certain echoes known as angels. </I><A name="dielectric strength"></A>
+  <DT><STRONG>dielectric strength</STRONG> 
+  <DD>A measure of the resistance of a <A   href="d.html#dielectric">dielectric</A> 
+  to electrical breakdown under the influence of strong electric fields; usually 
+  expressed in volts per centimeter. Sometimes called <I>breakdown potential. 
+  </I>
+  <DT><STRONG>difference of latitude</STRONG> 
+  <DD>The shorter arc of any <A   href="m.html#meridian">meridian</A> 
+  between the <A   href="p.html#parallels">parallels</A> of 
+  two places, expressed in angular measure. 
+  <DT><STRONG>difference of longitude</STRONG> 
+  <DD>The smaller angle at the <A   href="p.html#pole">pole</A> or the 
+  shorter arc of a <A   href="p.html#parallel">parallel</A> 
+  between the <A   href="m.html#meridians">meridians</A> of 
+  two places, expressed in angular measure. 
+  <DT><STRONG>differential analyzer</STRONG> 
+  <DD>An <A   href="a.html#analog computer">analog 
+  computer</A> designed and used primarily for solving differential equations. 
+  <DT><STRONG>differential correction</STRONG> 
+  <DD>In celestial mechanics, a method for finding from the observed residuals 
+  minus the computed residuals (O - C) small corrections which, when applied to 
+  the <A   href="o.html#orbital elements">orbital 
+  elements</A> or constants, will reduce the deviations from the observed motion 
+  to a minimum. <A name="differential manometer"></A>
+  <DT><STRONG>differential manometer</STRONG> 
+  <DD>A <A   href="m.html#manometer">manometer</A> 
+  which indicates the pressure difference across two <A   href="p.html#ports">ports</A>. 
+  <DT><STRONG>differential pressure</STRONG> 
+  <DD>The pressure difference between two systems or volumes. 
+  <DT><STRONG>differential thermal analysis</STRONG> 
+  <DD>The technique of detecting <A   href="e.html#endothermic">endothermic</A> 
+  and <A   href="e.html#exothermic">exothermic</A> 
+  phase changes and other processes within a heated material by the 
+  corresponding temperature changes. 
+  <DT><STRONG>differential transducer</STRONG> 
+  <DD>A device which is capable of measuring simultaneously two separate 
+  stimulus sources and which provides an output proportional to the difference 
+  between the stimuli. See <A   href="t.html#transducer">transducer</A>. 
+  <DT><STRONG>differentiator</STRONG> 
+  <DD>1. In computer operations, a device whose output is proportional to the 
+  derivative of an input signal. 
+  <DD>2. In electronics, a <A   href="t.html#transducer">transducer</A> 
+  whose output <A   href="w.html#waveform">waveform</A> is 
+  the time derivative of its input waveform. 
+  <DT><STRONG>diffracted wave</STRONG> 
+  <DD>A wave whose front has been changed in direction by an obstacle or other 
+  nonhomogeneity in a medium, other than by <A   href="r.html#reflection">reflection</A> 
+  or <A   href="r.html#refraction">refraction</A>. 
+  <A name=diffraction></A>
+  <DT><STRONG>diffraction</STRONG> 
+  <DD>The process by which the direction of <A   href="r.html#radiation">radiation</A> is 
+  changed so that it spreads into the geometric shadow region of an opaque or 
+  refractive object that lies in a radiation field. 
+  <DD><I>Diffraction is an optical edge effect. <BR>Reference to Huygens' 
+  principle is a common means of explaining diffraction. Analysis of the 
+  interference between individual Huygens wavelets which originate in the 
+  vicinity of the edge of an irradiated body reveals that detectable amounts of 
+  radiant energy must invade the nominal shadow zone of the object, and there, 
+  by interference, set up characteristic energy distributions known as 
+  diffraction patterns. The amount of diffractive </I>bending<I> experienced by 
+  a ray is a function of wavelength; thus <A   href="d.html#dispersion">dispersion</A> 
+  occurs, although dispersion is in the opposite sense to that produced by 
+  refraction. </I>
+  <DT><STRONG>diffraction propagation</STRONG> 
+  <DD>Wave propagation around objects, or over the horizon, by <A   href="d.html#diffraction">diffraction</A>. 
+
+  <DD><I>Diffraction is due to the fact that from every point in a wave front a 
+  spherical front is generated which falls off in intensity away from the 
+  forward direction. A continuous series of such actions carries radiation 
+  around objects, or around the curvature of the earth, but with rapidly 
+  diminishing intensity. </I><A name=diffuser></A><A name=diffuse></A>
+  <DT><STRONG>diffuser</STRONG> 
+  <DD>A specially designed <A   href="d.html#duct">duct</A>, <A   href="c.html#chamber">chamber</A>, or 
+  section, sometimes equipped with guide vanes, that decreases the velocity of a 
+  fluid, as air, and increases its pressure, as in a jet engine, a wind tunnel, 
+  etc. See <A   href="s.html#supersonic diffuser">supersonic 
+  diffuser</A>. <A name="diffuse radiation"></A>
+  <DT><STRONG>diffuse radiation</STRONG> 
+  <DD><A   href="r.html#radiant energy">Radiant 
+  energy</A> propagating in many different directions through a given small 
+  volume of space; to be contrasted with parallel radiation. 
+  <DD><I>The ideal form of diffuse radiation is <A   href="i.html#isotropic radiation">isotropic 
+  radiation</A>. Careful distinction should be made between this concept and 
+  that of a <A   href="p.html#perfectly diffuse radiator">perfectly 
+  diffuse radiator</A>. </I><A name="diffuse reflection"></A>
+  <DT><STRONG>diffuse reflection</STRONG> 
+  <DD>Any reflection process in which the reflected radiation is sent out in 
+  many directions usually bearing no simple relationship to the angle of 
+  incidence; the opposite of <A   href="s.html#specular reflection">specular 
+  reflection</A>. See <A   href="d.html#diffuse reflector">diffuse 
+  reflector</A>, <A   href="p.html#perfectly diffuse reflector">perfectly 
+  diffuse reflector</A>. 
+  <DD><I>A term frequently applied to the process by which solar radiation is 
+  scattered by dust and other suspensoids in the atmosphere. See <A   href="d.html#diffuse sky radiation">diffuse 
+  sky radiation</A>. </I><A name="diffuse reflector"></A>
+  <DT><STRONG>diffuse reflector</STRONG> 
+  <DD>Any surface which reflects incident rays in a mutliplicity of directions, 
+  either because of irregularities in the surface or because the material is 
+  optically inhomogeneous, as a paint, although optically smooth; the opposite 
+  of a <A   href="s.html#specular reflector">specular 
+  reflector</A>. See <A   href="p.html#perfectly diffuse reflector">perfectly 
+  diffuse reflector</A>. 
+  <DD><I>Ordinary writing papers are good examples of diffuse reflectors, where 
+  as mirrors or highly polished metal plates are examples of specular 
+  reflectors. Almost all terrestrial surfaces (except calm water) act as diffuse 
+  reflectors of incident solar radiation. </I>
+  <DT><STRONG>diffuse skylight</STRONG> = <A   href="d.html#diffuse sky radiation">diffuse 
+  sky radiation</A>. <A name="diffuse sky radiation"></A>
+  <DT><STRONG>diffuse sky radiation</STRONG> 
+  <DD><A   href="s.html#solar radiation">Solar 
+  radiation</A> reaching the earth's surface after having been <A   href="s.html#scatter">scattered</A> from 
+  the direct solar beam by molecules or suspensoids in the atmosphere. Also 
+  called <I>skylight, diffuse skylight, sky radiation. </I>
+  <DD><I>Of the total light removed from the direct solar beam by scattering in 
+  the atmosphere (approximately 25 percent of the incident radiation), about 
+  two-thirds ultimately reaches the earth as diffuse sky radiation. </I>
+  <DT><STRONG>diffuse sound</STRONG> 
+  <DD>Sound <A   href="e.html#energy">energy</A> for which 
+  energy is uniform in the region considered and when all directions of energy 
+  <A href="f.html#flux">flux</A> at all 
+  parts of the region are equally probable. <A name=diffusion></A>
+  <DT><STRONG>diffusion</STRONG> 
+  <DD>In an atmosphere, or in any gaseous system, the exchange of fluid parcels 
+  between regions, in apparently random motions of a scale too small to be 
+  treated by the equations of motion. 
+  <DD>2. In materials, the movement of atoms of one material into the crystal 
+  lattice of an adjoining material, e.g.,penetration of the atoms in a ceramic 
+  coating into the lattice of the protected metal. 
+  <DD>3. In ion engines, the migration of neutral atoms through a porous 
+  structure incident to ionization at the emitting surface. 
+  <DT><STRONG>diffusion coefficient</STRONG> 
+  <DD>The absolute value of the ratio of the <A   href="m.html#molecular flux">molecular 
+  flux</A> per unit area to the concentration gradient of a gas diffusing 
+  through a gas or a porous medium where the molecular flux is evaluated across 
+  a surface perpendicular to the direction of the concentration gradient. See <A   href="d.html#diffusion">diffusion</A>, <A   href="c.html#coefficient of mutual diffusion">coefficient 
+  of mutual diffusion</A>. 
+  <DT><STRONG>diffusion equation</STRONG> 
+  <DD>See <A   href="d.html#diffusivity">diffusivity</A>. 
+
+  <DT><STRONG>diffusion velocity</STRONG> 
+  <DD>1. The relative mean molecular velocity of a selected gas undergoing <A   href="d.html#diffusion">diffusion</A> in 
+  a gaseous atmosphere, commonly taken as a nitrogen (N<SUB>2</SUB>) atmosphere. 
+
+  <DD><I>The diffusion velocity is a molecular phenomenon and depends upon the 
+  gaseous concentration as well as upon the pressure and temperature gradients 
+  present. </I>
+  <DD>2. The velocity or speed with which a turbulent diffusion process proceeds 
+  as evidenced by the motion of individual <A   href="e.html#eddies">eddies</A>. <A   name="diffusive equilibrium"></A>
+  <DT><STRONG>diffusive equilibrium</STRONG> 
+  <DD>The <A   href="s.html#steady state">steady 
+  state</A> resulting from the <A   href="d.html#diffusion">diffusion</A> 
+  process, primarily of interest when external forces or sources and sinks exist 
+  within the field. See <A   href="i.html#isothermal equilibrium">isothermal 
+  equilibrium</A>. <A name=diffusivity></A>
+  <DT><STRONG>diffusivity</STRONG> 
+  <DD>A measure of the rate of <A   href="d.html#diffusion">diffusion</A> of 
+  a substance, expressed as the diffusivity coefficient <I>K</I>. When <I>K</I> 
+  is constant, the diffusion equation is 
+  <CENTER><IMG height=36 src="81difuse.gif" width=74></CENTER>where 
+  <I>q</I> is the substance diffused; <IMG src="del.gif"><SUP>2</SUP> is 
+  the Laplacian operator; and <I>t </I>is time. The diffusivity has dimensions 
+  of a length times a velocity; it varies with the property diffused, and for 
+  any given property it may be considered a constant or a function of 
+  temperature, space, etc., depending on the context. Also called <I>coefficient 
+  of diffusion. </I>See <A   href="c.html#conductivity">conductivity</A>, 
+  <A   href="k.html#kinematic viscosity">kinematic 
+  viscosity</A>, <A   href="e.html#exchange coefficients">exchange 
+  coefficients</A>. 
+  <DD><I>In the case of molecular diffusion the length dimension is the <A   href="m.html#mean free path">mean free 
+  path</A> of the molecules. By analogy, in eddy diffusion, length becomes the 
+  <A href="m.html#mixing length">mixing 
+  length</A>. The coefficient is the called then <I>eddy diffusivity</I>, and is 
+  in general several orders of magnitude larger than the molecular diffusivity. 
+  </I><A name=difluence></A>
+  <DT><STRONG>difluence</STRONG> 
+  <DD>The <A   href="d.html#divergence">divergence</A> 
+  vector of adjacent <A   href="s.html#streamlines">streamlines</A>. 
+  The opposite of <A   href="c.html#confluence">confluence</A>. 
+  <A name=digit></A><A name=digits></A>
+  <DT><STRONG>digit</STRONG> 
+  <DD>1. A single symbol or <A   href="c.html#character">character</A> 
+  representing an integral quantity. 
+  <DD>2. Any one of the symbols used in <A   href="p.html#positional notation">positional 
+  notation</A> as coefficients of each power, or order, of the base. See <A   href="b.html#binary digit">binary 
+  digit</A>, <A   href="d.html#decimal digit">decimal 
+  digit</A>. <A name=digital></A>
+  <DT><STRONG>digital</STRONG> 
+  <DD>Using <A   href="d.html#discrete">discrete</A> 
+  expressions to represent variables. <A name="digital computers"></A><A   name="digital computer"></A>
+  <DT><STRONG>digital computer</STRONG> 
+  <DD>A <A   href="c.html#computer">computer</A> which 
+  operates with information, numerical or otherwise, represented in a <A   href="d.html#digital">digital</A> form. 
+  <DT><STRONG>digital output</STRONG> 
+  <DD><A   href="t.html#transducer">Transducer</A> 
+  output that represents the magnitude of the stimulus in the form of a series 
+  of discrete quantities coded to represent digits in a system of notation. 
+  Compare <A   href="a.html#analog output">analog 
+  output</A>. 
+  <DT><STRONG>digitize</STRONG> 
+  <DD>To express an analog measurement of a variable in <A   href="d.html#discrete">discrete</A> 
+  units. 
+  <DT><STRONG>digitizer</STRONG> 
+  <DD>A device which converts <A   href="a.html#analog">analog</A> data into 
+  numbers expressed in <A   href="d.html#digits">digits</A> in a 
+  system of notation. Also called <I>analog-to-digital converter. </I>
+  <DT><STRONG>dihedral angle</STRONG> 
+  <DD>The acute angle between two intersecting planes or between lines 
+  representative of planes. 
+  <DT><STRONG>D-indicator </STRONG>= <A   href="d.html#d-display">D-display</A>. 
+  <DT><STRONG>Dione</STRONG> 
+  <DD>A satellite of Saturn orbiting at a mean distance of 378,000 kilometers. 
+  <DT><STRONG>dioptric light</STRONG> 
+  <DD>A light concentrated into a collimated beam by means of <A   href="r.html#refraction">refracting</A> 
+  lenses or prisms. 
+  <DD><I>One collimated by means of a reflector is a catoptric light. </I>
+  <DT><STRONG>dip</STRONG> 
+  <DD>1. = <A href="d.html#dip angle">dip 
+  angle</A>. 
+  <DD>2. = <A   href="m.html#magnetic dip">magnetic 
+  dip</A>. <A name="dip angle"></A>
+  <DT><STRONG>dip angle </STRONG>(<I>symbol <IMG src="deltasm.gif"></I>) 
+
+  <DD>The vertical angle between the true horizon and the apparent horizon. 
+  <DT><STRONG>dip equator </STRONG>= <A   href="a.html#aclinic line">aclinic 
+  line</A>. 
+  <DT><STRONG>diplexer</STRONG> 
+  <DD>A device permitting an <A   href="a.html#antenna">antenna</A> system 
+  to be used simultaneously or separated by two transmitters. Compare <A   href="d.html#duplexer">duplexer</A>. <A   name="diplex transmission"></A>
+  <DT><STRONG>diplex transmission</STRONG> 
+  <DD>The simultaneous transmission of two signals using a common <A   href="c.html#carrier wave">carrier 
+  wave</A>. Compare <A   href="d.html#duplex operation">duplex 
+  operation</A>, <A   href="m.html#multiplexing">multiplexing</A>. 
+  <A name=dipole></A><A name=dipoles></A>
+  <DT><STRONG>dipole</STRONG> 
+  <DD>1. A system composed of two, separated, equal electric or magnetic charges 
+  of opposite sign. 
+  <DD>2. = <A   href="d.html#dipole antenna">dipole 
+  antenna</A>. <A name="dipole antenna"></A><A name="dipole antennas"></A>
+  <DT><STRONG>dipole antenna</STRONG> 
+  <DD>A straight <A   href="r.html#radiator">radiator</A>, 
+  usually fed in the center, and producing a maximum of radiation in the plane 
+  normal to its axis. The length specified is the overall length. 
+  <DD><I>Common usage in <A   href="m.html#microwave">microwave</A> 
+  antennas considers a dipole to be a metal radiating structure which supports a 
+  line current distribution similar to that of a thin straight wire, a half <A   href="w.html#wavelength">wavelength</A> 
+  long, so energized that the current has two nodes, one at each of the far 
+  ends. </I>
+  <DT><STRONG>dig pole </STRONG>= <A   href="m.html#magnetic pole">magnetic 
+  pole</A>. <A name="direct air cycle"></A>
+  <DT><STRONG>direct air cycle</STRONG> 
+  <DD>A <A   href="t.html#thermodynamic">thermodynamic</A> 
+  propulsion cycle involving a nuclear <A   href="r.html#reactor">reactor</A> and gas 
+  turbine or ramjet engine, in which air is the <A   href="w.html#working fluid">working 
+  fluid.</A> Also called <I>direct cycle. </I>
+  <DD><I>Air is successively compressed in the compressor section, heated in the 
+  nuclear reactor, and expelled through the turbine-tailpipe section to obtain 
+  thrust. </I><A name="direct-current discharge"></A>
+  <DT><STRONG>direct-current discharge</STRONG> 
+  <DD>The conduction of direct current through two <A   href="e.html#electrodes">electrodes</A> 
+  immersed in a gas. See <A   href="t.html#townsend discharge">Townsend 
+  discharge</A>, <A   href="g.html#glow discharge">glow 
+  discharge</A>, <A   href="a.html#arc discharge">arc 
+  discharge</A>. 
+  <DT><STRONG>direct cycle </STRONG>= <A   href="d.html#direct air cycle">direct air 
+  cycle</A>. <A name="directional antenna"></A>
+  <DT><STRONG>directional antenna</STRONG> 
+  <DD>An <A   href="a.html#antenna">antenna</A> that 
+  radiates or receives radio signals more efficiently in some directions than in 
+  others. See <A   href="a.html#adcock antenna">Adcock 
+  antenna</A>, <A   href="l.html#loop antenna">loop 
+  antenna</A>, <A   href="s.html#sense antenna">sense 
+  antenna</A>. 
+  <DD><I>A group of antennas arranged for this purpose is called an antenna 
+  array. </I>
+  <DT><STRONG>directional array </STRONG>= <A   href="a.html#antenna array">antenna 
+  array</A>. 
+  <DT><STRONG>directional emittance</STRONG> 
+  <DD><A   href="e.html#emittance">Emittance</A> in 
+  a stated direction from a surface. The direction is usually specified as angle 
+  from the normal. 
+  <DT><STRONG>directional gyro</STRONG> 
+  <DD>1. A two-degree-of-freedom <A   href="g.html#gyro">gyro</A> with a 
+  provision for maintaining its spin axis approximately horizontal. 
+  <DD>2. A flight instrument incorporating a gyro that holds its position in <A   href="a.html#azimuth">azimuth</A> and 
+  thus can be used as a directional reference. 
+  <DT><STRONG>directional properties</STRONG> 
+  <DD>1. Of metals, properties whose magnitude varies depending on the relation 
+  of the test axis to a specific direction within the metal. The variation 
+  results from preferred orientation or from fibering of constituents or 
+  inclusions. 
+  <DD>2. For <A   href="t.html#thermal">thermal</A> 
+  radiation properties, in a specified direction from the surface, usually 
+  measured as the angle from the normal. 
+  <DT><STRONG>directional stability</STRONG> 
+  <DD>The property of an aircraft, rocket, etc., enabling it to restore itself 
+  from a <A href="y.html#yaw">yawing</A> or 
+  sideslipping condition. Also called <I>weathercock stability. </I>
+  <DT><STRONG>direction angle</STRONG> 
+  <DD>In tracking, the angle between the antenna <A   href="b.html#baseline">baseline</A> and 
+  an imaginary line connecting the center of the baseline with the target. <A   name="direction cosines"></A>
+  <DT><STRONG>direction cosine</STRONG> 
+  <DD>1. The cosine of the angle formed by the intersection of a line, as a line 
+  of sight to an orbiting body, with an axis of a rectangular coordinate system 
+  with the origin on the line. 
+  <DD><I>Every line has three direction angles and three direction cosines: 1, 
+  m, n corresponding to <IMG src="psism.gif">, <IMG 
+  src="thetasm.gif">, <IMG src="phism.gif">, the direction 
+  angles with the x, y, and z axes. </I>
+  <DD>2. Specifically, in <A   href="t.html#tracking">tracking</A>, the 
+  cosine of the angle between a <A   href="b.html#baseline">baseline</A> and 
+  the line connecting the center of the baseline with the target. <A   name="direction finder"></A>
+  <DT><STRONG>direction finder (abbr DF) </STRONG>= <A   href="r.html#radio direction finder">radio 
+  direction finder</A>. 
+  <DT><STRONG>direction of relative movement</STRONG> 
+  <DD>See <A   href="r.html#relative movement">relative 
+  movement</A>. 
+  <DT><STRONG>directivity</STRONG> 
+  <DD>The ability of an <A   href="a.html#antenna">antenna</A> to 
+  radiate or receive more energy in some directions than in others. See <A   href="b.html#beam">beam</A>. 
+  <DD><I>The directivity of an antenna implies a maximum value, and it is equal 
+  to the ratio of the maximum <A   href="f.html#field intensity">field 
+  intensity</A> to the average field intensity at a given distance. </I>
+  <DT><STRONG>direct motion</STRONG> 
+  <DD>Eastward or counterclockwise motion of a planet or other object as seen 
+  from the North Pole (motion in the direction of increasing <A   href="r.html#right ascension">right 
+  ascension</A>). 
+  <DT><STRONG>direct product </STRONG>= <A   href="s.html#scalar product">scalar 
+  product</A>. 
+  <DT><STRONG>directrix</STRONG> 
+  <DD>An auxiliary line used in the geometrical construction of a <A   href="c.html#conic">conic</A>. <A   name="direct solar radiation"></A>
+  <DT><STRONG>direct solar radiation</STRONG> 
+  <DD>In <A   href="a.html#actinometry">actinometry</A>, 
+  that portion of the radiant energy received at the instrument direct from the 
+  sun, as distinguished from <A   href="d.html#diffuse sky radiation">diffuse 
+  sky radiation</A>, <A   href="e.html#effective terrestrial radiation">effective 
+  terrestrial radiation</A>, or radiation from any other source. See <A   href="g.html#global radiation">global 
+  radiation</A>. 
+  <DD><I>Direct solar radiation is measured by <A   href="p.html#pyrheliometers">pyrheliometers</A>. 
+  </I>
+  <DT><STRONG>direct wave</STRONG> 
+  <DD>A radio <A   href="w.html#wave">wave</A> which travels 
+  directly from the transmitting antenna to the receiving antenna, in contrast 
+  with an indirect wave, which undergoes an abrupt change of direction by <A   href="r.html#refraction">refraction</A> 
+  or reflection. <A name=discharge></A><A name="discharge correction factor"></A>
+  <DT><STRONG>discharge correction factor </STRONG>(<I>symbol <IMG 
+  src="zetasm.gif"><SUB>d</SUB></I>) 
+  <DD>Of a rocket nozzle, the ratio of the <A   href="m.html#mass flow rate">mass flow 
+  rate</A> in the nozzle to that of an <A   href="i.html#ideal nozzle">ideal 
+  nozzle</A> which expands an identical working fluid from the same initial 
+  conditions to the same exit pressure. 
+  <DT><STRONG>discharge tube</STRONG> 
+  <DD>A form of <A   href="c.html#cold-cathode ionization gage">cold-cathode 
+  ionization gage</A> in which the color and form of a cold-cathode discharge, 
+  without the presence of a magnetic field, gives an indication of the pressure 
+  and the nature of the gas. 
+  <DT><STRONG>discone antenna</STRONG> 
+  <DD>An <A   href="a.html#antenna">antenna</A> formed 
+  of a disk and a cone whose apex approaches and becomes common with the outer 
+  conductor or the coaxial feed at its extremity. 
+  <DD><I>The center conductor terminates at the center of the disk which is 
+  perpendicular to the axis of the cone. </I>
+  <DT><STRONG>discontinuity</STRONG> 
+  <DD>A break in sequence or continuity of anything. <A name=discrete></A>
+  <DT><STRONG>discrete</STRONG> 
+  <DD>Composed of distinct or discontinuous elements. 
+  <DT><STRONG>discrete radio source</STRONG> 
+  <DD>A source of small angular extent of <A   href="c.html#cosmic radio waves">cosmic 
+  radio waves</A>. <A name="discrete spectrum"></A>
+  <DT><STRONG>discrete spectrum</STRONG> 
+  <DD>A <A   href="s.html#spectrum">spectrum</A> in 
+  which the component wavelengths (and wave numbers and frequencies) constitute 
+  a <A href="d.html#discrete">discrete</A> 
+  sequence of values (finite or infinite in number) rather than a <A   href="c.html#continuum">continuum</A> of 
+  values. See <A   href="c.html#continuous spectrum">continuous 
+  spectrum</A>. 
+  <DT><STRONG>discrete variable</STRONG> 
+  <DD>A quantity that may assume any one of a number of individually distinct or 
+  separate values. 
+  <DT><STRONG>discriminator</STRONG> 
+  <DD>In general, a <A   href="c.html#circuit">circuit</A> in 
+  which output depends upon the difference between an input signal and a 
+  reference signal. 
+  <DT><STRONG>dish</STRONG> 
+  <DD>A <A   href="p.html#parabolic reflector">parabolic 
+  reflector</A> type of radio or radar <A   href="a.html#antenna">antenna</A>. 
+  <DT><STRONG>dislocation</STRONG> 
+  <DD>In crystallography, a type of lattice imperfection whose existence in 
+  metals is postulated in order to account for the phenomenon of crystal growth 
+  and of slip, particularly for the low value of shear stress required to 
+  initiate <A href="s.html#slip">slip</A>. 
+  <DD><I>One section of the crystal adjacent to the slip plane is assumed to 
+  contain one more atomic plane that the section on the opposite side of the 
+  slip plane. Motion of the dislocation results in displacement of one of the 
+  sections with respect to another. </I><A name=dispersion></A>
+  <DT><STRONG>dispersion</STRONG> 
+  <DD>1. In rocketry (a) deviation from a prescribed <A   href="f.html#flight path">flight 
+  path</A>, (b) specifically, <A   href="c.html#circular dispersion">circular 
+  dispersion</A>. 
+  <DD>2. A measure of the scatter of data points around a mean value or around a 
+  regression curve. 
+  <DD><I>Usually expressed as a standard-deviation estimate, or as a standard 
+  error of estimate. Note that the scatter is not centered around the true value 
+  unless systematic errors are zero. </I>
+  <DD>3. The process in which <A   href="r.html#radiation">radiation</A> is 
+  separated into its component <A   href="w.html#wavelengths">wavelengths</A>. 
+
+  <DD><I>Dispersion results when an optical process, such as <A   href="d.html#diffraction">diffraction</A>, 
+  <A   href="r.html#refraction">refraction</A>, 
+  or <A   href="s.html#scattering">scattering</A>, 
+  varies according to wavelength. </I>
+  <DD>4. In spectroscopy, a measure of the resolving power of a <A   href="s.html#spectroscope">spectroscope</A> 
+  or spectrograph, usually expressed in angstroms per millimeter. 
+  <DD>5. As applied to materials, a scattering of very fine particles (e.g., 
+  ceramics) within the body of a metallic material usually resulting in overall 
+  strengthening of the composite material. 
+  <DT><STRONG>dispersion equation </STRONG>= <A   href="f.html#frequency equation">frequency 
+  equation</A>. 
+  <DT><STRONG>dispersive medium</STRONG> 
+  <DD>A medium in which the <A   href="p.html#phase velocity">phase 
+  velocity</A> of a wave, either <A   href="e.html#electromagnetic">electromagnetic</A> 
+  or <A   href="h.html#hydromagnetic">hydromagnetic</A>, 
+  is a function of the <A   href="f.html#frequency">frequency</A>. 
+  <DD><I>A <A   href="p.html#plasma">plasma</A> is a 
+  dispersive medium whereas <A   href="f.html#free space">free space</A> 
+  is not, since waves of all frequencies travel in free space with the velocity 
+  of light. </I><A name=displacement></A>
+  <DT><STRONG>displacement</STRONG> 
+  <DD>A <A   href="v.html#vector quantity">vector 
+  quantity</A> that specifies the change of position of a body or particle 
+  usually measured from the <A   href="m.html#mean position">mean 
+  position</A> or position of rest. 
+  <DD><I>Displacement can be represented by a rotation vector or translation 
+  vector or both. </I><A name="displacement manometer"></A>
+  <DT><STRONG>displacement manometer</STRONG> 
+  <DD>A <A   href="d.html#differential manometer">differential 
+  manometer</A> which indicates the pressure difference, if any, across a solid 
+  or liquid partition which can be displaced against a restoring force. <A   name=display></A>
+  <DT><STRONG>display</STRONG> 
+  <DD>The graphic presentation of the <A   href="o.html#output">output</A> data of 
+  any device or system. <A name=dissociation></A>
+  <DT><STRONG>dissociation</STRONG> 
+  <DD>The separation of a complex <A   href="m.html#molecule">molecule</A> into 
+  constituents by <A   href="c.html#collision">collision</A> 
+  with a second body, or by absorption of a photon. 
+  <DD><I>The product of dissociation of a molecule is two <A   href="i.html#ions">ions</A>, one 
+  positively charged and one negatively charged. </I><A   name="distance marker"></A>
+  <DT><STRONG>distance marker</STRONG> 
+  <DD>A reference marker indicating distance, particularly such a marker on a 
+  radar indicator, to indicate distance of a target from the radar antenna. On a 
+  plan position indicator it is usually one of a series of concentric circles. 
+  Also called <I>range marker. </I>See <A   href="r.html#range ring">range ring</A>. 
+  <A name="distance measuring equipment"></A>
+  <DT><STRONG>distance measuring equipment (abbr DME)</STRONG> 
+  <DD>A radio aid to navigation which provides distance information by measuring 
+  total round-trip time of transmission from an <A   href="i.html#interrogator">interrogator</A> 
+  to a <A   href="t.html#transponder">transponder</A> 
+  and return. 
+  <DT><STRONG>distorted-angle fabric</STRONG> 
+  <DD>Material of a special, often basketlike weave suitable for <A   href="p.html#pressure suits">pressure 
+  suits</A>. Such fabrics permit a certain amount of flexibility when the suit 
+  is pressurized. <A name=distortion></A>
+  <DT><STRONG>distortion</STRONG> 
+  <DD>1. An undesired change in <A   href="w.html#waveform">waveform</A>. 
+  <DD><I>Noise and certain desired changes in waveform, such as those resulting 
+  from modulation or detection, are not usually classed as distortion. </I>
+  <DD>2. In a system used for transmission or reproduction of sound, a failure 
+  by the system to transmit or reproduce a received waveform with exactness. 
+  <DD>3. An undesired change in the dimensions or shape of a structure as, 
+  <I>distortion of a fuel tank due to abnormal stresses or extreme temperature 
+  gradients. </I><A name="distribution function"></A>
+  <DT><STRONG>distribution function</STRONG> 
+  <DD>The <A   href="d.html#density function">density 
+  function</A> or number of particles per unit volume of <A   href="p.html#phase space">phase 
+  space</A>. The distribution function is a function of the three space 
+  coordinates and the three velocity coordinates. 
+  <DD><I>A point in phase space represents a given position in ordinary space 
+  and a given velocity in <A   href="v.html#velocity space">velocity 
+  space</A>. Therefore, the distribution function evaluated at such a point is 
+  the number or average density of particles per cubic length and cubic velocity 
+  that have the position and the velocity which is represented by the point. 
+  Distribution function represents the average density over a reasonably long 
+  time, or the most probable distribution of particles at a particular time. 
+</I>
+  <DT><STRONG>diurnal</STRONG> 
+  <DD>Having a period of, occurring in, or related to a <A   href="d.html#day">day</A>. 
+  <DT><STRONG>diurnal aberration</STRONG> 
+  <DD><A   href="a.html#aberration">Aberration</A> 
+  caused by the rotation of the earth. The value of diurnal aberration varies 
+  with the latitude of the observer and ranges from zero at the poles to 0.31 
+  second of arc. <A name="diurnal circle"></A>
+  <DT><STRONG>diurnal circle</STRONG> 
+  <DD>The apparent daily path of a <A   href="c.html#celestial body">celestial 
+  body</A>, approximating a <A   href="p.html#parallel of declination">parallel 
+  of declination</A>. 
+  <DT><STRONG>diurnal motion</STRONG> 
+  <DD>The apparent daily motion of a <A   href="c.html#celestial body">celestial 
+  body</A> as observed from a rotating body. <A name=divergence></A>
+  <DT><STRONG>divergence</STRONG> 
+  <DD>1. The expansion or spreading out of a <A   href="v.html#vector">vector</A> field; 
+  also a precise measure thereof. 
+  <DD><I>In mathematical discussion </I>divergence<I> is considered to include 
+  </I>convergence<I>, i.e., negative divergence. </I>
+  <DD>2. A static instability of a lifting surface or of a body on a vehicle 
+  wherein the aerodynamic loads tending to deform the surface or body are 
+  greater than the elastic restoring forces. <A name="divergence theorem"></A>
+  <DT><STRONG>divergence theorem</STRONG> 
+  <DD>The statement that the volume integral of the divergence of a vector, such 
+  as the velocity U, over the volume <I>V</I> is equal to the surface integral 
+  of the normal component of U over the surface <I>s</I> of the volume, often 
+  called the export through the closed surface, provided U and its derivatives 
+  are continuous and single-valued throughout <I>V</I> and <I>s</I>. This may be 
+  written 
+  <CENTER><IMG height=30 src="84diverg.gif" width=199> </CENTER>where n 
+  is a unit vector normal to the element of surface <I>ds</I>, and the symbol 
+  <IMG src="integralpath.gif"> <IMG src="integralpath.gif"> 
+  indicates that the integration is to be carried out over a closed surface. 
+  This theorem is sometimes called <I>Green's </I><I>theorem in the plane 
+  </I>for the case of two-dimensional flow, and <I>Green's theorem in space 
+  </I>for the three-dimensional case described above. Also called <I>Gauss 
+  theorem. </I>
+  <DD><I>The divergence theorem is used extensively in manipulating the 
+  meteorological equations of motion and aerodynamic equations of motion. </I>
+  <DT><STRONG>D-layer</STRONG> 
+  <DD>See <A   href="i.html#ionosphere">ionosphere</A>. 
+  <DT><STRONG>DME (abbr)</STRONG> = <A   href="d.html#distance measuring equipment"><I>d</I>istance 
+  <I>m</I>easuring <I>e</I>quipment</A>. <A name="dobson spectrophotometer"></A>
+  <DT><STRONG>Dobson spectrophotometer</STRONG> 
+  <DD>A photoelectric <A   href="s.html#spectrophotometer">spectrophotometer</A> 
+  which is used in the determination of the ozone content of the atmosphere. The 
+  instrument compares the solar energy at two wavelengths in the <A   href="a.html#absorption band">absorption 
+  band</A> of ozone by permitting the two radiations to fall alternately upon a 
+  photocell. The stronger radiation is then attenuated by an optical wedge until 
+  the photoelectric system of the photometer indicates equality of incident 
+  radiation. The ratio of radiation intensity is obtained by this process and 
+  the ozone content of the atmosphere is computed from the ratio. 
+  <DT><STRONG>docking</STRONG> 
+  <DD>The act of coupling two or more orbiting objects; the operation of 
+  mechanically connecting together, or in some manner bringing together, orbital 
+  payloads. 
+  <DT><STRONG>doghouse</STRONG> 
+  <DD>Slang for a protuberance or blister that houses an instrument or 
+  instruments on an otherwise smooth skin of a <A   href="r.html#rocket">rocket</A>. 
+  <DT><STRONG>dogleg</STRONG> 
+  <DD>A directional turn made in the launch <A   href="t.html#trajectory">trajectory</A> 
+  to produce a more favorable orbit <A   href="i.html#inclination">inclination</A>, 
+  as in <I>Echo I was launched on a dogleg to achieve an orbit inclined 47° to 
+  the equator. </I><A name=donor></A><A name=donors></A>
+  <DT><STRONG>donor</STRONG> 
+  <DD>In transistors, the N-type <A   href="s.html#semiconductor">semiconductor</A>, 
+  the electrode containing impurities which increase the number of available 
+  electrons. Contrast <A   href="a.html#acceptor">acceptor</A>. 
+  <DT><STRONG>doping</STRONG> 
+  <DD>Addition of impurities to a <A   href="s.html#semiconductor">semiconductor</A> 
+  or production of a deviation from <A   href="s.html#stoichiometric">stoichiometric</A> 
+  composition to achieve a desired characteristic. <A   name="doppler broadening"></A>
+  <DT><STRONG>Doppler broadening</STRONG> 
+  <DD>The broadening of either an <A   href="e.html#emission line">emission 
+  line</A> or an <A   href="a.html#absorption line">absorption 
+  line</A> due to random motions of molecules of the gas that is emitting or 
+  absorbing the radiant energy. See <A   href="p.html#pressure broadening">pressure 
+  broadening</A>. 
+  <DD><I>In the case of an emitting gas, for example, those molecules which are 
+  approaching the observer as they emit quanta of radiant energy will, because 
+  of the Doppler effect, appear to send out a train of waves of slightly shorter 
+  wavelength than that characteristic of a stationary molecule, while receding 
+  molecules will appear to emit slightly longer wavelengths. The net effect, 
+  averaged over many molecules, is to superimpose, on the natural line width, a 
+  bell-shaped broadening that is proportional to the square root of the absolute 
+  temperature of the gas. </I><A name=doppler></A><A name="doppler effect"></A>
+  <DT><STRONG>Doppler effect</STRONG> 
+  <DD>The change in <A   href="f.html#frequency">frequency</A> 
+  with which energy reaches a receiver when the receiver and the energy source 
+  are in motion relative to each other. Also called <I>Doppler shift. </I>
+  <DD><I>In the case of sound, or any other wave motion where a real medium of 
+  propagation exists (excepting, therefore, light and other electromagnetic 
+  radiations) one must distinguish two principal cases: If the source is in 
+  motion with speed v relative to a medium which propagates the waves in 
+  question at speed c, then the resting observer receives waves emitted, with 
+  actual frequency f as if they had a frequency f' given by the Doppler equation 
+
+  <CENTER>f ' = f/[1 ± (v/c)] </CENTER>where the positive sign refers to the 
+  case of the source receding from the observer, and the vice versa for the 
+  negative sign. If, on the other hand, the source is at rest relative to the 
+  propagating medium while the observer moves with speed v relative to the 
+  source, 
+  <CENTER>f ' = f '[1± (v/c)] </CENTER>where the positive sign now refers to the 
+  case of observer approaching the source. For electromagnetic radiation, f/f ' 
+  = [1<IMG src="minusplus.gif"> (v/c)]/[1 ± (v/c)] where the top signs 
+  represent the source receding from the observer and the bottom signs, 
+  approaching the observer. </I>
+  <DT><STRONG>Doppler error</STRONG> 
+  <DD>In using <A   href="d.html#doppler radar">Doppler 
+  radar</A>, the error in the measurement of target <A   href="r.html#radial velocities">radial 
+  velocities</A> due to atmospheric refraction. Compare <A   href="r.html#range error">range 
+  error</A>, <A   href="a.html#azimuth error">azimuth 
+  error</A>. 
+  <DD><I>These errors result from (a) the assumption of a constant wave velocity 
+  for a nonhomogeneous atmosphere and (b) the refraction or bending of the rays 
+  such that the ray path does not coincide with the geometrical straight line 
+  between the target and the radar. Errors due to (a) are of no practical 
+  importance, and, as in the case of elevation-angle error, the effects due to 
+  (b) are negligible except for elevation angles near the horizontal. </I>
+  <DT><STRONG>Doppler-Fizeau effect</STRONG> 
+  <DD>The <A   href="d.html#doppler effect">Doppler 
+  effect</A> applied to a source of light. When the distance between the 
+  observer and the source of light is diminishing, the lines of the spectrum are 
+  displaced toward the violet, and, when the distance is increasing, they are 
+  displace toward the red, the displacement being proportional to the relative 
+  velocity of approach or recession. 
+  <DT><STRONG>Doppler navigation</STRONG> 
+  <DD><A href="d.html#dead reckoning">Dead 
+  reckoning</A> performed automatically by a device which gives a continuous 
+  indication of position by integrating the speed derived from measurement of 
+  the Doppler effect of echoes from directed beams of radiant energy transmitted 
+  from the craft. See <A   href="d.html#doppler radar">Doppler 
+  radar</A>. <A name="doppler radar"></A>
+  <DT><STRONG>Doppler radar</STRONG> 
+  <DD>A <A href="r.html#radar">radar</A> 
+  which detects and interprets the <A   href="d.html#doppler effect">Doppler 
+  effect</A> in terms of the <A   href="r.html#radial velocity">radial 
+  velocity</A> of a target. <A name="doppler ranging"></A>
+  <DT><STRONG>Doppler ranging (abbr Doran)</STRONG> 
+  <DD>A continuous-wave <A   href="t.html#trajectory measuring system">trajectory 
+  measuring system</A> which utilizes the <A   href="d.html#doppler effect">Doppler 
+  effect</A> to measure the distances between a transmitter, a rocket 
+  transponder, and several receiving stations. 
+  <DD><I>From these measurements trajectory data are computed. In contrast to 
+  less sophisticated systems, Doran obviates the necessity of continuously 
+  recording the Doppler signal by making simultaneous distance measurements with 
+  four different frequencies. </I><A name="doppler shift"></A>
+  <DT><STRONG>Doppler shift</STRONG> 
+  <DD>1. = <A   href="d.html#doppler effect">Doppler 
+  effect</A>. 
+  <DD>2. The magnitude of the Doppler effect, measured in cycles per second. 
+  <DT><STRONG>Doppler system</STRONG> 
+  <DD>In radar, any system utilizing the <A   href="d.html#doppler effect">Doppler 
+  effect</A> for obtaining information. <A   name="doppler, velocity and position"></A>
+  <DT><STRONG>Doppler, velocity and position (abbr <A   href="d.html#dovap">Dovap</A>)</STRONG> 
+  <DD>A continuous-wave <A   href="t.html#trajectory measuring system">trajectory 
+  measuring system</A> using the <A   href="d.html#doppler effect">Doppler 
+  effect</A> caused by a target moving relative to a ground transmitter and 
+  receiving stations. 
+  <DD><I>The transmitter interrogates a frequency doubling transponder and the 
+  output is received at three or more receiver sites for comparison with the 
+  interrogation frequency. The intersection of ellipsoids formed by the 
+  transmitter and each receiver site provides the spatial position of the 
+  target. </I>
+  <DT><STRONG>Dor, Dora</STRONG> 
+  <DD>International Astronomical Union abbreviations for <I>Dorado. </I>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Dorado (abbr Dor, Dora)</STRONG> 
+  <DD>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Doran (abbr) </STRONG>= <A   href="d.html#doppler ranging"><I>Do</I>ppler 
+  <I>ran</I>ging</A>. 
+  <DT><STRONG>dorsal</STRONG> 
+  <DD>Pertaining to the back. <A name=dosimeter></A>
+  <DT><STRONG>dosimeter</STRONG> 
+  <DD>1. An instrument for measuring the <A   href="u.html#ultraviolet">ultraviolet</A> 
+  in solar and sky radiation. Compare <A   href="a.html#actinometer">actinometer</A>. 
+
+  <DD>2. A device, worn by persons working around radioactive material, which 
+  indicates the <I>dose </I>of radiation to which they have been exposed. 
+  <DT><STRONG>dot product </STRONG>= <A   href="s.html#scalar product">scalar 
+  product</A>. 
+  <DT><STRONG>double amplitude</STRONG> 
+  <DD>In vibration terminology, the total, or peak-to-peak, dimensional 
+  displacement of a vibrating structure. 
+  <DT><STRONG>double-base propellant</STRONG> 
+  <DD>A <A href="s.html#solid rocket">solid 
+  rocket</A> propellant using two unstable compounds, such as nitrocellulose and 
+  nitroglycerin. 
+  <DD><I>The unstable compounds used in a double-base propellant do not require 
+  a separate oxidizer.</I> <A name=double-dabble></A>
+  <DT><STRONG>double-dabble</STRONG> 
+  <DD>A technique for binary to decimal conversion. Starting with the most 
+  significant bit, proceed, bit-by-bit, as follows: If the next bit is 0, double 
+  what you have (double); if the next bit is 1, double what you have and add 1 
+  (dabble). <BR>Thus, 111 (binary) = 7 (decimal) <BR>10111 (binary) = 23 
+  (decimal). <A name=double-entry></A>
+  <DT><STRONG>double-entry compressor</STRONG> 
+  <DD>A <A   href="c.html#centrifugal compressor">centrifugal 
+  compressor</A> that takes in air or fluid on both sides of the impeller, with 
+  vanes on each side to accelerate the fluid into the diffuser. The double-entry 
+  compressor is not a <A   href="m.html#multistage compressor">multistage 
+  compressor</A>. 
+  <DT><STRONG>double-integrating gyro</STRONG> 
+  <DD>A single-degree-of-freedom <A   href="g.html#gyro">gyro</A> having 
+  essentially no restraint of its spin axis about the output axis. In this gyro 
+  an <A href="o.html#output">output</A> 
+  signal is produced by gimbal angular displacement, relative to the base, which 
+  is proportional to the double integral of the angular rate of the base about 
+  the input axis. 
+  <DT><STRONG>double local oscillator</STRONG> 
+  <DD>An <A   href="o.html#oscillator">oscillator</A> 
+  mixing system which generates two radio-frequency signals accurately spaced a 
+  few hundred cycles apart and mixes these signals to give the difference <A   href="f.html#frequency">frequency</A> 
+  which is used as the reference. 
+  <DD><I>This equipment is used in an <A   href="i.html#interferometer">interferometer</A> 
+  system to obtain a detectable signal containing the <A   href="p.html#phase">phase</A> information 
+  of an antenna pair and the reference signal to allow removal of the phase data 
+  for use. </I>
+  <DT><STRONG>double precision</STRONG> 
+  <DD>Of a computer, capable of processing twice as many columns as the number 
+  of <A href="d.html#digits">digits</A> in 
+  the quantities usually processed. See <A   href="p.html#precision">precision</A>. 
+  <DT><STRONG>double sheath</STRONG> 
+  <DD>See <A   href="p.html#plasma sheath">plasma 
+  sheath</A>. 
+  <DT><STRONG>double stars</STRONG> 
+  <DD>Stars which appear as single points of light to the eye but which can be 
+  resolved into two point by a telescope. 
+  <DD><I>A double star is not necessarily a binary, a two-star system revolving 
+  about a common center, but may be an optical double, two unconnected stars in 
+  the same line of sight. </I>
+  <DT><STRONG>doublet</STRONG> 
+  <DD>1. In fluid mechanics, a <A   href="s.html#source">source</A> and a <A   href="s.html#sink">sink</A> of equal 
+  strength whose distance apart is zero. 
+  <DD>2. In spectroscopy, two lines resulting from <A   href="t.html#transitions">transitions</A> 
+  from the same state. <A name=dovap></A>
+  <DT><STRONG>Dovap (abbr) </STRONG>= <A   href="d.html#doppler, velocity and position">Doppler, 
+  velocity and position</A>. <A name="dovap elsse"></A>
+  <DT><STRONG>Dovap elsse</STRONG> 
+  <DD>An <A href="e.html#elsse">elsse</A> 
+  which utilizes the <A   href="d.html#dovap">Dovap</A> transponder 
+  as a signal source. Also called <I>beat-beat Dovap. </I>
+  <DT><STRONG>down range</STRONG> 
+  <DD>The airspace extending downstream on a given rocket test range. 
+  <DT><STRONG>downtime</STRONG> 
+  <DD>A period during which equipment is not operating correctly because of 
+  machine failure. 
+  <DT><STRONG>DR (abbr) </STRONG>= <A   href="d.html#dead reckoning">dead 
+  reckoning</A>. 
+  <DT><STRONG>Dra, Drac</STRONG> 
+  <DD>International Astronomical Union abbreviation for <I>Draco. </I>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>Draco (abbr Dra, Drac)</STRONG> 
+  <DD>See <A   href="c.html#constellation">constellation</A>. 
+
+  <DT><STRONG>dracontic month</STRONG> 
+  <DD>The average period of <A   href="r.html#revolution">revolution</A> 
+  of the moon about the earth with respect to the moon's <A   href="a.html#ascending node">ascending 
+  node</A>, a period of 27 days 5 hours 5 minutes 35.8 seconds, or approximately 
+  27¼ days. Also called <I>nodical month. </I><A name=drag></A>
+  <DT><STRONG>drag </STRONG>(<I>symbol D</I>) 
+  <DD>A retarding force acting upon a body in motion through a <A   href="f.html#fluid">fluid</A>, parallel 
+  to the direction of motion of the body. It is a component of the total fluid 
+  forces acting on the body. See <A   href="a.html#aerodynamic force">aerodynamic 
+  force</A>. <A name="drag coefficient"></A>
+  <DT><STRONG>drag coefficient</STRONG> (<I>symbol C<SUB>D</SUB></I>) 
+  <DD>A coefficient representing the <A   href="d.html#drag">drag</A> on a given 
+  airfoil or other body, or a coefficient representing a particular element of 
+  drag. See <A   href="r.html#rayleigh formula">Rayleigh 
+  formula</A>. 
+  <DT><STRONG>drag parachute</STRONG> 
+  <DD>1. = <A   href="d.html#drogue parachute">drogue 
+  parachute</A>. 
+  <DD>2. Any of various types of parachutes attached to high-performance 
+  aircraft that can be deployed, usually during landings, to decrease speed and 
+  also, under certain flight conditions, to control and stabilize the aircraft. 
+  <DT><STRONG>draperies (abbr D)</STRONG> 
+  <DD>See <A   href="a.html#aurora">aurora.</A> 
+  <DT><STRONG>D-region</STRONG> 
+  <DD>See <A   href="i.html#ionosphere">ionosphere</A>. 
+  <A name=drift></A>
+  <DT><STRONG>drift</STRONG> 
+  <DD>1. The lateral divergence from the prescribed <A   href="f.html#flight path">flight path</A> 
+  of an aircraft, a rocket, or the like, due primarily to the effect of a 
+  crosswind. 
+  <DD>2. A slow movement in one direction of an instrument pointer or other 
+  marker. 
+  <DD>3. A slow change in <A   href="f.html#frequency">frequency</A> of 
+  a radio transmitter. 
+  <DD>4. The angular deviation of the spin axis of a <A   href="g.html#gyro">gyro</A> from a fixed 
+  reference in space. 
+  <DD>5. In semiconductors, the movement of <A   href="c.html#carriers">carriers</A> in an 
+  electric field. <A name="drift mobility"></A>
+  <DT><STRONG>drift mobility</STRONG> 
+  <DD>In a semiconductor, the average drift velocity of <A   href="c.html#carriers">carriers</A> per 
+  unit electric field. 
+  <DD><I>In general, the mobilities of holes and electrons are different. </I>
+  <DT><STRONG>drift rate</STRONG> 
+  <DD>The amount of <A   href="d.html#drift">drift</A>, in any of 
+  its several senses, per unit time. 
+  <DD><I>Drift rate has many specific meanings in different fields. The type of 
+  drift rate should always be specified. </I><A name="drift velocity"></A>
+  <DT><STRONG>drift velocity</STRONG> 
+  <DD>The average velocity of a charged <A   href="p.html#particle">particle</A> in a 
+  <A href="p.html#plasma">plasma</A> in 
+  response to an applied electric field. 
+  <DD><I>The motion of an individual particle is quite erratic as it bounces off 
+  other particles and has its direction continually changed. On the average, 
+  however, a particle will slowly work its way in the direction of the applied 
+  electric force. This velocity is usually much smaller than the random velocity 
+  of the particle between collisions. </I><A name=drogue></A>
+  <DT><STRONG>drogue</STRONG> 
+  <DD>1. A device, usually shaped like a funnel or cone, dragged or towed behind 
+  something and used, e.g., as a sea anchor. 
+  <DD>2. A funnel-shaped part at the end of the hose of a tanker aircraft, used 
+  in air refueling to drag the hose out and stabilize it and to receive the 
+  probe of the receiving aircraft. 
+  <DD>3. = <A   href="d.html#drogue parachute">drogue 
+  parachute</A>. <A name="drogue parachute"></A>
+  <DT><STRONG>drogue parachute</STRONG> 
+  <DD>1. A type of parachute attached to a body, used to slow it down; also 
+  called <I>deceleration parachute </I>or <I>drag parachute. </I>
+  <DD>2. A parachute used specifically to pull something, usually a larger 
+  parachute, out of stowage, as, <I>a drogue parachute deploys a drag parachute. 
+  </I>
+  <DT><STRONG>drogue recovery</STRONG> 
+  <DD>A type of recovery system for space vehicles or space capsules after 
+  initial <A   href="r.html#reentry">reentry</A> into 
+  the atmosphere using deployment of on ore more small parachutes to diminish 
+  speed, to reduce aerodynamic heating, and to stabilize the vehicle so that 
+  larger recovery parachutes can be safely deployed at lower altitudes without 
+  too great an opening shock. 
+  <DT><STRONG>drone</STRONG> 
+  <DD>A remotely controlled <A   href="a.html#aircraft">aircraft</A>. 
+  <DT><STRONG>dropout</STRONG> 
+  <DD>Any <A   href="d.html#discrete">discrete</A> 
+  variation in signal level during the reproduction of recorded data which 
+  results in a data-reduction error. <A name=dropsonde></A>
+  <DT><STRONG>dropsonde</STRONG> 
+  <DD>A <A   href="r.html#radiosonde">radiosonde</A> 
+  equipped with a parachute, dropped from an aircraft to transmit measurements 
+  of atmospheric conditions as it descends. <A name="dry adiabat"></A>
+  <DT><STRONG>dry adiabat</STRONG> 
+  <DD>A line of constant <A   href="p.html#potential temperature">potential 
+  temperature</A> on a thermodynamic diagram. In terms of pressure <I>p </I>, 
+  and specific volume <I>v </I>, the equation for a dry adiabat may be written 
+  <CENTER><I>pv<SUP>c<SUB>p</SUB> /c<SUB>v</SUB></SUP></I> = 
+  Constant</CENTER>where <I>c<SUB>p</SUB></I> and <I>c<SUB>v</SUB></I> are the 
+  specific heats of dry air at constant pressure and volume, respectively. 
+  <DD><I>Meteorologically, the dry adiabat is intended to represent the lifting 
+  of dry air in a dry-adiabatic process. Since this is also an isentropic 
+  process, a dry adiabat is an isentrope. </I>
+  <DT><STRONG>dry-adiabatic atmosphere</STRONG> = <A   href="a.html#adiabatic atmosphere">adiabatic 
+  atmosphere</A>. <A name="dry-adiabatic lapse rate"></A>
+  <DT><STRONG>dry-adiabatic lapse rate</STRONG> 
+  <DD>The rate of decrease of temperature with height of a parcel of dry air 
+  lifted adiabatically through the earth's atmosphere in hydrostatic 
+  equilibrium. 
+  <DD><I>This lapse rate is g/c<SUB>p</SUB>, where g is the acceleration of 
+  gravity and c<SUB>p</SUB> is the specific heat of dry air at constant 
+  pressure; numerically equal to 9.767° C per kilometer or about 5.4° F per 
+  thousand feet. 
+  <DD><A   href="p.html#potential temperature">Potential 
+  temperature</A> is constant with height in an atmosphere with this lapse rate. 
+  </I><A name="dry emplacement"></A>
+  <DT><STRONG>dry emplacement</STRONG> 
+  <DD>A <A   href="l.html#launch emplacement">launch 
+  emplacement</A> that has no provision for water cooling during launch. Compare 
+  <A href="w.html#wet emplacement">wet 
+  emplacement</A>. <A name="dry friction damping"></A>
+  <DT><STRONG>dry friction damping</STRONG> = <A   href="c.html#coulomb damping">coulomb 
+  damping</A>. 
+  <DT><STRONG>dry weight</STRONG> 
+  <DD>The weight of a <A   href="r.html#rocket">rocket</A> vehicle 
+  without its fuel. Compare take-off weight. 
+  <DD><I>This term, appropriate especially for <A   href="l.html#liquid rockets">liquid 
+  rockets</A>, is sometimes considered to include the <A   href="p.html#payload">payload</A>. </I>
+  <DT><STRONG>D-scan </STRONG>= <A   href="d.html#d-display">D-display</A>. 
+  <DT><STRONG>D-scope </STRONG>= <A   href="d.html#d-display">D-display</A>. 
+  <DT><STRONG>DSIF (abbr)</STRONG> 
+  <DD><I>D</I>eep <I>S</I>pace <I>I</I>nstrumentation <I>F</I>acility. A 
+  worldwide network of tracking stations operated for the NASA by the Jet 
+  Propulsion Laboratory. 
+  <DT><STRONG>dual modulation</STRONG> 
+  <DD>The process of modulating a single <A   href="c.html#carrier wave">carrier 
+  wave</A> or <A   href="s.html#subcarrier">subcarrier</A> 
+  by two different types of <A   href="m.html#modulation">modulation</A> 
+  (e.g., amplitude and frequency-modulation) each conveying separate 
+  information. <A name="dual thrust"></A>
+  <DT><STRONG>dual thrust</STRONG> 
+  <DD>A rocket <A   href="t.html#thrust">thrust</A> derived 
+  from two <A   href="p.html#propellant">propellant</A> 
+  grains using the same propulsion section of a missile. 
+  <DD><I>The dual-thrust technique is considered to provide what is in effect a 
+  two-stage propulsion system without the disadvantages of jettisoning the 
+  booster unit and with the advantages of lower weight and shorter length. </I>
+  <DT><STRONG>dual-thrust motor</STRONG> 
+  <DD>A <A   href="s.html#solid-propellant rocket engine">solid-propellant 
+  rocket engine</A> built to obtain <A   href="d.html#dual thrust">dual 
+  thrust</A>. 
+  <DD><I>In a single chamber unit the booster propellant grain may be bonded to 
+  the sustainer grain, with the thrust level regulated by mechanically changing 
+  the nozzle throat area or by using different grain compositions or 
+  configurations. In a dual-chamber unit, the separate chambers may be arranged 
+  in tandem, or concentrically. </I><A name=duct></A>
+  <DT><STRONG>duct</STRONG> 
+  <DD>Specifically, a tube or passage that confines and conducts a fluid, as a 
+  passage for the flow of air to the compressor of a gas-turbine engine, a pipe 
+  leading air to a supercharger, etc. <A name="ducted fan"></A>
+  <DT><STRONG>ducted fan</STRONG> 
+  <DD>1. A <A href="f.html#fan">fan</A> 
+  enclosed in a <A   href="d.html#duct">duct</A>. 
+  <DD>2. = <A   href="d.html#ducted-fan engine">ducted-fan 
+  engine</A>. <A name="ducted-fan engine"></A>
+  <DT><STRONG>ducted-fan engine</STRONG> 
+  <DD>An aircraft engine incorporating a <A   href="f.html#fan">fan</A> or propeller 
+  enclosed in a <A   href="d.html#duct">duct</A>; especially, 
+  a <A href="j.html#jet engine">jet 
+  engine</A> in which an enclosed fan or propellant is used to ingest ambient 
+  air to augment the gases of combustion in the jetstream. 
+  <DD><I>The air may be taken in at the front of the engine and passed around 
+  the combustion section, or it may be taken in aft of the combustion chamber. 
+  In the former case the ducted fan may be considered a type of bypass engine. 
+  </I>
+  <DT><STRONG>ducted rocket </STRONG>= <A   href="r.html#rocket ramjet">rocket 
+  ramjet</A>. 
+  <DT><STRONG>ducting</STRONG> 
+  <DD>The trapping of an <A   href="e.html#electromagnetic wave">electromagnetic 
+  wave</A>, in a <A   href="w.html#waveguide">waveguide</A> 
+  action, between two layers of the <A   href="a.html#atmosphere">atmosphere</A>, 
+  or between a layer of the atmosphere and the earth's surface. See <A   href="r.html#refractivity">refractivity</A>, 
+  <A href="t.html#total refraction">total 
+  refraction</A>. 
+  <DD><I>Ducting is likely to occur where the gradient of the <A   href="i.html#index of refraction">index 
+  of refraction</A> exceeds 48 N-units per 1000 feet of altitude. </I><A   name="duct propulsion"></A>
+  <DT><STRONG>duct propulsion</STRONG> 
+  <DD>A means of propelling a vehicle by ducting a surrounding <A   href="f.html#fluid">fluid</A> through an 
+  engine, adding <A   href="m.html#momentum">momentum</A> by 
+  mechanical or thermal means, and ejecting the fluid to obtain a reactive 
+  force. Compare <A   href="r.html#rocket propulsion">rocket 
+  propulsion</A>. 
+  <DT><STRONG>dummy</STRONG> 
+  <DD>1. In computer operations, an artificial and intrinsically useless unit of 
+  information inserted solely to fulfill certain prescribed conditions such as 
+  word length or block length. 
+  <DD>2. In rocketry, an inert <A   href="s.html#stage">stage</A>, i.e., no 
+  propellant. 
+  <DT><STRONG>dummy antenna</STRONG> 
+  <DD>A device which has the necessary impedance characteristics of an <A   href="a.html#antenna">antenna</A> and the 
+  necessary power-handling capabilities, but which does not <A   href="r.html#radiation">radiate</A> or 
+  receive radio waves. Also called artificial antenna. 
+  <DD><I>In receiver practice, that portion of the impedance not included in the 
+  signal generator is often called dummy antenna. </I>
+  <DT><STRONG>dump</STRONG> 
+  <DD>In computer operations, (a) to destroy intentionally or accidentally 
+  stored information, (b) to transfer all or part of the contents of one section 
+  of <A href="s.html#storage">storage</A> 
+  into another section. <A name=duplexer></A>
+  <DT><STRONG>duplexer</STRONG> 
+  <DD>A device which permits a single <A   href="a.html#antenna">antenna</A> system 
+  to be used for both transmitting and receiving. 
+  <DD>Duplexer<I> should not be confused with </I>diplexer<I>, a device 
+  permitting an antenna system to be used simultaneously or separately by two 
+  transmitters. </I><A name="duplex operation"></A>
+  <DT><STRONG>duplex operation</STRONG> 
+  <DD>The operation of associated transmitting and receiving apparatus in which 
+  the processes of transmission and reception are concurrent. Compare <A   href="d.html#diplex transmission">diplex 
+  transmission</A>. <A name=dust></A>
+  <DT><STRONG>dust</STRONG> 
+  <DD>In meteor terminology, finely divided solid matter, with particle sizes in 
+  general smaller than micrometeorites, as <I>meteoric dust, meteoritic dust. 
+  </I>
+  <DT><STRONG>duty factor</STRONG> 
+  <DD>1. In computer operations, the ratio of active time to total time. 
+  <DD>2. In a pulse carrier composed of pulses that recur at regular intervals, 
+  the product of the <A   href="p.html#pulse duration">pulse 
+  duration</A> and the pulse repetition <A   href="f.html#frequency">frequency</A>. 
+  <DT><STRONG>duty ratio</STRONG> 
+  <DD>In a <A   href="p.html#pulse radar">pulse radar</A> 
+  or similar system the ratio of average to peak pulse power. 
+  <DT><STRONG>dye marker</STRONG> 
+  <DD>A substance which, when placed in water, spreads out and colors the water 
+  immediately surrounding so as to make a spot readily visible from the air. <A   name=dynamic></A>
+  <DT><STRONG>dynamical friction</STRONG> 
+  <DD>1. The drag force between electrons and ions drifting with respect to each 
+  other. 
+  <DD><I>In a fully ionized <A   href="p.html#plasma">plasma</A>, 
+  collisions between electrons and ions are small angle <A   href="c.html#coulomb collisions">Coulomb 
+  collisions</A> and they produce a velocity-dependent drag force which is 
+  called dynamical friction. </I>
+  <DD>2. Sliding friction, in contrast to <A   href="s.html#static">static</A> friction. 
+  <A name="dynamical mean sun"></A>
+  <DT><STRONG>dynamical mean sun</STRONG> 
+  <DD>A fictitious sun conceived to move eastward along the ecliptic at the 
+  average rate of the <A   href="a.html#apparent sun">apparent 
+  sun</A>. See <A   href="m.html#mean sun">mean sun</A>. 
+  <DD><I>The dynamical mean sun and the apparent sun occupy the same position in 
+  January, when the earth is <A   href="a.html#at perihelion">at 
+  perihelion</A>. </I>
+  <DT><STRONG>dynamic balance</STRONG> 
+  <DD>The condition which exists in a rotating body when the axis about which it 
+  is forced to rotate, or to which reference is made, is parallel with a 
+  principal axis of inertia. No products of inertia about the center of gravity 
+  of the body exist in relation to the selected rotational axis. 
+  <DD><I>Dynamic unbalance may be expressed in terms of slug-foot squared (or 
+  equivalent weight * length squared units) or in terms of inclination of the 
+  principal axis from the reference axis. </I><A name="dynamic height"></A>
+  <DT><STRONG>dynamic height</STRONG> 
+  <DD>The height of a point in the <A   href="a.html#atmosphere">atmosphere</A> 
+  expressed in a unit proportional to the <A   href="g.html#geopotential">geopotential</A> 
+  at that point. Since the geopotential at altitude <I>z </I>is numerically 
+  equal to the work done when a particle of unit mass is lifted from sea level 
+  up to this height, the dimensions of dynamic height are those of <A   href="p.html#potential energy">potential 
+  energy</A> per unit mass. Also called <I>geodynamic height. </I>
+  <DD><I>The standard unit of dynamic height H<SUB>d</SUB> is the dynamic meter 
+  (or geodynamic meter), defined as 10 meters per second squared; it is related 
+  to the geopotential <IMG src="phisms.gif">, the geometric height z in 
+  meters, and the geopotential height Z in geopotential meters by 
+  <CENTER><I>d<IMG src="phisms.gif">= 10d H<SUB>d</SUB> = </I>9.8<I>dZ = 
+  gdz</I></CENTER>where g is the acceleration of gravity in meters per second 
+  squared. (Some sources prefer to give the constants 10 and 9.8 the units of 
+  meters per second squared so that the units of <IMG src="phisms.gif"> 
+  and Z would be the same as those of the geometric height.) The dynamic meter 
+  is about 2 percent longer than the geometric meter and the geopotential meter. 
+  One of the practical advantages of the dynamic height over the geometric 
+  height is that when the former is introduced into the hydrostatic equation the 
+  variable acceleration of gravity is eliminated. In meteorological height 
+  calculations, <A   href="g.html#geopotential height">geopotential 
+  height</A> is more often used than dynamic height. </I>
+  <DT><STRONG>dynamic load</STRONG> 
+  <DD>A load imposed by dynamic action, as distinguished from a static load. 
+  Specifically, with respect to aircraft, rockets, or spacecraft, a load due to 
+  an acceleration of craft, as imposed by gusts, by maneuvering, by landing, by 
+  firing rockets, etc. <A name="dynamic meteorology"></A>
+  <DT><STRONG>dynamic meteorology</STRONG> 
+  <DD>The study of atmospheric motions as solutions of the fundamental equations 
+  of hydrodynamics or other systems of equation appropriate to special 
+  situations. <A name="dynamic meter"></A>
+  <DT><STRONG>dynamic meter</STRONG> 
+  <DD>The unit of measurement of <A   href="d.html#dynamic height">dynamic 
+  height</A>. Also called <I>geodynamic meter. </I>
+  <DT><STRONG>dynamic model</STRONG> 
+  <DD>A model of an aircraft or other object having its linear dimensions and 
+  its weight and <A   href="m.html#moment of inertia">moments 
+  of inertia</A> reproduced in scale in proportion to the original. 
+  <DT><STRONG>dynamic parallax</STRONG> 
+  <DD>A value for the <A   href="p.html#parallax">parallax</A> of a 
+  <A href="b.html#binary star">binary 
+  star</A> computed from the observations of the period and angular dimensions 
+  of the orbit by assuming a value for the mass of the binary system. Also 
+  called <A   href="h.html#hypothetical parallax">hypothetical 
+  parallax</A>. <A name="dynamic pressure"></A>
+  <DT><STRONG>dynamic pressure </STRONG>(<I>symbol q</I>) 
+  <DD>The <A   href="p.html#pressure">pressure</A> of a 
+  fluid resulting from its motion, equal to one-half the fluid density times the 
+  fluid velocity squared (1/2pV<SUP>2</SUP>). In incompressible flow, dynamic 
+  pressure is the difference between <A   href="t.html#total pressure">total 
+  pressure</A> and <A   href="s.html#static pressure">static 
+  pressure</A>. Also called <I>kinetic pressure. </I>Compare <A   href="i.html#impact pressure">impact 
+  pressure</A>. 
+  <DT><STRONG>dynamic response </STRONG>= <A   href="f.html#frequency response">frequency 
+  response</A>. 
+  <DT><STRONG>dynamic scale</STRONG> 
+  <DD>The scale of the flow about a model relative to a flow about its 
+  prototype. 
+  <DD><I>If two such flows have the same <A   href="r.html#reynolds number">Reynolds 
+  number</A>, both flows are said to be at the same dynamic scale. </I>
+  <DT><STRONG>dynamic similarity</STRONG> 
+  <DD>The relationship existing between a model and its prototype when, by 
+  virtue of similarity between their geometric dimensions and mass distributions 
+  or elastic characteristics, the motion of the model in some respect (such as 
+  linear velocity, acceleration, vibration, flutter, etc.) is similar to the 
+  motion of the prototype; also, the similarity between the fluid flow about a 
+  scale model and its prototype when the flows have the same <A   href="r.html#reynolds number">Reynolds 
+  number</A>. 
+  <DT><STRONG>dynamic stability</STRONG> 
+  <DD>The characteristics of a body, such as an aircraft or rocket, that causes 
+  it, when disturbed from an original state of steady flight or motion, to <A   href="d.html#damp">damp</A> the 
+  oscillations set up by restoring moments and gradually return to its original 
+  state; specifically, the <A   href="a.html#aerodynamic">aerodynamic</A> 
+  characteristics. 
+  <DT><STRONG>dynamic storage</STRONG> 
+  <DD>In computer operations, information <A   href="s.html#storage">storage</A> in 
+  which the information is continuously changing position, as, for example, 
+  <I>delay-line storage</I>, or <I>magnetic-drum storage. </I>
+  <DD>In computer programming, memory allocated and deallocated as needed on the 
+  fly, also <I>dynamic memory allocation</I>. <A name="dynamic viscosity"></A>
+  <DT><STRONG>dynamic viscosity</STRONG> 
+  <DD>Of a fluid, the ratio of the <A   href="s.html#shear strength">shearing 
+  stress</A> to the <A   href="s.html#shear">shear</A> of the 
+  motion. It is independent of the velocity distribution, the dimensions of the 
+  system, etc., and for a gas it is independent of pressure except at very low 
+  pressures. Also called <I>coefficient of molecular viscosity, coefficient of 
+  viscosity. </I>
+  <DD><I>For the dynamic viscosity <I>µ</I> of a perfect gas, the kinetic theory 
+  of gases gives 
+  <CENTER><IMG height=21 src="89dyvis.gif" width=94> </CENTER>where <IMG 
+  src="rhosm.gif"> is the gas density, c is the average speed of the 
+  random heat motion of the gas molecules and is proportional to the square root 
+  of the temperature, and <IMG src="lbar.gif"> is the mean free path. 
+  For dry air at 0° C, the dynamic viscosity is about 1.7 * 10<SUP>-4</SUP> gram 
+  per centimeter per second. 
+  <DD>Whereas the dynamic viscosity of most gases increases with increasing 
+  temperature, that of most liquids, including water, decreases rapidly with 
+  increasing temperature. </I>
+  <DT><STRONG>dynamometer</STRONG> 
+  <DD>An instrument for measuring <A   href="p.html#power">power</A> or force; 
+  specifically, an instrument for measuring the power, torque, or <A   href="t.html#thrust">thrust</A> of an 
+  aircraft engine or rocket. See <A   href="t.html#thrust meter">thrust 
+  meter</A>. 
+  <DT><STRONG>dynamo theory</STRONG> 
+  <DD>The hypothesis, first proposed by Balfour Stewart, which explains the 
+  regular daily variations in the earth's magnetic field in terms of electrical 
+  currents in the lower <A   href="i.html#ionosphere">ionosphere</A>, 
+  generated by tidal motions of ionized air across the earth's <A   href="m.html#magnetic field">magnetic 
+  field</A>. 
+  <DT><STRONG>dynamotor</STRONG> 
+  <DD>A machine combining motor and generator action in a single <A   href="m.html#magnetic field">magnetic 
+  field</A>, either with two armatures or with one armature having two separate 
+  windings. 
+  <DT><STRONG>dyne</STRONG> 
+  <DD>That unbalanced force which acting for 1 second on a body of 1 gram mass 
+  produces a velocity change of 1 centimeter per second. 
+  <DD><I>The dyne is the unit of force in the CGS system.</I> <A   name=dynodes></A>
+  <DT><STRONG>dynode</STRONG> 
+  <DD>In an electron tube, an <A   href="e.html#electrode">electrode</A> 
+  which performs a useful function by means of secondary <A   href="e.html#emission">emission</A>. <A   name=dysbarism></A>
+  <DT><STRONG>dysbarism</STRONG> 
+  <DD>A condition of the body resulting from the existence of a pressure 
+  differential between the total <A   href="a.html#ambient">ambient</A> 
+  pressure and the total pressure of dissolved and free gases within the body 
+  tissues, fluids, and cavities. 
+  <DD><I>Characteristic symptoms, other than <A   href="h.html#hypoxia">hypoxia</A>, caused 
+  by decreased barometric pressure are <A   href="b.html#bends">bends</A> and 
+  abdominal gas pains at altitudes above 25,000 to 30,000 feet. Increased 
+  barometric pressure, as in descent from high altitude is characterized by 
+  painful distention of the ear drums. </I>
+  <DT><STRONG>dyspnea</STRONG> 
+  <DD>Difficult or labored breathing. </DD>

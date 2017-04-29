@@ -4,6 +4,12 @@
   	require_once("header.php");
 ?> 
 
+<div id="foot">
+<?php
+	db_search($conn);
+?>
+</div>
+
 <?
   require_once("footer.php");
 ?> 

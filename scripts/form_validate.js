@@ -8,6 +8,9 @@ frmvalidator.addValidation("Email","req","Please provide your email");
 frmvalidator.addValidation("Username","req","Please create your Username");
 frmvalidator.addValidation("Password","req","Please create your Password");
 frmvalidator.addValidation("RePassword","req","Please reenter your Password");
+frmvalidator.addValidation("Month","dontselect=month","Please select month");
+frmvalidator.addValidation("Day","dontselect=day","Please select day");
+frmvalidator.addValidation("Year","dontselect=year","Please select year");
 //validate email
 frmvalidator.addValidation("Email","email","Please enter valid email");
 //validate Name

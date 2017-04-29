@@ -3,19 +3,18 @@
   $css_file = "login";
   require_once("header.php");
 ?> 
-
     <div id="foot">
       <div class="sl">
         <h2> &nbsp;Register</h2><br><br>
         <form id = "register" method = "post" action = "login.php">
           <input style='margin-top: 50px;' name='FirstName' type='text' placeholder="First Name"><br>
-          <span id = "register_FirstName_errorloc"></span>
+          <span class = "lastik" id = "register_FirstName_errorloc"></span>
 
           <input name='LastName' type='text' placeholder="Last Name"><br>
-          <span id = "register_LastName_errorloc"></span>
+          <span class = "lastik" id = "register_LastName_errorloc"></span>
 
           <input name='Email' type='text' placeholder="Email"><br>
-          <span id = "register_Email_errorloc">
+          <span class = "lastik" id = "register_Email_errorloc">
             <?php 
               if ($reg_err == 2) {
                 echo "This email is already used";
@@ -24,7 +23,7 @@
           </span>
 
           <input name='Username' type='text' placeholder="Username"><br>
-          <span id = "register_Username_errorloc">
+          <span class = "lastik" id = "register_Username_errorloc">
             <?php 
               if ($reg_err == 1) {
                 echo "This username is already taken";
@@ -33,13 +32,13 @@
           </span>
 
           <input name='Password' type='password' placeholder="Password"><br>
-          <span id = "register_Password_errorloc"></span>
+          <span class = "lastik" id = "register_Password_errorloc"></span>
 
           <input name='RePassword' type='password' placeholder="Re-Enter password"><br>
-          <span id = "register_RePassword_errorloc"></span><br />
-<!--
-          <select aria-label="Month" name="month" title="Month">
-            <option value="month">Month</option>
+          <span class = "lastik" id = "register_RePassword_errorloc"></span><br />
+
+          <select aria-label="Month" name="Month" title="Month">
+            <option value = "month" selected = "true" disabled>Month</option>
             <option value="1">1</option>
             <option value="2">2</option>
             <option value="3">3</option>
@@ -54,8 +53,8 @@
             <option value="12">12</option>
           </select>
 
-          <select>
-            <option value="day">Day</option>
+          <select aria-label="Day" name="Day" title="Day">
+            <option value="day" selected = "true" disabled>Day</option>
             <option value="1">1</option>
             <option value="2">2</option>
             <option value="3">3</option>
@@ -89,8 +88,8 @@
             <option value="11">31</option>
           </select>
 
-          <select>
-            <option value="year">Year</option>
+          <select aria-label="Year" name="Year" title="Year">
+            <option value="year" selected = "true" disabled>Year</option>
             <option value="2000">2000</option>
             <option value="1999">1999</option>
             <option value="1998">1998</option>
@@ -105,6 +104,11 @@
             <option value="1989">1989</option>
           </select><br>
 
+          <span class = "lastik" id = "register_Month_errorloc"></span><br />
+          <span class = "lastik" id = "register_Day_errorloc"></span><br />
+          <span class = "lastik" id = "register_Year_errorloc"></span><br />
+
+<!--
           <select class='gcc' name = 'Gender'>
             <option value="">Gender</option>
             <option value="female">Female</option>
@@ -123,7 +127,7 @@
         <h2> &nbsp;  Log In</h2><br><br>
         <form id = "login" method = "post" action = "login.php">
           <input style='margin-top: 50px;' name='LUsername' type='text' placeholder="Username"><br>
-          <span id = "login_LUsername_errorloc">
+          <span class = "lastik" id = "login_LUsername_errorloc">
             <?php 
               if ($log_err == 1) {
                 echo "Wrong Username";
@@ -133,7 +137,7 @@
           </span>
 
           <input name='LPassword' type='password' placeholder="Password"><br>
-          <span id = "login_LPassword_errorloc">
+          <span class = "lastik" id = "login_LPassword_errorloc">
             <?php 
               if ($log_err == 2) {
                 echo "Wrong Password";
@@ -143,8 +147,8 @@
           <input type="submit" value="Log In">
         </form>
       </div>
-    </div> 
-    <script type='text/javascript' src='scripts/reg_validate.js'></script>
+    </div>
+    <script type='text/javascript' src='scripts/form_validate.js'></script>
 
 <?php
   require_once("footer.php");

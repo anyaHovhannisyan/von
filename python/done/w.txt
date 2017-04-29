@@ -1,0 +1,488 @@
+<DT><STRONG>walk-around bottle</STRONG> 
+  <DD>A personal supply of oxygen for the use of crewmembers when temporarily 
+  disconnected from the craft's system. 
+  <DT><STRONG>walled plain</STRONG> 
+  <DD>See <A 
+  href="l.html#lunar crater">lunar 
+  crater</A>, note. <A name=wander></A>
+  <DT><STRONG>wander</STRONG> 
+  <DD>Short for <A 
+  href="a.html#apparent wander">apparent 
+  wander</A>. 
+  <DT><STRONG>waning moon</STRONG> 
+  <DD>The moon between full and new when its visible part is decreasing. See <A 
+  href="p.html#phases of the moon">phases 
+  of the moon</A>. 
+  <DT><STRONG>warhead</STRONG> 
+  <DD>Originally the part of a missile carrying the explosive, chemical, or 
+  other charge intended to damage the enemy. By extension, the term is sometimes 
+  used as synonymous with <I>payload </I>or <I>nose cone </I>. 
+  <DT><STRONG>warmup time</STRONG> 
+  <DD>The time interval required for a <A 
+  href="g.html#gyro">gyro</A> to reach 
+  specified performance from the instant that it is energized. <A 
+name=water></A>
+  <DT><STRONG>water</STRONG> 
+  <DD>Dihydrogen oxide (molecular formula H20). The word is used ambiguously to 
+  refer to the chemical compound in general and to its liquid <A 
+  href="p.html#phase">phase</A>; when the 
+  former is meant, the term <I>water substance </I>is often used. 
+  <DD><I>Water is distinguished from other common terrestrial substances in 
+  existing in all three phases at atmospheric temperatures and pressures (see <A 
+  href="i.html#ice">ice</A>, <A 
+  href="w.html#water vapor">water 
+  vapor</A>). The phase changes, are of great significance in many geophysical 
+  processes. The same is true of the large specific heat of liquid water and ice 
+  relative to both land surface and atmosphere. Water's complex absorption 
+  spectrum gives rise to the <A 
+  href="g.html#greenhouse effect">greenhouse 
+  effect</A>. </I>
+  <DT><STRONG>waterfall effect </STRONG>= Lenard effect. <A 
+  name="water-flow pyrheliometer"></A>
+  <DT><STRONG>water-flow pyrheliometer</STRONG> 
+  <DD>An absolute <A 
+  href="p.html#pyrheliometer">pyrheliometer</A>, 
+  developed by C. G. Abbot, in which the radiation-sensing element is a 
+  blackened water <A 
+  href="c.html#calorimeter">calorimeter</A>. 
+
+  <DD><I>It consists of a cylinder blackened on the interior and surrounded by a 
+  special chamber through which water flows at a constant rate. The temperatures 
+  of the incoming and outgoing water, which are monitored continuously by 
+  thermometers, are used to compute the intensity of the radiation. This 
+  instrument is used by the Smithsonian Institution as its standard instrument. 
+  </I>
+  <DT><STRONG>water substance</STRONG> 
+  <DD>See <A href="w.html#water">water</A>. 
+
+  <DT><STRONG>water suit</STRONG> 
+  <DD>A <A href="g.html#g-suit">g-suit</A> 
+  in which the fluid used in the interlining is a liquid, thereby automatically 
+  approximating the required hydrostatic pressure gradient under acceleration. 
+  <A name="water vapor"></A>
+  <DT><STRONG>water vapor</STRONG> 
+  <DD>Water (H2O) in gaseous form. Also called <I>aqueous vapor </I>. See <A 
+  href="v.html#vapor">vapor</A>. 
+  <DD><I>The amount of water vapor present in a given gas sample may be 
+  expressed in a number of ways. See <A 
+  href="a.html#absolute humidity">absolute 
+  humidity</A>, <A 
+  href="m.html#mixing ratio">mixing 
+  ratio</A>, <A 
+  href="d.html#dewpoint">dewpoint</A>, <A 
+  href="r.html#relative humidity">relative 
+  humidity</A>, <A 
+  href="s.html#specific humidity">specific 
+  humidity</A>, <A 
+  href="v.html#vapor pressure">vapor 
+  pressure</A>. </I><A name=water-vapor></A>
+  <DT><STRONG>water-vapor absorption</STRONG> 
+  <DD>The absorption of certain wavelengths of <A 
+  href="i.html#infrared radiation">infrared 
+  radiation</A> by atmospheric <A 
+  href="w.html#water vapor">water 
+  vapor</A>. See <A 
+  href="a.html#absorption band">absorption 
+  band</A>. 
+  <DD><I>The water-vapor absorption spectrum is composed of bands near 1.4, 1.8, 
+  2.7, and 6.3 microns and a series of bands beginning at 11 microns and growing 
+  stronger with increasing wavelength. </I><A name=watt></A>
+  <DT><STRONG>watt (abbr w, W)</STRONG> 
+  <DD>The unit of power in the <A 
+  href="m.html#mksa">MKSA</A> system; that 
+  power which produces energy at the rate of 1 <A 
+  href="j.html#joule">joule</A> per second. 
+  <A name=wave></A><A name=waves></A>
+  <DT><STRONG>wave</STRONG> 
+  <DD>A disturbance which is propagated in a medium in such a manner that at any 
+  point in the medium the <A 
+  href="q.html#quantity">quantity</A> 
+  serving as measure of disturbance is a function of the time, while at any 
+  instant the <A 
+  href="d.html#displacement">displacement</A> 
+  at a point is a function of the position of the point. 
+  <DD><I>Any physical quantity that has the same relationship to some 
+  independent variable (usually time) that a propagated disturbance has, at a 
+  particular instant, with respect to space, may be called a wave. </I><A 
+  name="wave equation"></A>
+  <DT><STRONG>wave equation</STRONG> 
+  <DD>The partial differential equation of the form 
+  <center><img src="waveeq.gif"></center> where <img src="lapeq2.gif" align=center> is usually a function of the position and time 
+  coordinates; <img src="del.gif"><sup>2</sup> is the Laplacian operator; <I>t </I>is the time; 
+  and C<sup>2</sup> is a constant. Also called <I>equation of wave 
+  motion </I>. See <A 
+  href="w.html#wave">wave</A>, <A 
+  href="g.html#gravity wave">gravity 
+  wave</A>. 
+  <DD><I>The general solution to this equation is any function defined over a 
+  plane, the phase front, moving perpendicular to itself at the speed c. </I><A 
+  name="wave filter"></A>
+  <DT><STRONG>wave filter</STRONG> 
+  <DD>A <A 
+  href="t.html#transducer">transducer</A> 
+  for separating <A 
+  href="w.html#waves">waves</A> on the 
+  basis of their <A 
+  href="f.html#frequency">frequency</A>. It 
+  introduces relatively small loss to waves in one or more frequency bands and 
+  relatively large loss to waves of other frequencies. Also called <I>filter 
+  </I>. <A name=waveform></A>
+  <DT><STRONG>waveform</STRONG> 
+  <DD>The graphical representation of a <A 
+  href="w.html#wave">wave</A>, showing 
+  variation of <A 
+  href="a.html#amplitude">amplitude</A> 
+  with time. <A name="wave fronts"></A><A name="wave front"></A>
+  <DT><STRONG>wave front</STRONG> = phase front. <A name=waveguide></A>
+  <DT><STRONG>waveguide</STRONG> 
+  <DD>A system of boundaries capable of guiding wave. 
+  <DT><STRONG>wave interference</STRONG> 
+  <DD>The phenomenon which results when waves of the same or nearly the same <A 
+  href="f.html#frequency">frequency</A> are 
+  superposed; characterized by a spatial or temporal distribution of <A 
+  href="a.html#amplitude">amplitude</A> of 
+  some specified characteristic differing from that of the individual superposed 
+  waves. Also called <I>interference </I>. <A name="wave length"></A><A 
+  name=wavelength></A><A name=wavelengths></A>
+  <DT><STRONG>wavelength</STRONG> <A name=wavelength></A>
+  <DD>In general, the mean distance between maximums (or minimums) of a roughly 
+  <A href="p.html#periodic">periodic</A> 
+  pattern. Specifically, the least distance between particles moving in the same 
+  <A href="p.html#phase">phase</A> of <A 
+  href="o.html#oscillation">oscillation</A> 
+  in a <A href="w.html#wave">wave</A> 
+  disturbance. 
+  <DD><I>The wavelength is measured along the direction of propagation of the 
+  wave, usually from the midpoint of a crest (or trough) to the midpoint of the 
+  next adjoining crest (or trough). It is related to frequency f and phase speed 
+  v by &lambda; = v / f , where &lambda; is wavelength. The reciprocal of wavelength is 
+  the <A href="w.html#wave number">wave 
+  number</A>. </I>
+  <DT><STRONG>wavelets</STRONG> 
+  <DD>See <A 
+  href="h.html#huygens wavelets">Huygens 
+  wavelets</A>. <A name="wave motion"></A>
+  <DT><STRONG>wave motion</STRONG> 
+  <DD>The oscillatory motion of the particles of a medium caused by the passage 
+  of a <A href="w.html#wave">wave</A>, 
+  produced by forces external to the medium, but propagated through the medium 
+  by internal forces. Wave motion per se involves no net translation of the 
+  medium. 
+  <DD><I>Various types of <A 
+  href="o.html#oscillation">oscillation</A> 
+  are found in natural wave motions. Among the simplest are the linear 
+  oscillation parallel to the direction of propagation of a longitudinal wave, 
+  the linear oscillation perpendicular to the direction of propagation of a 
+  transverse wave, and the orbital motion produced by the passage of a 
+  progressive gravity wave. </I><A name="wave number"></A>
+  <DT><STRONG>wave number (symbol <img src="vbar.gif">)</STRONG> 
+  <DD>The reciprocal of <A 
+  href="w.html#wavelength">wavelength</A>; 
+  the number of waves per unit distance in the direction of <A 
+  href="p.html#propagation">propagation</A>; 
+  or, sometimes 2&pi; times this quantity. 
+  <DD><I>In spectroscopy, wave number is usually expressed in reciprocal 
+  centimeters, as 100,000 cm<sup>-1</sup> (100,000 per centimeter). </I>
+  <DT><STRONG>wave of translation</STRONG> 
+  <DD>A <A href="w.html#wave">wave</A> in 
+  which the individual particles of the medium are shifted in the direction of 
+  wave travel, as ocean waves in shoal waters; in contrast with an <A 
+  href="o.html#oscillatory wave">oscillatory 
+  wave</A>, in which only the form advances, the individual particles moving in 
+  closed orbits, as ocean waves in deep water. 
+  <DT><STRONG>wave speed</STRONG> = phase velocity. <A 
+  name="wave theory of light"></A>
+  <DT><STRONG>wave theory of light</STRONG> 
+  <DD>See <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A>. <A name="wave trains"></A><A name="wave train"></A>
+  <DT><STRONG>wave train</STRONG> 
+  <DD>A limited series of <A 
+  href="w.html#waves">waves</A> caused by a 
+  periodic disturbance of short duration, e.g., the radiofrequency waves in a 
+  single pulse, or a succession of pulses themselves. 
+  <DT><STRONG>wave velocity </STRONG>= <A 
+  href="p.html#phase velocity">phase 
+  velocity</A>. 
+  <DT><STRONG>web</STRONG> 
+  <DD>The wall of a grain or propellant with an internal cavity. <A 
+  name=weber></A>
+  <DT><STRONG>weber (abbr wb)</STRONG> 
+  <DD>The unit of <A 
+  href="m.html#magnetic flux">magnetic 
+  flux</A>; the magnetic flux which, linking a circuit of one turn, produces in 
+  it an electromotive force of 1 <A 
+  href="v.html#volt">volt</A> as it is 
+  reduced to zero at a uniform rate in 1 second. 
+  <DT><STRONG>Weber-Fechner law</STRONG> 
+  <DD>An approximate psychophysical law relating the degree of response or 
+  sensation of a sense organ and the intensity of the <A 
+  href="s.html#stimulus">stimulus</A>. The 
+  law asserts that equal increments of sensation are associated with equal 
+  increments of the logarithm of the stimulus, or that the just noticeable 
+  difference in any sensation results from a change in the stimulus which bears 
+  a constant ratio to the value of the stimulus. Also called <I>Weber law </I>. 
+  <DD><I>The Weber-Fechner law is applied to the detection of contrast in the 
+  problem of visual range, as well as to many other psychophysical problems. 
+</I>
+  <DT><STRONG>Weber law </STRONG>= Weber-Fechner law. 
+  <DT><STRONG>weight (symbol <I>w </I>)</STRONG> 
+  <DD>1. The <A 
+  href="f.html#force">force</A> with which 
+  a body is attracted toward the earth. 
+  <DD>2. The product of the <A 
+  href="m.html#mass">mass</A> of a body and 
+  the <A 
+  href="a.html#acceleration">acceleration</A> 
+  acting on a body. 
+  <DD><I>In a dynamic situation, the weight can be a multiple of that under 
+  resting conditions. Weight also varies on other planets in accordance with 
+  their gravity. </I><A name="weight flow rate"></A>
+  <DT><STRONG>weight flow rate (symbol <img src="wdot.gif" align=center>)</STRONG> 
+  <DD>Mass flow rate multiplied by gravity, or
+  <center><img src="wdot.gif" align=center> = ( dm/dt ) g = mg </center>Where <I>m 
+  </I>is mass and <I>t </I>is time; usually expressed in pounds per second. <A 
+  name=weightlessness></A>
+  <DT><STRONG>weightlessness</STRONG> 
+  <DD>1. A condition in which no acceleration, whether of <A 
+  href="g.html#gravity">gravity</A> or 
+  other force, can be detected by an observer within the <A 
+  href="s.html#system">system</A> in 
+  question. 
+  <DD><I>Any object failing freely in a vacuum is weightless, thus an 
+  unaccelerated satellite orbiting the earth is weightless although gravity 
+  affects its orbit. Weightlessness can be produced within the atmosphere in 
+  aircraft flying a parabolic flightpath. </I>
+  <DD>2. A condition in which gravitational and other external forces acting on 
+  a body produce no stress, either internal or external, in the body. 
+  <DT><STRONG>welding</STRONG> 
+  <DD>Joining two or more pieces of metal by applying heat, pressure, or both, 
+  with or without filler material to produce a localized union through fusion or 
+  recrystallization across the interface. 
+  <DD><I>The thickness of the filler material is much greater than the capillary 
+  dimensions encountered in <A 
+  href="b.html#brazing">brazing</A>. </I>
+  <DT><STRONG>wet</STRONG> 
+  <DD>To come in contact with, and flow across (a surface, body, or area) - said 
+  of air or other <A 
+  href="f.html#fluid">fluid</A>. <A 
+  name="wet emplacement"></A>
+  <DT><STRONG>wet emplacement</STRONG> 
+  <DD>A <A 
+  href="l.html#launch emplacement">launch 
+  emplacement</A> that provides a deluge of water for cooling the <A 
+  href="f.html#flame bucket">flame 
+  bucket</A>, the <A 
+  href="r.html#rocket engines">rocket 
+  engines</A>, and other equipment during the launch of a missile. See <A 
+  href="f.html#flame deflector">flame 
+  deflector</A>, <A 
+  href="d.html#dry emplacement">dry 
+  emplacement</A>. 
+  <DT><STRONG>wet-fuel rocket</STRONG> = liquid rocket. 
+  <DT><STRONG>whistler</STRONG> 
+  <DD>A <A 
+  href="r.html#radiofrequency">radiofrequency</A> 
+  electromagnetic <A 
+  href="s.html#signal">signal</A> generated 
+  by some lightning discharges. 
+  <DD><I>This signal apparently propagates along a geomagnetic line of force and 
+  often bounces several times between the Northern and Southern Hemispheres. Its 
+  name derives from the sound heard on radio receivers. </I><A 
+  name="whistling meteor"></A>
+  <DT><STRONG>whistling meteor</STRONG> 
+  <DD>Name applied to a <A 
+  href="r.html#radio meteor">radio 
+  meteor</A> when a detection system is used in which the presence of the meteor 
+  is indicated by a rapidly changing <A 
+  href="a.html#audiofrequency">audiofrequency</A> 
+  radio signal. 
+  <DD><I>The maximum reflection of a radio signal from a radio meteor occurs 
+  when the ion column is perpendicular to the line from the column to the 
+  transmitter-receiver. During the approach of the meteor to this position, the 
+  Doppler effect causes a change in the frequency of the reflected signal. When 
+  the reflected signal frequency is then combined with the transmitter 
+  frequency, the difference between the transmitted and reflected frequencies 
+  produces an audiofrequency beat. The audiofrequency beat, when amplified and 
+  fed to a loudspeaker, allows the meteors to be heard as a high-pitched whistle 
+  which rapidly falls to zero frequency as the meteor trail becomes normal to 
+  the line of sight. </I><A name="white body"></A>
+  <DT><STRONG>white body</STRONG> 
+  <DD>A hypothetical body whose surface absorbs no <A 
+  href="e.html#electromagnetic radiation">electromagnetic 
+  radiation</A> of any wavelength, i.e., one which exhibits zero <A 
+  href="a.html#absorptivity">absorptivity</A> 
+  for all wavelengths; an idealization exactly opposite to that of the black 
+  body. See <A href="g.html#gray body">gray 
+  body</A>. 
+  <DD><I>In nature, no true white bodies are known. Most white pigments 
+  possessing high reflectivity for visible radiation are fairly good absorbers 
+  in the infrared; hence, they are not white bodies in the sense of the 
+  radiation theory. However, the term white body is used for physical objects 
+  with respect to a particular wavelength interval. </I><A 
+  name="white noise"></A>
+  <DT><STRONG>white noise</STRONG> 
+  <DD>A <A href="s.html#sound">sound</A> or 
+  <A 
+  href="e.html#electromagnetic">electromagnetic</A> 
+  wave whose spectrum is continuous and uniform as a function of frequency. 
+  <DT><STRONG>white room</STRONG> 
+  <DD>A clean and dust-free room used for assembly and repair of precise 
+  mechanisms such as gyros. 
+  <DT><STRONG>Wien displacement constant</STRONG> 
+  <DD>See <A href="w.html#wien law">Wien 
+  law</A>. 
+  <DT><STRONG>Wien displacement law</STRONG> = Wien law. <A 
+  name="wien distribution law"></A>
+  <DT><STRONG>Wien distribution law</STRONG> 
+  <DD>A relation, derived on purely <A 
+  href="t.html#thermodynamic">thermodynamic</A> 
+  reasoning by Wien, between the monochromatic <A 
+  href="e.html#emittance">emittance</A> of 
+  an ideal <A 
+  href="b.html#black body">black body</A> 
+  and that body's <A 
+  href="t.html#temperature">temperature, </a> J<sub>&lambda;</sub>/T<sup>5</sup> = f(&lambda;, T) where
+  J<sub>&lambda;</sub> is the monochromatic <A 
+  href="e.html#emittance">emittance</A> 
+  (emissive power) of a black body at wavelength &lambda; and absolute temperature T, and f(&lambda;, T) is a function which cannot be determined 
+  purely on classical thermodynamic grounds. Compare <A 
+  href="w.html#wien law">Wien law</A>. <A 
+  name="wien law"></A>
+  <DT><STRONG>Wien law</STRONG> 
+  <DD>One of the <A 
+  href="r.html#radiation laws">radiation 
+  laws</A> which states that the wavelength of maximum radiation <A 
+  href="i.html#intensity">intensity</A> for 
+  a <A href="b.html#black body">black 
+  body</A> is inversely proportional to the <A 
+  href="a.html#absolute temperature">absolute 
+  temperature</A> of the radiating black body: &lambda;<sub>m</sub> = <i>b/T</i> where &lambda;<sub>m</sub> is the wavelength of maximum intensity; <I>b 
+  </I>is a constant; and <I>T </I>is the absolute temperature. The Wien 
+  displacement constant b is equal to 0.28978 centimeter-degree. Also called 
+  <I>Wien displacement law </I>. 
+  <DD><I>This law, established experimentally by Wien in 1896, describes the 
+  manner in which the wavelength of maximum radiation shifts toward shorter 
+  values as the temperature of a radiator rises. It is to be distinguished from 
+  <A 
+  href="w.html#wien distribution law">Wien 
+  distribution law</A> which describes the variation with temperature of the 
+  intensity of emission at any wavelength. Wien displacement law is used to 
+  compute the color temperature of a radiator by insertion of its wavelength of 
+  peak intensity into the above equation to compute T. </I>
+  <DT><STRONG>wind axis</STRONG> 
+  <DD>Any one of a system of mutually perpendicular reference axis established 
+  with respect to the undisturbed wind direction about an aircraft or similar 
+  body. See <A href="a.html#axis">axis</A>, 
+  sense 2. <A name=window></A>
+  <DT><STRONG>window</STRONG> 
+  <DD>1. Any device introduced into the atmosphere for producing an appreciable 
+  radar <A href="e.html#echo">echo</A>, 
+  usually for tracking some airborne device or as a tracer of wind. 
+  <DD>2. A World War II code name for a type of <A 
+  href="r.html#radar">radar</A>-jamming 
+  device employed to confuse the operators of enemy radars (also referred to by 
+  the code names of <I>rope, chaff </I>, and <I>clutter </I>). 
+  <DD><I>One type of window consists of packages containing thousands of small 
+  strips of paperbacked tinfoil which may be dropped from aircraft and balloons, 
+  ejected from rockets, and carried within balloons. The packages burst open 
+  upon ejection, scattering the tinfoil widely, producing a radar echo which 
+  looks like a small shower or a tight formation of aircraft on 
+  plan-position-indicator scopes. </I>
+  <DD>3. Any gap in a linear <A 
+  href="c.html#continuum">continuum</A>, as 
+  <I>atmospheric </I><I>windows </I>, ranges of wavelengths in the 
+  electromagnetic spectrum to which the atmosphere is transparent, or <I>firing 
+  windows </I>, intervals of time during which conditions are favorable for 
+  launching a spacecraft on a specific mission. <A name="wind shear"></A>
+  <DT><STRONG>wind shear</STRONG> 
+  <DD>See <A 
+  href="b.html#barotropic model">barotropic 
+  model</A>. <A name="wind tunnel"></A>
+  <DT><STRONG>wind tunnel</STRONG> 
+  <DD>A tubelike structure or passage, sometimes continuous, together with its 
+  adjuncts, in which a high-speed movement of air or other gas is produced, as 
+  by a fan, and within which objects such as engines or aircraft, airfoils, 
+  rockets (or models of these objects), etc., are placed to investigate the <A 
+  href="a.html#airflow">airflow</A> about 
+  them and the <A 
+  href="a.html#aerodynamic forces">aerodynamic 
+  forces</A> acting upon them. 
+  <DD><I>Tunnels are designated by the means used to produce the gas flow, as 
+  hot shot tunnel, arc tunnel, blow down tunnel; by the speed range, as 
+  supersonic tunnel, hypersonic tunnel; or by the medium used, as plasma tunnel, 
+  light gas tunnel. </I>
+  <DT><STRONG>wind-tunnel balance</STRONG> 
+  <DD>A device or apparatus that measures the aerodynamic forces and <A 
+  href="m.html#moments">moments</A> acting 
+  upon a body tested in a <A 
+  href="w.html#wind tunnel">wind 
+  tunnel</A>. <A name="winter solstice"></A>
+  <DT><STRONG>winter solstice</STRONG> 
+  <DD>1. That point on the <A 
+  href="e.html#ecliptic">ecliptic</A> 
+  occupied by the sum at maximum southerly <A 
+  href="d.html#declination">declination</A>. 
+  Sometimes called <I>December solstice, first point of Capricornus </I>. 
+  <DD>2. That instant at which the sun reaches the point of maximum southerly 
+  declination, about December 22. 
+  <DT><STRONG>wireless</STRONG> 
+  <DD>Sometimes used as the equivalent of radio, particularly in British 
+  terminology. 
+  <DT><STRONG>wire link telemetry</STRONG> 
+  <DD><A 
+  href="t.html#telemetry">Telemetry</A> in 
+  which no <A href="r.html#radio">radio</A> 
+  link is used. Also called <I>hard wire telemetry </I>. 
+  <DT><STRONG>Wolf number</STRONG> = relative sunspot number. 
+  <DT><STRONG>Wolf-Wolfer-Wolfest number </STRONG>= relative sunspot number. <A 
+  name=word></A>
+  <DT><STRONG>word</STRONG> 
+  <DD>In electronic computers, an ordered set of <A 
+  href="c.html#characters">characters</A> 
+  which is the normal unit in which <A 
+  href="i.html#information">information</A> 
+  may be stored, transmitted, or operated upon within a <A 
+  href="c.html#computer">computer</A>. 
+  <DT><STRONG>word rate</STRONG> 
+  <DD>In <A 
+  href="c.html#computer">computer</A> 
+  operations, the <A 
+  href="f.html#frequency">frequency</A> 
+  derived from the elapsed period between the beginning of transmission of one 
+  <A href="w.html#word">word</A> and the 
+  beginning of transmission of the next word. <A name=work></A>
+  <DT><STRONG>work (symbol <I>W </I>)</STRONG> 
+  <DD><A href="e.html#energy">Energy</A> 
+  resulting from the motion of a system against a <A 
+  href="f.html#force">force</A> and 
+  existing only during the process of energy conversion. <A 
+  name="work function"></A>
+  <DT><STRONG>work function</STRONG> 
+  <DD>The <A 
+  href="e.html#energy">energy</A> required 
+  for an <A 
+  href="e.html#electron">electron</A> to 
+  escape a solid surface. See <A 
+  href="h.html#helmholtz function">Helmholtz 
+  function</A>. 
+  <DD><I>In ion engines, the work function of the ionizer must be greater than 
+  the <A 
+  href="i.html#ionization potential">ionization 
+  potential</A> of the neutral atoms in the propellant gas. </I><A 
+  name="working fluid"></A>
+  <DT><STRONG>working fluid</STRONG> 
+  <DD>A <A href="f.html#fluid">fluid</A> 
+  (gas or liquid) used as the medium for the transfer of <A 
+  href="e.html#energy">energy</A> from one 
+  part of a <A 
+  href="s.html#system">system</A> to 
+  another part. <A name=" world geographic reference system"></A>
+  <DT><STRONG>World Geographic Reference System</STRONG> 
+  <DD>A geographic reference system for the world, used in the Air Force for 
+  aircraft position reports and target designation, and for the control and 
+  direction of air units engaged in air defense, air-sea rescue, and tactical 
+  air operations. 
+  <DD><I>The short title for this system is georef. </I><A name=write></A>
+  <DT><STRONG>write</STRONG> 
+  <DD>In computer terminology, record. </DD>

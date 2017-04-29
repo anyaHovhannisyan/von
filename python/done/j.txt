@@ -1,0 +1,261 @@
+<DT><STRONG>jacket</STRONG> 
+  <DD>1. A covering or casing of some kind. 
+  <DD>2. Specifically, a shell around the <A 
+  href="c.html#combustion chamber">combustion 
+  chamber</A> of a <A 
+  href="l.html#liquid-propellant rocket">liquid-fuel 
+  rocket</A>, through which the propellant is circulated in <A 
+  href="r.html#regenerative cooling">regenerative 
+  cooling</A>. 
+  <DD>3. A coating of one material over another to prevent oxidation, 
+  micrometeoroid penetration, etc. 
+  <DT><STRONG>Jacobian</STRONG> 
+  <DD>The determinant formed by the <I>n&lt;<MATH><SUP>2</SUP></MATH> 
+  </I>partial derivatives of <I>n </I>functions of <I>n </I>variables, when the 
+  derivatives of each function occupy one row of the determinant. For the case 
+  of two functions <I>f(x,y) </I>and <I>g(x,y) </I>, the Jacobian <I>J(f,g) 
+  </I>is <center><img src="jacob1.gif"></center> Sometimes written 
+  <center><img src="jacob2.gif"></center>. 
+  <DT><STRONG>jamming</STRONG> 
+  <DD>Intentional <A 
+  href="t.html#transmission">transmission</A> 
+  or reradiation of radio <A 
+  href="s.html#signals">signals</A> in such 
+  a way as to interfere with reception of desired signals by the intended 
+  receiver. 
+  <DT><STRONG>J-antenna</STRONG> 
+  <DD>A half-wave <A 
+  href="a.html#antenna">antenna</A>, end 
+  fed by a parallel-wire quarter-wave section having the configuration of a J. 
+  <A name=jato></A>
+  <DT><STRONG>JATO, Jato, or jato</STRONG> 
+  <DD>(From <I>jet-assisted take-off </I>). 
+  <DD>1. A take-off utilizing an auxiliary jet-producing unit or units, usually 
+  rockets, for additional thrust. Hence <I>JATO bottle, Jato unit </I>, etc.; a 
+  rocket or unit so used. Where rockets are the auxiliary units, <I>RATO 
+  </I>(which see) is the more specific term. 
+  <DD>2. A JATO bottle or unit; the complete auxiliary power system used for 
+  assisted take-off. <A name=j-display></A>
+  <DT><STRONG>J-display</STRONG> 
+  <DD>In radar, a modified <A 
+  href="a.html#a-display">A-display</A> in 
+  which the time base is a circle. The target signal appears as a radial 
+  deflection from the time base. Also called <I>J-scan, J-scope, J-indicator. 
+  </I>
+  <DT><STRONG>jerk</STRONG> 
+  <DD>A <A href="v.html#vector">vector</A> 
+  that specifies the time rate of change of the <A 
+  href="a.html#acceleration">acceleration</A>; 
+  the third derivative of displacement with respect to time. 
+  <DT><STRONG>jerkmeter</STRONG> 
+  <DD>An instrument for measuring the magnitude of the time rate of change of <A 
+  href="a.html#acceleration">acceleration</A>. 
+  <A name=jet></A>
+  <DT><STRONG>jet</STRONG> 
+  <DD>1. A strong well-defined stream of <A 
+  href="f.html#fluid">fluid</A> either 
+  issuing from an orifice or moving in a contracted duct, such as the jet of 
+  combustion gases issuing from a <A 
+  href="r.html#reaction engine">reaction 
+  engine</A>, or the jet in the test section of a <A 
+  href="w.html#wind tunnel">wind 
+  tunnel</A>. See <A 
+  href="f.html#free jet">free jet</A>. 
+  <DD>2. A tube, nozzle, or the like through which fluid passes, or from which 
+  it issues, in a jet, such as a jet in a carburetor. See <A 
+  href="m.html#metering jet">metering 
+  jet</A>. 
+  <DD>3. A jet engine, as, an <I>airplane with jets slung in pods. </I><A 
+  name=jetavator></A>
+  <DT><STRONG>jetavator</STRONG> 
+  <DD>A control surface that may be moved into or against a rocket's <A 
+  href="j.html#jetstream">jetstream</A>, 
+  used to change the direction of the jet flow for thrust vector control. 
+  Compare <A href="j.html#jet vane">jet 
+  vane</A>. <A name="jet engine"></A>
+  <DT><STRONG>jet engine</STRONG> 
+  <DD>1. Broadly, and <A 
+  href="e.html#engine">engine</A> that 
+  ejects a <A href="j.html#jet">jet</A> or 
+  stream of gas or fluid, obtaining all or most of its thrust by reaction to the 
+  ejection. See <A 
+  href="r.html#reaction">reaction</A> <A 
+  href="e.html#engine">engine</A>. 
+  <DD>2. Specifically, an aircraft engine that derives all or most of its thrust 
+  by reaction to its ejection of combustion products (or heated air) in a jet 
+  and that obtains oxygen from the atmosphere for the combustion of its fuel (or 
+  outside air for heating, as in the case of the nuclear jet engine), 
+  distinguished in this sense from a <A 
+  href="r.html#rocket engine">rocket 
+  engine</A>. A jet engine of this kind may have a <A 
+  href="c.html#compressor">compressor</A>, 
+  commonly turbine-driven, to take in and compress air (turbojet), or it may be 
+  compressorless, taking in and compressing air by other means ( <A 
+  href="p.html#pulsejet">pulsejet</A>, <A 
+  href="r.html#ramjet">ramjet</A>). <A 
+  name="jet nozzle"></A>
+  <DT><STRONG>jet nozzle</STRONG> 
+  <DD>A <A href="n.html#nozzle">nozzle</A>, 
+  usually specially shaped, for producing a <A 
+  href="j.html#jet">jet</A>, such as the 
+  exhaust nozzle on a jet or rocket engine. See <A 
+  href="r.html#rocket nozzle">rocket 
+  nozzle</A>. 
+  <DT><STRONG>jet propulsion</STRONG> 
+  <DD>1. The propulsion of a <A 
+  href="r.html#rocket">rocket</A> or other 
+  craft by means of a <A 
+  href="r.html#reaction engine">reaction 
+  engine</A>. 
+  <DD>2. = <A 
+  href="d.html#duct propulsion">duct 
+  propulsion</A>. 
+  <DD><I>Duct propulsion and rocket propulsion are the two forms of jet 
+  propulsion. </I><A name=jetstream></A>
+  <DT><STRONG>jetstream</STRONG> 
+  <DD>A jet issuing from an orifice into a medium with much lower velocity, such 
+  as the stream of combustion products ejected from a <A 
+  href="r.html#reaction engine">reaction 
+  engine</A>. 
+  <DD><I>In the meteorological sense jet stream is two words, see following 
+  definition, but in the sense defined above, one word. </I>
+  <DT><STRONG>jet stream</STRONG> 
+  <DD>A strong band of wind or winds in the upper <A 
+  href="t.html#troposphere">troposphere</A> 
+  or in the <A 
+  href="s.html#stratosphere">stratosphere</A>, 
+  moving in a general direction from west to east and often reaching velocities 
+  of hundreds of miles an hour. See <A 
+  href="j.html#jetstream">jetstream</A>, 
+  note. <A name="jet thrust"></A>
+  <DT><STRONG>jet thrust</STRONG> 
+  <DD>The <A 
+  href="t.html#thrust">thrust</A> of a <A 
+  href="f.html#fluid">fluid</A>, especially 
+  as distinguished from the thrust of a propeller. The thrust of a rocket engine 
+  is calculated in the same manner as gross thrust of a jet engine. See <I>gross 
+  thrust. </I><A name="jet vane"></A>
+  <DT><STRONG>jet vane</STRONG> 
+  <DD>A <A href="v.html#vane">vane</A>, 
+  either fixed or movable, used in a <A 
+  href="j.html#jetstream">jetstream</A>, 
+  especially in the jetstream of a <A 
+  href="r.html#rocket">rocket</A>, for 
+  purposes of stability or control under conditions where external <A 
+  href="a.html#aerodynamic">aerodynamic</A> 
+  controls are ineffective. Also called <I>blast vane. </I>Compare <A 
+  href="a.html#air vane">air vane</A>. 
+  <DT><STRONG>J-indicator</STRONG> = <A 
+  href="j.html#j-display">J-display</A>. <A 
+  name=jitter></A>
+  <DT><STRONG>jitter</STRONG> 
+  <DD>1. Instability of the signal or <A 
+  href="t.html#trace">trace</A> of a <A 
+  href="c.html#cathode-ray tube">cathode-ray 
+  tube</A>. 
+  <DD>2. Small rapid variations in a <A 
+  href="w.html#waveform">waveform</A> due 
+  to deliberate or accidental electrical or mechanical disturbances or to 
+  changes in the supply voltages, in the characteristic of components, etc. 
+  <DT><STRONG>Jodrell Bank</STRONG> 
+  <DD>The site of a large <A 
+  href="r.html#radio telescope">radio 
+  telescope</A>, located near Manchester, England; by extension, the radio 
+  telescope itself. 
+  <DD><I>The radio telescope has a paraboloidal receiver 250 feet in diameter, 
+  60 feet deep. </I>
+  <DT><STRONG>Johnson noise</STRONG> 
+  <DD>See <A 
+  href="t.html#thermal noise">thermal 
+  noise</A>. 
+  <DT><STRONG>Joint Long Range Proving Ground</STRONG> 
+  <DD>The earliest predecessor organization and facility of the Atlantic Missile 
+  Range, activated at Cape Canaveral 1 October 1949 as a joint undertaking of 
+  the Air Force, Army, and Navy under the executive control of the Chief of 
+  Staff, USAF. 
+  <DD><I>This facility became the sole responsibility of the Air Force on 16 May 
+  1950, and became known as the Florida Missile Test Range. </I><A 
+  name=joule></A>
+  <DT><STRONG>joule (abbr j)</STRONG> 
+  <DD>A unit of energy or work in the <A 
+  href="m.html#mks system">MKS system</A>; 
+  the work done when the point of application of 1 <A 
+  href="n.html#newton">newton</A> is 
+  displaced a distance of 1 meter in the direction of the force. 
+  <DD><I>1 joule = 10E7 ergs = 1 watt second. </I><A name="joule constant"></A>
+  <DT><STRONG>Joule constant</STRONG> 
+  <DD>The ratio between heat and work units from experiments based on the <A 
+  href="f.html#first law of thermodynamics">first 
+  law of thermodynamics</A>: 4.1858 X 10E7 ergs per 15 degrees calorie. Also 
+  called <I>mechanical equivalent of heat. </I><A name="joule cycle"></A>
+  <DT><STRONG>Joule cycle</STRONG> 
+  <DD>(After James Prescott Joule, 1818-89, English physicist). An ideal <A 
+  href="c.html#cycle">cycle</A> for engines 
+  consisting of <A 
+  href="i.html#isentropic">isentropic</A> 
+  compression of the working substance, addition of heat at constant pressure, 
+  isentropic expansion to ambient pressure, and exhaust at constant pressure. 
+  Also called <I>Brayton cycle. </I>
+  <DT><STRONG>Joule-Kelvin effect</STRONG> = Joule-Thomson effect. 
+  <DT><STRONG>Joule-Thomson coefficient</STRONG> (symbol &mu;) <DD> See <A 
+  href="j.html#joule-thomson effect">Joule-Thomson 
+  effect</A>. <A name="joule-thomson effect"></A>
+  <DT><STRONG>Joule-Thomson effect</STRONG> 
+  <DD>The decrease in temperature which takes place when a gas expands through a 
+  throttling device as a nozzle. Also called <I>Joule-Kelvin effect. </I>
+  <DD><I>The rate of change of temperature T with pressure p in the 
+  Joule-Thomson effect is called the Joule-Thomson coefficient (symbol &mu;): 
+  <center><IMG 
+  src="joule.gif"></center> where h denotes constant enthalpy. For the 
+  Joule-Thomson effect to take place the gas must initially be below its 
+  inversion temperature; if above the inversion temperature, the gas will gain 
+  heat on expansion. The inversion temperature of hydrogen, for example, is 
+  approximately -183 degrees C. </I>
+  <DT><STRONG>Jovian</STRONG> 
+  <DD>(Latin Jovis, genitive of Jupiter) Of or pertaining to the planet Jupiter; 
+  associated with Jupiter; or similar to Jupiter, as in <I>Jovian planet. </I>
+  <DT><STRONG>Jovian planet</STRONG> 
+  <DD>Any one on the giant planets: Jupiter, Saturn, Uranus, or Neptune. Usually 
+  in plural <I>Jovian planets. </I>
+  <DT><STRONG>JP (abbr)</STRONG> = jet propulsion 
+  <DD>Compare <A href="r.html#rp">RP</A>. 
+  <DT><STRONG>JP-4</STRONG> 
+  <DD>A liquid fuel for jet and rocket engines, the chief ingredient of which is 
+  kerosene. 
+  <DT><STRONG>J-scan </STRONG>= J-display. 
+  <DT>J-scope<STRONG> = J-display.</STRONG> <A name="julian day"></A>
+  <DT><STRONG>Julian day</STRONG> 
+  <DD>The number of each day, as reckoned consecutively since the beginning of 
+  the present Julian period on January 1, 4713 B.C. 
+  <DD><I>The Julian day is used primarily by astronomers to avoid confusion due 
+  to the use of different calendars at different times and places. The Julian 
+  day begins at noon, 12 hours later than the corresponding <A 
+  href="c.html#civil day">civil day</A>. 
+  The day beginning at noon January 1, 1965, is Julian day 2,438,395. </I>
+  <DT><STRONG>Julian period</STRONG> 
+  <DD>See <A 
+  href="j.html#julian day">Julian day</A>. 
+  <DT><STRONG>jump</STRONG> 
+  <DD>In computer programming, to cause the next <A 
+  href="i.html#instruction">instruction</A> 
+  to be selected conditionally or unconditionally from a specified <A 
+  href="s.html#storage">storage</A> 
+  location. 
+  <DT><STRONG>jumper</STRONG> 
+  <DD>A short length of conductor used to complete an electrical <A 
+  href="c.html#circuit">circuit</A>, 
+  usually temporary, between terminals, or to bypass an existing circuit. 
+  <DT><STRONG>junction</STRONG> 
+  <DD>In a <A 
+  href="s.html#semiconductor">semiconductor</A> 
+  device, a region of transition between semiconducting regions of different 
+  electrical properties. 
+  <DT><STRONG>junction point</STRONG> = node. 
+  <DT><STRONG>June solstice </STRONG>= summer solstice. 
+  <DT><STRONG>Jupiter</STRONG> 
+  <DD>See <A 
+  href="p.html#planet">planet</A>, table. 
+  <DT><STRONG>Jupiter I </STRONG>= Io. 
+  <DT><STRONG>Jupiter II </STRONG>= Europa. 
+  <DT><STRONG>Jupiter III </STRONG>= Ganymede. 
+  <DT><STRONG>Jupiter IV</STRONG> = Callisto. </DT>
