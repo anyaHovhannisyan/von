@@ -135,7 +135,8 @@ input[type=text]:hover
 {
 	color: silver;
 	margin: 0 0;
-	text-transform: capitalize;
+	display: inline;
+	float: left;
 }
 
 .acroMean
@@ -147,19 +148,11 @@ input[type=text]:hover
 {
 	color: gainsboro;
 	margin: -2px 0;
-	font-size: 20px;
 }
 
-.acroWords6
-{
-	color: gainsboro;
-	margin: 0 0 -20px 0;
-	font-size: 30px;
-}
 #foot
 {
 	padding: 15px;
-	margin: 33px;
 }
 
 input[type=submit] 
@@ -209,23 +202,53 @@ textarea {
     color: silver;
 }
 
-.sil
+.acroImage1
 {
+	width: 150px;
+	height: 120px;
+	display: inline-block;
+	float: right;
+	
+}
+
+
+.acroImage2
+{
+	width: 150px;
+	height: 120px;
+	display: inline-block;
+	float: right;
+	margin-left: 150px;
+	margin-right: -50px;
+}
+
+.userName1
+{
+	font-size: 42px;
+	display: block;
 	color: silver;
 }
 
-dd
+.userScience
 {
-	color: silver;
 	font-size: 20px;
+	display: inline-block;
+	clear: both;
+	color: silver;
+
 }
 
-dd a
+.userImage
 {
-	font-weight: bold;
+	width: 150px;
+	height: 130px;
+	margin: 20px;
+	display: inline-block;
+	float: left;
 }
 
-p
+.userAbout
 {
-	font-size: 28px;
+	color: silver;
+	margin-left: 200px;
 }

@@ -20,12 +20,14 @@
 
     <title><?php echo $page_title; ?></title>
 
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
     <link rel="stylesheet" type="text/css" href="style/style.css">
     <link rel="stylesheet" type="text/css" href="style/<?php echo $css_file;?>.css">
     <script type='text/javascript' src='scripts/gen_validatorv4.js'></script>
 
     <?php 
-    if ($css_file != "login") {
+    if ($css_file != "login" && $css_file != "suggest") {
       ?>
       <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
       <link rel="stylesheet" type="text/css" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
@@ -53,12 +55,18 @@
         <?php
         }
       ?>
-      <div class="buttons"><a href="maps.php"><img src="style/img/b3.png"></a></div>
+      
+      <!--<div class="buttons"><a href="maps.php"><img src="style/img/b3.png"></a></div> -->
       <div class="buttons"><a href="about.php"><img src="style/img/b4.png"></a></div>
+      <?php   
+        if (isset($_SESSION['user'])) { ?>
+      <div class="buttons"><a href="user.php"><img src="style/img/r.png"></a></div>
+      <?php } ?>
+      <div class="buttons"><a href="suggest.php"><img src="style/img/e.png"></a></div>
       <div class="buttons"><a href="index.php"><img src="style/img/b1.png"></a></div>
       <br>
       <?php
-        if ($css_file != "login") {
+        if ($css_file != "login" && $css_file != "suggest") {
           ?>
           <div id="search">
             <form method = "GET" action = "index.php">
@@ -68,5 +76,6 @@
           <?php
         }
       ?>
-    </div>   
+    </div> 
+
 

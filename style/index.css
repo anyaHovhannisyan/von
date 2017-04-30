@@ -2,7 +2,7 @@
 {
 	background-color: black;
 	background-image: url("img/back1.gif");
-	height: 100vh;
+	height: 50vh;
 	width: 100vw;
 	margin: 0;
 	margin-right:auto;
@@ -208,4 +208,3 @@ textarea {
     resize: none;
     color: silver;
 }
-

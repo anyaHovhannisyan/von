@@ -108,6 +108,14 @@
           <span class = "lastik" id = "register_Day_errorloc"></span><br />
           <span class = "lastik" id = "register_Year_errorloc"></span><br />
 
+          <select class='gcc' name = 'Science'>
+            <option value="0"> Teapot </option>
+            <option value="1"> Scientist </option>
+          </select><br>
+
+          <textarea class = "userAbout" name="About" placeholder="About me..."></textarea><br>
+
+
 <!--
           <select class='gcc' name = 'Gender'>
             <option value="">Gender</option>

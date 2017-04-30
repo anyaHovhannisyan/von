@@ -71,20 +71,6 @@ h4
 	src:url(http://themes.googleusercontent.com/static/fonts/opensans/v8/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff)
 }
 
-textarea {
-    width: 75%;
-    height: 150px;
-    padding: 12px 20px;
-    box-sizing: border-box;
-    border: 1px solid #ccc;
-    border-radius: 2px;
-    background-color: rgba(15, 73, 76, 0.48);
-    font-size: 16px;
-    resize: none;
-    color: silver;
-    margin-left: 10px;
-}
-
 h2 
 {
 	font-family:Pompadur,verdana,sans-serif;
@@ -160,4 +146,45 @@ input[type=submit]:hover
 .lastik
 {
 	color: silver;
+}
+
+textarea {
+    width: 456px;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background-color: rgba(15, 73, 76, 0.48);
+    font-size: 16px;
+    resize: none;
+    color: silver;
+    margin-left: 10px;
+}
+
+.commentItself, .comment
+{
+	color: silver;
+}
+
+.commentor
+{
+	font-weight: bold;
+}
+
+.comment
+{
+	margin-left:76px;
+}
+
+.suga
+{
+	margin: 10px 0 10px 33px;
+	color: silver;
+}
+
+.syw
+{
+	font-size: 38px;
+	margin-bottom: 10px; 
 }

@@ -11,7 +11,7 @@ if (db_show($conn)) {
 	db_show_comments($conn);
  	if(isset($_SESSION['user'])) {?>
 		<form id = "comment" method = "post" action="?db=<?php echo $_GET['db']?>&id=<?php echo $_GET['id']?>" >
-    		<textarea placeholder="Comment..." name='Comment'></textarea><br>
+    		<textarea class="sil" placeholder="Comment..." name='Comment'></textarea><br>
     		<input type="submit" value="Comment">
 		</form>
 	<?php }
